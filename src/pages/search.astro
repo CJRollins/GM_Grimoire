@@ -1,0 +1,24 @@
+---
+import { getCollection } from 'astro:content';
+import GrimoireLayout from '../layouts/GrimoireLayout.astro';
+
+const chapters = (await getCollection('chapters')).sort((a, b) => a.data.order - b.data.order);
+---
+
+<GrimoireLayout title="Search" chapters={chapters}>
+  <main id="reader-content" class="search-page">
+    <p class="kicker">Command search</p>
+    <h1>Search the archive</h1>
+    <p>Search canonical reader text, then narrow by sourcebook, chapter, edition, creature, spell, location, or anomaly type.</p>
+    <noscript><p class="notice">Search requires JavaScript, but every chapter remains available from the book rail.</p></noscript>
+    <pagefind-config faceted preload></pagefind-config>
+    <div class="search-grid">
+      <aside aria-label="Search filters"><pagefind-filter-pane expanded sort="count-desc"></pagefind-filter-pane></aside>
+      <div>
+        <pagefind-input autofocus placeholder="Search spells, places, rules, or phrases…"></pagefind-input>
+        <pagefind-summary></pagefind-summary>
+        <pagefind-results></pagefind-results>
+      </div>
+    </div>
+  </main>
+</GrimoireLayout>

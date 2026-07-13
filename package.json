@@ -1,0 +1,27 @@
+{
+  "name": "eberron-grimoire",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "extract": "node scripts/extract-archive.mjs",
+    "dev": "npm run extract && node scripts/run-astro.mjs dev",
+    "build:site": "node scripts/run-astro.mjs build",
+    "index": "node ./node_modules/pagefind/lib/runner/bin.cjs --site dist --glob \"chapters/**/*.html\"",
+    "build": "npm run extract && npm run build:site && npm run index",
+    "prototype:build": "npm run extract && node scripts/run-astro.mjs build prototypes/starlight",
+    "verify": "node scripts/verify-build.mjs",
+    "preview": "node scripts/run-astro.mjs preview",
+    "check": "npm run extract && node scripts/run-astro.mjs check"
+  },
+  "dependencies": {
+    "astro": "^6.0.0",
+    "cheerio": "^1.1.2"
+  },
+  "devDependencies": {
+    "@astrojs/check": "^0.9.6",
+    "@astrojs/starlight": "^0.39.0",
+    "pagefind": "^1.5.2",
+    "typescript": "^5.9.3"
+  }
+}

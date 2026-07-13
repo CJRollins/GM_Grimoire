@@ -1,0 +1,46 @@
+---
+import { getCollection, type CollectionEntry } from 'astro:content';
+import GrimoireLayout from '../../layouts/GrimoireLayout.astro';
+
+export async function getStaticPaths() {
+  const chapters = await getCollection('chapters');
+  return chapters.map((chapter) => ({ params: { slug: chapter.data.slug }, props: { chapter } }));
+}
+
+interface Props { chapter: CollectionEntry<'chapters'> }
+const { chapter } = Astro.props;
+const chapters = (await getCollection('chapters')).sort((a, b) => a.data.order - b.data.order);
+const currentIndex = chapters.findIndex((entry) => entry.data.slug === chapter.data.slug);
+const previous = chapters[currentIndex - 1];
+const next = chapters[currentIndex + 1];
+---
+
+<GrimoireLayout title={chapter.data.title} chapters={chapters} current={chapter} headings={chapter.data.headings}>
+  <div class="mode-grid">
+    <main
+      id="reader-content"
+      class="reader-page normalized-pane"
+      data-pagefind-body
+      data-pagefind-meta={`title:${chapter.data.title}`}
+    >
+      <div class="search-metadata" aria-hidden="true" data-pagefind-ignore>
+        <span data-pagefind-filter="sourcebook">{chapter.data.sourcebook}</span>
+        <span data-pagefind-filter="chapter">{chapter.data.chapter}</span>
+        <span data-pagefind-filter="edition">{chapter.data.edition}</span>
+        {chapter.data.tags.creatures.map((tag) => <span data-pagefind-filter="creature">{tag}</span>)}
+        {chapter.data.tags.spells.map((tag) => <span data-pagefind-filter="spell">{tag}</span>)}
+        {chapter.data.tags.locations.map((tag) => <span data-pagefind-filter="location">{tag}</span>)}
+        {chapter.data.anomalyFlags.map((flag) => <span data-pagefind-filter="anomaly">{flag.type}</span>)}
+      </div>
+      <article class="sourcebook-content" set:html={chapter.data.contentHtml} />
+      <nav class="chapter-turn" aria-label="Adjacent chapters" data-pagefind-ignore>
+        {previous ? <a rel="prev" href={`/chapters/${previous.data.slug}/`}><span>Previous</span>{previous.data.title}</a> : <span />}
+        {next ? <a rel="next" href={`/chapters/${next.data.slug}/`}><span>Next</span>{next.data.title}</a> : <span />}
+      </nav>
+    </main>
+    <section class="source-pane" aria-label="Preserved source page">
+      <div class="source-warning">Preserved evidence · scripts disabled · original hash {chapter.data.sourceHash.slice(0, 12)}…</div>
+      <iframe src={chapter.data.rawUrl} title={`Preserved source: ${chapter.data.title}`} sandbox="" referrerpolicy="no-referrer"></iframe>
+    </section>
+  </div>
+</GrimoireLayout>

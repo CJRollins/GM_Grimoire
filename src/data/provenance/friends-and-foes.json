@@ -1,0 +1,348 @@
+{
+  "title": "Morgrave Expeditions",
+  "originalPath": "Eberron/Chapter 6.html",
+  "rawUrl": "/archive/eberron/Chapter%206.html",
+  "sourceHash": "6c9adb91282a523c9a745e26bee4b406f4dfda195496e546dcf172f3f71ecdf4",
+  "extractionDate": "2026-07-10T13:12:14.938Z",
+  "extractionVersion": 1,
+  "originalAnchors": [
+    {
+      "id": "Chapter6MorgraveExpeditions",
+      "text": "Morgrave Expeditions",
+      "element": "h1"
+    },
+    {
+      "id": "comp-next-nav",
+      "text": "Previous ← Chapter 5: Dragonmarked Intrigue Book Contents Next Chapter 7: Elemental Airships →",
+      "element": "div"
+    },
+    {
+      "id": "AdventureIntro",
+      "text": "Adventure Genre: Pulp-Action Adventure Pop Culture: Professor Challenger, Indiana Jones, Lara Croft",
+      "element": "aside"
+    },
+    {
+      "id": "imgMorgraveExpeditionsOpener",
+      "text": "Michael Broussard An Armorer Explorer ventures into an ancient ruin in Xen’drik in search of magical secrets",
+      "element": "figure"
+    },
+    {
+      "id": "MorgraveCharacters",
+      "text": "Morgrave Characters",
+      "element": "h2"
+    },
+    {
+      "id": "GroupPatronBenefits",
+      "text": "Group Patron Benefits",
+      "element": "h3"
+    },
+    {
+      "id": "GroupAssistance",
+      "text": "Group Assistance",
+      "element": "h4"
+    },
+    {
+      "id": "Compensation",
+      "text": "Compensation",
+      "element": "h4"
+    },
+    {
+      "id": "Documentation",
+      "text": "Documentation",
+      "element": "h4"
+    },
+    {
+      "id": "Research",
+      "text": "Research",
+      "element": "h4"
+    },
+    {
+      "id": "Resources",
+      "text": "Resources",
+      "element": "h4"
+    },
+    {
+      "id": "Training",
+      "text": "Training",
+      "element": "h4"
+    },
+    {
+      "id": "MorgraveConflicts",
+      "text": "Morgrave Conflicts",
+      "element": "h2"
+    },
+    {
+      "id": "RivalExplorers",
+      "text": "Rival Explorers",
+      "element": "h3"
+    },
+    {
+      "id": "GoalsofRivalExplorers",
+      "text": "Goals of Rival Explorers",
+      "element": "h4"
+    },
+    {
+      "id": "ARivalExplorersArc",
+      "text": "A Rival Explorers Arc",
+      "element": "h4"
+    },
+    {
+      "id": "OrderoftheEmeraldClaw",
+      "text": "Order of the Emerald Claw",
+      "element": "h3"
+    },
+    {
+      "id": "imgEmeraldClawKnights",
+      "text": "Daarken Two Emerald Claw Knights join their commander in a hunt for powerful magic",
+      "element": "figure"
+    },
+    {
+      "id": "GoalsoftheEmeraldClaw",
+      "text": "Goals of the Emerald Claw",
+      "element": "h4"
+    },
+    {
+      "id": "AnEmeraldClawArc",
+      "text": "An Emerald Claw Arc",
+      "element": "h4"
+    },
+    {
+      "id": "EmeraldClawAgents",
+      "text": "Emerald Claw Agents",
+      "element": "h4"
+    },
+    {
+      "id": "LordsofDust",
+      "text": "Lords of Dust",
+      "element": "h3"
+    },
+    {
+      "id": "GoalsoftheLordsofDust",
+      "text": "Goals of the Lords of Dust",
+      "element": "h4"
+    },
+    {
+      "id": "ALordsofDustArc",
+      "text": "A Lords of Dust Arc",
+      "element": "h4"
+    },
+    {
+      "id": "MorgraveUniversity",
+      "text": "Morgrave University",
+      "element": "h2"
+    },
+    {
+      "id": "imgMorgraveUniversity",
+      "text": "Cullen Cole Morgrave University",
+      "element": "figure"
+    },
+    {
+      "id": "DalannanTower",
+      "text": "Dalannan Tower",
+      "element": "h3"
+    },
+    {
+      "id": "Flamewind",
+      "text": "Flamewind",
+      "element": "h4"
+    },
+    {
+      "id": "GhashDuurkat",
+      "text": "Ghash Duurkat",
+      "element": "h4"
+    },
+    {
+      "id": "LarrianirMorgrave",
+      "text": "Larrian ir’Morgrave",
+      "element": "h4"
+    },
+    {
+      "id": "Zophik",
+      "text": "Zophik",
+      "element": "h4"
+    },
+    {
+      "id": "AundairSpire",
+      "text": "Aundair Spire",
+      "element": "h3"
+    },
+    {
+      "id": "AlainGourthan",
+      "text": "Alain Gourthan",
+      "element": "h4"
+    },
+    {
+      "id": "imgIvoryTowers",
+      "text": "Cullen Cole",
+      "element": "figure"
+    },
+    {
+      "id": "BrelandSpire",
+      "text": "Breland Spire",
+      "element": "h3"
+    },
+    {
+      "id": "TheBridge",
+      "text": "The Bridge",
+      "element": "h4"
+    },
+    {
+      "id": "CyreTower",
+      "text": "Cyre Tower",
+      "element": "h3"
+    },
+    {
+      "id": "DalaArand",
+      "text": "Dala Arand",
+      "element": "h4"
+    },
+    {
+      "id": "KarrnathSpire",
+      "text": "Karrnath Spire",
+      "element": "h3"
+    },
+    {
+      "id": "SendorReddick",
+      "text": "Sendor Reddick",
+      "element": "h4"
+    },
+    {
+      "id": "ThraneTower",
+      "text": "Thrane Tower",
+      "element": "h3"
+    },
+    {
+      "id": "SanaDhuma",
+      "text": "Sana Dhuma",
+      "element": "h4"
+    },
+    {
+      "id": "BelowMorgrave",
+      "text": "Below Morgrave",
+      "element": "h3"
+    },
+    {
+      "id": "DangerousDestinations",
+      "text": "Dangerous Destinations",
+      "element": "h2"
+    },
+    {
+      "id": "AgeofDemons",
+      "text": "Age of Demons",
+      "element": "h3"
+    },
+    {
+      "id": "AgeOfDemonsFindsTable",
+      "text": "Age of Demons Finds",
+      "element": "h4"
+    },
+    {
+      "id": "Dhakaan",
+      "text": "Dhakaan",
+      "element": "h3"
+    },
+    {
+      "id": "Khyber",
+      "text": "Khyber",
+      "element": "h3"
+    },
+    {
+      "id": "Xendrik",
+      "text": "Xen’drik",
+      "element": "h3"
+    },
+    {
+      "id": "imgAirshipPort",
+      "text": "Cullen Cole Elemental airships aid archaeological expeditions to distant lands",
+      "element": "figure"
+    },
+    {
+      "id": "JourneystoXendrik",
+      "text": "Journeys to Xen’drik",
+      "element": "h4"
+    },
+    {
+      "id": "XendrikJourneysTable",
+      "text": "Xen’drik Journeys",
+      "element": "h4"
+    },
+    {
+      "id": "DrowofXendrik",
+      "text": "Drow of Xen’drik",
+      "element": "h4"
+    },
+    {
+      "id": "imgVulkooriDrow",
+      "text": "Jordan Kerbow Vulkoori and Umbragen drow battle in a cavern filled with mysteries",
+      "element": "figure"
+    },
+    {
+      "id": "WondersofXendrik",
+      "text": "Wonders of Xen’drik",
+      "element": "h4"
+    },
+    {
+      "id": "RaceForTheCrabTemple",
+      "text": "Race For The Crab Temple",
+      "element": "h2"
+    },
+    {
+      "id": "rivalsrace",
+      "text": "THESHARN INQUISITIVE RIVALS RACE TO WRETCHED RUIN Not one but two expeditions from Morgrave University launch this week to explore the so-called Crab Temple, di",
+      "element": "aside"
+    },
+    {
+      "id": "MorgraveExpeditionAdventure",
+      "text": "Morgrave Expedition Adventure",
+      "element": "h2"
+    },
+    {
+      "id": "Encounters",
+      "text": "Encounters",
+      "element": "h3"
+    },
+    {
+      "id": "LastChance",
+      "text": "Last Chance The tiny village of Last Chance is a self-sustaining farming community built around a large inn—a joint venture of House Ghallanda and House Jorasco",
+      "element": "aside"
+    },
+    {
+      "id": "JungleMishapsTable",
+      "text": "Jungle Mishaps",
+      "element": "h4"
+    },
+    {
+      "id": "EmeraldClawCommander",
+      "text": "Emerald Claw Commander",
+      "element": "h3"
+    },
+    {
+      "id": "EmeraldClawKnight",
+      "text": "Emerald Claw Knight",
+      "element": "h3"
+    },
+    {
+      "id": "VulkooriStingblade",
+      "text": "Vulkoori Stingblade",
+      "element": "h3"
+    },
+    {
+      "id": "VulkooriVenomPriest",
+      "text": "Vulkoori Venom Priest",
+      "element": "h3"
+    },
+    {
+      "id": "UmbragenShadowWalker",
+      "text": "Umbragen Shadow Walker",
+      "element": "h3"
+    }
+  ],
+  "transformations": [
+    "Selected the first .p-article-content element.",
+    "Removed scripts, styles, forms, iframes, hidden duplicate labels, and injected local navigation.",
+    "Removed event handlers and D&D Beyond content-chunk identifiers.",
+    "Rewrote links between archived chapters to generated reader routes.",
+    "Added lazy image loading and asynchronous decoding hints.",
+    "Preserved heading IDs and all source wording; no encoding substitutions were applied."
+  ]
+}

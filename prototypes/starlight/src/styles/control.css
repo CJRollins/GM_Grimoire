@@ -1,0 +1,17 @@
+/* Intentionally restrained: this prototype measures Starlight's baseline shell. */
+.starlight-control-source img {
+  max-width: 100%;
+  height: auto;
+}
+
+.starlight-control-source table {
+  display: table;
+  width: 100%;
+}
+
+.starlight-control-source .artist-credit,
+.starlight-control-source figcaption {
+  display: block;
+  color: var(--sl-color-gray-3);
+  font-size: var(--sl-text-xs);
+}

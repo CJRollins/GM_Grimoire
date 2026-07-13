@@ -1,0 +1,1130 @@
+{
+  "title": "Dragonmarked Intrigue",
+  "sourcebook": "Eberron: Forge of the Artificer",
+  "edition": "2024 rules",
+  "chapter": "Chapter 5: Dragonmarked Intrigue",
+  "order": 7,
+  "slug": "dragonmarks",
+  "originalPath": "Eberron/Chapter 5.html",
+  "rawUrl": "/archive/eberron/Chapter%205.html",
+  "originalAnchors": [
+    {
+      "id": "Chapter5DragonmarkedIntrigue",
+      "text": "Dragonmarked Intrigue",
+      "element": "h1"
+    },
+    {
+      "id": "comp-next-nav",
+      "text": "Previous ← Chapter 4: Sharn Inquisitives Book Contents Next Chapter 6: Morgrave Expeditions →",
+      "element": "div"
+    },
+    {
+      "id": "AdventureIntro",
+      "text": "Adventure Genre: Renaissance Schemes and Struggles Pop Culture: The Sopranos, Succession",
+      "element": "aside"
+    },
+    {
+      "id": "imgofdragonmarkedhouses",
+      "text": "MICHAL IVAN Members of different dragonmarked houses set aside their differences to investigate a murder in Sharn, the City of Towers.",
+      "element": "figure"
+    },
+    {
+      "id": "DragonmarkedCharacters",
+      "text": "Dragonmarked Characters",
+      "element": "h2"
+    },
+    {
+      "id": "DragonmarkedHouseRenown",
+      "text": "Dragonmarked House Renown",
+      "element": "h3"
+    },
+    {
+      "id": "RenownPerks",
+      "text": "Renown Perks",
+      "element": "h4"
+    },
+    {
+      "id": "FavoredinHouse",
+      "text": "Favored in House",
+      "element": "h5"
+    },
+    {
+      "id": "RecognizedinHouse",
+      "text": "Recognized in House",
+      "element": "h5"
+    },
+    {
+      "id": "CelebratedinHouse",
+      "text": "Celebrated in House",
+      "element": "h5"
+    },
+    {
+      "id": "PreeminentinHouse",
+      "text": "Preeminent in House",
+      "element": "h5"
+    },
+    {
+      "id": "BuildingaParty",
+      "text": "Building a Party",
+      "element": "h3"
+    },
+    {
+      "id": "PartyMakeup",
+      "text": "Party Makeup 1d8 Composition 1 One-House Party. Choose a dragonmarked house and connect all characters to it. 2 Bodyguards. A Deneith Fighter, a Jorasco Cleric,",
+      "element": "table"
+    },
+    {
+      "id": "PartyMakeupTable",
+      "text": "Party Makeup",
+      "element": "h4"
+    },
+    {
+      "id": "DragonmarkedConflicts",
+      "text": "Dragonmarked Conflicts",
+      "element": "h2"
+    },
+    {
+      "id": "imgofdragonmarkedhousesinconflict",
+      "text": "MICHAL IVAN",
+      "element": "figure"
+    },
+    {
+      "id": "RivalHouses",
+      "text": "Rival Houses",
+      "element": "h3"
+    },
+    {
+      "id": "GoalsofRivalHouses",
+      "text": "Goals of Rival Houses",
+      "element": "h4"
+    },
+    {
+      "id": "InternalTensions",
+      "text": "Internal Tensions",
+      "element": "h4"
+    },
+    {
+      "id": "ARivalHousesArc",
+      "text": "A Rival Houses Arc",
+      "element": "h4"
+    },
+    {
+      "id": "imgMarauderandRuffian",
+      "text": "JORDAN KERBOW A Tarkanan Marauder and a Tarkanan Ruffian",
+      "element": "figure"
+    },
+    {
+      "id": "HouseTarkanan",
+      "text": "House Tarkanan",
+      "element": "h3"
+    },
+    {
+      "id": "GoalsofHouseTarkanan",
+      "text": "Goals of House Tarkanan",
+      "element": "h4"
+    },
+    {
+      "id": "AHouseTarkananArc",
+      "text": "A House Tarkanan Arc",
+      "element": "h4"
+    },
+    {
+      "id": "AberrantHeirs",
+      "text": "Aberrant Heirs",
+      "element": "h4"
+    },
+    {
+      "id": "TarkananMarauder",
+      "text": "Tarkanan Marauder",
+      "element": "h4"
+    },
+    {
+      "id": "TarkananRuffian",
+      "text": "Tarkanan Ruffian",
+      "element": "h4"
+    },
+    {
+      "id": "TheChamber",
+      "text": "The Chamber",
+      "element": "h3"
+    },
+    {
+      "id": "GoalsoftheChamber",
+      "text": "Goals of the Chamber",
+      "element": "h4"
+    },
+    {
+      "id": "AChamberArc",
+      "text": "A Chamber Arc",
+      "element": "h4"
+    },
+    {
+      "id": "DragonmarkedHouses",
+      "text": "Dragonmarked Houses",
+      "element": "h2"
+    },
+    {
+      "id": "imgofthehouses",
+      "text": "LEROY STEINMANN Agents of (Left to Right) House Deneith, House Ghallanda, House Lyrandar, House Cannith, House Jorasco, and House Kundarak",
+      "element": "figure"
+    },
+    {
+      "id": "HouseCannith",
+      "text": "House Cannith",
+      "element": "h3"
+    },
+    {
+      "id": "CannithEast",
+      "text": "Cannith East",
+      "element": "h4"
+    },
+    {
+      "id": "imgCannith",
+      "text": "CLAUDIO POZAS",
+      "element": "figure"
+    },
+    {
+      "id": "CannithSouth",
+      "text": "Cannith South",
+      "element": "h4"
+    },
+    {
+      "id": "CannithWest",
+      "text": "Cannith West",
+      "element": "h4"
+    },
+    {
+      "id": "HouseCannithRenownPerks",
+      "text": "House Cannith Renown Perks",
+      "element": "h4"
+    },
+    {
+      "id": "HouseDeneith",
+      "text": "House Deneith",
+      "element": "h3"
+    },
+    {
+      "id": "HouseDeneithRenownPerks",
+      "text": "House Deneith Renown Perks",
+      "element": "h4"
+    },
+    {
+      "id": "imgDeneith",
+      "text": "CLAUDIO POZAS",
+      "element": "figure"
+    },
+    {
+      "id": "HouseGhallanda",
+      "text": "House Ghallanda",
+      "element": "h3"
+    },
+    {
+      "id": "HouseGhallandaRenownPerks",
+      "text": "House Ghallanda Renown Perks",
+      "element": "h4"
+    },
+    {
+      "id": "imgGhallanda",
+      "text": "CLAUDIO POZAS",
+      "element": "figure"
+    },
+    {
+      "id": "HouseJorasco",
+      "text": "House Jorasco",
+      "element": "h3"
+    },
+    {
+      "id": "HouseJorascoRenownPerks",
+      "text": "House Jorasco Renown Perks",
+      "element": "h4"
+    },
+    {
+      "id": "imgJorasco",
+      "text": "CLAUDIO POZAS",
+      "element": "figure"
+    },
+    {
+      "id": "HouseKundarak",
+      "text": "House Kundarak",
+      "element": "h3"
+    },
+    {
+      "id": "HouseKundarakRenownPerks",
+      "text": "House Kundarak Renown Perks",
+      "element": "h4"
+    },
+    {
+      "id": "imgKundarak",
+      "text": "CLAUDIO POZAS",
+      "element": "figure"
+    },
+    {
+      "id": "HouseLyrandar",
+      "text": "House Lyrandar",
+      "element": "h3"
+    },
+    {
+      "id": "HouseLyrandarRenownPerks",
+      "text": "House Lyrandar Renown Perks",
+      "element": "h4"
+    },
+    {
+      "id": "imgLyrandar",
+      "text": "CLAUDIO POZAS",
+      "element": "figure"
+    },
+    {
+      "id": "imgagentsofthehouses",
+      "text": "LEROY STEINMANN Agents of (Left to Right) House Medani, House Orien, House Tharashk, House Phiarlan, House Vadalis, and House Sivis",
+      "element": "figure"
+    },
+    {
+      "id": "HouseMedani",
+      "text": "House Medani",
+      "element": "h3"
+    },
+    {
+      "id": "HouseMedaniRenownPerks",
+      "text": "House Medani Renown Perks",
+      "element": "h4"
+    },
+    {
+      "id": "imgMedani",
+      "text": "CLAUDIO POZAS",
+      "element": "figure"
+    },
+    {
+      "id": "HouseOrien",
+      "text": "House Orien",
+      "element": "h3"
+    },
+    {
+      "id": "HouseOrienRenownPerks",
+      "text": "House Orien Renown Perks",
+      "element": "h4"
+    },
+    {
+      "id": "imgOrien",
+      "text": "CLAUDIO POZAS",
+      "element": "figure"
+    },
+    {
+      "id": "HousePhiarlan",
+      "text": "House Phiarlan",
+      "element": "h3"
+    },
+    {
+      "id": "imgPhiarlan",
+      "text": "CLAUDIO POZAS",
+      "element": "figure"
+    },
+    {
+      "id": "HousePhiarlanRenownPerks",
+      "text": "House Phiarlan Renown Perks",
+      "element": "h4"
+    },
+    {
+      "id": "HouseSivis",
+      "text": "House Sivis",
+      "element": "h3"
+    },
+    {
+      "id": "HouseSivisRenownPerks",
+      "text": "House Sivis Renown Perks",
+      "element": "h4"
+    },
+    {
+      "id": "imgSivis",
+      "text": "CLAUDIO POZAS",
+      "element": "figure"
+    },
+    {
+      "id": "HouseTharashk",
+      "text": "House Tharashk",
+      "element": "h3"
+    },
+    {
+      "id": "Aashta",
+      "text": "Aashta",
+      "element": "h4"
+    },
+    {
+      "id": "imgTharashk",
+      "text": "CLAUDIO POZAS",
+      "element": "figure"
+    },
+    {
+      "id": "Torrn",
+      "text": "Torrn",
+      "element": "h4"
+    },
+    {
+      "id": "Velderan",
+      "text": "Velderan",
+      "element": "h4"
+    },
+    {
+      "id": "HouseTharashkRenownPerks",
+      "text": "House Tharashk Renown Perks",
+      "element": "h4"
+    },
+    {
+      "id": "HouseThuranni",
+      "text": "House Thuranni",
+      "element": "h3"
+    },
+    {
+      "id": "imgThuranni",
+      "text": "CLAUDIO POZAS",
+      "element": "figure"
+    },
+    {
+      "id": "HouseThuranniRenownPerks",
+      "text": "House Thuranni Renown Perks",
+      "element": "h4"
+    },
+    {
+      "id": "HouseVadalis",
+      "text": "House Vadalis",
+      "element": "h3"
+    },
+    {
+      "id": "HouseVadalisRenownPerks",
+      "text": "House Vadalis Renown Perks",
+      "element": "h4"
+    },
+    {
+      "id": "imgVadalis",
+      "text": "CLAUDIO POZAS",
+      "element": "figure"
+    },
+    {
+      "id": "DragonmarkedIntrigueAdventures",
+      "text": "Dragonmarked Intrigue Adventures",
+      "element": "h2"
+    },
+    {
+      "id": "HouseIntrigueTable",
+      "text": "House Intrigue 1d6 Adventure Goal 1 Dragonmarked houses vie for influence over a prominent individual (perhaps one of the characters). 2 Dragonmarked houses com",
+      "element": "table"
+    },
+    {
+      "id": "HouseIntrigue",
+      "text": "House Intrigue",
+      "element": "h4"
+    },
+    {
+      "id": "DragonmarkedNPCs",
+      "text": "Dragonmarked NPCs",
+      "element": "h3"
+    },
+    {
+      "id": "CannithArtificer",
+      "text": "Cannith Artificer",
+      "element": "h4"
+    },
+    {
+      "id": "CannithArtificerStats",
+      "text": "Cannith Artificer",
+      "element": "h4"
+    },
+    {
+      "id": "GhallandaTroubleshooter",
+      "text": "Ghallanda Troubleshooter",
+      "element": "h4"
+    },
+    {
+      "id": "GhallandaTroubleshooterStats",
+      "text": "Ghallanda Troubleshooter",
+      "element": "h4"
+    },
+    {
+      "id": "JorascoMedic",
+      "text": "Jorasco Medic",
+      "element": "h4"
+    },
+    {
+      "id": "JorascoMedicStats",
+      "text": "Jorasco Medic",
+      "element": "h4"
+    },
+    {
+      "id": "KundarakWarden",
+      "text": "Kundarak Warden",
+      "element": "h4"
+    },
+    {
+      "id": "KundarakWardenStats",
+      "text": "Kundarak Warden",
+      "element": "h4"
+    },
+    {
+      "id": "LyrandarScion",
+      "text": "Lyrandar Scion",
+      "element": "h4"
+    },
+    {
+      "id": "LyrandarScionStats",
+      "text": "Lyrandar Scion",
+      "element": "h4"
+    },
+    {
+      "id": "MedaniInquisitive",
+      "text": "Medani Inquisitive",
+      "element": "h4"
+    },
+    {
+      "id": "MedaniInquisitiveStats",
+      "text": "Medani Inquisitive",
+      "element": "h4"
+    },
+    {
+      "id": "OrienEnforcer",
+      "text": "Orien Enforcer",
+      "element": "h4"
+    },
+    {
+      "id": "OrienEnforcerStats",
+      "text": "Orien Enforcer",
+      "element": "h4"
+    },
+    {
+      "id": "SentinelMarshal",
+      "text": "Sentinel Marshal",
+      "element": "h4"
+    },
+    {
+      "id": "SentinelMarshalStats",
+      "text": "Sentinel Marshal",
+      "element": "h4"
+    },
+    {
+      "id": "ShadowMarkedAgent",
+      "text": "Shadow-Marked Agent",
+      "element": "h4"
+    },
+    {
+      "id": "ShadowMarkedAgentStats",
+      "text": "Shadow-Marked Agent",
+      "element": "h4"
+    },
+    {
+      "id": "SivisScribe",
+      "text": "Sivis Scribe",
+      "element": "h4"
+    },
+    {
+      "id": "SivisScribeStats",
+      "text": "Sivis Scribe",
+      "element": "h4"
+    },
+    {
+      "id": "TharashkHunter",
+      "text": "Tharashk Hunter",
+      "element": "h4"
+    },
+    {
+      "id": "TharashkHunterStats",
+      "text": "Tharashk Hunter",
+      "element": "h4"
+    },
+    {
+      "id": "VadalisHeir",
+      "text": "Vadalis Heir",
+      "element": "h4"
+    },
+    {
+      "id": "VadalisHeirStats",
+      "text": "Vadalis Heir",
+      "element": "h4"
+    }
+  ],
+  "sourceHash": "dc9bff734833091d726fef82221857155a50f5439b3795530c0f0834cc8c8d26",
+  "extractionDate": "2026-07-10T13:12:14.894Z",
+  "extractionVersion": 1,
+  "headings": [
+    {
+      "depth": 1,
+      "id": "Chapter5DragonmarkedIntrigue",
+      "text": "Dragonmarked Intrigue"
+    },
+    {
+      "depth": 2,
+      "id": "DragonmarkedCharacters",
+      "text": "Dragonmarked Characters"
+    },
+    {
+      "depth": 3,
+      "id": "DragonmarkedHouseRenown",
+      "text": "Dragonmarked House Renown"
+    },
+    {
+      "depth": 4,
+      "id": "RenownPerks",
+      "text": "Renown Perks"
+    },
+    {
+      "depth": 3,
+      "id": "BuildingaParty",
+      "text": "Building a Party"
+    },
+    {
+      "depth": 4,
+      "id": "PartyMakeupTable",
+      "text": "Party Makeup"
+    },
+    {
+      "depth": 2,
+      "id": "DragonmarkedConflicts",
+      "text": "Dragonmarked Conflicts"
+    },
+    {
+      "depth": 3,
+      "id": "RivalHouses",
+      "text": "Rival Houses"
+    },
+    {
+      "depth": 4,
+      "id": "GoalsofRivalHouses",
+      "text": "Goals of Rival Houses"
+    },
+    {
+      "depth": 4,
+      "id": "InternalTensions",
+      "text": "Internal Tensions"
+    },
+    {
+      "depth": 4,
+      "id": "ARivalHousesArc",
+      "text": "A Rival Houses Arc"
+    },
+    {
+      "depth": 3,
+      "id": "HouseTarkanan",
+      "text": "House Tarkanan"
+    },
+    {
+      "depth": 4,
+      "id": "GoalsofHouseTarkanan",
+      "text": "Goals of House Tarkanan"
+    },
+    {
+      "depth": 4,
+      "id": "AHouseTarkananArc",
+      "text": "A House Tarkanan Arc"
+    },
+    {
+      "depth": 4,
+      "id": "AberrantHeirs",
+      "text": "Aberrant Heirs"
+    },
+    {
+      "depth": 4,
+      "id": "TarkananMarauder",
+      "text": "Tarkanan Marauder"
+    },
+    {
+      "depth": 4,
+      "id": "TarkananRuffian",
+      "text": "Tarkanan Ruffian"
+    },
+    {
+      "depth": 3,
+      "id": "TheChamber",
+      "text": "The Chamber"
+    },
+    {
+      "depth": 4,
+      "id": "GoalsoftheChamber",
+      "text": "Goals of the Chamber"
+    },
+    {
+      "depth": 4,
+      "id": "AChamberArc",
+      "text": "A Chamber Arc"
+    },
+    {
+      "depth": 2,
+      "id": "DragonmarkedHouses",
+      "text": "Dragonmarked Houses"
+    },
+    {
+      "depth": 3,
+      "id": "HouseCannith",
+      "text": "House Cannith"
+    },
+    {
+      "depth": 4,
+      "id": "CannithEast",
+      "text": "Cannith East"
+    },
+    {
+      "depth": 4,
+      "id": "CannithSouth",
+      "text": "Cannith South"
+    },
+    {
+      "depth": 4,
+      "id": "CannithWest",
+      "text": "Cannith West"
+    },
+    {
+      "depth": 4,
+      "id": "HouseCannithRenownPerks",
+      "text": "House Cannith Renown Perks"
+    },
+    {
+      "depth": 3,
+      "id": "HouseDeneith",
+      "text": "House Deneith"
+    },
+    {
+      "depth": 4,
+      "id": "HouseDeneithRenownPerks",
+      "text": "House Deneith Renown Perks"
+    },
+    {
+      "depth": 3,
+      "id": "HouseGhallanda",
+      "text": "House Ghallanda"
+    },
+    {
+      "depth": 4,
+      "id": "HouseGhallandaRenownPerks",
+      "text": "House Ghallanda Renown Perks"
+    },
+    {
+      "depth": 3,
+      "id": "HouseJorasco",
+      "text": "House Jorasco"
+    },
+    {
+      "depth": 4,
+      "id": "HouseJorascoRenownPerks",
+      "text": "House Jorasco Renown Perks"
+    },
+    {
+      "depth": 3,
+      "id": "HouseKundarak",
+      "text": "House Kundarak"
+    },
+    {
+      "depth": 4,
+      "id": "HouseKundarakRenownPerks",
+      "text": "House Kundarak Renown Perks"
+    },
+    {
+      "depth": 3,
+      "id": "HouseLyrandar",
+      "text": "House Lyrandar"
+    },
+    {
+      "depth": 4,
+      "id": "HouseLyrandarRenownPerks",
+      "text": "House Lyrandar Renown Perks"
+    },
+    {
+      "depth": 3,
+      "id": "HouseMedani",
+      "text": "House Medani"
+    },
+    {
+      "depth": 4,
+      "id": "HouseMedaniRenownPerks",
+      "text": "House Medani Renown Perks"
+    },
+    {
+      "depth": 3,
+      "id": "HouseOrien",
+      "text": "House Orien"
+    },
+    {
+      "depth": 4,
+      "id": "HouseOrienRenownPerks",
+      "text": "House Orien Renown Perks"
+    },
+    {
+      "depth": 3,
+      "id": "HousePhiarlan",
+      "text": "House Phiarlan"
+    },
+    {
+      "depth": 4,
+      "id": "HousePhiarlanRenownPerks",
+      "text": "House Phiarlan Renown Perks"
+    },
+    {
+      "depth": 3,
+      "id": "HouseSivis",
+      "text": "House Sivis"
+    },
+    {
+      "depth": 4,
+      "id": "HouseSivisRenownPerks",
+      "text": "House Sivis Renown Perks"
+    },
+    {
+      "depth": 3,
+      "id": "HouseTharashk",
+      "text": "House Tharashk"
+    },
+    {
+      "depth": 4,
+      "id": "Aashta",
+      "text": "Aashta"
+    },
+    {
+      "depth": 4,
+      "id": "Torrn",
+      "text": "Torrn"
+    },
+    {
+      "depth": 4,
+      "id": "Velderan",
+      "text": "Velderan"
+    },
+    {
+      "depth": 4,
+      "id": "HouseTharashkRenownPerks",
+      "text": "House Tharashk Renown Perks"
+    },
+    {
+      "depth": 3,
+      "id": "HouseThuranni",
+      "text": "House Thuranni"
+    },
+    {
+      "depth": 4,
+      "id": "HouseThuranniRenownPerks",
+      "text": "House Thuranni Renown Perks"
+    },
+    {
+      "depth": 3,
+      "id": "HouseVadalis",
+      "text": "House Vadalis"
+    },
+    {
+      "depth": 4,
+      "id": "HouseVadalisRenownPerks",
+      "text": "House Vadalis Renown Perks"
+    },
+    {
+      "depth": 2,
+      "id": "DragonmarkedIntrigueAdventures",
+      "text": "Dragonmarked Intrigue Adventures"
+    },
+    {
+      "depth": 4,
+      "id": "HouseIntrigue",
+      "text": "House Intrigue"
+    },
+    {
+      "depth": 3,
+      "id": "DragonmarkedNPCs",
+      "text": "Dragonmarked NPCs"
+    },
+    {
+      "depth": 4,
+      "id": "CannithArtificer",
+      "text": "Cannith Artificer"
+    },
+    {
+      "depth": 4,
+      "id": "CannithArtificerStats",
+      "text": "Cannith Artificer"
+    },
+    {
+      "depth": 4,
+      "id": "GhallandaTroubleshooter",
+      "text": "Ghallanda Troubleshooter"
+    },
+    {
+      "depth": 4,
+      "id": "GhallandaTroubleshooterStats",
+      "text": "Ghallanda Troubleshooter"
+    },
+    {
+      "depth": 4,
+      "id": "JorascoMedic",
+      "text": "Jorasco Medic"
+    },
+    {
+      "depth": 4,
+      "id": "JorascoMedicStats",
+      "text": "Jorasco Medic"
+    },
+    {
+      "depth": 4,
+      "id": "KundarakWarden",
+      "text": "Kundarak Warden"
+    },
+    {
+      "depth": 4,
+      "id": "KundarakWardenStats",
+      "text": "Kundarak Warden"
+    },
+    {
+      "depth": 4,
+      "id": "LyrandarScion",
+      "text": "Lyrandar Scion"
+    },
+    {
+      "depth": 4,
+      "id": "LyrandarScionStats",
+      "text": "Lyrandar Scion"
+    },
+    {
+      "depth": 4,
+      "id": "MedaniInquisitive",
+      "text": "Medani Inquisitive"
+    },
+    {
+      "depth": 4,
+      "id": "MedaniInquisitiveStats",
+      "text": "Medani Inquisitive"
+    },
+    {
+      "depth": 4,
+      "id": "OrienEnforcer",
+      "text": "Orien Enforcer"
+    },
+    {
+      "depth": 4,
+      "id": "OrienEnforcerStats",
+      "text": "Orien Enforcer"
+    },
+    {
+      "depth": 4,
+      "id": "SentinelMarshal",
+      "text": "Sentinel Marshal"
+    },
+    {
+      "depth": 4,
+      "id": "SentinelMarshalStats",
+      "text": "Sentinel Marshal"
+    },
+    {
+      "depth": 4,
+      "id": "ShadowMarkedAgent",
+      "text": "Shadow-Marked Agent"
+    },
+    {
+      "depth": 4,
+      "id": "ShadowMarkedAgentStats",
+      "text": "Shadow-Marked Agent"
+    },
+    {
+      "depth": 4,
+      "id": "SivisScribe",
+      "text": "Sivis Scribe"
+    },
+    {
+      "depth": 4,
+      "id": "SivisScribeStats",
+      "text": "Sivis Scribe"
+    },
+    {
+      "depth": 4,
+      "id": "TharashkHunter",
+      "text": "Tharashk Hunter"
+    },
+    {
+      "depth": 4,
+      "id": "TharashkHunterStats",
+      "text": "Tharashk Hunter"
+    },
+    {
+      "depth": 4,
+      "id": "VadalisHeir",
+      "text": "Vadalis Heir"
+    },
+    {
+      "depth": 4,
+      "id": "VadalisHeirStats",
+      "text": "Vadalis Heir"
+    }
+  ],
+  "tags": {
+    "creatures": [
+      "Aberrant Cultists",
+      "Bandit",
+      "Bandit Deceiver",
+      "Blob of Annihilation",
+      "Cannith Artificer",
+      "Druids",
+      "Ghallanda Troubleshooter",
+      "Giant Boar",
+      "Guards",
+      "Harpy",
+      "Jorasco Medic",
+      "Kundarak Warden",
+      "Lyrandar Scion",
+      "Medani Inquisitive",
+      "Ogrillon Ogre",
+      "Orien Enforcer",
+      "Polar Bear",
+      "Rhinoceros",
+      "Sentinel Marshal",
+      "Shadow-Marked Agent",
+      "Sivis Scribe",
+      "Spy",
+      "Tarkanan Assassin",
+      "Tarkanan Marauder",
+      "Tarkanan Ruffian",
+      "Tharashk Hunter",
+      "Thri-kreen Marauder",
+      "Tough",
+      "Vadalis Heir",
+      "Vampire Familiar"
+    ],
+    "spells": [
+      "Alarm",
+      "Animal Friendship",
+      "Animal Messenger",
+      "Arcane Lock",
+      "Burning Hands",
+      "Comprehend Languages",
+      "Counterspell",
+      "Cure Wounds",
+      "Detect Thoughts",
+      "Disguise Self",
+      "Disintegrate",
+      "Dispel Magic",
+      "Druidcraft",
+      "Elementalism",
+      "Feather Fall",
+      "Guidance",
+      "Gust of Wind",
+      "Ice Storm",
+      "Invisibility",
+      "Jump",
+      "Lesser Restoration",
+      "Light",
+      "Mage Armor",
+      "Mending",
+      "Message",
+      "Minor Illusion",
+      "Misty Step",
+      "Pass without Trace",
+      "See Invisibility",
+      "Sending",
+      "Shield",
+      "Silent Image",
+      "Sleep",
+      "Speak with Animals",
+      "Thaumaturgy",
+      "Thunderwave",
+      "Unseen Servant",
+      "Witch Bolt"
+    ],
+    "locations": [
+      "Aundair",
+      "Breland",
+      "Cyre",
+      "Darguun",
+      "Droaam",
+      "Eberron",
+      "Karrnath",
+      "Khorvaire",
+      "Lhazaar",
+      "Mournland",
+      "Q’barra",
+      "Sharn",
+      "Talenta",
+      "Thrane",
+      "Xen’drik",
+      "Zilargo"
+    ]
+  },
+  "anomalyFlags": [
+    {
+      "type": "reader-address",
+      "passage": "Run a dragonmarked intrigue campaign if you want to emulate the schemes and power struggles of the Renaissance—merchant dynasties growing to rival royal families in influence—or stories of family power dynamics like The Sopranos or Succession.",
+      "location": "Dragonmarked Intrigue",
+      "anchor": "Chapter5DragonmarkedIntrigue",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "You can use the renown rules in the Dungeon Master’s Guide to measure a character’s influence and standing within a dragonmarked house.",
+      "location": "Dragonmarked House Renown",
+      "anchor": "DragonmarkedHouseRenown",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "If your campaign focuses on the houses and the characters join one, track each character’s Renown Score with their house.",
+      "location": "Dragonmarked House Renown",
+      "anchor": "DragonmarkedHouseRenown",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "You can request a favor from your house, which can take one of the following forms:",
+      "location": "Renown Perks",
+      "anchor": "RenownPerks",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "A dragonmarked member of the house casts for you a cantrip or level 1 spell associated with the house’s mark (see the Dragonmark feats in chapter 2) at no cost.",
+      "location": "Renown Perks",
+      "anchor": "RenownPerks",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "A member of the house casts for you a different spell of level 3 or lower at half the usual cost.",
+      "location": "Renown Perks",
+      "anchor": "RenownPerks",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "You can request such a favor a number of times equal to your Renown Score.",
+      "location": "Renown Perks",
+      "anchor": "RenownPerks",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "If your Renown Score falls below the total number of favors you have requested, a higher-ranking member of the house might call in a favor from you, sending you on a mission for house or personal business.",
+      "location": "Renown Perks",
+      "anchor": "RenownPerks",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "In addition, your house pays you a stipend that supports your Modest lifestyle (1 GP per day).",
+      "location": "Renown Perks",
+      "anchor": "RenownPerks",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "When you request a favor from your house (as decribed under “Favored in House”), it can take one of the following additional forms:",
+      "location": "Renown Perks",
+      "anchor": "RenownPerks",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "hidden-actor",
+      "passage": "Though it appears as nothing more than an ordinary criminal organization, House Tarkanan—which is made up of people who carry aberrant dragonmarks—can threaten all dragonmarked characters and the continued existence of their houses.",
+      "location": "Dragonmarked Conflicts",
+      "anchor": "DragonmarkedConflicts",
+      "confidence": 0.68,
+      "reason": "A passive construction may conceal who performs the action."
+    }
+  ],
+  "contentHtml": "<div class=\"efota-title\">\n<div class=\"efota-title-text\">\n<p><span>Chapter</span><span>05</span></p>\n<h1 class=\"compendium-hr with-metadata\" id=\"Chapter5DragonmarkedIntrigue\">Dragonmarked Intrigue</h1>\n</div>\n<p><span>Chapter</span><span>05</span></p>\n</div>\n\n<aside class=\"efota--genre-box\" id=\"AdventureIntro\">\n<p><strong>Adventure Genre:</strong> Renaissance Schemes and Struggles</p>\n<p><strong>Pop Culture:</strong> <em>The Sopranos</em>, <em>Succession</em></p>\n</aside>\n<figure class=\"compendium-art compendium-art-center Misc--Dropshadow\" id=\"imgofdragonmarkedhouses\">\n<span class=\"artist-credit\">MICHAL IVAN</span>\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/efota/Jae5SyNcfFGjapTb/05-001.members-of-dragonmarked-houses.jpg\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/efota/Jae5SyNcfFGjapTb/05-001.members-of-dragonmarked-houses.jpg\" class=\"ddb-lightbox-inner\" style=\"width: 750px;\" alt=\"Members of different dragonmarked houses set aside their differences to investigate a murder in Sharn, the City of Towers.\" loading=\"lazy\" decoding=\"async\"></a>\n<figcaption>Members of different dragonmarked houses set aside their<br> differences to investigate a murder in Sharn, the City of Towers.</figcaption>\n</figure>\n\n<p class=\"efota-dropcap\">The prosperity of Khorvaire is built on magic, with the dragonmarked houses as the mortar that holds this magical economy together. The cornerstones of Khorvaire’s economy—communications, transport, banking, animal husbandry, security, and more—fall under the ownership and control of the dragonmarked houses.</p>\n<p>For most of Khorvaire’s history, the authority of a strong central monarchy in the kingdom of Galifar balanced the power of these houses. The Last War upset that balance, and the squabbling leaders of Khorvaire’s many nations can hardly check these houses’ grasping reach. Many whisper that if the nations of Khorvaire ever united again, they would be ruled not by a king, but by the heir of a dragonmarked house.</p>\n<p>Run a dragonmarked intrigue campaign if you want to emulate the schemes and power struggles of the Renaissance—merchant dynasties growing to rival royal families in influence—or stories of family power dynamics like <em>The Sopranos</em> or <em>Succession</em>.</p>\n\n\n\n\n<h2 class=\"compendium-hr heading-anchor\" id=\"DragonmarkedCharacters\">Dragonmarked Characters</h2>\n<p>A dragonmarked intrigue campaign assumes that the characters all have some connection to a dragonmarked house. They might all connect to the same house, or they could associate with different houses but have a common purpose. (See the “<a href=\"#BuildingaParty\">Building a Party</a>” section below for suggestions on bringing together a party from different houses.) If the characters work for a single house or an organization, like the Twelve, that unites them in a mutual purpose, use the group patron rules in <a class=\"sourcebook\" href=\"https://www.dndbeyond.com/sources/dnd/erftlw\">Eberron: Rising from the Last War</a> to provide benefits from their shared mission.</p>\n<p>The House Agent and various house heir backgrounds in chapter 2 suit characters in this campaign, giving them benefits and capabilities related to their house affiliation. Certain other backgrounds can reflect the mercantile specialties of the characters’ houses, such as Artisan for House Cannith, Sailor for House Lyrandar, Entertainer for House Phiarlan or House Thuranni, or Scribe for House Sivis.</p>\n\n\n\n\n<h3 class=\"compendium-hr heading-anchor\" id=\"DragonmarkedHouseRenown\">Dragonmarked House Renown</h3>\n<p>You can use the renown rules in the <a class=\"sourcebook\" href=\"https://www.dndbeyond.com/sources/dnd/dmg-2024\">Dungeon Master’s Guide</a> to measure a character’s influence and standing within a dragonmarked house. If your campaign focuses on the houses and the characters join one, track each character’s Renown Score with their house. A character’s background and feats can increase their Renown Scores:</p>\n<ul class=\"list--hidden\">\n<li>\n<p><strong>House Agent.</strong> The House Agent background grants a starting Renown Score of 3 with a character’s house.</p>\n</li>\n<li>\n<p><strong>House Heir.</strong> A house heir background (such as House Cannith Heir) grants a starting Renown Score of 5 with a character’s house.</p>\n</li>\n<li>\n<p><strong>Dragonmark Feat.</strong> Acquiring a Dragonmark feat (except the Aberrant Dragonmark feat) after level 1 increases a character’s Renown Score with the associated house by 1.</p>\n</li>\n<li>\n<p><strong>Greater Dragonmark.</strong> Acquiring the greater dragonmark feat associated with a house (such as Greater Mark of Making) increases a character’s Renown Score with that house by 2.</p>\n</li>\n<li>\n<p><strong>Siberys Dragonmark.</strong> Acquiring the Boon of Siberys feat, or another feat in the Epic Boon category that represents a Siberys dragonmark, increases a character’s Renown Score with the associated house by 3.</p>\n</li>\n<p><strong>Aberrant Dragonmark.</strong> Acquiring any aberrant dragonmark reduces a character’s Renown Score with each dragonmarked house by 2 when that house’s leadership learns of the mark.</p>\n</ul>\n\n\n\n\n<h4 class=\"compendium-hr heading-anchor\" id=\"RenownPerks\">Renown Perks</h4>\n<p>Characters who gain renown with a dragonmarked house are eligible for the following perks, allowing them to call in favors from members of that house.</p>\n\n\n<hr class=\"separator\">\n\n\n\n<h5 class=\"compendium-hr with-metadata heading-anchor\" id=\"FavoredinHouse\"><a aria-hidden=\"true\" href=\"#FavoredinHouse\"></a>Favored in House</h5>\n<p><em>Prerequisite: Renown 3+ with a Dragonmarked House</em></p>\n<p>You can request a favor from your house, which can take one of the following forms:</p>\n<ul>\n<li> A dragonmarked member of the house casts for you a cantrip or level 1 spell associated with the house’s mark (see the <a href=\"/chapters/character-options/#Feats\">Dragonmark feats</a> in chapter 2) at no cost.</li>\n<li> A member of the house casts for you a different spell of level 3 or lower at half the usual cost.</li>\n<li> The house provides a service or item associated with its business at reduced or no cost. See suggestions in each <a href=\"#DragonmarkedHouses\">house’s description</a> later in this chapter.</li>\n</ul>\n<p>You can request such a favor a number of times equal to your Renown Score. If your Renown Score falls below the total number of favors you have requested, a higher-ranking member of the house might call in a favor from you, sending you on a mission for house or personal business.</p>\n<p>In addition, your house pays you a stipend that supports your Modest lifestyle (1 GP per day).</p>\n\n\n<hr class=\"separator\">\n\n\n\n\n<h5 class=\"compendium-hr with-metadata heading-anchor\" id=\"RecognizedinHouse\"><a aria-hidden=\"true\" href=\"#RecognizedinHouse\"></a>Recognized in House</h5>\n<p><em>Prerequisite: Renown 10+ with a Dragonmarked House</em></p>\n<p>When you request a favor from your house (as decribed under “Favored in House”), it can take one of the following additional forms:</p>\n<ul>\n<li> A dragonmarked member of the house casts for you a level 2 spell associated with the house’s mark at no cost.</li>\n<li> A member of the house casts for you a different spell of level 4 or lower at half the usual cost.</li>\n<li> Whenever you take a Bastion turn, you can issue an order to your house as if it were a special facility in your Bastion. Your house determines the type of special facility available to you, as noted in each house’s description later in this chapter.</li>\n</ul>\n<p>In addition, your house stipend increases to support your Comfortable lifestyle (2 GP per day).</p>\n\n\n<hr class=\"separator\">\n\n\n\n\n<h5 class=\"compendium-hr with-metadata heading-anchor\" id=\"CelebratedinHouse\"><a aria-hidden=\"true\" href=\"#CelebratedinHouse\"></a>Celebrated in House</h5>\n<p><em>Prerequisite: Renown 25+ with a Dragonmarked House</em></p>\n<p>When you request a favor from your house (as decribed under “Favored in House”), it can take one of the following additional forms:</p>\n<ul>\n<li> A dragonmarked member of the house casts for you a level 3 or 4 spell associated with the house’s mark at no cost.</li>\n<li> A member of the house casts for you a different spell of level 6 or lower at half the usual cost.</li>\n<li> You gain a bodyguard for the duration of your next mission for the house (maximum of 1 week). The bodyguard—a creature with a Challenge Rating no higher than half your level (round up)—is appropriate to your house.</li>\n</ul>\n<p>In addition, your house stipend increases to support your Wealthy lifestyle (4 GP per day).</p>\n\n\n\n<hr class=\"separator\">\n\n\n\n<h5 class=\"compendium-hr with-metadata heading-anchor\" id=\"PreeminentinHouse\"><a aria-hidden=\"true\" href=\"#PreeminentinHouse\"></a>Preeminent in House</h5>\n<p><em>Prerequisite: Renown 50+ with a Dragonmarked House</em></p>\n<p>When you request a favor from your house (as decribed under “Favored in House”), it can take one of the following additional forms:</p>\n<ul>\n<li> A dragonmarked member of the house casts for you a level 5 spell associated with the house’s mark at no cost.</li>\n<li> A member of the house casts for you a different spell of level 8 or lower at half the usual cost.</li>\n</ul>\n<p>In addition, your house stipend increases to support your Aristocratic lifestyle (10 GP per day).</p>\n\n\n\n\n<h3 class=\"compendium-hr heading-anchor\" id=\"BuildingaParty\">Building a Party</h3>\n<p>You can assemble a diverse party of D&amp;D characters drawn from a single dragonmarked house. Conversely, your party can include members of different houses united by alliances or common principles. Or they could be childhood friends who ended up working for different houses, or just a haphazard collection of individuals thrown together by unforeseen circumstances. The Party Makeup table suggests ways to justify why the characters are cooperating.</p>\n<table class=\"table-compendium table--generic-dice\" id=\"PartyMakeup\">\n<caption>\n\n\n\n\n<h4 class=\"compendium-hr quick-menu-exclude heading-anchor\" id=\"PartyMakeupTable\">Party Makeup </h4>\n</caption>\n<thead>\n<tr>\n<th>1d8</th>\n<th>Composition</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1</td>\n<td><strong>One-House Party.</strong> Choose a dragonmarked house and connect all characters to it.</td>\n</tr>\n<tr>\n<td>2</td>\n<td><strong>Bodyguards.</strong> A Deneith Fighter, a Jorasco Cleric, a Medani Wizard, and a Phiarlan Monk are assigned to protect important people.</td>\n</tr>\n<tr>\n<td>3</td>\n<td><strong>Bounty Hunters.</strong> A Sivis Bard, a Tharashk Barbarian, a Tharashk Ranger, and a Vadalis Druid venture into the wild to pursue fugitives.</td>\n</tr>\n<tr>\n<td>4</td>\n<td><strong>Dragonshard Prospectors.</strong> House Tharashk leads a dragonshard-mining expedition, sending a Druid and a Ranger accompanied by a Lyrandar Sorcerer and a Thuranni Bard.</td>\n</tr>\n<tr>\n<td>5</td>\n<td><strong>Lawkeepers.</strong> A Deneith Fighter, a Deneith Paladin, a Lyrandar Sorcerer, and a Medani Rogue enforce the law—particularly the terms of the Treaty of Thronehold, which governs international law.</td>\n</tr>\n<tr>\n<td>6</td>\n<td><strong>Medical Extraction Team.</strong> A Cannith Artificer, a Deneith Paladin, a Jorasco Cleric, and a Thuranni Monk venture into war zones and disaster areas to protect civilians, heal them, and escort them away from danger.</td>\n</tr>\n<tr>\n<td>7</td>\n<td><strong>Researchers.</strong> A Cannith Artificer, a Deneith Paladin, a Medani Rogue (Arcane Trickster), and a Sivis Wizard carry out arcane research for the Twelve.</td>\n</tr>\n<tr>\n<td>8</td>\n<td><strong>Strike Force.</strong> A Cannith Artificer, a Deneith Fighter, a Jorasco Cleric, and a Thuranni Rogue strike hard and fast against enemies of the dragonmarked houses or the Five Nations as a whole.</td>\n</tr>\n</tbody>\n</table>\n<p>Although conflicts among the dragonmarked houses drive much of the action in this campaign, it’s important not to let that tension cause too much friction in a party of adventurers. The D&amp;D game relies on cooperation among the players, so it’s helpful for the player characters to find common ground that unites them despite their differences in house affiliation and agenda. Many house members have friends and acquaintances among other houses. Those positive associations can bind an adventuring party together.</p>\n\n\n\n\n<h2 class=\"compendium-hr heading-anchor\" id=\"DragonmarkedConflicts\">Dragonmarked Conflicts</h2>\n<p>A dragonmarked intrigue campaign might feature three significant campaign conflicts tied to the nature of dragonmarks:</p>\n<ul class=\"list--hidden\">\n<li>\n<p><strong>Rival Houses.</strong> The most significant and persistent conflicts take place among the dragonmarked houses—longstanding rivalries, short-term disputes, and family grudges can define the “intrigue” part of this campaign. Significant rivalries also exist within some houses.</p>\n</li>\n<li>\n<p><strong>House Tarkanan.</strong> Though it appears as nothing more than an ordinary criminal organization, House Tarkanan—which is made up of people who carry aberrant dragonmarks—can threaten all dragonmarked characters and the continued existence of their houses.</p>\n</li>\n<li>\n<p><strong>The Chamber.</strong> As dragonmarks are thought to be an expression of the Draconic Prophecy, the Chamber—a secretive group of dragons interested in studying and manipulating the Prophecy—could easily become involved in interhouse intrigue.</p>\n</li>\n</ul>\n<p>You can replace one or more of these conflicts with others from<a class=\"sourcebook\" href=\"https://www.dndbeyond.com/sources/dnd/erftlw\">Eberron: Rising from the Last War</a> or ones of your own devising. For example, if your campaign involves the issues between House Deneith and House Tharashk over the latter’s expansion into the mercenary trade, the powers of Droaam could drive a significant conflict. You might emphasize the rivalry between the economic strength of the dragonmarked houses and the waning political power of the nations of Khorvaire, with one or more political leaders seeking to curtail the houses, or an ambitious dragonmarked leader working to supplant a nation’s sovereign.</p>\n<p>This section describes the three suggested conflicts, the goals of the villainous groups involved, and possible plot arcs tied to them.</p>\n<figure class=\"compendium-art compendium-art-center Misc--Dropshadow\" id=\"imgofdragonmarkedhousesinconflict\">\n<span class=\"artist-credit\">MICHAL IVAN</span>\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/efota/Jae5SyNcfFGjapTb/05-002.members-of-dragonmarked-houses-in-conflict.png\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/efota/Jae5SyNcfFGjapTb/05-002.members-of-dragonmarked-houses-in-conflict.png\" class=\"ddb-lightbox-inner compendium-center-banner-img\" style=\"width: 850px;\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a>\n</figure>\n\n\n\n\n<h3 class=\"compendium-hr heading-anchor\" id=\"RivalHouses\">Rival Houses</h3>\n<p>Conflicts, rivalries, and feuds among the thirteen dragonmarked houses drive a dragonmarked intrigue campaign. As tremendously powerful magical and mercantile forces, the houses seek economic dominance, which often comes at the expense of other houses and sometimes with little concern for ethics. Ambitious forces within the houses—if not the houses as a whole—can lead them to endanger both people and property.</p>\n\n\n\n\n<h4 class=\"compendium-hr heading-anchor\" id=\"GoalsofRivalHouses\">Goals of Rival Houses</h4>\n<p>Rivalries among the dragonmarked houses are described below.</p>\n<p><strong><a href=\"#HouseCannith\">Cannith</a> and <a href=\"#HouseTharashk\">Tharashk</a>.</strong> In its interactions with the other houses, House Cannith has a reputation for being domineering and openly advocating for a position of privilege. No one resents that attitude more than House Tharashk. These two houses clash not over competing economic interests but to gain political influence within the Twelve and over Khorvaire as a whole. To complicate matters, Cannith relies on the dragonshards mined by Tharashk—and Tharashk doesn’t want to lose its best customer.</p>\n<p><strong><a href=\"#HouseCannith\">Cannith</a> and <a href=\"#HouseVadalis\">Vadalis</a>.</strong> Though they have much in common as producers of goods, House Cannith and House Vadalis remain philosophically, temperamentally, and morally opposed. Members of House Vadalis distrust the city folk of House Cannith, whose machines (including the warforged) threaten to replace magebred animals entirely.</p>\n<p><strong><a href=\"#HouseDeneith\">Deneith</a> and <a href=\"#HouseMedani\">Medani</a>.</strong> House Deneith and House Medani both offer personal protection services. Extremely wealthy individuals have been known to hire bodyguards from both houses, but even then, house agents often compete to prove their services the more valuable.</p>\n<p><strong><a href=\"#HouseDeneith\">Deneith</a> and <a href=\"#HouseTharashk\">Tharashk</a>.</strong> House Tharashk has been encroaching on House Deneith’s economic territory by recruiting the monstrous residents of Droaam to serve as mercenaries.</p>\n<p><strong><a href=\"#HouseGhallanda\">Ghallanda</a> and Everyone.</strong> Many people underestimate the subtle influence of House Ghallanda. The House of Hospitality has spent centuries building connections in all the cities of the Five Nations. A Ghallanda concierge knows ways to get whatever a client needs. But the house also knows about the other houses’ rivalries and schemes. It tugs on these strings more than other houses realize.</p>\n<p><strong><a href=\"#HouseKundarak\">Kundarak</a> and <a href=\"#HouseThuranni\">Thuranni</a>.</strong> The enmity between House Kundarak and House Thuranni dates back to the Shadow Schism. Elar d’Thuranni claimed that the Paelion line of House Phiarlan were traitors engaged in a diabolical plot, and the Thuranni and their allies assassinated the entire family line. Baron Morrikan d’Kundarak and Lord Tolar Paelion were blood brothers, and Morrikan refuses to believe the accusations made against the Paelions. He has sworn to uncover the truth and avenge his friend. To this end, he has assigned the Ghorad’din—the “Manticore’s Tail,” the secret assassins of House Kundarak—to dog the heels of Thuranni and its Shadow Network.</p>\n<p><strong><a href=\"#HouseLyrandar\">Lyrandar</a> and <a href=\"#HouseOrien\">Orien</a>.</strong> Before the airship’s invention, House Orien had a monopoly on travel across Khorvaire. Lyrandar’s expansion into air travel threatens that dominance.</p>\n<p><strong><a href=\"#HouseMedani\">Medani</a> and <a href=\"#HouseTharashk\">Tharashk</a>.</strong> House Medani and House Tharashk both operate guilds of inquisitives, vying for a limited field of business. Each house has its specialties, but the inquisitives of both houses compete fiercely for customers.</p>\n<p><strong><a href=\"#HousePhiarlan\">Phiarlan</a> and <a href=\"#HouseThuranni\">Thuranni</a>.</strong> The two houses that carry the Mark of Shadow separated less than thirty years ago, and tensions remain high between them. They generally avoid open conflict by operating in distinct territories. When their agents cross paths, rivalries can trigger confrontation—which manifests in artistic competitions or duels between assassins.</p>\n\n\n\n\n<h4 class=\"compendium-hr heading-anchor\" id=\"InternalTensions\">Internal Tensions</h4>\n<p>The schism of House Phiarlan and House Thuranni marks the first time a house has split among family lines, but it might not be the last. Tensions within a single dragonmarked house can provide campaign conflicts, especially if the characters in your campaign all belong to the same house. The following houses have significant internal conflicts.</p>\n<p><strong><em>Cannith.</em></strong> The leaders of House Cannith perished in the Mourning, and three powerful barons now vie for control. Each one wants to unite the house under their own leadership, but it’s entirely possible the house could fracture as House Phiarlan did.</p>\n<p><strong><em>Sivis.</em></strong> House Sivis is known for its neutrality in struggles between nations and dragonmarked houses alike—it often helps settle disputes and maintain order when two houses differ. But its own internal affairs involve a tremendous amount of family rivalry. The house’s twelve families include the Corralyns, Lyrrimans, Santors, Severins, Syrralans, and Torralyns. Only because of her expertise at games of intrigue has Doyenne Lysse Lyrriman d’Sivis managed to head the house for ninety years.</p>\n<p><strong><em>Tharashk.</em></strong> An ancient conflict lies hidden within the foundations of House Tharashk. The powerful Torrn clan has ties to the Gatekeeper druids, while the Aashta clan aligns with the Cults of the Dragon Below. Most modern heirs have only a casual knowledge of these traditions, but zealous factions within the clans pursue esoteric agendas that sometimes boil out into conflict within the house.</p>\n\n\n\n\n<h4 class=\"compendium-hr heading-anchor\" id=\"ARivalHousesArc\">A Rival Houses Arc</h4>\n<p>This example arc presupposes that the characters generally stay neutral in disputes among the dragonmarked houses. The characters might act as agents of the Twelve, House Sivis, or some other group or patron that pursues peace among the houses. Or the characters might represent different houses; their prior relationship to each other motivates them to maintain peace. If the characters belong to a single house, you can adapt this example by using their house as one of the rival factions.</p>\n<p>Based on that initial assumption, the conflict among rival dragonmarked houses might unfold according to this broad outline.</p>\n<p><strong><em>Levels 1–4.</em></strong> As prominent but not yet powerful figures in the dragonmarked landscape, the characters become the targets of two rival houses. Both houses try to befriend and influence them, perhaps hiring them for various missions. Meanwhile, the conflict between the houses simmers on a back burner.</p>\n<p><strong><em>Levels 5–10.</em></strong> The conflict between the two rival houses erupts into a trade war, a concerted effort to take over business from each other, or even violent conflict. With the characters now emerging as a force to be reckoned with, both houses call on them for help, trying to force the characters to choose sides.</p>\n<p><strong><em>Levels 11–16.</em></strong> As the conflict between the two houses rages on, a third group gets involved, hoping to take advantage of the warring parties’ distraction or weakness. Figures both within and outside the houses plead with the characters to help end the conflict before it engulfs other houses or even nations.</p>\n<p><strong><em>Levels 17–20.</em></strong> The chaos spreads, and the characters have a choice to make. They can work to restore the delicate balance of power among the houses, as well as between the houses and the Five Nations. Or they can try to reshape the world order according to a different pattern.</p>\n<figure class=\"compendium-art compendium-art-center Misc--Dropshadow\" id=\"imgMarauderandRuffian\">\n<span class=\"artist-credit\">JORDAN KERBOW</span>\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/efota/Jae5SyNcfFGjapTb/05-003.Tarkanan-Marauder-and-Ruffian.png\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/efota/Jae5SyNcfFGjapTb/05-003.Tarkanan-Marauder-and-Ruffian.png\" class=\"ddb-lightbox-inner compendium-center-banner-img\" style=\"width: 850px;\" alt=\"A Tarkanan Marauder and a Tarkanan Ruffian\" loading=\"lazy\" decoding=\"async\"></a>\n<figcaption>A Tarkanan Marauder and a Tarkanan Ruffian</figcaption>\n</figure>\n\n\n\n\n<h3 class=\"compendium-hr heading-anchor\" id=\"HouseTarkanan\">House Tarkanan</h3>\n<p>House Tarkanan is a criminal gang in Sharn, founded when Thora Tavin assembled the survivors of a suicide squad of Brelish spies who bore aberrant dragonmarks. She adopted the surname of Lord Halas Tarkanan, who used his aberrant dragonmark to wreak havoc in Sharn during the War of the Mark, and fashioned this group of thieves and assassins into a mockery of the dragonmarked houses. However, the gang lacks the recognition, power, and resources of the actual houses.</p>\n\n\n\n\n<h4 class=\"compendium-hr heading-anchor\" id=\"GoalsofHouseTarkanan\">Goals of House Tarkanan</h4>\n<p>House Tarkanan is a gang of thieves and assassins operating within the city of Sharn, but its name points to its founder’s vision for building the gang into a larger movement. Most members have no higher aspirations than using their aberrant dragonmarks to profit from a criminal lifestyle. But the gang’s leaders seek to amplify their dragonmarks’ power to the world-shaking level of the aberrant champions of the War of the Mark, Halas Tarkanan and the Lady of the Plague. With such awesome power at their disposal, they plan to reawaken the ancient conflict over aberrant dragonmarks and topple the dragonmarked houses from their position of power.</p>\n<p>Thora Tarkanan (still known about town under her original name, Thora Tavin), who founded the gang, recently stepped aside from its leadership, ceding power to a mysterious figure called the Son of Khyber. Little is known about him, but he bears the strongest aberrant mark seen in modern times along with the skills of a military commander. Some call him Halas Tarkanan born again, believing he is mustering an aberrant army to lead into battle against the dragonmarked houses. Thora remains the Son of Khyber’s second-in-command and the public face of the gang.</p>\n\n\n\n\n<h4 class=\"compendium-hr heading-anchor\" id=\"AHouseTarkananArc\">A House Tarkanan Arc</h4>\n<p>The conflict between adventurers and House Tarkanan might follow this broad outline.</p>\n<p><strong><em>Levels 1–4.</em></strong> A patron asks the characters to get involved in a criminal investigation into a rash of murders in Sharn because all the victims have dragonmarks. Both the Sharn Watch and one or more private inquisitives already squabble over access to evidence and witnesses—the characters’ attempt to get involved merely heightens the tension. The perpetrators turn out to be members of House Tarkanan, whom the characters must bring to justice.</p>\n<p><strong><em>Levels 5–10.</em></strong> After the characters’ success in dealing with the Tarkanan killers, the Watch comes to them for additional help. Petty thieves belonging to the gang have offered inside information into House Tarkanan’s plans in exchange for leniency in their sentencing. These thieves don’t share their leaders’ delusions of grandeur or hatred of the dragonmarked houses. The information points to a gathering of aberrant heirs deep below Sharn.</p>\n<p><strong><em>Levels 11–16.</em></strong> After the characters disrupt House Tarkanan’s schemes in the depths of Sharn, the gang sends powerful assassins with fearsome aberrant dragonmarks after the party.</p>\n<p><strong><em>Levels 17–20.</em></strong> The Son of Khyber leads a small army of aberrant-marked warriors and assassins to challenge the leadership of Sharn—and plots to conjure a <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/5194926-blob-of-annihilation\" data-tooltip-href=\"/monsters/5194926-tooltip\">Blob of Annihilation</a> to level the city’s skyscraping towers.</p>\n\n\n\n\n<h4 class=\"compendium-hr heading-anchor\" id=\"AberrantHeirs\">Aberrant Heirs</h4>\n<p>House Tarkanan incorporates members with a wide variety of aberrant dragonmarks. Any Humanoid in the <a class=\"sourcebook\" href=\"https://www.dndbeyond.com/sources/dnd/mm-2024\">Monster Manual</a> or another source could be a House Tarkanan agent with a mark that doesn’t affect the creature’s use in combat or that is reflected in the creature’s existing abilities. For example, a <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/5195247-vampire-familiar\" data-tooltip-href=\"/monsters/5195247-tooltip\">Vampire Familiar</a> might gain its unique abilities from an aberrant mark rather than from any connection to a vampire, and a <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/5194914-bandit-deceiver\" data-tooltip-href=\"/monsters/5194914-tooltip\">Bandit Deceiver</a> ’s spellcasting could derive from such a mark. On the other hand, an ordinary <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/5194915-bandit\" data-tooltip-href=\"/monsters/5194915-tooltip\">Bandit</a> or <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/5195235-tough\" data-tooltip-href=\"/monsters/5195235-tooltip\">Tough</a> might have an aberrant mark that allows the NPC to cast <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2619102-disguise-self\" data-tooltip-href=\"/spells/2619102-tooltip\">Disguise Self</a>, <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2619062-silent-image\" data-tooltip-href=\"/spells/2619062-tooltip\">Silent Image</a>, or a similar spell with little impact on the NPC’s combat abilities.</p>\n<p>The two stat blocks presented here, along with the <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/551095-tarkanan-assassin\" data-tooltip-href=\"/monsters/551095-tooltip\">Tarkanan Assassin</a> in <a class=\"sourcebook\" href=\"https://www.dndbeyond.com/sources/dnd/erftlw\">Eberron: Rising from the Last War</a> , illustrate members of House Tarkanan who wield the power of their aberrant marks in combat.</p>\n<p><strong><em>Tarkanan Marauder.</em></strong> This powerful assassin relies on teleportation to catch targets unaware and deal out rapid death.</p>\n<div class=\"stat-block ui-draggable\">\n\n\n\n\n<h4 class=\"compendium-hr with-metadata quick-menu-exclude heading-anchor\" id=\"TarkananMarauder\"><a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/5976761-tarkanan-marauder\" data-tooltip-href=\"/monsters/5976761-tooltip\">Tarkanan Marauder</a></h4>\n<p>Medium or Small Humanoid, Chaotic Evil</p>\n<p><strong>AC</strong> 16 <strong>Initiative</strong> +7 (17)</p>\n<p><strong>HP</strong> 247 (26d8 + 130)</p>\n<p><strong>Speed</strong> 30 ft.</p>\n<div class=\"stats\">\n<table class=\"physical abilities-saves\">\n<thead>\n<tr>\n<th>Ability</th>\n<th>Score</th>\n<th>Mod</th>\n<th>Save</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<th>Str</th>\n<td>15</td>\n<td>+2</td>\n<td>+2</td>\n</tr>\n<tr>\n<th>Dex</th>\n<td>17</td>\n<td>+3</td>\n<td>+7</td>\n</tr>\n<tr>\n<th>Con</th>\n<td>20</td>\n<td>+5</td>\n<td>+9</td>\n</tr>\n</tbody>\n</table>\n<table class=\"mental abilities-saves\">\n<thead>\n<tr>\n<th>Ability</th>\n<th>Score</th>\n<th>Mod</th>\n<th>Save</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<th>Int</th>\n<td>16</td>\n<td>+3</td>\n<td>+3</td>\n</tr>\n<tr>\n<th>Wis</th>\n<td>15</td>\n<td>+2</td>\n<td>+6</td>\n</tr>\n<tr>\n<th>Cha</th>\n<td>13</td>\n<td>+1</td>\n<td>+1</td>\n</tr>\n</tbody>\n</table>\n</div>\n<p><strong>Skills</strong> <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/16-tooltip\">Deception</a> +5, <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/14-tooltip\">Perception</a> +6, <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/5-tooltip\">Stealth</a> +7</p>\n<p><strong>Gear</strong> <a class=\"tooltip-hover item-tooltip\" href=\"https://www.dndbeyond.com/equipment/13-breastplate\" data-tooltip-href=\"/armor/13-tooltip\">Breastplate</a>, <a class=\"tooltip-hover item-tooltip\" href=\"https://www.dndbeyond.com/equipment/30-shortsword\" data-tooltip-href=\"/weapons/30-tooltip\">Shortsword</a></p>\n<p><strong>Senses</strong> Passive Perception 16</p>\n<p><strong>Languages</strong> Common, Thieves’ Cant</p>\n<p><strong>CR</strong> 11 (XP 7,200; PB +4)</p>\n<p class=\"monster-header\">Traits</p>\n<p><strong><em>Evasion.</em></strong> If the marauder is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, the marauder instead takes no damage if it succeeds on the save and only half as much damage if it fails. It can’t use this trait if it has the <a class=\"tooltip-hover condition-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#IncapacitatedCondition\" data-tooltip-href=\"/conditions/7-tooltip\">Incapacitated</a> condition.</p>\n<p class=\"monster-header\">Actions</p>\n<p><strong><em>Multiattack.</em></strong> The marauder makes three Aberrant Strike attacks.</p>\n<p><strong><em>Aberrant Strike.</em></strong> <em>Melee Attack Roll:</em> +7, reach 5 ft. <em>Hit:</em> 13 (3d6 + 3) Piercing damage, plus 21 (6d6) Force damage if the marauder had Advantage on the attack roll.</p>\n<p><strong><em>Spellcasting.</em></strong> The marauder casts one of the following spells, requiring no Material components and using Constitution as the spellcasting ability (spell save DC 17):</p>\n<p><strong>At Will:</strong> <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2619034-message\" data-tooltip-href=\"/spells/2619034-tooltip\">Message</a></p>\n<p><strong>1/Day:</strong> <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2619094-disintegrate\" data-tooltip-href=\"/spells/2619094-tooltip\">Disintegrate</a></p>\n<p class=\"monster-header\">Bonus Actions</p>\n<p><strong><em>Tear through Space.</em></strong> The marauder <a class=\"tooltip-hover rule-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#Teleportation\" data-tooltip-href=\"/rules-glossary/118-tooltip\">teleports</a> to a space it can see within 30 feet, appearing in a dazzling flash. <em>Constitution Saving Throw:</em> DC 17, each creature in a 5-foot Emanation originating from the marauder when it appears. <em>Failure:</em> The target has the <a class=\"tooltip-hover condition-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#BlindedCondition\" data-tooltip-href=\"/conditions/1-tooltip\">Blinded</a> condition until the end of the marauder’s next turn.</p>\n</div>\n<p><strong><em>Tarkanan Ruffian.</em></strong> This rank-and-file gang member, recruited off the streets of Sharn, uses sinister lightning powers to supplement ordinary weaponry.</p>\n<div class=\"stat-block ui-draggable\">\n\n\n\n\n<h4 class=\"compendium-hr with-metadata quick-menu-exclude heading-anchor\" id=\"TarkananRuffian\"><a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/5976762-tarkanan-ruffian\" data-tooltip-href=\"/monsters/5976762-tooltip\">Tarkanan Ruffian</a></h4>\n<p>Medium or Small Humanoid, Chaotic Evil</p>\n<p><strong>AC</strong> 13 <strong>Initiative</strong> +1 (11)</p>\n<p><strong>HP</strong> 32 (5d8 + 10)</p>\n<p><strong>Speed</strong> 40 ft.</p>\n<div class=\"stats\">\n<table class=\"physical abilities-saves\">\n<thead>\n<tr>\n<th>Ability</th>\n<th>Score</th>\n<th>Mod</th>\n<th>Save</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<th>Str</th>\n<td>14</td>\n<td>+2</td>\n<td>+2</td>\n</tr>\n<tr>\n<th>Dex</th>\n<td>13</td>\n<td>+1</td>\n<td>+3</td>\n</tr>\n<tr>\n<th>Con</th>\n<td>15</td>\n<td>+2</td>\n<td>+4</td>\n</tr>\n</tbody>\n</table>\n<table class=\"mental abilities-saves\">\n<thead>\n<tr>\n<th>Ability</th>\n<th>Score</th>\n<th>Mod</th>\n<th>Save</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<th>Int</th>\n<td>11</td>\n<td>+0</td>\n<td>+0</td>\n</tr>\n<tr>\n<th>Wis</th>\n<td>10</td>\n<td>+0</td>\n<td>+0</td>\n</tr>\n<tr>\n<th>Cha</th>\n<td>13</td>\n<td>+1</td>\n<td>+1</td>\n</tr>\n</tbody>\n</table>\n</div>\n<p><strong>Skills</strong> <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/17-tooltip\">Intimidation</a> +3, <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/14-tooltip\">Perception</a> +2</p>\n<p><strong>Gear</strong> <a class=\"tooltip-hover item-tooltip\" href=\"https://www.dndbeyond.com/equipment/14-spear\" data-tooltip-href=\"/weapons/14-tooltip\">Spear</a>, <a class=\"tooltip-hover item-tooltip\" href=\"https://www.dndbeyond.com/equipment/3-studded-leather\" data-tooltip-href=\"/armor/3-tooltip\">Studded Leather Armor</a></p>\n<p><strong>Senses</strong> Passive Perception 12</p>\n<p><strong>Languages</strong> Common, Thieves’ Cant</p>\n<p><strong>CR</strong> 1 (XP 200; PB +2)</p>\n<p class=\"monster-header\">Traits</p>\n<p><strong><em>Aberrant Surge.</em></strong> When the ruffian casts <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2619215-witch-bolt\" data-tooltip-href=\"/spells/2619215-tooltip\">Witch Bolt</a>, roll 1d8. On an even number, the ruffian gains a number of <a class=\"tooltip-hover rule-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#TemporaryHitPoints\" data-tooltip-href=\"/rules-glossary/119-tooltip\">Temporary Hit Points</a> equal to the number rolled. On an odd number, one creature of the ruffian’s choice within 30 feet of it takes Force damage equal to the number rolled; if no other creatures are in range, it takes the damage.</p>\n<p class=\"monster-header\">Actions</p>\n<p><strong><em>Spear.</em></strong> <em>Melee or Ranged Attack Roll:</em> +4, reach 5 ft. or range 20/60 ft. <em>Hit:</em> 6 (1d8 + 2) Piercing damage.</p>\n<p><strong><em>Spellcasting.</em></strong> The ruffian casts one of the following spells, requiring no Material components and using Constitution as the spellcasting ability (spell save DC 12, +4 to hit with spell attacks):</p>\n<p><strong>At Will:</strong> <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2619174-thaumaturgy\" data-tooltip-href=\"/spells/2619174-tooltip\">Thaumaturgy</a></p>\n<p><strong>1/Day:</strong> <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2619215-witch-bolt\" data-tooltip-href=\"/spells/2619215-tooltip\">Witch Bolt</a></p>\n</div>\n\n\n\n\n<h3 class=\"compendium-hr heading-anchor\" id=\"TheChamber\">The Chamber</h3>\n<p>The Chamber is a secretive network of dragons that have monitored the peoples of Khorvaire for thousands of years. These dragons consider people merely pawns in an ancient game that revolves around the Draconic Prophecy. Each dragon of the Chamber watches over a small corner of the world and maintains a network of agents who can move freely in the cities and nations of Khorvaire.</p>\n\n\n\n\n<h4 class=\"compendium-hr heading-anchor\" id=\"GoalsoftheChamber\">Goals of the Chamber</h4>\n<p>Though most members of the Chamber simply observe events in Khorvaire and gather information about new aspects of the Prophecy, many dragons seek to understand the connection between dragonmarks and the Prophecy—some even conduct magical experiments on dragonmarked people. Dragons of the Chamber take a particular interest in the most powerful dragonmarks, such as Siberys marks and mighty aberrant marks (see chapter 2).</p>\n<p>These goals don’t necessarily put the Chamber in conflict with dragonmarked characters or their houses. Even when they do, this conflict need not be violent. Fundamentally, though, the dragons of the Chamber count the value of dragonmarked individuals only in terms of the marks they carry and their place in the Prophecy. This means the dragons consider dragonmarked characters expendable and their personal goals inconsequential compared to the long-range views of the Chamber.</p>\n\n\n\n\n<h4 class=\"compendium-hr heading-anchor\" id=\"AChamberArc\">A Chamber Arc</h4>\n<p>The conflict between adventurers and the Chamber might unfold according to this broad outline, starting around the time the characters reach level 5.</p>\n<p><strong><em>Levels 5–10.</em></strong> Dragonmarked characters come to the attention of a dragon belonging to the Chamber. The dragon sends an agent to meet them, become a friend or patron to them, and keep an eye on their activities. Occasionally the agent might send them on strange errands intended to fulfill the Prophecy in a particular way. Other times, the agent provides helpful advice, useful spells, or even magic items to aid the characters in adventures. Some missions, particularly later in this level range, might feel distasteful to the characters or directly conflict with their other goals.</p>\n<p><strong><em>Levels 11–16.</em></strong> The dragon monitoring the characters becomes convinced that the characters’ other activities are corrupting the Prophecy. The dragon’s friendly agent disappears, and a group of hostile agents begins to undermine the characters’ work.</p>\n<p><strong><em>Levels 17–20.</em></strong> When the dragon alerts other members of the Chamber that the characters pose a threat to the Prophecy, multiple dragons attempt to eliminate the group.</p>\n\n\n\n\n<h2 class=\"compendium-hr heading-anchor\" id=\"DragonmarkedHouses\">Dragonmarked Houses</h2>\n<p><a class=\"sourcebook\" href=\"https://www.dndbeyond.com/sources/dnd/erftlw\">Eberron: Rising from the Last War</a> contains basic information about the dragonmarked houses, and chapter 2 of this book includes character backgrounds representing heirs of these houses. This section provides an overview of each house, focusing on opportunities for intrigue within and among the houses. It also includes additional favors available to characters who belong to the houses, using the renown rules from “Dragonmarked House Renown” earlier in this chapter.</p>\n<figure class=\"compendium-art compendium-art-center Misc--Dropshadow\" id=\"imgofthehouses\">\n<span class=\"artist-credit\">LEROY STEINMANN</span>\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/efota/Jae5SyNcfFGjapTb/05-004.agents-of-the-houses.png\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/efota/Jae5SyNcfFGjapTb/05-004.agents-of-the-houses.png\" class=\"ddb-lightbox-inner compendium-center-banner-img\" style=\"width: 850px;\" alt=\">Agents of (Left to Right) House Deneith, House Ghallanda, House Lyrandar, <\" loading=\"lazy\" decoding=\"async\"></a>\n<figcaption>Agents of (Left to Right) House Deneith, House Ghallanda, House Lyrandar, <br>House Cannith, House Jorasco, and House Kundarak</figcaption>\n</figure>\n\n\n\n\n<h3 class=\"compendium-hr heading-anchor\" id=\"HouseCannith\">House Cannith</h3>\n<div class=\"flexible-double-column\">\n<div>\n<p>Since the destruction of Cyre and the headquarters of House Cannith in the Last War, the house has functioned as three distinct organizations while the three Cannith barons vie for control.</p>\n\n\n\n\n<h4 class=\"compendium-hr heading-anchor\" id=\"CannithEast\">Cannith East</h4>\n<p>Headquartered in Korth (in Karrnath) and led by Zorlan d’Cannith, Cannith East enjoys close ties to the government of Karrnath and the faith of the Blood of Vol. This branch of the house specializes in siege weaponry and defenses, though its most innovative experiments explore the creation of constructed undead—a hybrid of warforged and zombie. In addition to Karrnath, Cannith East has enclaves in the Mror Holds and the Lhazaar Principalities.</p>\n</div>\n<div class=\"house-banner\">\n<figure class=\"compendium-art compendium-art-center\" id=\"imgCannith\">\n<span class=\"artist-credit\">CLAUDIO POZAS</span>\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/efota/Jae5SyNcfFGjapTb/05-006.House-Cannith.png\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/efota/Jae5SyNcfFGjapTb/05-006.House-Cannith.png\" class=\"ddb-lightbox-inner\" style=\"width: 250px;\" alt=\"House Cannith Seal\" loading=\"lazy\" decoding=\"async\"></a>\n</figure>\n</div>\n</div>\n\n\n\n\n<h4 class=\"compendium-hr heading-anchor\" id=\"CannithSouth\">Cannith South</h4>\n<p>Under the leadership of Merrix d’Cannith, the Cannith South holdings in Sharn have come to rival the old house headquarters in Whitehearth as a hotspot of innovation. Additional cells in Breland, Zilargo, Darguun, and even Stormreach (in Xen’drik) carry out Merrix’s plans and produce inventions to fill the house’s coffers. Rumor has it the Sharn enclave conceals the last creation forge capable of producing warforged—and that Merrix plans to build another one in Stormreach, where the Treaty of Thronehold holds no sway.</p>\n\n\n\n\n<h4 class=\"compendium-hr heading-anchor\" id=\"CannithWest\">Cannith West</h4>\n<p>Headquartered near the Aundairian capital of Fairhaven, Cannith West follows Jorlanna d’Cannith, whose leadership claim is hindered by an indiscretion from her youth. Some thirty years ago, Jorlanna had a star-crossed romance with an heir of House Deneith—an affair forbidden by the protocols of the dragonmarked houses that date back to the War of the Mark. Though the relationship ended quickly, and rumors of a child have never been proven, Jorlanna’s reputation for poor judgment haunts her. Despite that, her strong vision for a united house, her allies among the Twelve, and her personal magnetism make her a powerful contender for control of the house. Under her leadership, Cannith West conducts investigations in enclaves and magical sites across Aundair, Thrane, and the Eldeen Reaches. She maintains friendly relations with other houses and with the nobility in and around Aundair.</p>\n\n\n\n\n<h4 class=\"compendium-hr heading-anchor\" id=\"HouseCannithRenownPerks\">House Cannith Renown Perks</h4>\n<p>When you request a favor from your house, it can take one of these special forms.</p>\n<p><strong><em>Favored in House (Renown 3+).</em></strong> You can purchase one Common or Uncommon magic item at half the usual cost.</p>\n<p><strong><em>Recognized in House (Renown 10+).</em></strong> When you take a Bastion turn, you can issue the Craft order to House Cannith as if it were a Smithy or Workshop facility in your Bastion. If you are level 9+, you instead can treat the house as a Laboratory facility.</p>\n\n\n\n\n<h3 class=\"compendium-hr heading-anchor\" id=\"HouseDeneith\">House Deneith</h3>\n<div class=\"flexible-double-column\">\n<div><p>In House Deneith’s headquarters, Sentinel Tower in Karrlakton (in Karrnath), Baron Breven d’Deneith steers the house on the course it has followed for centuries: upholding a stance of absolute neutrality in the politics of the Five Nations while maintaining the largest military and police force in Khorvaire. While many nobles of Karrnath want House Deneith to help rebuild a united Galifar (under Karrn leadership, of course), and while House Tharashk recruits monstrous mercenaries from among the denizens of Droaam, the baron walks a tightrope. Amid such treacherous situations, many in House Deneith question whether the path of neutrality remains the best course to follow.</p>\n\n\n\n\n<h4 class=\"compendium-hr heading-anchor\" id=\"HouseDeneithRenownPerks\">House Deneith Renown Perks</h4>\n<p>When you request a favor from your house, it can take one of these special forms.</p></div>\n<div class=\"house-banner\"><figure class=\"compendium-art compendium-art-center\" id=\"imgDeneith\">\n<span class=\"artist-credit\">CLAUDIO POZAS</span>\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/efota/Jae5SyNcfFGjapTb/05-013.House-Deneith.png\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/efota/Jae5SyNcfFGjapTb/05-013.House-Deneith.png\" class=\"ddb-lightbox-inner\" style=\"width: 250px;\" alt=\"House Deneith Seal\" loading=\"lazy\" decoding=\"async\"></a>\n\n</figure></div>\n</div>\n<p><strong><em>Favored in House (Renown 3+).</em></strong> You can request the assistance of 1d4 + 1 mercenaries for up to 1 day. The mercenaries are Medium <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/5195065-guard\" data-tooltip-href=\"/monsters/5195065-tooltip\">Guards</a> .</p>\n<p><strong><em>Recognized in House (Renown 10+).</em></strong> When you take a Bastion turn and issue the Recruit order to a Barrack facility in your Bastion, you can recruit up to twelve Bastion defenders instead of four. If you are level 9+, you and any allies of your choice can train in a House Deneith facility as if it were a Training Area facility within your Bastion (using the Empower order), with a trainer of your choice.</p>\n\n\n\n\n<h3 class=\"compendium-hr heading-anchor\" id=\"HouseGhallanda\">House Ghallanda</h3>\n<div class=\"flexible-double-column\">\n<div><p>Yoren d’Ghallanda has expanded the holdings of his house far beyond its origins in the Talenta Plains and his headquarters in Gatherhold. Inns run directly by the house—each one a little enclave of House Ghallanda’s authority, beyond the grasp of any local government—reach across Khorvaire, even in remote areas such as the edge of the Demon Wastes and the swamps of Q’barra. Even if a village doesn’t have an inn run directly by the house, it likely boasts a hostel licensed by House Ghallanda, assuring its patrons of certain standards of comfort, cleanliness, and safety. Rumor has it that the house’s recent expansion springs from Baron Yoren’s newfound interest in the Draconic Prophecy, which his daughter Chervina has been studying.</p>\n\n\n\n\n<h4 class=\"compendium-hr heading-anchor\" id=\"HouseGhallandaRenownPerks\">House Ghallanda Renown Perks</h4>\n</div>\n<div class=\"house-banner\"><figure class=\"compendium-art compendium-art-center\" id=\"imgGhallanda\">\n<span class=\"artist-credit\">CLAUDIO POZAS</span>\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/efota/Jae5SyNcfFGjapTb/05-007.House-Ghallanda.png\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/efota/Jae5SyNcfFGjapTb/05-007.House-Ghallanda.png\" class=\"ddb-lightbox-inner\" style=\"width: 250px;\" alt=\"House Ghallanda Seal\" loading=\"lazy\" decoding=\"async\"></a>\n\n</figure></div>\n</div>\n<p>When you request a favor from your house, it can take one of these special forms.</p>\n<p><strong><em>Favored in House (Renown 3+).</em></strong> You and your party can stay in a House Ghallanda inn for 30 days without charge, with meals included.</p>\n<p><strong><em>Recognized in House (Renown 10+).</em></strong> When you take a Bastion turn, you can issue the Harvest order to House Ghallanda as if it were a Garden facility (food garden) in your Bastion. If you are level 13+, you instead can issue the Research order to House Ghallanda as if it were a Pub facility.</p>\n\n\n\n\n<h3 class=\"compendium-hr heading-anchor\" id=\"HouseJorasco\">House Jorasco</h3>\n<div class=\"flexible-double-column\">\n<div><p>Resthold is House Jorasco’s enclave in Vedykar (in Karrnath) and the home of its leader—currently Baron Ulara d’Jorasco. The people of Khorvaire widely accept the adage, “If you can’t be cured in Resthold, then nothing can save you.” In addition to curing illnesses and tending wounds, the healers of House Jorasco teach the healing arts, operate spas for long-term convalescence, and care for those with chronic or lingering illnesses, both physical and mental. In addition to Vedykar, House Jorasco maintains large healing enclaves in Fairhaven, Sharn, and Gatherhold in the Talenta Plains, but folks can find its holdings and clinics in cities and towns across Khorvaire.</p>\n\n\n\n\n<h4 class=\"compendium-hr heading-anchor\" id=\"HouseJorascoRenownPerks\">House Jorasco Renown Perks</h4>\n<p>When you request a favor from your house, it can take one of these special forms.</p></div>\n<div class=\"house-banner\"><figure class=\"compendium-art compendium-art-center\" id=\"imgJorasco\">\n<span class=\"artist-credit\">CLAUDIO POZAS</span>\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/efota/Jae5SyNcfFGjapTb/05-008.House-Jorasco.png\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/efota/Jae5SyNcfFGjapTb/05-008.House-Jorasco.png\" class=\"ddb-lightbox-inner\" style=\"width: 250px;\" alt=\"House Jorasco Seal\" loading=\"lazy\" decoding=\"async\"></a>\n\n</figure></div>\n</div>\n<p><strong><em>Favored in House (Renown 3+).</em></strong> You can purchase one <a class=\"tooltip-hover magic-item-tooltip\" href=\"https://www.dndbeyond.com/magic-items/8960641-potion-of-healing\" data-tooltip-href=\"/magic-items/8960641-tooltip\">Potion of Healing</a> (any variety) at half the usual cost.</p>\n<p><strong><em>Recognized in House (Renown 10+).</em></strong> When you take a Bastion turn, you can issue the Harvest order to House Jorasco as if it were a Garden facility (herb garden) in your Bastion. If you are level 9+, you instead can issue the Harvest order to the house as if it were a Greenhouse facility.</p>\n\n\n\n\n<h3 class=\"compendium-hr heading-anchor\" id=\"HouseKundarak\">House Kundarak</h3>\n<div class=\"flexible-double-column\">\n<div><p>House Kundarak is one of the most insular dragonmarked houses, thanks to a variety of factors—foremost among them the secrecy needed to protect its vast wealth. Additional complications include its status as the only dwarven dragonmarked house and its sometimes contentious relationship with other dwarf clans and families of the Mror Holds. Lord Morrikan d’Kundarak keeps connections with other houses and nations strictly professional, built on a solid foundation of trust and a reputation for unshakable integrity. House Kundarak’s only close ties are with House Sivis and the Gatekeeper druids, who are also experts in magical wards. The house’s headquarters lies in Korunda Gate (in the Mror Holds).</p>\n\n\n\n\n<h4 class=\"compendium-hr heading-anchor\" id=\"HouseKundarakRenownPerks\">House Kundarak Renown Perks</h4>\n</div>\n<div class=\"house-banner\"><figure class=\"compendium-art compendium-art-center\" id=\"imgKundarak\">\n<span class=\"artist-credit\">CLAUDIO POZAS</span>\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/efota/Jae5SyNcfFGjapTb/05-009.House-Kundarak.png\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/efota/Jae5SyNcfFGjapTb/05-009.House-Kundarak.png\" class=\"ddb-lightbox-inner\" style=\"width: 250px;\" alt=\"House Kundarak Seal\" loading=\"lazy\" decoding=\"async\"></a>\n\n</figure></div>\n</div>\n<p>When you request a favor from your house, it can take one of these special forms.</p>\n<p><strong><em>Favored in House (Renown 3+).</em></strong> You can store something in a Kundarak vault for up to 1 month at no charge. The vault is an extradimensional space accessible (with the proper keys) from any Kundarak bank in Khorvaire and is generally considered impenetrable.</p>\n<p><strong><em>Recognized in House (Renown 10+).</em></strong> When you take a Bastion turn, you can issue the Trade order to House Kundarak as if it were a Storehouse facility in your Bastion, using your level to determine the maximum value of items purchased and the profit you get from selling them.</p>\n\n\n\n\n<h3 class=\"compendium-hr heading-anchor\" id=\"HouseLyrandar\">House Lyrandar</h3>\n<div class=\"flexible-double-column\">\n<div>\n<p>The kraken, it is said, lurks beneath even the fairest seas—and none know how far its tentacles reach. The same is said of House Lyrandar, which uses the kraken as its emblem. Anyone who travels by land or sea, or who has an economic stake in the weather, has good reason to work with House Lyrandar. But those who cross the house find it a deadly and implacable foe. Some rumors call Baron Esravash d’Lyrandar a mere figurehead, holding court in the house headquarters of Stormhome (in Aundair). Such tales hold that true control of the house lies in the hands of a cult of the Devourer called the Hurricane Harvest, which teaches dragonmarked heirs to use their power for destruction and domination.</p>\n\n\n\n\n<h4 class=\"compendium-hr heading-anchor\" id=\"HouseLyrandarRenownPerks\">House Lyrandar Renown Perks</h4>\n</div>\n<div class=\"house-banner\"><figure class=\"compendium-art compendium-art-center\" id=\"imgLyrandar\">\n<span class=\"artist-credit\">CLAUDIO POZAS</span>\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/efota/Jae5SyNcfFGjapTb/05-010.House-Lyrandar.png\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/efota/Jae5SyNcfFGjapTb/05-010.House-Lyrandar.png\" class=\"ddb-lightbox-inner\" style=\"width: 250px;\" alt=\"House Lyrandar Seal\" loading=\"lazy\" decoding=\"async\"></a>\n\n</figure></div>\n</div>\n<p>When you request a favor from your house, it can take one of these special forms.</p>\n<p><strong><em>Favored in House (Renown 3+).</em></strong> You can secure passage on a House Lyrandar sailing ship for yourself and your party at no cost, or on an elemental galleon or airship for half the usual price.</p>\n<p><strong><em>Recognized in House (Renown 10+).</em></strong> When you take a Bastion turn and issue the Harvest order to a Garden facility in your Bastion, House Lyrandar can manipulate the weather to double your harvest. If you are level 9+, you can issue the Recruit order to House Lyrandar as if it were a Teleportation Circle facility within your Bastion, except that the spellcaster arrives at your Bastion via airship.</p>\n<figure class=\"compendium-art compendium-art-center Misc--Dropshadow\" id=\"imgagentsofthehouses\">\n<span class=\"artist-credit\">LEROY STEINMANN</span>\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/efota/Jae5SyNcfFGjapTb/05-005.more-agents-of-the-houses.png\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/efota/Jae5SyNcfFGjapTb/05-005.more-agents-of-the-houses.png\" class=\"ddb-lightbox-inner compendium-center-banner-img\" style=\"width: 850px;\" alt=\"Agents of (Left to Right) House Medani, House Orien, House Tharashk, House Phiarlan, House Vadalis, and House Sivis\" loading=\"lazy\" decoding=\"async\"></a>\n<figcaption>Agents of (Left to Right) House Medani, House Orien, House Tharashk, House Phiarlan, House Vadalis, and House Sivis</figcaption>\n</figure>\n\n\n\n\n<h3 class=\"compendium-hr heading-anchor\" id=\"HouseMedani\">House Medani</h3>\n<div class=\"flexible-double-column\">\n<div><p>The strength of House Medani is its agents’ keen insight and ability to predict others’ actions based on evidence. Building on that strength, the house engages not in the collection of intelligence (the purview of House Phiarlan and House Thuranni), but in counterintelligence. House Medani doesn’t traffic in secrets; it helps to keep them. Under the leadership of Baron Trelib d’Medani—whose close association with the king of Breland from the house’s headquarters in Wroat is well known—Medani agents detect and disrupt the theft of goods and secrets.</p>\n\n\n\n\n<h4 class=\"compendium-hr heading-anchor\" id=\"HouseMedaniRenownPerks\">House Medani Renown Perks</h4>\n<p>When you request a favor from your house, it can take one of these special forms.</p></div>\n<div class=\"house-banner\"><figure class=\"compendium-art compendium-art-center\" id=\"imgMedani\">\n<span class=\"artist-credit\">CLAUDIO POZAS</span>\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/efota/Jae5SyNcfFGjapTb/05-011.House-Medani.png\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/efota/Jae5SyNcfFGjapTb/05-011.House-Medani.png\" class=\"ddb-lightbox-inner\" style=\"width: 235px;\" alt=\"House Medani Seal\" loading=\"lazy\" decoding=\"async\"></a>\n\n</figure>\n</div>\n</div>\n<p><strong><em>Favored in House (Renown 3+).</em></strong> You can secure overnight lodging in a Medani safe house for yourself and your party. Secreted away under the house’s protection, you become almost impossible to find by nonmagical means.</p>\n<p><strong><em>Recognized in House (Renown 10+).</em></strong> When you take a Bastion turn, you can issue the Research order to House Medani as if it were a Library facility in your Bastion. If you are level 13+, you instead can issue the Research order to the house as if it were a Pub facility.</p>\n\n\n\n\n<h3 class=\"compendium-hr heading-anchor\" id=\"HouseOrien\">House Orien</h3>\n<div class=\"flexible-double-column\">\n<div><p>House Orien caravans are the cheapest and often most dependable means to reach out-of-the-way locales and minor settlements; they’re also the most reliable way to transport heavy loads away from ocean ports. The logistical challenges of transporting people and goods safely across thousands of miles consume the house’s attention, leaving little room for intrigue. In the wake of the Last War, Baron Kwanti d’Orien focuses on rebuilding land passage across the Mournland and dealing with competition from the upstart House Lyrandar and its airships. The house’s headquarters lies in Passage (in Aundair), but its enclaves appear across Khorvaire. A number of lightning rail coaches even act as mobile enclaves for important members of the house.</p>\n\n\n\n\n<h4 class=\"compendium-hr heading-anchor\" id=\"HouseOrienRenownPerks\">House Orien Renown Perks</h4>\n</div>\n<div class=\"house-banner\"><figure class=\"compendium-art compendium-art-center\" id=\"imgOrien\">\n<span class=\"artist-credit\">CLAUDIO POZAS</span>\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/efota/Jae5SyNcfFGjapTb/05-012.House-Orien.png\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/efota/Jae5SyNcfFGjapTb/05-012.House-Orien.png\" class=\"ddb-lightbox-inner\" style=\"width: 250px;\" alt=\"House Orien Seal\" loading=\"lazy\" decoding=\"async\"></a>\n\n</figure></div>\n</div>\n<p>When you request a favor from your house, it can take one of these special forms.</p>\n<p><strong><em>Favored in House (Renown 3+).</em></strong> You can secure transportation for yourself and your party by any means House Orien provides (caravan, lightning rail, or teleportation) for half the usual cost.</p>\n<p><strong><em>Recognized in House (Renown 10+).</em></strong> When you take a Bastion turn, you can issue the Trade order to House Orien as if it were a Storehouse facility in your Bastion, using your level to determine the maximum value of items purchased and the profit you get from selling them. If you are level 9+, you instead can issue the Recruit order to House Orien as if it were a Teleportation Circle facility within your Bastion.</p>\n\n\n\n\n<h3 class=\"compendium-hr heading-anchor\" id=\"HousePhiarlan\">House Phiarlan</h3>\n<div class=\"flexible-double-column\">\n<div><p>The five Demesnes of House Phiarlan are each devoted to a specific artistic tradition:</p>\n<p><strong>Demesne of Memory</strong> (in Fairhaven in Aundair) encompasses the written word, including prose, poetry, and propaganda.</p>\n<p><strong>Demesne of Motion</strong> (in Wroat in Breland) focuses on the arts of the body, including dance, gymnastics, wrestling, acrobatics, and massage.</p>\n<p><strong>Demesne of Music</strong> (in Flamekeep in Thrane) teaches the arts of sound, including song and instrumental music.</p>\n<p><strong>Demesne of Shape</strong> (in Thaliost in Thrane) focuses on material arts, including the practical construction of props, costumes, instruments, and the like, as well as sculpture, painting, and pottery.</p>\n</div>\n<div class=\"house-banner\"><figure class=\"compendium-art compendium-art-center\" id=\"imgPhiarlan\">\n<span class=\"artist-credit\">CLAUDIO POZAS</span>\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/efota/Jae5SyNcfFGjapTb/05-014.House-Phiarlan.png\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/efota/Jae5SyNcfFGjapTb/05-014.House-Phiarlan.png\" class=\"ddb-lightbox-inner\" style=\"width: 250px;\" alt=\"House Phiarlan Seal\" loading=\"lazy\" decoding=\"async\"></a>\n\n</figure></div>\n</div>\n<p><strong>Demesne of Shadow</strong> (in Sharn) teaches the art of deception, which includes illusions, puppetry, and shadow plays, as well as acting, oratory, and impersonation. Baron Elvinor Elorrenthi d’Phiarlan makes her headquarters in the Shadow enclave.</p>\n<p>A sixth head to the Phiarlan hydra, the Serpentine Table, is the house’s espionage wing and one of the finest intelligence networks in Khorvaire. Few people know the group exists, and fewer still can use its services—the house grants access only to guildmasters, nobles, and players in the great game of power.</p>\n\n\n\n\n<h4 class=\"compendium-hr heading-anchor\" id=\"HousePhiarlanRenownPerks\">House Phiarlan Renown Perks</h4>\n<p>When you request a favor from your house, it can take one of these special forms.</p>\n<p><strong><em>Favored in House (Renown 3+).</em></strong> You can purchase one dose of poison (any kind) or other illegal item (such as stolen goods) at half price.</p>\n<p><strong><em>Recognized in House (Renown 10+).</em></strong> When you take a Bastion turn, you can issue the Craft order to House Phiarlan as if it were a Workshop facility in your Bastion. If you are level 9+, you instead can issue the Empower order to the house as if it were a Theater facility, and if you are level 13+, you instead can issue the Research order to the house as if it were a Pub facility.</p>\n\n\n\n\n<h3 class=\"compendium-hr heading-anchor\" id=\"HouseSivis\">House Sivis</h3>\n<div class=\"flexible-double-column\">\n<div><p>Under the leadership of Doyenne Lysse Lyrriman d’Sivis, House Sivis does everything it can to stabilize a world torn apart by war. Some write off the importance of a house of scribes, while others wonder whether the much-vaunted neutrality of House Sivis conceals a far-reaching hidden agenda. Whatever the truth of the house’s ambition, House Sivis remains an invaluable, integral part of modern civilization. Its services make communication possible across long distances, and its partnership with House Kundarak facilitates the most essential financial transactions of the Five Nations.</p>\n\n\n\n\n<h4 class=\"compendium-hr heading-anchor\" id=\"HouseSivisRenownPerks\">House Sivis Renown Perks</h4>\n<p>When you request a favor from your house, it can take one of these special forms.</p></div>\n<div class=\"house-banner\"><figure class=\"compendium-art compendium-art-center\" id=\"imgSivis\">\n<span class=\"artist-credit\">CLAUDIO POZAS</span>\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/efota/Jae5SyNcfFGjapTb/05-016.House-Sivis.png\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/efota/Jae5SyNcfFGjapTb/05-016.House-Sivis.png\" class=\"ddb-lightbox-inner\" style=\"width: 250px;\" alt=\"House Sivis Seal\" loading=\"lazy\" decoding=\"async\"></a>\n\n</figure></div>\n</div>\n<p><strong><em>Favored in House (Renown 3+).</em></strong> You can obtain the translation or messaging services of House Sivis at no charge.</p>\n<p><strong><em>Recognized in House (Renown 10+).</em></strong> When you take a Bastion turn, you can issue the Craft order to House Sivis as if it were an Arcane Study facility in your Bastion. If you are level 9+, you instead can issue the Craft order to your house as if it were a Scriptorium facility.</p>\n\n\n\n\n<h3 class=\"compendium-hr heading-anchor\" id=\"HouseTharashk\">House Tharashk</h3>\n<div class=\"flexible-double-column\">\n<div><p>House Tharashk is an alliance of three great families (with smaller associated clans), each with different origins and agendas. The alliance remains only as strong as the personal bonds that link the heads of the families. These three leaders, called the Triumvirate, manage the house together from the city of Zarash’ak in the Shadow Marches.</p>\n\n\n\n\n<h4 class=\"compendium-hr heading-anchor\" id=\"Aashta\">Aashta</h4>\n<p>The Aashta and their allies have ancient ties to at least two Cults of the Dragon Below and the power of Khyber. One could charitably describe the Aashta leaders (including their triumvir, Khandar’aashta) as opportunists who take every chance to advance their interests and those of their family—no matter who stands in the way.</p></div>\n<div class=\"house-banner\"><figure class=\"compendium-art compendium-art-center\" id=\"imgTharashk\">\n<span class=\"artist-credit\">CLAUDIO POZAS</span>\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/efota/Jae5SyNcfFGjapTb/05-017.House-Tharashk.png\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/efota/Jae5SyNcfFGjapTb/05-017.House-Tharashk.png\" class=\"ddb-lightbox-inner\" style=\"width: 245px;\" alt=\"House Tharashk Seal\" loading=\"lazy\" decoding=\"async\"></a>\n\n</figure></div>\n</div>\n\n\n\n\n<h4 class=\"compendium-hr heading-anchor\" id=\"Torrn\">Torrn</h4>\n<p>The Torrn and their allied families perpetuate the traditions of the Gatekeepers—a druidic sect dedicated to protecting the world from aberrations and other unnatural creatures. This puts the Torrn at odds with the most devout Aashta followers of the Dragon Below. Triumvir Maagrim Torrn secretly supports efforts of some family members to channel house resources toward the traditional mission of the Gatekeepers.</p>\n\n\n\n\n<h4 class=\"compendium-hr heading-anchor\" id=\"Velderan\">Velderan</h4>\n<p>The Velderan and their allies have no particular ties to any spiritual tradition, and they are generally altruistic and willing to cooperate with other families and houses. Some within the clan whisper that Triumvir Daric Velderan seems too accommodating and too willing to placate the other leaders of the house.</p>\n\n\n\n\n<h4 class=\"compendium-hr heading-anchor\" id=\"HouseTharashkRenownPerks\">House Tharashk Renown Perks</h4>\n<p>When you request a favor from your house, it can take one of these special forms.</p>\n<p><strong><em>Favored in House (Renown 3+).</em></strong> You can purchase a dragonshard, or one Common or Uncommon magic item that incorporates dragonshards, at half the usual cost. Alternatively, you can request the assistance of a mercenary from Droaam (a <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/5195069-harpy\" data-tooltip-href=\"/monsters/5195069-tooltip\">Harpy</a>, an <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/5195149-ogrillon-ogre\" data-tooltip-href=\"/monsters/5195149-tooltip\">Ogrillon Ogre</a>, a <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/5195217-spy\" data-tooltip-href=\"/monsters/5195217-tooltip\">Spy</a>, or a <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/5195233-thri-kreen-marauder\" data-tooltip-href=\"/monsters/5195233-tooltip\">Thri-kreen Marauder</a>) for up to 1 day.</p>\n<p><strong><em>Recognized in House (Renown 10+).</em></strong> When you take a Bastion turn and issue the Recruit order to a Barrack facility in your Bastion, you can recruit up to twelve Bastion Defenders instead of four. In addition, if you are level 9+, you can issue the Research order to House Tharashk as if it were a Trophy Room facility within your Bastion.</p>\n\n\n\n\n<h3 class=\"compendium-hr heading-anchor\" id=\"HouseThuranni\">House Thuranni</h3>\n<div class=\"flexible-double-column\">\n<div><p>The story of the Shadow Schism that sundered House Thuranni from its kindred in House Phiarlan is a tangled knot of mystery. The surface details of the tale seem simple enough. About twenty years ago, Baron Elar d’Thuranni ordered the assassination of the entire Paelion line, one of the branches of House Phiarlan. Supposedly, he acted to prevent the Paelions from carrying out a wicked plot that would have ended the Last War and exterminated the leaders of the other dragonmarked houses, leaving the Paelions as absolute rulers of Khorvaire.</p>\n<p>Was the Paelion plot real or fabricated by the sinister Order of the Emerald Claw? Was the schism orchestrated by agents of the Chamber to fulfill aspects of the Draconic Prophecy that speak of thirteen houses?</p>\n</div>\n<div class=\"house-banner\"><figure class=\"compendium-art compendium-art-center\" id=\"imgThuranni\">\n<span class=\"artist-credit\">CLAUDIO POZAS</span>\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/efota/Jae5SyNcfFGjapTb/05-015.House-Thuranni.png\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/efota/Jae5SyNcfFGjapTb/05-015.House-Thuranni.png\" class=\"ddb-lightbox-inner\" style=\"width: 250px;\" alt=\"House Thuranni Seal\" loading=\"lazy\" decoding=\"async\"></a>\n\n</figure></div>\n</div>\n<p>Did the barons of House Phiarlan and House Thuranni plan the whole thing together to eliminate a mutual enemy? Whatever the truth behind the schism, it stands as the most significant consequence of the Last War to the dragonmarked. Just as the kingdom of Galifar shattered into smaller nations, the Last War left the dragonmarked houses broken, unsure of their role in the new world and their ties to the new political powers of Khorvaire, and the division of Thuranni from Phiarlan embodies that new reality.</p>\n<p>From his enclave in Regalport (in the Lhazaar Principalities), Baron Elar d’Thuranni rules a house that is a shadow of its united predecessor, similar in many ways to House Phiarlan. But while spies and assassins are contained within a secret sixth branch of House Phiarlan, separate from the house’s artistic endeavors, the entertainers and artisans of House Thuranni are also its spies and assassins—and its assassins outnumber its spies.</p>\n\n\n\n\n<h4 class=\"compendium-hr heading-anchor\" id=\"HouseThuranniRenownPerks\">House Thuranni Renown Perks</h4>\n<p>When you request a favor from your house, it can take one of these special forms.</p>\n<p><strong><em>Favored in House (Renown 3+).</em></strong> You can purchase one dose of poison (any kind) or other illegal item (such as stolen goods) at half price.</p>\n<p><strong><em>Recognized in House (Renown 10+).</em></strong> When you take a Bastion turn, you can issue the Craft order to House Thuranni as if it were a Workshop facility in your Bastion. If you are level 9+, you instead can issue the Empower order to the house as if it were a Theater facility, and if you are level 13+, you can issue the Research order to the house as if it were a Pub facility.</p>\n\n\n\n\n<h3 class=\"compendium-hr heading-anchor\" id=\"HouseVadalis\">House Vadalis</h3>\n<div class=\"flexible-double-column\">\n<div><p>House Vadalis has a carefully cultivated reputation as the most innocuous of the dragonmarked houses. Its leader, Dalin d’Vadalis, disdains use of a title and governs the house from a remote estate near Varna in the Eldeen Reaches—far from the seats of power in the Five Nations. Breeding superior animals for agriculture hardly seems threatening to most of Khorvaire.</p>\n<p>And yet House Vadalis has stirred up more than its fair share of controversy. Tales say that during the War of the Mark, House Vadalis bred arcane beasts so horrifying they were later banned and destroyed. During the Last War, the house bred fierce bears to serve as mounts for elite Brelish troops. Persistent rumors suggest that the house might seek to apply their techniques of magical enhancement to human subjects.</p>\n\n\n\n\n<h4 class=\"compendium-hr heading-anchor\" id=\"HouseVadalisRenownPerks\">House Vadalis Renown Perks</h4>\n</div>\n<div class=\"house-banner\"><figure class=\"compendium-art compendium-art-center\" id=\"imgVadalis\">\n<span class=\"artist-credit\">CLAUDIO POZAS</span>\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/efota/Jae5SyNcfFGjapTb/05-018.House-Vadalis.png\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/efota/Jae5SyNcfFGjapTb/05-018.House-Vadalis.png\" class=\"ddb-lightbox-inner\" style=\"width: 245px;\" alt=\"House Vadalis Seal\" loading=\"lazy\" decoding=\"async\"></a>\n\n</figure></div>\n</div>\n<p>When you request a favor from your house, it can take one of these special forms.</p>\n<p><strong><em>Favored in House (Renown 3+).</em></strong> You can purchase any animal for half the usual cost, or you can secure free feed and stabling for animals owned by you and your party for up to 1 week.</p>\n<p><strong><em>Recognized in House (Renown 10+).</em></strong> When you take a Bastion turn, you can issue the Research order to House Vadalis as if it were a Library facility in your Bastion, as long as the topic of research is some kind of living creature. In addition, when you issue the Recruit order to a Menagerie facility in your Bastion, you pay half the usual cost for the creature you acquire.</p>\n\n\n\n\n<h2 class=\"compendium-hr heading-anchor\" id=\"DragonmarkedIntrigueAdventures\">Dragonmarked Intrigue Adventures</h2>\n<p><a class=\"sourcebook\" href=\"https://www.dndbeyond.com/sources/dnd/erftlw\">Eberron: Rising from the Last War</a> includes suggestions for building adventures focused on individual dragonmarked houses, but the most interesting adventures involve interaction between multiple houses. Use the House Intrigue table to inspire plots involving two or more houses.</p>\n<table class=\"table-compendium table--generic-dice\" id=\"HouseIntrigueTable\">\n<caption>\n\n\n\n\n<h4 class=\"compendium-hr quick-menu-exclude heading-anchor\" id=\"HouseIntrigue\">House Intrigue </h4>\n</caption>\n<thead>\n<tr>\n<th>1d6</th>\n<th>Adventure Goal</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1</td>\n<td>Dragonmarked houses vie for influence over a prominent individual (perhaps one of the characters).</td>\n</tr>\n<tr>\n<td>2</td>\n<td>Dragonmarked houses compete for control of a key site.</td>\n</tr>\n<tr>\n<td>3</td>\n<td>Tension builds between two rival dragonmarked houses, threatening to erupt into a deadly feud.</td>\n</tr>\n<tr>\n<td>4</td>\n<td>Villains from two or more dragonmarked houses form a dangerous alliance.</td>\n</tr>\n<tr>\n<td>5</td>\n<td>A villain tries to disrupt an alliance between two or more dragonmarked houses.</td>\n</tr>\n<tr>\n<td>6</td>\n<td>Splinter factions from two dragonmarked houses try toform a new house.</td>\n</tr>\n</tbody>\n</table>\n\n\n\n\n<h3 class=\"compendium-hr heading-anchor\" id=\"DragonmarkedNPCs\">Dragonmarked NPCs</h3>\n<p>You can use the stat blocks in this section for dragonmarked heirs of the houses in your adventures.</p>\n\n\n\n\n<h4 class=\"compendium-hr with-metadata heading-anchor\" id=\"CannithArtificer\">Cannith Artificer</h4>\n<p>Dragonmarked artificers of House Cannith (typically human) often wield compact devices similar to eldritch cannons that can produce a variety of devastating effects. Both these cannons and the artificers’ force-empowered maces function only in their creator’s hands.</p>\n<div class=\"stat-block ui-draggable\">\n\n\n\n\n<h4 class=\"compendium-hr with-metadata quick-menu-exclude heading-anchor\" id=\"CannithArtificerStats\"><a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/5976745-cannith-artificer\" data-tooltip-href=\"/monsters/5976745-tooltip\">Cannith Artificer</a></h4>\n<p>Medium or Small Humanoid (Human), Neutral</p>\n<p><strong>AC</strong> 16 <strong>Initiative</strong> +1 (11)</p>\n<p><strong>HP</strong> 71 (11d8 + 22)</p>\n<p><strong>Speed</strong> 30 ft.</p>\n<div class=\"stats\">\n<table class=\"physical abilities-saves\">\n<thead>\n<tr>\n<th>Ability</th>\n<th>Score</th>\n<th>Mod</th>\n<th>Save</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<th>Str</th>\n<td>13</td>\n<td>+1</td>\n<td>+1</td>\n</tr>\n<tr>\n<th>Dex</th>\n<td>13</td>\n<td>+1</td>\n<td>+1</td>\n</tr>\n<tr>\n<th>Con</th>\n<td>14</td>\n<td>+2</td>\n<td>+4</td>\n</tr>\n</tbody>\n</table>\n<table class=\"mental abilities-saves\">\n<thead>\n<tr>\n<th>Ability</th>\n<th>Score</th>\n<th>Mod</th>\n<th>Save</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<th>Int</th>\n<td>18</td>\n<td>+4</td>\n<td>+6</td>\n</tr>\n<tr>\n<th>Wis</th>\n<td>14</td>\n<td>+2</td>\n<td>+2</td>\n</tr>\n<tr>\n<th>Cha</th>\n<td>11</td>\n<td>+0</td>\n<td>+0</td>\n</tr>\n</tbody>\n</table>\n</div>\n<p><strong>Skills</strong> <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/6-tooltip\">Arcana</a> +6, <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/14-tooltip\">Perception</a> +4, <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/4-tooltip\">Sleight of Hand</a> +3</p>\n<p><strong>Gear</strong> <a class=\"tooltip-hover item-tooltip\" href=\"https://www.dndbeyond.com/equipment/16-chain-mail\" data-tooltip-href=\"/armor/16-tooltip\">Chain Mail</a>, <a class=\"tooltip-hover item-tooltip\" href=\"https://www.dndbeyond.com/equipment/11-mace\" data-tooltip-href=\"/weapons/11-tooltip\">Mace</a>, <a class=\"tooltip-hover item-tooltip\" href=\"https://www.dndbeyond.com/equipment/441-tinkers-tools\" data-tooltip-href=\"/adventuring-gear/441-tooltip\">Tinker’s Tools</a></p>\n<p><strong>Senses</strong> Passive Perception 14</p>\n<p><strong>Languages</strong> Common plus two other languages</p>\n<p><strong>CR</strong> 4 (XP 1,100; PB +2)</p>\n<p class=\"monster-header\">Actions</p>\n<p><strong><em>Multiattack.</em></strong> The artificer makes two attacks, using Battering Mace or Artillery Strike in any combination.</p>\n<p><strong><em>Battering Mace.</em></strong> <em>Melee Attack Roll:</em> +6, reach 5 ft. <em>Hit:</em> 14 (3d6 + 4) Bludgeoning damage, and if the target is a Large or smaller creature, it has the <a class=\"tooltip-hover condition-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#ProneCondition\" data-tooltip-href=\"/conditions/12-tooltip\">Prone</a> condition.</p>\n<p><strong><em>Artillery Strike.</em></strong> <em>Ranged Attack Roll:</em> +6, range 120 ft. <em>Hit:</em> 22 (4d8 + 4) Force damage.</p>\n<p><strong><em>Spellcasting.</em></strong> The artificer casts one of the following spells, using its Tinker’s Tools as an Arcane Focus and using Intelligence as the spellcasting ability (spell save DC 14):</p>\n<p><strong>At Will:</strong> <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2618946-burning-hands\" data-tooltip-href=\"/spells/2618946-tooltip\">Burning Hands</a> (level 3 version), <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2619033-mending\" data-tooltip-href=\"/spells/2619033-tooltip\">Mending</a>, <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2619184-thunderwave\" data-tooltip-href=\"/spells/2619184-tooltip\">Thunderwave</a> (level 3 version)</p>\n<p><strong>1/Day Each:</strong> <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2619079-cure-wounds\" data-tooltip-href=\"/spells/2619079-tooltip\">Cure Wounds</a>, <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2619116-invisibility\" data-tooltip-href=\"/spells/2619116-tooltip\">Invisibility</a></p>\n</div>\n\n\n\n\n<h4 class=\"compendium-hr heading-anchor\" id=\"GhallandaTroubleshooter\">Ghallanda Troubleshooter</h4>\n<p>The inns of House Ghallanda are meant to be places of safe refuge and quiet rest, so the house employs troubleshooters (mostly halflings) to protect the safety and serenity of its guests.</p>\n<div class=\"stat-block ui-draggable\">\n\n\n\n\n<h4 class=\"compendium-hr with-metadata quick-menu-exclude heading-anchor\" id=\"GhallandaTroubleshooterStats\"><a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/5976752-ghallanda-troubleshooter\" data-tooltip-href=\"/monsters/5976752-tooltip\">Ghallanda Troubleshooter</a></h4>\n<p>Small Humanoid (Halfling), Neutral</p>\n<p><strong>AC</strong> 14 <strong>Initiative</strong> +3 (13)</p>\n<p><strong>HP</strong> 78 (12d6 + 36)</p>\n<p><strong>Speed</strong> 30 ft.</p>\n<div class=\"stats\">\n<table class=\"physical abilities-saves\">\n<thead>\n<tr>\n<th>Ability</th>\n<th>Score</th>\n<th>Mod</th>\n<th>Save</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<th>Str</th>\n<td>10</td>\n<td>+0</td>\n<td>+0</td>\n</tr>\n<tr>\n<th>Dex</th>\n<td>16</td>\n<td>+3</td>\n<td>+5</td>\n</tr>\n<tr>\n<th>Con</th>\n<td>17</td>\n<td>+3</td>\n<td>+5</td>\n</tr>\n</tbody>\n</table>\n<table class=\"mental abilities-saves\">\n<thead>\n<tr>\n<th>Ability</th>\n<th>Score</th>\n<th>Mod</th>\n<th>Save</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<th>Int</th>\n<td>13</td>\n<td>+1</td>\n<td>+1</td>\n</tr>\n<tr>\n<th>Wis</th>\n<td>14</td>\n<td>+2</td>\n<td>+4</td>\n</tr>\n<tr>\n<th>Cha</th>\n<td>17</td>\n<td>+3</td>\n<td>+5</td>\n</tr>\n</tbody>\n</table>\n</div>\n<p><strong>Skills</strong> <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/12-tooltip\">Insight</a> +4, <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/14-tooltip\">Perception</a> +4, <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/5-tooltip\">Stealth</a> +5</p>\n<p><strong>Immunities</strong> <a class=\"tooltip-hover condition-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#FrightenedCondition\" data-tooltip-href=\"/conditions/5-tooltip\">Frightened</a></p>\n<p><strong>Gear</strong> <a class=\"tooltip-hover item-tooltip\" href=\"https://www.dndbeyond.com/equipment/3-dagger\" data-tooltip-href=\"/weapons/3-tooltip\">Daggers</a> (6), <a class=\"tooltip-hover item-tooltip\" href=\"https://www.dndbeyond.com/equipment/10-leather\" data-tooltip-href=\"/armor/10-tooltip\">Leather Armor</a></p>\n<p><strong>Senses</strong> Passive Perception 14</p>\n<p><strong>Languages</strong> Common, Halfling</p>\n<p><strong>CR</strong> 3 (XP 700; PB +2)</p>\n<p class=\"monster-header\">Traits</p>\n<p><strong><em>Hustle.</em></strong> The troubleshooter can move through the space of any creature that is of a larger size, but it can’t stop there.</p>\n<p class=\"monster-header\">Actions</p>\n<p><strong><em>Multiattack.</em></strong> The troubleshooter makes two Poisoned Dagger attacks.</p>\n<p><strong><em>Poisoned Dagger.</em></strong> <em>Melee or Ranged Attack Roll:</em> +5, reach 5 ft. or range 20/60 ft. <em>Hit:</em> 5 (1d4 + 3) Piercing damage, and the target has the <a class=\"tooltip-hover condition-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#PoisonedCondition\" data-tooltip-href=\"/conditions/11-tooltip\">Poisoned</a> condition until the start of the troubleshooter’s next turn.</p>\n<p><strong><em>Spellcasting.</em></strong> The troubleshooter casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 13):</p>\n<p><strong>1/Day Each:</strong> <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2619064-sleep\" data-tooltip-href=\"/spells/2619064-tooltip\">Sleep</a>, <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2619209-unseen-servant\" data-tooltip-href=\"/spells/2619209-tooltip\">Unseen Servant</a></p>\n<p class=\"monster-header\">Bonus Actions</p>\n<p><strong><em>Nimble Escape.</em></strong> The troubleshooter takes the <a class=\"tooltip-hover action-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#DisengageAction\" data-tooltip-href=\"/actions/5-tooltip\">Disengage</a> or <a class=\"tooltip-hover action-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#HideAction\" data-tooltip-href=\"/actions/8-tooltip\">Hide</a> action.</p>\n</div>\n\n\n\n\n<h4 class=\"compendium-hr heading-anchor\" id=\"JorascoMedic\">Jorasco Medic</h4>\n<p>Dragonmarked heirs of House Jorasco served alongside every nation’s armies in the Last War, providing medical care and magical healing to the injured. Though the warring nations treated Jorasco medics as sacrosanct, these medics also learned to channel their healing power into dazzling light to help them reach the wounded and escape from the thick of combat when necessary.</p>\n<div class=\"stat-block ui-draggable\">\n\n\n\n\n<h4 class=\"compendium-hr with-metadata quick-menu-exclude heading-anchor\" id=\"JorascoMedicStats\"><a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/5976753-jorasco-medic\" data-tooltip-href=\"/monsters/5976753-tooltip\">Jorasco Medic</a></h4>\n<p>Small Humanoid (Halfling), Neutral</p>\n<p><strong>AC</strong> 16 <strong>Initiative</strong> +4 (14)</p>\n<p><strong>HP</strong> 58 (9d6 + 27)</p>\n<p><strong>Speed</strong> 30 ft.</p>\n<div class=\"stats\">\n<table class=\"physical abilities-saves\">\n<thead>\n<tr>\n<th>Ability</th>\n<th>Score</th>\n<th>Mod</th>\n<th>Save</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<th>Str</th>\n<td>12</td>\n<td>+1</td>\n<td>+1</td>\n</tr>\n<tr>\n<th>Dex</th>\n<td>15</td>\n<td>+2</td>\n<td>+2</td>\n</tr>\n<tr>\n<th>Con</th>\n<td>16</td>\n<td>+3</td>\n<td>+5</td>\n</tr>\n</tbody>\n</table>\n<table class=\"mental abilities-saves\">\n<thead>\n<tr>\n<th>Ability</th>\n<th>Score</th>\n<th>Mod</th>\n<th>Save</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<th>Int</th>\n<td>14</td>\n<td>+2</td>\n<td>+2</td>\n</tr>\n<tr>\n<th>Wis</th>\n<td>17</td>\n<td>+3</td>\n<td>+5</td>\n</tr>\n<tr>\n<th>Cha</th>\n<td>14</td>\n<td>+2</td>\n<td>+2</td>\n</tr>\n</tbody>\n</table>\n</div>\n<p><strong>Skills</strong> <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/12-tooltip\">Insight</a> +5, <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/13-tooltip\">Medicine</a> +5, <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/14-tooltip\">Perception</a> +5, <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/5-tooltip\">Stealth</a> +4</p>\n<p><strong>Gear</strong> <a class=\"tooltip-hover item-tooltip\" href=\"https://www.dndbeyond.com/equipment/13-breastplate\" data-tooltip-href=\"/armor/13-tooltip\">Breastplate</a></p>\n<p><strong>Senses</strong> Passive Perception 15</p>\n<p><strong>Languages</strong> Common, Halfling</p>\n<p><strong>CR</strong> 4 (XP 1,100; PB +2)</p>\n<p class=\"monster-header\">Traits</p>\n<p><strong><em>Lucky.</em></strong> When the medic rolls a 1 on the d20 of a D20 Test, it can reroll the die, and it must use the new roll.</p>\n<p class=\"monster-header\">Actions</p>\n<p><strong><em>Multiattack.</em></strong> The medic makes two Radiant Burst attacks.</p>\n<p><strong><em>Radiant Burst.</em></strong> <em>Melee or Ranged Attack Roll:</em> +5, reach 5 ft. or range 30 ft. <em>Hit:</em> 7 (2d6) Radiant damage, and the creature has the <a class=\"tooltip-hover condition-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#BlindedCondition\" data-tooltip-href=\"/conditions/1-tooltip\">Blinded</a> condition until the start of the medic’s next turn.</p>\n<p class=\"monster-header\">Bonus Actions</p>\n<p><strong><em>Mark of Healing (2/Day).</em></strong> The medic casts <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2619079-cure-wounds\" data-tooltip-href=\"/spells/2619079-tooltip\">Cure Wounds</a> or <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2619016-lesser-restoration\" data-tooltip-href=\"/spells/2619016-tooltip\">Lesser Restoration</a>, using Wisdom as the spellcasting ability.</p>\n</div>\n\n\n\n\n<h4 class=\"compendium-hr heading-anchor\" id=\"KundarakWarden\">Kundarak Warden</h4>\n<p>Some dragonmarked heirs (mostly dwarves) of House Kundarak serve as personal guardians for the house’s vaults and storehouses, and even its infamous prison, Dreadhold. Some also serve as agents of the mysterious Ghorad’din, a secretive group of assassins and spies little known beyond the members of the house. Kundarak wardens are adept at bypassing security measures as well as reinforcing them.</p>\n<div class=\"stat-block ui-draggable\">\n\n\n\n\n<h4 class=\"compendium-hr with-metadata quick-menu-exclude heading-anchor\" id=\"KundarakWardenStats\"><a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/5976754-kundarak-warden\" data-tooltip-href=\"/monsters/5976754-tooltip\">Kundarak Warden</a></h4>\n<p>Medium Humanoid (Dwarf), Neutral</p>\n<p><strong>AC</strong> 14 <strong>Initiative</strong> +1 (11)</p>\n<p><strong>HP</strong> 82 (11d8 + 33)</p>\n<p><strong>Speed</strong> 30 ft.</p>\n<div class=\"stats\">\n<table class=\"physical abilities-saves\">\n<thead>\n<tr>\n<th>Ability</th>\n<th>Score</th>\n<th>Mod</th>\n<th>Save</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<th>Str</th>\n<td>15</td>\n<td>+2</td>\n<td>+2</td>\n</tr>\n<tr>\n<th>Dex</th>\n<td>12</td>\n<td>+1</td>\n<td>+1</td>\n</tr>\n<tr>\n<th>Con</th>\n<td>16</td>\n<td>+3</td>\n<td>+6</td>\n</tr>\n</tbody>\n</table>\n<table class=\"mental abilities-saves\">\n<thead>\n<tr>\n<th>Ability</th>\n<th>Score</th>\n<th>Mod</th>\n<th>Save</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<th>Int</th>\n<td>17</td>\n<td>+3</td>\n<td>+3</td>\n</tr>\n<tr>\n<th>Wis</th>\n<td>13</td>\n<td>+1</td>\n<td>+1</td>\n</tr>\n<tr>\n<th>Cha</th>\n<td>10</td>\n<td>+0</td>\n<td>+0</td>\n</tr>\n</tbody>\n</table>\n</div>\n<p><strong>Senses</strong> <a class=\"tooltip-hover sense-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#Darkvision\" data-tooltip-href=\"/senses/2-tooltip\">Darkvision</a> 120 ft.; Passive Perception 11</p>\n<p><strong>Languages</strong> Common, Dwarvish</p>\n<p><strong>CR</strong> 5 (XP 1,800; PB +3)</p>\n<p class=\"monster-header\">Traits</p>\n<p><strong><em>Magic Resistance.</em></strong> The warden has Advantage on saving throws against spells and other magical effects.</p>\n<p class=\"monster-header\">Actions</p>\n<p><strong><em>Multiattack.</em></strong> The warden makes two Arcane Whip attacks. It can replace one attack with a use of Shackling Glyph if available.</p>\n<p><strong><em>Arcane Whip.</em></strong> <em>Melee Attack Roll:</em> +6, reach 10 ft. <em>Hit:</em> 13 (3d6 + 3) Force damage, and if the target is a Medium or smaller creature, it has the <a class=\"tooltip-hover condition-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#ProneCondition\" data-tooltip-href=\"/conditions/12-tooltip\">Prone</a> condition. If the target already has the Prone condition, the attack deals an extra 7 (2d6) Force damage.</p>\n<p><strong><em>Shackling Glyph (Recharge 6).</em></strong> <em>Strength Saving Throw:</em> DC 14, one creature the warden can see within 60 feet. <em>Failure:</em> The creature has the <a class=\"tooltip-hover condition-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#GrappledCondition\" data-tooltip-href=\"/conditions/6-tooltip\">Grappled</a> condition (escape DC 14). While Grappled, the creature has the <a class=\"tooltip-hover condition-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#RestrainedCondition\" data-tooltip-href=\"/conditions/13-tooltip\">Restrained</a> condition.</p>\n<p><strong><em>Spellcasting.</em></strong> The warden casts one of the following spells, requiring no Material components and using Intelligence as the spellcasting ability (spell save DC 14):</p>\n<p><strong>At Will:</strong> <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2619222-alarm\" data-tooltip-href=\"/spells/2619222-tooltip\">Alarm</a>, <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2618868-arcane-lock\" data-tooltip-href=\"/spells/2618868-tooltip\">Arcane Lock</a>, <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2619006-mage-armor\" data-tooltip-href=\"/spells/2619006-tooltip\">Mage Armor</a> (included in AC)</p>\n<p><strong>1/Day:</strong> <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2619103-dispel-magic\" data-tooltip-href=\"/spells/2619103-tooltip\">Dispel Magic</a></p>\n<p class=\"monster-header\">Reactions</p>\n<p><strong><em>Protective Magic (3/Day).</em></strong> The warden casts <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2619072-counterspell\" data-tooltip-href=\"/spells/2619072-tooltip\">Counterspell</a> or <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2619019-shield\" data-tooltip-href=\"/spells/2619019-tooltip\">Shield</a> in response to the spell’s trigger, using the same spellcasting ability as Spellcasting.</p>\n</div>\n\n\n\n\n<h4 class=\"compendium-hr heading-anchor\" id=\"LyrandarScion\">Lyrandar Scion</h4>\n<p>The Khoravar dragonmarked scions of House Lyrandar include swashbuckling sky captains, seafaring adventurers, and sinister cultists of the Hurricane Harvest. The power of their dragonmarks manifests as easy control of wind, thunder, and lightning, which they wield as readily in combat as in navigating the sea and sky.</p>\n<p>Members of the Hurricane Harvest believe that the Mark of Storm is not a gift of the Sovereign Host, as others in their house teach, but the sign of the Devourer. They maintain that the greatest ancestors of their house live on as krakens in the deep and guide the cult through visions to use their power for destruction and domination. They sometimes partner with kuo-toa, sahuagin, and other monsters of the deep.</p>\n<div class=\"stat-block ui-draggable\">\n\n\n\n\n<h4 class=\"compendium-hr with-metadata quick-menu-exclude heading-anchor\" id=\"LyrandarScionStats\"><a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/5976755-lyrandar-scion\" data-tooltip-href=\"/monsters/5976755-tooltip\">Lyrandar Scion</a></h4>\n<p>Medium or Small Humanoid (Khoravar), Neutral</p>\n<p><strong>AC</strong> 13 <strong>Initiative</strong> +3 (13)</p>\n<p><strong>HP</strong> 60 (11d8 + 11)</p>\n<p><strong>Speed</strong> 30 ft.</p>\n<div class=\"stats\">\n<table class=\"physical abilities-saves\">\n<thead>\n<tr>\n<th>Ability</th>\n<th>Score</th>\n<th>Mod</th>\n<th>Save</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<th>Str</th>\n<td>12</td>\n<td>+1</td>\n<td>+3</td>\n</tr>\n<tr>\n<th>Dex</th>\n<td>16</td>\n<td>+3</td>\n<td>+5</td>\n</tr>\n<tr>\n<th>Con</th>\n<td>13</td>\n<td>+1</td>\n<td>+1</td>\n</tr>\n</tbody>\n</table>\n<table class=\"mental abilities-saves\">\n<thead>\n<tr>\n<th>Ability</th>\n<th>Score</th>\n<th>Mod</th>\n<th>Save</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<th>Int</th>\n<td>12</td>\n<td>+1</td>\n<td>+1</td>\n</tr>\n<tr>\n<th>Wis</th>\n<td>15</td>\n<td>+2</td>\n<td>+2</td>\n</tr>\n<tr>\n<th>Cha</th>\n<td>18</td>\n<td>+4</td>\n<td>+4</td>\n</tr>\n</tbody>\n</table>\n</div>\n<p><strong>Skills</strong> <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/3-tooltip\">Acrobatics</a> +5, <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/14-tooltip\">Perception</a> +4</p>\n<p><strong>Resistances</strong> Lightning, Thunder</p>\n<p><strong>Gear</strong> <a class=\"tooltip-hover item-tooltip\" href=\"https://www.dndbeyond.com/equipment/544-arcane-focus\" data-tooltip-href=\"/adventuring-gear/544-tooltip\">Arcane Focus</a> <a class=\"tooltip-hover item-tooltip\" href=\"https://www.dndbeyond.com/equipment/537-wand\" data-tooltip-href=\"/adventuring-gear/537-tooltip\">(wand)</a></p>\n<p><strong>Senses</strong> <a class=\"tooltip-hover sense-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#Darkvision\" data-tooltip-href=\"/senses/2-tooltip\">Darkvision</a> 60 ft.; Passive Perception 14</p>\n<p><strong>Languages</strong> Common, Elvish</p>\n<p><strong>CR</strong> 4 (XP 1,100; PB +2)</p>\n<p class=\"monster-header\">Actions</p>\n<p><strong><em>Multiattack.</em></strong> The scion makes two Thunderbolt attacks and uses Spellcasting.</p>\n<p><strong><em>Thunderbolt.</em></strong> <em>Melee or Ranged Attack Roll:</em> +6, reach 5 ft. or range 30 ft. <em>Hit:</em> 11 (2d6 + 4) Lightning damage plus 9 (2d8) Thunder damage. <em>Critical Hit:</em> The creature also has the <a class=\"tooltip-hover condition-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#DeafenedCondition\" data-tooltip-href=\"/conditions/3-tooltip\">Deafened</a> condition for 1 minute.</p>\n<p><strong><em>Spellcasting.</em></strong> The scion casts one of the following spells, using Charisma as the spellcasting ability (spell save DC 14):</p>\n<p><strong>At Will:</strong> <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2618834-elementalism\" data-tooltip-href=\"/spells/2618834-tooltip\">Elementalism</a>, <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2619137-gust-of-wind\" data-tooltip-href=\"/spells/2619137-tooltip\">Gust of Wind</a>, <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2619184-thunderwave\" data-tooltip-href=\"/spells/2619184-tooltip\">Thunderwave</a></p>\n<p class=\"monster-header\">Bonus Actions</p>\n<p><strong><em>Jump (2/Day).</em></strong> The scion casts <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2618991-jump\" data-tooltip-href=\"/spells/2618991-tooltip\">Jump</a>, requiring no spell components and using the same spellcasting ability as Spellcasting.</p>\n<p class=\"monster-header\">Reactions</p>\n<p><strong><em>Feather Fall (2/Day).</em></strong> The scion casts <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2618874-feather-fall\" data-tooltip-href=\"/spells/2618874-tooltip\">Feather Fall</a> in response to that spell’s trigger, using the same spellcasting ability as Spellcasting.</p>\n</div>\n\n\n\n\n<h4 class=\"compendium-hr heading-anchor\" id=\"MedaniInquisitive\">Medani Inquisitive</h4>\n<p>The most prized inquisitives of House Medani, a house of mostly Khoravar, employ their dragonmarks and their keen intellects to anticipate threats from any quarter. Some are part of a secretive order called the Basilisk’s Gaze, dedicated to hunting down fugitive war criminals who committed atrocities during the Last War.</p>\n<div class=\"stat-block ui-draggable\">\n\n\n\n\n<h4 class=\"compendium-hr with-metadata quick-menu-exclude heading-anchor\" id=\"MedaniInquisitiveStats\"><a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/5976756-medani-inquisitive\" data-tooltip-href=\"/monsters/5976756-tooltip\">Medani Inquisitive</a></h4>\n<p>Medium or Small Humanoid (Khoravar), Neutral</p>\n<p><strong>AC</strong> 14 <strong>Initiative</strong> +0 (10)</p>\n<p><strong>HP</strong> 45 (7d8 + 14)</p>\n<p><strong>Speed</strong> 30 ft.</p>\n<div class=\"stats\">\n<table class=\"physical abilities-saves\">\n<thead>\n<tr>\n<th>Ability</th>\n<th>Score</th>\n<th>Mod</th>\n<th>Save</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<th>Str</th>\n<td>14</td>\n<td>+2</td>\n<td>+2</td>\n</tr>\n<tr>\n<th>Dex</th>\n<td>10</td>\n<td>+0</td>\n<td>+0</td>\n</tr>\n<tr>\n<th>Con</th>\n<td>14</td>\n<td>+2</td>\n<td>+4</td>\n</tr>\n</tbody>\n</table>\n<table class=\"mental abilities-saves\">\n<thead>\n<tr>\n<th>Ability</th>\n<th>Score</th>\n<th>Mod</th>\n<th>Save</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<th>Int</th>\n<td>15</td>\n<td>+2</td>\n<td>+2</td>\n</tr>\n<tr>\n<th>Wis</th>\n<td>16</td>\n<td>+3</td>\n<td>+5</td>\n</tr>\n<tr>\n<th>Cha</th>\n<td>14</td>\n<td>+2</td>\n<td>+2</td>\n</tr>\n</tbody>\n</table>\n</div>\n<p><strong>Skills</strong> <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/12-tooltip\">Insight</a> +5, <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/8-tooltip\">Investigation</a> +4</p>\n<p><strong>Gear</strong> <a class=\"tooltip-hover item-tooltip\" href=\"https://www.dndbeyond.com/equipment/13-breastplate\" data-tooltip-href=\"/armor/13-tooltip\">Breastplate</a>, <a class=\"tooltip-hover item-tooltip\" href=\"https://www.dndbeyond.com/equipment/12-quarterstaff\" data-tooltip-href=\"/weapons/12-tooltip\">Quarterstaff</a></p>\n<p><strong>Senses</strong> <a class=\"tooltip-hover sense-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#Darkvision\" data-tooltip-href=\"/senses/2-tooltip\">Darkvision</a> 60 ft.; Passive Perception 13</p>\n<p><strong>Languages</strong> Common, Elvish</p>\n<p><strong>CR</strong> 3 (XP 700; PB +2)</p>\n<p class=\"monster-header\">Actions</p>\n<p><strong><em>Multiattack.</em></strong> The inquisitive makes three Crooked Staff attacks. It can replace one attack with a use of Inquisitive Eye.</p>\n<p><strong><em>Crooked Staff.</em></strong> <em>Melee Attack Roll:</em> +4, reach 5 ft. <em>Hit:</em> 6 (1d8 + 2) Bludgeoning damage. If the target is a Medium or smaller creature, it has the <a class=\"tooltip-hover condition-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#ProneCondition\" data-tooltip-href=\"/conditions/12-tooltip\">Prone</a> condition. If the target already has the Prone condition, the attack deals an extra 7 (2d6) Radiant damage.</p>\n<p><strong><em>Inquisitive Eye.</em></strong> <em>Wisdom Saving Throw:</em> DC 13, one creature the inquisitive can see within 60 feet. <em>Failure:</em> 10 (3d6) Psychic damage, and the target is marked. The inquisitive has Advantage on attack rolls against a target it has marked. While marked, the target can’t become hidden from the inquisitive, and if it has the <a class=\"tooltip-hover condition-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#InvisibleCondition\" data-tooltip-href=\"/conditions/8-tooltip\">Invisible</a> condition, it gains no benefit from that condition against the inquisitive. The mark disappears after 1 minute or when the inquisitive uses this action again. <em>Success:</em> Half damage only.</p>\n<p><strong><em>Spellcasting.</em></strong> The inquisitive casts one of the following spells, requiring no Material components and using Wisdom as the spellcasting ability (spell save DC 13):</p>\n<p><strong>At Will:</strong> <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2618971-guidance\" data-tooltip-href=\"/spells/2618971-tooltip\">Guidance</a></p>\n<p><strong>1/Day Each:</strong> <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2619099-detect-thoughts\" data-tooltip-href=\"/spells/2619099-tooltip\">Detect Thoughts</a>, <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2619011-see-invisibility\" data-tooltip-href=\"/spells/2619011-tooltip\">See Invisibility</a></p>\n<p class=\"monster-header\">Reactions</p>\n<p><strong><em>Spontaneous Barrier (Recharge 4–6).</em></strong> <em>Trigger:</em> The inquisitive or an ally it can see is hit with an attack roll. <em>Response:</em> The inquisitive adds 2 to its or the ally’s AC against that attack, possibly causing it to miss.</p>\n</div>\n\n\n\n\n<h4 class=\"compendium-hr heading-anchor\" id=\"OrienEnforcer\">Orien Enforcer</h4>\n<p>Whether riding on an Orien cart, guarding the lightning rail on a cross-continental journey, or using Orien <em>Teleportation Circles</em> to transport precious parcels in an instant, dragonmarked enforcers of House Orien (mostly humans) protect their house’s interests and maintain its reputation for dependability.</p>\n<div class=\"stat-block ui-draggable\">\n\n\n\n\n<h4 class=\"compendium-hr with-metadata quick-menu-exclude heading-anchor\" id=\"OrienEnforcerStats\"><a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/5976757-orien-enforcer\" data-tooltip-href=\"/monsters/5976757-tooltip\">Orien Enforcer</a></h4>\n<p>Medium or Small Humanoid (Human), Neutral</p>\n<p><strong>AC</strong> 16 <strong>Initiative</strong> +6 (16)</p>\n<p><strong>HP</strong> 55 (10d8 + 10)</p>\n<p><strong>Speed</strong> 35 ft.</p>\n<div class=\"stats\">\n<table class=\"physical abilities-saves\">\n<thead>\n<tr>\n<th>Ability</th>\n<th>Score</th>\n<th>Mod</th>\n<th>Save</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<th>Str</th>\n<td>12</td>\n<td>+1</td>\n<td>+1</td>\n</tr>\n<tr>\n<th>Dex</th>\n<td>18</td>\n<td>+4</td>\n<td>+6</td>\n</tr>\n<tr>\n<th>Con</th>\n<td>13</td>\n<td>+1</td>\n<td>+1</td>\n</tr>\n</tbody>\n</table>\n<table class=\"mental abilities-saves\">\n<thead>\n<tr>\n<th>Ability</th>\n<th>Score</th>\n<th>Mod</th>\n<th>Save</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<th>Int</th>\n<td>16</td>\n<td>+3</td>\n<td>+3</td>\n</tr>\n<tr>\n<th>Wis</th>\n<td>14</td>\n<td>+2</td>\n<td>+4</td>\n</tr>\n<tr>\n<th>Cha</th>\n<td>11</td>\n<td>+0</td>\n<td>+0</td>\n</tr>\n</tbody>\n</table>\n</div>\n<p><strong>Skills</strong> <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/3-tooltip\">Acrobatics</a> +6, <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/14-tooltip\">Perception</a> +4</p>\n<p><strong>Gear</strong> <a class=\"tooltip-hover item-tooltip\" href=\"https://www.dndbeyond.com/equipment/3-dagger\" data-tooltip-href=\"/weapons/3-tooltip\">Daggers</a> (6), <a class=\"tooltip-hover item-tooltip\" href=\"https://www.dndbeyond.com/equipment/3-studded-leather\" data-tooltip-href=\"/armor/3-tooltip\">Studded Leather Armor</a></p>\n<p><strong>Senses</strong> Passive Perception 14</p>\n<p><strong>Languages</strong> Common plus two other languages</p>\n<p><strong>CR</strong> 4 (XP 1,100; PB +2)</p>\n<p class=\"monster-header\">Actions</p>\n<p><strong><em>Multiattack.</em></strong> The enforcer makes three Dagger attacks. It can replace one attack with a use of Lightning Cage if available.</p>\n<p><strong><em>Dagger.</em></strong> <em>Melee or Ranged Attack Roll:</em> +6, reach 5 ft. or range 20/60 ft. <em>Hit:</em> 9 (2d4 + 4) Piercing damage plus 7 (2d6) Poison damage.</p>\n<p><strong><em>Lightning Cage (Recharge 5–6).</em></strong> <em>Constitution Saving Throw:</em> DC 13, each creature in a 20-foot-radius Sphere centered on a point the enforcer can see within 60 feet. <em>Failure:</em> 13 (3d8) Lightning damage, and the creature can’t take Reactions until the end of the enforcer’s next turn. <em>Success:</em> Half damage only.</p>\n<p class=\"monster-header\">Bonus Actions</p>\n<p><strong><em>Misty Step (2/Day).</em></strong> The enforcer casts <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2619133-misty-step\" data-tooltip-href=\"/spells/2619133-tooltip\">Misty Step</a>, using Intelligence as the spellcasting ability.</p>\n<p class=\"monster-header\">Reactions</p>\n<p><strong><em>Temporal Disruption (1/Day).</em></strong> <em>Trigger:</em> The enforcer takes damage from a melee attack. <em>Response:</em> The enforcer <a class=\"tooltip-hover rule-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#Teleportation\" data-tooltip-href=\"/rules-glossary/118-tooltip\">teleports</a> up to 30 feet to an unoccupied space it can see. Each creature within 10 feet of the space the enforcer left must succeed on a DC 13 Constitution saving throw, or its Speed is halved until the start of the enforcer’s next turn.</p>\n</div>\n\n\n\n\n<h4 class=\"compendium-hr heading-anchor\" id=\"SentinelMarshal\">Sentinel Marshal</h4>\n<p>The Sentinel Marshals of House Deneith, who are typically human, hold the honor of the house in their hands. The Treaty of Thronehold upheld their authority to pursue criminals across international borders, giving them the unique privilege and responsibility of upholding the law across Khorvaire.</p>\n<p>Only the most trusted heirs of the house are honored with a position in the Sentinel Marshals, either after serving in the house’s other guilds for several years (as bodyguards in the Defenders Guild and mercenary officers in the Blademarks Guild) or by special dispensation of House Deneith.</p>\n<p>Sentinel Marshals are never authorized to break local or international laws, but neither are they accountable to the legal authorities of any nation. A rogue marshal can be punished only by the leadership of House Deneith, but some nations (such as Darguun and Droaam) ignore these conventions.</p>\n<div class=\"stat-block ui-draggable\">\n\n\n\n\n<h4 class=\"compendium-hr with-metadata quick-menu-exclude heading-anchor\" id=\"SentinelMarshalStats\"><a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/5976758-sentinel-marshal\" data-tooltip-href=\"/monsters/5976758-tooltip\">Sentinel Marshal</a></h4>\n<p>Medium or Small Humanoid (Human), Lawful Neutral</p>\n<p><strong>AC</strong> 16 <strong>Initiative</strong> +10 (20)</p>\n<p><strong>HP</strong> 110 (20d8 + 20)</p>\n<p><strong>Speed</strong> 30 ft.</p>\n<div class=\"stats\">\n<table class=\"physical abilities-saves\">\n<thead>\n<tr>\n<th>Ability</th>\n<th>Score</th>\n<th>Mod</th>\n<th>Save</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<th>Str</th>\n<td>18</td>\n<td>+4</td>\n<td>+4</td>\n</tr>\n<tr>\n<th>Dex</th>\n<td>19</td>\n<td>+4</td>\n<td>+7</td>\n</tr>\n<tr>\n<th>Con</th>\n<td>12</td>\n<td>+1</td>\n<td>+4</td>\n</tr>\n</tbody>\n</table>\n<table class=\"mental abilities-saves\">\n<thead>\n<tr>\n<th>Ability</th>\n<th>Score</th>\n<th>Mod</th>\n<th>Save</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<th>Int</th>\n<td>11</td>\n<td>+0</td>\n<td>+0</td>\n</tr>\n<tr>\n<th>Wis</th>\n<td>15</td>\n<td>+2</td>\n<td>+2</td>\n</tr>\n<tr>\n<th>Cha</th>\n<td>10</td>\n<td>+0</td>\n<td>+0</td>\n</tr>\n</tbody>\n</table>\n</div>\n<p><strong>Skills</strong> <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/2-tooltip\">Athletics</a> +7, <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/12-tooltip\">Insight</a> +5, <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/14-tooltip\">Perception</a> +8</p>\n<p><strong>Gear</strong> <a class=\"tooltip-hover item-tooltip\" href=\"https://www.dndbeyond.com/equipment/4-longsword\" data-tooltip-href=\"/weapons/4-tooltip\">Longsword</a>, <a class=\"tooltip-hover item-tooltip\" href=\"https://www.dndbeyond.com/equipment/42-pistol\" data-tooltip-href=\"/weapons/42-tooltip\">Pistol</a>, <a class=\"tooltip-hover item-tooltip\" href=\"https://www.dndbeyond.com/equipment/3-studded-leather\" data-tooltip-href=\"/armor/3-tooltip\">Studded Leather Armor</a></p>\n<p><strong>Senses</strong> Passive Perception 18</p>\n<p><strong>Languages</strong> Common plus two other languages</p>\n<p><strong>CR</strong> 6 (XP 2,300; PB +3)</p>\n<p class=\"monster-header\">Actions</p>\n<p><strong><em>Multiattack.</em></strong> The marshal makes three attacks, using Longsword or Pistol in any combination.</p>\n<p><strong><em>Longsword.</em></strong> <em>Melee Attack Roll:</em> +7, reach 5 ft. <em>Hit:</em> 13 (2d8 + 4) Slashing damage, and the target has Disadvantage on the next attack roll it makes before the start of the marshal’s next turn.</p>\n<p><strong><em>Pistol.</em></strong> <em>Ranged Attack Roll:</em> +7, range 30/90 ft. <em>Hit:</em> 15 (2d10 + 4) Piercing damage.</p>\n<p class=\"monster-header\">Reactions</p>\n<p><strong><em>Shield (3/Day).</em></strong> The marshal casts <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2619019-shield\" data-tooltip-href=\"/spells/2619019-tooltip\">Shield</a> in response to the spell’s trigger, using Wisdom as the spellcasting ability.</p>\n</div>\n\n\n\n\n<h4 class=\"compendium-hr heading-anchor\" id=\"ShadowMarkedAgent\">Shadow-Marked Agent</h4>\n<p>Agents of House Phiarlan and House Thuranni, who are primarily elves, combine stealth and espionage with mastery of the performing arts—and dragonmarked heirs augment those skills with shadow magic. This stat block can serve for an agent of either house.</p>\n<p>Even though House Phiarlan agents don’t typically work as entertainers or artists in addition to their espionage activities, they receive extensive training in those arts alongside other members of their house. House Thuranni agents, in contrast, are always both artists and spies.</p>\n<div class=\"stat-block ui-draggable\">\n\n\n\n\n<h4 class=\"compendium-hr with-metadata quick-menu-exclude heading-anchor\" id=\"ShadowMarkedAgentStats\"><a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/5976759-shadow-marked-agent\" data-tooltip-href=\"/monsters/5976759-tooltip\">Shadow-Marked Agent</a></h4>\n<p>Medium Humanoid (Elf), Neutral</p>\n<p><strong>AC</strong> 17 <strong>Initiative</strong> +8 (18)</p>\n<p><strong>HP</strong> 132 (24d8 + 24)</p>\n<p><strong>Speed</strong> 30 ft.</p>\n<div class=\"stats\">\n<table class=\"physical abilities-saves\">\n<thead>\n<tr>\n<th>Ability</th>\n<th>Score</th>\n<th>Mod</th>\n<th>Save</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<th>Str</th>\n<td>12</td>\n<td>+1</td>\n<td>+1</td>\n</tr>\n<tr>\n<th>Dex</th>\n<td>20</td>\n<td>+5</td>\n<td>+8</td>\n</tr>\n<tr>\n<th>Con</th>\n<td>12</td>\n<td>+1</td>\n<td>+1</td>\n</tr>\n</tbody>\n</table>\n<table class=\"mental abilities-saves\">\n<thead>\n<tr>\n<th>Ability</th>\n<th>Score</th>\n<th>Mod</th>\n<th>Save</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<th>Int</th>\n<td>11</td>\n<td>+0</td>\n<td>+0</td>\n</tr>\n<tr>\n<th>Wis</th>\n<td>16</td>\n<td>+3</td>\n<td>+6</td>\n</tr>\n<tr>\n<th>Cha</th>\n<td>17</td>\n<td>+3</td>\n<td>+3</td>\n</tr>\n</tbody>\n</table>\n</div>\n<p><strong>Skills</strong> <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/14-tooltip\">Perception</a> +6, <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/18-tooltip\">Performance</a> +6, <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/4-tooltip\">Sleight of Hand</a> +8, <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/5-tooltip\">Stealth</a> +11</p>\n<p><strong>Gear</strong> <a class=\"tooltip-hover item-tooltip\" href=\"https://www.dndbeyond.com/equipment/3-studded-leather\" data-tooltip-href=\"/armor/3-tooltip\">Studded Leather Armor</a></p>\n<p><strong>Senses</strong> <a class=\"tooltip-hover sense-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#Darkvision\" data-tooltip-href=\"/senses/2-tooltip\">Darkvision</a> 60 ft.; Passive Perception 16</p>\n<p><strong>Languages</strong> Common, Elvish, Thieves’ Cant</p>\n<p><strong>CR</strong> 7 (XP 2,900; PB +3)</p>\n<p class=\"monster-header\">Actions</p>\n<p><strong><em>Multiattack.</em></strong> The agent makes two Shadow Knife attacks.</p>\n<p><strong><em>Shadow Knife.</em></strong> <em>Melee or Ranged Attack Roll:</em> +8, reach 5 ft. or range 20/60 ft. <em>Hit:</em> 10 (2d4 + 5) Piercing damage plus 14 (4d6) Necrotic damage, and the target’s Speed is reduced by 10 feet until the end of its next turn.</p>\n<p><strong><em>Spellcasting.</em></strong> The agent casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (DC 14):</p>\n<p><strong>At Will:</strong> <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2619102-disguise-self\" data-tooltip-href=\"/spells/2619102-tooltip\">Disguise Self</a>, <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2619039-minor-illusion\" data-tooltip-href=\"/spells/2619039-tooltip\">Minor Illusion</a></p>\n<p><strong>1/Day:</strong> <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2618849-pass-without-trace\" data-tooltip-href=\"/spells/2618849-tooltip\">Pass without Trace</a></p>\n<p class=\"monster-header\">Bonus Actions</p>\n<p><strong><em>Shadow Cloak.</em></strong> The agent has the <a class=\"tooltip-hover condition-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#InvisibleCondition\" data-tooltip-href=\"/conditions/8-tooltip\">Invisible</a> condition until the start of its next turn. This invisibility ends early immediately after the agent makes an attack roll.</p>\n</div>\n\n\n\n\n<h4 class=\"compendium-hr heading-anchor\" id=\"SivisScribe\">Sivis Scribe</h4>\n<p>The dragonmarked heirs of House Sivis are typically accomplished gnome scholars of magic. In addition to the might that comes with their marks, they favor magical sigils and words of power.</p>\n<div class=\"stat-block ui-draggable\">\n\n\n\n\n<h4 class=\"compendium-hr with-metadata quick-menu-exclude heading-anchor\" id=\"SivisScribeStats\"><a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/5976760-sivis-scribe\" data-tooltip-href=\"/monsters/5976760-tooltip\">Sivis Scribe</a></h4>\n<p>Small Humanoid (Gnome), Neutral</p>\n<p><strong>AC</strong> 15 <strong>Initiative</strong> +2 (12)</p>\n<p><strong>HP</strong> 56 (16d6)</p>\n<p><strong>Speed</strong> 30 ft.</p>\n<div class=\"stats\">\n<table class=\"physical abilities-saves\">\n<thead>\n<tr>\n<th>Ability</th>\n<th>Score</th>\n<th>Mod</th>\n<th>Save</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<th>Str</th>\n<td>11</td>\n<td>+0</td>\n<td>+0</td>\n</tr>\n<tr>\n<th>Dex</th>\n<td>15</td>\n<td>+2</td>\n<td>+2</td>\n</tr>\n<tr>\n<th>Con</th>\n<td>10</td>\n<td>+0</td>\n<td>+0</td>\n</tr>\n</tbody>\n</table>\n<table class=\"mental abilities-saves\">\n<thead>\n<tr>\n<th>Ability</th>\n<th>Score</th>\n<th>Mod</th>\n<th>Save</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<th>Int</th>\n<td>16</td>\n<td>+3</td>\n<td>+3</td>\n</tr>\n<tr>\n<th>Wis</th>\n<td>12</td>\n<td>+1</td>\n<td>+3</td>\n</tr>\n<tr>\n<th>Cha</th>\n<td>11</td>\n<td>+0</td>\n<td>+0</td>\n</tr>\n</tbody>\n</table>\n</div>\n<p><strong>Skills</strong> <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/6-tooltip\">Arcana</a> +5, <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/4-tooltip\">Sleight of Hand</a> +4</p>\n<p><strong>Senses</strong> <a class=\"tooltip-hover sense-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#Darkvision\" data-tooltip-href=\"/senses/2-tooltip\">Darkvision</a> 60 ft.; Passive Perception 11</p>\n<p><strong>Languages</strong> Common, Gnomish, plus three other languages</p>\n<p><strong>CR</strong> 3 (XP 700; PB +2)</p>\n<p class=\"monster-header\">Traits</p>\n<p><strong><em>Words of Reason.</em></strong> Allies in a 10-foot Emanation originating from the scribe have Advantage on saving throws to avoid or end the <a class=\"tooltip-hover condition-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#CharmedCondition\" data-tooltip-href=\"/conditions/2-tooltip\">Charmed</a> or <a class=\"tooltip-hover condition-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#FrightenedCondition\" data-tooltip-href=\"/conditions/5-tooltip\">Frightened</a> condition. This trait doesn’t function if the scribe has the <a class=\"tooltip-hover condition-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#IncapacitatedCondition\" data-tooltip-href=\"/conditions/7-tooltip\">Incapacitated</a> condition.</p>\n<p class=\"monster-header\">Actions</p>\n<p><strong><em>Multiattack.</em></strong> The scribe makes two Bursting Sigil attacks.</p>\n<p><strong><em>Bursting Sigil.</em></strong> <em>Melee or Ranged Attack Roll:</em> +5, reach 5 ft. or range 60 ft. <em>Hit:</em> 13 (3d6 + 3) Radiant damage.</p>\n<p><strong><em>Spellcasting.</em></strong> The scribe casts one of the following spells, requiring no Material components and using Intelligence as the spellcasting ability (DC 13):</p>\n<p><strong>At Will:</strong> <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2618993-comprehend-languages\" data-tooltip-href=\"/spells/2618993-tooltip\">Comprehend Languages</a>, <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2619006-mage-armor\" data-tooltip-href=\"/spells/2619006-tooltip\">Mage Armor</a> (included in AC), <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2619034-message\" data-tooltip-href=\"/spells/2619034-tooltip\">Message</a></p>\n<p><strong>1/Day:</strong> <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2619015-sending\" data-tooltip-href=\"/spells/2619015-tooltip\">Sending</a></p>\n<p class=\"monster-header\">Bonus Actions</p>\n<p><strong><em>Word of Stasis (Recharge 5–6).</em></strong> <em>Constitution Saving Throw:</em> DC 13, each creature in a 20-foot-radius Sphere centered on a point the scribe can see within 60 feet. <em>Failure:</em> The target has the <a class=\"tooltip-hover condition-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#IncapacitatedCondition\" data-tooltip-href=\"/conditions/7-tooltip\">Incapacitated</a> condition until the start of the scribe’s next turn. While the target is Incapacitated, its Speed is 0 and can’t increase.</p>\n</div>\n\n\n\n\n<h4 class=\"compendium-hr heading-anchor\" id=\"TharashkHunter\">Tharashk Hunter</h4>\n<p>House Tharashk’s heirs include inquisitives, dragonshard prospectors, and bounty hunters. They are more at home in the trackless wilds than in crowded city streets, but they are quite capable of tracking and pursuing their prey in any environment.</p>\n<p>Tharashk hunters, typically humans or orcs, often work alongside <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/5194976-druid\" data-tooltip-href=\"/monsters/5194976-tooltip\">Druids</a> of the Gatekeepers, and occasionally with <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/5194866-aberrant-cultist\" data-tooltip-href=\"/monsters/5194866-tooltip\">Aberrant Cultists</a> of the Dragon Below.</p>\n<div class=\"stat-block ui-draggable\">\n\n\n\n\n<h4 class=\"compendium-hr with-metadata quick-menu-exclude heading-anchor\" id=\"TharashkHunterStats\"><a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/5976763-tharashk-hunter\" data-tooltip-href=\"/monsters/5976763-tooltip\">Tharashk Hunter</a></h4>\n<p>Medium or Small Humanoid (Human or Orc), Neutral</p>\n<p><strong>AC</strong> 16 <strong>Initiative</strong> +4 (14)</p>\n<p><strong>HP</strong> 97 (15d8 + 30)</p>\n<p><strong>Speed</strong> 40 ft.</p>\n<div class=\"stats\">\n<table class=\"physical abilities-saves\">\n<thead>\n<tr>\n<th>Ability</th>\n<th>Score</th>\n<th>Mod</th>\n<th>Save</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<th>Str</th>\n<td>12</td>\n<td>+1</td>\n<td>+1</td>\n</tr>\n<tr>\n<th>Dex</th>\n<td>19</td>\n<td>+4</td>\n<td>+7</td>\n</tr>\n<tr>\n<th>Con</th>\n<td>15</td>\n<td>+2</td>\n<td>+5</td>\n</tr>\n</tbody>\n</table>\n<table class=\"mental abilities-saves\">\n<thead>\n<tr>\n<th>Ability</th>\n<th>Score</th>\n<th>Mod</th>\n<th>Save</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<th>Int</th>\n<td>11</td>\n<td>+0</td>\n<td>+0</td>\n</tr>\n<tr>\n<th>Wis</th>\n<td>16</td>\n<td>+3</td>\n<td>+3</td>\n</tr>\n<tr>\n<th>Cha</th>\n<td>10</td>\n<td>+0</td>\n<td>+0</td>\n</tr>\n</tbody>\n</table>\n</div>\n<p><strong>Skills</strong> <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/14-tooltip\">Perception</a> +6, <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/5-tooltip\">Stealth</a> +7, <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/15-tooltip\">Survival</a> +6</p>\n<p><strong>Gear</strong> <a class=\"tooltip-hover item-tooltip\" href=\"https://www.dndbeyond.com/equipment/37-longbow\" data-tooltip-href=\"/weapons/37-tooltip\">Longbow</a>, <a class=\"tooltip-hover item-tooltip\" href=\"https://www.dndbeyond.com/equipment/30-shortsword\" data-tooltip-href=\"/weapons/30-tooltip\">Shortsword</a>, <a class=\"tooltip-hover item-tooltip\" href=\"https://www.dndbeyond.com/equipment/3-studded-leather\" data-tooltip-href=\"/armor/3-tooltip\">Studded Leather Armor</a></p>\n<p><strong>Senses</strong> <a class=\"tooltip-hover sense-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#Darkvision\" data-tooltip-href=\"/senses/2-tooltip\">Darkvision</a> 60 ft.; Passive Perception 16</p>\n<p><strong>Languages</strong> Common, Orc, plus one other language</p>\n<p><strong>CR</strong> 6 (XP 2,300; PB +3)</p>\n<p class=\"monster-header\">Actions</p>\n<p><strong><em>Multiattack.</em></strong> The hunter makes three attacks, using Shortsword or Longbow in any combination.</p>\n<p><strong><em>Shortsword.</em></strong> <em>Melee Attack Roll:</em> +7, reach 5 ft. <em>Hit:</em> 11 (2d6 + 4) Piercing damage, and the target has Disadvantage on attack rolls and ability checks until the end of its next turn.</p>\n<p><strong><em>Longbow.</em></strong> <em>Ranged Attack Roll:</em> +7, range 150/600 ft. <em>Hit:</em> 17 (3d8 + 4) Piercing damage, and the target’s Speed is reduced by 10 feet until the end of its next turn.</p>\n<p class=\"monster-header\">Bonus Actions</p>\n<p><strong><em>Mark of Tharashk.</em></strong> The hunter magically marks one creature it can see within 150 feet. The mark lasts for 1 hour, until the target dies, or until the hunter uses this Bonus Action again. While the target is marked in this way, the hunter has Advantage on attack rolls against the target, and the target gains no benefit from the <a class=\"tooltip-hover condition-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#InvisibleCondition\" data-tooltip-href=\"/conditions/8-tooltip\">Invisible</a> condition against the hunter.</p>\n<p class=\"monster-header\">Reactions</p>\n<p><strong><em>Uncanny Dodge.</em></strong> <em>Trigger:</em> The hunter is hit by an attack roll. <em>Response:</em> The hunter halves the damage (round down) it takes from that attack.</p>\n</div>\n\n\n\n\n<h4 class=\"compendium-hr heading-anchor\" id=\"VadalisHeir\">Vadalis Heir</h4>\n<p>Combining druidic magic with skill at handling natural and monstrous animals, the dragonmarked heirs of House Vadalis, most of whom are human, are more fearsome than their innocuous-seeming house suggests—especially when accompanied by a <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/5195013-giant-boar\" data-tooltip-href=\"/monsters/5195013-tooltip\">Giant Boar</a>, <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/5195167-polar-bear\" data-tooltip-href=\"/monsters/5195167-tooltip\">Polar Bear</a>, or <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/5195183-rhinoceros\" data-tooltip-href=\"/monsters/5195183-tooltip\">Rhinoceros</a> .</p>\n<div class=\"stat-block ui-draggable\">\n\n\n\n\n<h4 class=\"compendium-hr with-metadata quick-menu-exclude heading-anchor\" id=\"VadalisHeirStats\"><a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/5976765-vadalis-heir\" data-tooltip-href=\"/monsters/5976765-tooltip\">Vadalis Heir</a></h4>\n<p>Medium or Small Humanoid (Human), Neutral</p>\n<p><strong>AC</strong> 14 <strong>Initiative</strong> +3 (13)</p>\n<p><strong>HP</strong> 52 (8d8 + 16)</p>\n<p><strong>Speed</strong> 30 ft.</p>\n<div class=\"stats\">\n<table class=\"physical abilities-saves\">\n<thead>\n<tr>\n<th>Ability</th>\n<th>Score</th>\n<th>Mod</th>\n<th>Save</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<th>Str</th>\n<td>12</td>\n<td>+1</td>\n<td>+1</td>\n</tr>\n<tr>\n<th>Dex</th>\n<td>16</td>\n<td>+3</td>\n<td>+5</td>\n</tr>\n<tr>\n<th>Con</th>\n<td>15</td>\n<td>+2</td>\n<td>+4</td>\n</tr>\n</tbody>\n</table>\n<table class=\"mental abilities-saves\">\n<thead>\n<tr>\n<th>Ability</th>\n<th>Score</th>\n<th>Mod</th>\n<th>Save</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<th>Int</th>\n<td>10</td>\n<td>+0</td>\n<td>+0</td>\n</tr>\n<tr>\n<th>Wis</th>\n<td>17</td>\n<td>+3</td>\n<td>+5</td>\n</tr>\n<tr>\n<th>Cha</th>\n<td>13</td>\n<td>+1</td>\n<td>+1</td>\n</tr>\n</tbody>\n</table>\n</div>\n<p><strong>Skills</strong> <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/11-tooltip\">Animal Handling</a> +7, <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/9-tooltip\">Nature</a> +4, <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/5-tooltip\">Stealth</a> +5</p>\n<p><strong>Gear</strong> <a class=\"tooltip-hover item-tooltip\" href=\"https://www.dndbeyond.com/equipment/10-leather\" data-tooltip-href=\"/armor/10-tooltip\">Leather Armor</a>, <a class=\"tooltip-hover item-tooltip\" href=\"https://www.dndbeyond.com/equipment/29-scimitar\" data-tooltip-href=\"/weapons/29-tooltip\">Scimitar</a></p>\n<p><strong>Senses</strong> Passive Perception 13</p>\n<p><strong>Languages</strong> Common, Sylvan</p>\n<p><strong>CR</strong> 4 (XP 1,100; PB +2)</p>\n<p class=\"monster-header\">Traits</p>\n<p><strong><em>Pack Tactics.</em></strong> The heir has Advantage on an attack roll against a creature if at least one of the heir’s allies is within 5 feet of the creature and the ally doesn’t have the <a class=\"tooltip-hover condition-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#IncapacitatedCondition\" data-tooltip-href=\"/conditions/7-tooltip\">Incapacitated</a> condition.</p>\n<p class=\"monster-header\">Actions</p>\n<p><strong><em>Multiattack.</em></strong> The heir makes four attacks, using Scimitar or Lunar Wisp in any combination.</p>\n<p><strong><em>Scimitar.</em></strong> <em>Melee Attack Roll:</em> +5, reach 5 ft. <em>Hit:</em> 6 (1d6 +3) Slashing damage plus 3 (1d6) Poison damage.</p>\n<p><strong><em>Lunar Wisp.</em></strong> <em>Ranged Attack Roll:</em> +5, range 60 ft. <em>Hit:</em> 9 (2d8) Radiant damage, and the target emits Dim Light in a 10-foot radius and can’t benefit from the <a class=\"tooltip-hover condition-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#InvisibleCondition\" data-tooltip-href=\"/conditions/8-tooltip\">Invisible</a> condition until the end of the heir’s next turn.</p>\n<p><strong><em>Spellcasting.</em></strong> The heir casts one of the following spells, using Wisdom as the spellcasting ability (spell save DC 13):</p>\n<p><strong>At Will:</strong> <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2619158-druidcraft\" data-tooltip-href=\"/spells/2619158-tooltip\">Druidcraft</a>, <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2618996-light\" data-tooltip-href=\"/spells/2618996-tooltip\">Light</a>, <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2619059-speak-with-animals\" data-tooltip-href=\"/spells/2619059-tooltip\">Speak with Animals</a></p>\n<p><strong>3/Day Each:</strong> <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2618847-animal-friendship\" data-tooltip-href=\"/spells/2618847-tooltip\">Animal Friendship</a>, <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2618850-animal-messenger\" data-tooltip-href=\"/spells/2618850-tooltip\">Animal Messenger</a></p>\n<p><strong>1/Day:</strong> <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2619178-ice-storm\" data-tooltip-href=\"/spells/2619178-tooltip\">Ice Storm</a></p>\n<p class=\"monster-header\">Bonus Actions</p>\n<p><strong><em>Spur Beast.</em></strong> The heir targets a Beast it can see within 30 feet. The target can take a Reaction to move up to half its Speed and make one melee attack.</p>\n</div>"
+}

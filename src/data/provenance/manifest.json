@@ -1,0 +1,91 @@
+{
+  "sourcebook": "Eberron: Forge of the Artificer",
+  "edition": "2024 rules",
+  "generatedAt": "2026-07-10T13:12:14.997Z",
+  "chapters": [
+    {
+      "slug": "forge-of-the-artificer",
+      "title": "Eberron: Forge of the Artificer",
+      "originalPath": "Eberron/Eberron- Forge of the Artificer.html",
+      "sourceHash": "d2274e7ee03ae352afd9970392b6411917a2cc5ebb855c010ce22b7785cf29b1",
+      "extractionDate": "2026-07-10T13:12:14.663Z"
+    },
+    {
+      "slug": "credits",
+      "title": "Credits",
+      "originalPath": "Eberron/Credits.html",
+      "sourceHash": "c9c6e385bd2e20bba1d7f2ea52fae0060b71c75b2b185f9361267cdf3e01ca19",
+      "extractionDate": "2026-07-10T13:12:14.697Z"
+    },
+    {
+      "slug": "introduction",
+      "title": "Forge of the Artificer",
+      "originalPath": "Eberron/Chapter 1.html",
+      "sourceHash": "bf144699d9ef6005e1fcea55ca169d1888df6defb84cdf3cf5c92c58a9ebfbbd",
+      "extractionDate": "2026-07-10T13:12:14.709Z"
+    },
+    {
+      "slug": "the-artificer",
+      "title": "The Artificer",
+      "originalPath": "Eberron/Artificer.html",
+      "sourceHash": "31b0c8d91d275bf53b5762a96c45c5a577b353635ae35b66c3de5d888bb5c0c9",
+      "extractionDate": "2026-07-10T13:12:14.724Z"
+    },
+    {
+      "slug": "character-options",
+      "title": "Character Options",
+      "originalPath": "Eberron/Chapter 2.html",
+      "sourceHash": "f41a11c49481d0c4060ddd6989928f55a006d3316afba47cb2c7f911cbc49102",
+      "extractionDate": "2026-07-10T13:12:14.771Z"
+    },
+    {
+      "slug": "bastions-in-khorvaire",
+      "title": "Bastions in Khorvaire",
+      "originalPath": "Eberron/Chapter 3.html",
+      "sourceHash": "4a594b59b705fb8979674d9c408f77ceae10230adc882ead71f65310011b3d0c",
+      "extractionDate": "2026-07-10T13:12:14.847Z"
+    },
+    {
+      "slug": "eberron-gazetteer",
+      "title": "Sharn Inquisitives",
+      "originalPath": "Eberron/Chapter 4.html",
+      "sourceHash": "c30e780417b2a951b67f87b2455435977ae2c82861c1fd5d989342c54da0990d",
+      "extractionDate": "2026-07-10T13:12:14.867Z"
+    },
+    {
+      "slug": "dragonmarks",
+      "title": "Dragonmarked Intrigue",
+      "originalPath": "Eberron/Chapter 5.html",
+      "sourceHash": "dc9bff734833091d726fef82221857155a50f5439b3795530c0f0834cc8c8d26",
+      "extractionDate": "2026-07-10T13:12:14.894Z"
+    },
+    {
+      "slug": "friends-and-foes",
+      "title": "Morgrave Expeditions",
+      "originalPath": "Eberron/Chapter 6.html",
+      "sourceHash": "6c9adb91282a523c9a745e26bee4b406f4dfda195496e546dcf172f3f71ecdf4",
+      "extractionDate": "2026-07-10T13:12:14.938Z"
+    },
+    {
+      "slug": "magic-items",
+      "title": "Elemental Airships",
+      "originalPath": "Eberron/Chapter 7.html",
+      "sourceHash": "2ab9d5d95757083e4e5ac63d69df64683841bafd9950777a64f3c58314eb2c04",
+      "extractionDate": "2026-07-10T13:12:14.969Z"
+    },
+    {
+      "slug": "new-spells",
+      "title": "Magic Items",
+      "originalPath": "Eberron/Chapter 8.html",
+      "sourceHash": "0a0fdf64a57d68e21cb243ca5181e0f085cf5b640614fd12382a06f5f9c900b8",
+      "extractionDate": "2026-07-10T13:12:14.988Z"
+    },
+    {
+      "slug": "art-of-eberron",
+      "title": "Appendix: Art of Eberron",
+      "originalPath": "Eberron/Appendix_Art.html",
+      "sourceHash": "214682989307321e9c812837dce4ebf742eb0fee12936352c7cbdcb835aed024",
+      "extractionDate": "2026-07-10T13:12:14.997Z"
+    }
+  ]
+}

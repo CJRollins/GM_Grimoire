@@ -1,0 +1,52 @@
+{
+  "title": "Credits",
+  "sourcebook": "Eberron: Forge of the Artificer",
+  "edition": "2024 rules",
+  "chapter": "Credits",
+  "order": 1,
+  "slug": "credits",
+  "originalPath": "Eberron/Credits.html",
+  "rawUrl": "/archive/eberron/Credits.html",
+  "originalAnchors": [
+    {
+      "id": "Credits",
+      "text": "Credits",
+      "element": "h1"
+    },
+    {
+      "id": "comp-next-nav",
+      "text": "Previous ← Appendix: Art of Eberron Book Contents",
+      "element": "div"
+    },
+    {
+      "id": "imgcoverpreview",
+      "text": "Michael Broussard On the Cover",
+      "element": "figure"
+    },
+    {
+      "id": "altimgcoverpreview",
+      "text": "Patrick Gañas On the Alt-Cover",
+      "element": "figure"
+    }
+  ],
+  "sourceHash": "c9c6e385bd2e20bba1d7f2ea52fae0060b71c75b2b185f9361267cdf3e01ca19",
+  "extractionDate": "2026-07-10T13:12:14.697Z",
+  "extractionVersion": 1,
+  "headings": [
+    {
+      "depth": 1,
+      "id": "Credits",
+      "text": "Credits"
+    }
+  ],
+  "tags": {
+    "creatures": [],
+    "spells": [],
+    "locations": [
+      "Eberron",
+      "Sharn"
+    ]
+  },
+  "anomalyFlags": [],
+  "contentHtml": "<h1 class=\"compendium-hr\" id=\"Credits\">Credits</h1>\n\n\n<div class=\"credits-container\">\n<p><strong>Lead Designer:</strong> James Wyatt</p>\n<p><strong>Designers:</strong> Jeremy Crawford, Makenzie De Armas, Ron Lundeen, Ben Petrisor, Patrick Renie</p>\n<p><strong>Rules Developers:</strong> Makenzie De Armas (lead), Jeremy Crawford, Ron Lundeen, Ben Petrisor, Carl Sibley</p>\n<p><strong>Editors:</strong> Adrian Ng (lead), Judy Bauer, Sue Weinlein</p>\n<p><strong>Playtest Analysts:</strong> Ron Lundeen (lead), Makenzie De Armas</p>\n<p><strong>Art Director:</strong> Noor Rahman</p>\n<p><strong>Graphic Designers:</strong> Matt Cole, Paolo Vacala</p>\n<p><strong>Cover Illustrators:</strong> Michael Broussard, Patrick Gañas</p>\n<p><strong>Interior Illustrators:</strong> Ignacio Bazan-Lazcano, Michael Broussard, Cullen Cole, Daarken, Andrea De Dominicis, Kevin Gnutzmans, John Grello, Yinfaowei Harrison, Michal Ivan, Jordan Kerbow, Kuno, Arthur Loftis, Calder Moore, Lee Moyer, Claudio Pozas, Noor Rahman, Dave Sarabia, Leroy Steinmann, John Thacker, Kenny Vo, Esther Wu, Ahmed Zulfiqar</p>\n<p><strong>Cartographer:</strong> Sean Macdonald</p>\n<p><strong>Concept Artists:</strong> Michael Broussard, John Grello, Alexander Ostrowski, Noor Rahman</p>\n<p><strong>Consultants:</strong> Keith Baker, Elizabeth Banerjee, Shawn Banerjee, Daniel Delgado, Sameer Joseph</p>\n<p><strong>Producers:</strong> Rob Hawkey (lead), Bill Benham, Siera Bruggeman, Vanessa Hoskins</p>\n<p><strong>The following products provided information and inspiration:</strong></p>\n<p>Baker, Keith, Michelle Lyons, Ari Marmell, and C.A. Suleiman. <em>Dragonmarked</em>. 2006.</p>\n<p>Baker, Keith, Bill Slavicsek, and James Wyatt. <em>Eberron Campaign Setting</em>. 2004.</p>\n<p>Baker, Keith and James Wyatt. <em>Sharn: City of Towers</em>. 2004.</p>\n<p>Crawford, Jeremy. <a class=\"sourcebook\" href=\"https://www.dndbeyond.com/sources/dnd/tcoe\">Tasha’s Cauldron of Everything</a>. 2020.</p>\n<p>Crawford, Jeremy, Keith Baker, and James Wyatt. <a class=\"sourcebook\" href=\"https://www.dndbeyond.com/sources/dnd/erftlw\">Eberron: Rising from the Last War</a>. 2019.</p>\n<p>Noonan, David, Frank Brunner, and Rich Burlew. <em>Explorer’s Handbook</em>. 2005.</p>\n<p>Noonan, David, Ari Marmell, and Robert J. Schwalb. <em>Eberron Player’s Guide</em>. 2009.</p>\n<p>Wyatt, James, Keith Baker, Luke Johnson, and Stan! <em>Player’s Guide to Eberron</em>. 2006.</p>\n<p>Wyatt, James, Keith Baker, Ari Marmell, and Robert J. Schwalb. <em>Eberron Campaign Guide</em>. 2009.</p>\n</div>\n<div class=\"flexible-double-column\">\n<div class=\"ui-droppable\">\n<figure class=\"compendium-art compendium-art-center\" id=\"imgcoverpreview\">\n<span class=\"artist-credit\">Michael Broussard</span>\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/efota/Jae5SyNcfFGjapTb/09-001.traditional-cover-preview.png\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/efota/Jae5SyNcfFGjapTb/09-001.traditional-cover-preview.png\" class=\"ddb-lightbox-inner\" style=\"width: 415px;\" alt=\"An Artificer is hard at work creating a warforged in the forges of House Cannith\" loading=\"lazy\" decoding=\"async\"></a>\n<figcaption>On the Cover</figcaption>\n</figure>\n<p>An Artificer is hard at work creating a warforged in the forges of House Cannith in this piece by Michael Broussard.</p>\n</div>\n<div class=\"ui-droppable\">\n<figure class=\"compendium-art compendium-art-center\" id=\"altimgcoverpreview\">\n<span class=\"artist-credit\">Patrick Gañas</span>\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/efota/Jae5SyNcfFGjapTb/09-002.alternate-cover-preview.png\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/efota/Jae5SyNcfFGjapTb/09-002.alternate-cover-preview.png\" class=\"ddb-lightbox-inner\" style=\"width: 415px;\" alt=\"the Artificer brings the newly created warforged soldier out of the creation forge and into life\" loading=\"lazy\" decoding=\"async\"></a>\n<figcaption>On the Alt-Cover</figcaption>\n</figure>\n<p>Patrick Gañas shows us the completion of the process, as the Artificer brings the newly created warforged soldier out of the creation forge and into life.</p>\n</div>\n</div>\n<aside class=\"block-torn-paper\">\n<p>DUNGEONS &amp; DRAGONS, D&amp;D, Wizards of the Coast, the dragon ampersand, <a class=\"sourcebook\" href=\"https://www.dndbeyond.com/sources/dnd/phb-2024\">Player’s Handbook</a>, <a class=\"sourcebook\" href=\"https://www.dndbeyond.com/sources/dnd/mm-2024\">Monster Manual</a>, <a class=\"sourcebook\" href=\"https://www.dndbeyond.com/sources/dnd/dmg-2024\">Dungeon Master’s Guide</a>, Eberron, all other Wizards of the Coast product names, their respective logos, and The World’s Greatest Roleplaying Game are trademarks of Wizards of the Coast in the USA and other countries. All characters and their distinctive likenesses are property of Wizards of the Coast. This material is protected under the copyright laws of the United States of America. Any reproduction or unauthorized use of the material or artwork contained herein is prohibited without the express written permission of Wizards of the Coast.</p>\n</aside>"
+}

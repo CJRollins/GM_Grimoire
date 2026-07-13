@@ -1,0 +1,166 @@
+---
+import type { CollectionEntry } from 'astro:content';
+import '../styles/global.css';
+
+type Chapter = CollectionEntry<'chapters'>;
+
+interface Props {
+  title: string;
+  description?: string;
+  chapters: Chapter[];
+  current?: Chapter;
+  headings?: Chapter['data']['headings'];
+}
+
+const {
+  title,
+  description = 'A preserved and searchable reader for Eberron: Forge of the Artificer.',
+  chapters,
+  current,
+  headings = [],
+} = Astro.props;
+
+const anomalies = current?.data.anomalyFlags ?? [];
+const sourceHash = current?.data.sourceHash ?? '';
+const shortHash = sourceHash.slice(0, 12);
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+    <meta name="description" content={description} />
+    <meta name="generator" content={Astro.generator} />
+    <meta name="theme-color" content="#17140f" />
+    <title>{title} · Eberron Grimoire</title>
+    <link rel="stylesheet" href="/pagefind/pagefind-component-ui.css" />
+    <script is:inline src="/pagefind/pagefind-component-ui.js" type="module"></script>
+  </head>
+  <body data-reader-mode="clean">
+    <a class="skip-link" href="#reader-content">Skip to sourcebook text</a>
+    <header class="masthead" data-pagefind-ignore="all">
+      <a class="sigil" href="/" aria-label="Eberron Grimoire home">E</a>
+      <div class="masthead-title">
+        <span>The Eberron</span>
+        <strong>Grimoire</strong>
+      </div>
+      <a class="search-button" href="/search/" aria-keyshortcuts="Control+K Meta+K">
+        <span aria-hidden="true">⌕</span> Search <kbd>Ctrl K</kbd>
+      </a>
+    </header>
+
+    <div class="grimoire-grid">
+      <aside class="book-rail" aria-label="Sourcebook navigation" data-pagefind-ignore="all">
+        <details open>
+          <summary>Eberron: Forge of the Artificer</summary>
+          <ol>
+            {chapters.map((chapter) => (
+              <li class:list={{ active: chapter.data.slug === current?.data.slug }}>
+                <a href={`/chapters/${chapter.data.slug}/`} aria-current={chapter.data.slug === current?.data.slug ? 'page' : undefined}>
+                  <span>{String(chapter.data.order).padStart(2, '0')}</span>
+                  {chapter.data.title}
+                </a>
+              </li>
+            ))}
+          </ol>
+        </details>
+      </aside>
+
+      <div class="reading-stage">
+        {current && (
+          <nav class="breadcrumbs" aria-label="Breadcrumb" data-pagefind-ignore="all">
+            <a href="/">World</a><span aria-hidden="true">›</span>
+            <a href="/">Eberron</a><span aria-hidden="true">›</span>
+            <a href={`/chapters/${current.data.slug}/`}>{current.data.chapter}</a>
+          </nav>
+        )}
+
+        {current && (
+          <div class="reader-toolbar" aria-label="Reading mode" data-pagefind-ignore="all">
+            <span>Reading mode</span>
+            <div role="group" aria-label="Choose reading mode">
+              <button type="button" data-mode="clean" aria-pressed="true">Reader</button>
+              <button type="button" data-mode="source" aria-pressed="false">Source</button>
+              <button type="button" data-mode="compare" aria-pressed="false">Compare</button>
+            </div>
+          </div>
+        )}
+
+        <slot />
+      </div>
+
+      <aside class="marginalia" aria-label="Page notes" data-pagefind-ignore="all">
+        {current ? (
+          <>
+            <section>
+              <p class="eyebrow">On this page</p>
+              <ol class="toc">
+                {headings.filter((heading) => heading.id && heading.depth <= 3).map((heading) => (
+                  <li class={`depth-${heading.depth}`}><a href={`#${heading.id}`}>{heading.text}</a></li>
+                ))}
+              </ol>
+            </section>
+            <section class="source-note">
+              <p class="eyebrow">Source evidence</p>
+              <a href={current.data.rawUrl}>Open preserved HTML</a>
+              <dl>
+                <div><dt>Edition</dt><dd>{current.data.edition}</dd></div>
+                <div><dt>SHA-256</dt><dd><code title={sourceHash}>{shortHash}…</code></dd></div>
+                <div><dt>Extracted</dt><dd>{current.data.extractionDate.slice(0, 10)}</dd></div>
+              </dl>
+            </section>
+            <section>
+              <p class="eyebrow">Librarian’s tracks</p>
+              {anomalies.length ? (
+                <details>
+                  <summary>{anomalies.length} passages to compare</summary>
+                  <ol class="anomaly-list">
+                    {anomalies.map((flag) => (
+                      <li>
+                        <a href={flag.anchor ? `#${flag.anchor}` : '#reader-content'}>{flag.type}</a>
+                        <span>{Math.round(flag.confidence * 100)}% confidence · {flag.location}</span>
+                        <p>{flag.passage}</p>
+                      </li>
+                    ))}
+                  </ol>
+                </details>
+              ) : <p class="quiet">No heuristic flags in this chapter.</p>}
+            </section>
+          </>
+        ) : (
+          <section>
+            <p class="eyebrow">Reader’s note</p>
+            <p>Canonical text remains separate from derived metadata and marginalia.</p>
+          </section>
+        )}
+      </aside>
+    </div>
+
+    <footer data-pagefind-ignore="all">
+      <p>Immutable sources · derived reader · explicit provenance</p>
+    </footer>
+
+    <script is:inline>
+      const applyReaderMode = (mode) => {
+        if (!['clean', 'source', 'compare'].includes(mode)) mode = 'clean';
+        document.body.dataset.readerMode = mode;
+        document.querySelectorAll('[data-mode]').forEach((button) => {
+          button.setAttribute('aria-pressed', String(button.dataset.mode === mode));
+        });
+        localStorage.setItem('eberron-reader-mode', mode);
+      };
+
+      applyReaderMode(localStorage.getItem('eberron-reader-mode') || 'clean');
+      document.querySelectorAll('[data-mode]').forEach((button) => {
+        button.addEventListener('click', () => applyReaderMode(button.dataset.mode));
+      });
+      document.addEventListener('keydown', (event) => {
+        if ((event.ctrlKey || event.metaKey) && event.key.toLowerCase() === 'k') {
+          event.preventDefault();
+          window.location.href = '/search/';
+        }
+      });
+    </script>
+  </body>
+</html>

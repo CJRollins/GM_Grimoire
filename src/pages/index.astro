@@ -1,0 +1,25 @@
+---
+import { getCollection } from 'astro:content';
+import GrimoireLayout from '../layouts/GrimoireLayout.astro';
+
+const chapters = (await getCollection('chapters')).sort((a, b) => a.data.order - b.data.order);
+const opening = chapters.find((chapter) => chapter.data.slug === 'forge-of-the-artificer') ?? chapters[0];
+---
+
+<GrimoireLayout title="Archive entrance" chapters={chapters}>
+  <main id="reader-content" class="landing">
+    <div class="landing-mark" aria-hidden="true">E</div>
+    <p class="kicker">An immutable archive in a living index</p>
+    <h1>Eberron Grimoire</h1>
+    <p class="lede">Read <em>Forge of the Artificer</em> as a sourcebook, inspect the preserved page beside it, or follow the librarian’s uncertain tracks through unusual rules language.</p>
+    <div class="landing-actions">
+      <a class="primary-action" href={`/chapters/${opening.data.slug}/`}>Open the grimoire</a>
+      <a href="/search/">Search the archive</a>
+    </div>
+    <dl class="archive-stats">
+      <div><dt>{chapters.length}</dt><dd>reader records</dd></div>
+      <div><dt>{chapters.reduce((total, chapter) => total + chapter.data.headings.length, 0)}</dt><dd>preserved headings</dd></div>
+      <div><dt>{chapters.reduce((total, chapter) => total + chapter.data.anomalyFlags.length, 0)}</dt><dd>comparison flags</dd></div>
+    </dl>
+  </main>
+</GrimoireLayout>
