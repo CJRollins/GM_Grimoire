@@ -1,0 +1,393 @@
+{
+  "title": "Character Options",
+  "sourcebook": "Strixhaven: A Curriculum of Chaos",
+  "bookSlug": "strixhaven-a-curriculum-of-chaos",
+  "originalPath": "Arcavios/Stixhaven/Chapter 3 - Character Options.html",
+  "rawUrl": "/archive/strixhaven/Chapter%203%20-%20Character%20Options.html",
+  "sourceHash": "f8c11ba15586ff3ddc066deb647da87d3869dc7b91dede8ac0ff8440f231c0de",
+  "extractionDate": "2026-07-13T07:40:57.647Z",
+  "extractionVersion": 3,
+  "originalAnchors": [
+    {
+      "id": "CharacterOptions",
+      "text": "Character Options",
+      "element": "h1"
+    },
+    {
+      "id": "comp-next-nav",
+      "text": "",
+      "element": "div"
+    },
+    {
+      "id": "imgsplash",
+      "text": "A group of Strixhaven students—each from a differentcollege—descend into the depths below an ancient ruin",
+      "element": "figure"
+    },
+    {
+      "id": "RaceOption",
+      "text": "Race Option",
+      "element": "h2"
+    },
+    {
+      "id": "CreatingYourCharacter",
+      "text": "Creating Your Character",
+      "element": "h3"
+    },
+    {
+      "id": "AbilityScoreIncreases",
+      "text": "Ability Score Increases",
+      "element": "h4"
+    },
+    {
+      "id": "Languages",
+      "text": "Languages",
+      "element": "h4"
+    },
+    {
+      "id": "CreatureType",
+      "text": "Creature Type",
+      "element": "h4"
+    },
+    {
+      "id": "LifeSpan",
+      "text": "Life Span",
+      "element": "h4"
+    },
+    {
+      "id": "HeightandWeight",
+      "text": "Height and Weight",
+      "element": "h4"
+    },
+    {
+      "id": "Owlin",
+      "text": "Owlin",
+      "element": "h3"
+    },
+    {
+      "id": "imgowlin",
+      "text": "Owlin unleash magic in the sky above Strixhaven",
+      "element": "figure"
+    },
+    {
+      "id": "OwlinTraits",
+      "text": "Owlin Traits",
+      "element": "h4"
+    },
+    {
+      "id": "ChoosingaCollege",
+      "text": "Choosing a College",
+      "element": "h2"
+    },
+    {
+      "id": "AStrixhavenParty",
+      "text": "A STRIXHAVEN PARTY If you’re starting a Strixhaven campaign with the introductory adventure in chapter 3, that adventure gives all the advice you need to bring ",
+      "element": "aside"
+    },
+    {
+      "id": "StrixhavenBackgrounds",
+      "text": "Strixhaven Backgrounds",
+      "element": "h2"
+    },
+    {
+      "id": "LoreholdStudent",
+      "text": "Lorehold Student",
+      "element": "h3"
+    },
+    {
+      "id": "FeatureLoreholdInitiate",
+      "text": "Feature: Lorehold Initiate",
+      "element": "h4"
+    },
+    {
+      "id": "LoreholdSpells",
+      "text": "Lorehold Spells Spell Level Spells 1st Comprehend Languages, Identify 2nd Borrowed Knowledge (in this book), Locate Object 3rd Speak with Dead, Spirit Guardians",
+      "element": "table"
+    },
+    {
+      "id": "BuildingaLoreholdCharacter",
+      "text": "Building a Lorehold Character",
+      "element": "h4"
+    },
+    {
+      "id": "LoreholdPersonalityTraits",
+      "text": "Lorehold Personality Traits d6 Personality Trait 1 I thrive on esoteric lore. The more obscure the historical references I can include in everyday conversation,",
+      "element": "table"
+    },
+    {
+      "id": "LoreholdTrinkets",
+      "text": "Lorehold Trinkets d6 Trinket 1 A map made of concentric circles that can be rotated around the page 2 A puzzle box bedecked with amber 3 A dented brass compass ",
+      "element": "table"
+    },
+    {
+      "id": "PrismariStudent",
+      "text": "Prismari Student",
+      "element": "h3"
+    },
+    {
+      "id": "FeaturePrismariInitiate",
+      "text": "Feature: Prismari Initiate",
+      "element": "h4"
+    },
+    {
+      "id": "PrismariSpells",
+      "text": "Prismari Spells Spell Level Spells 1st Chromatic Orb, Thunderwave 2nd Flaming Sphere, Kinetic Jaunt (in this book) 3rd Haste, Water Walk 4th Freedom of Movement",
+      "element": "table"
+    },
+    {
+      "id": "imgprismaristudent",
+      "text": "An advanced Prismari student artfully harnesses fire",
+      "element": "figure"
+    },
+    {
+      "id": "BuildingaPrismariCharacter",
+      "text": "Building a Prismari Character",
+      "element": "h4"
+    },
+    {
+      "id": "PrismariPersonalityTraits",
+      "text": "Prismari Personality Traits d6 Personality Trait 1 I’m the life of the party, and I expect everyone’s attention when I walk into a room. 2 Two weeks ago, I was ",
+      "element": "table"
+    },
+    {
+      "id": "PrismariTrinkets",
+      "text": "Prismari Trinkets d6 Trinket 1 A pair of rose-tinted glasses with glittery frames 2 A stoppered glass bottle that, when opened, plays a brassy orchestral piece ",
+      "element": "table"
+    },
+    {
+      "id": "QuandrixStudent",
+      "text": "Quandrix Student",
+      "element": "h3"
+    },
+    {
+      "id": "FeatureQuandrixInitiate",
+      "text": "Feature: Quandrix Initiate",
+      "element": "h4"
+    },
+    {
+      "id": "QuandrixSpells",
+      "text": "Quandrix Spells Spell Level Spells 1st Entangle, Guiding Bolt 2nd Enlarge/Reduce, Vortex Warp (in this book) 3rd Aura of Vitality, Haste 4th Control Water, Free",
+      "element": "table"
+    },
+    {
+      "id": "imgquandrixstudent",
+      "text": "A Quandrix student magically gazes into the intricate patterns of nature",
+      "element": "figure"
+    },
+    {
+      "id": "BuildingaQuandrixCharacter",
+      "text": "Building a Quandrix Character",
+      "element": "h4"
+    },
+    {
+      "id": "QuandrixPersonalityTraits",
+      "text": "Quandrix Personality Traits d6 Personality Trait 1 When I find a subject I’m interested in, I won’t stop studying until I know everything about it. It keeps me ",
+      "element": "table"
+    },
+    {
+      "id": "QuandrixTrinkets",
+      "text": "Quandrix Trinkets d6 Trinket 1 A small succulent in a dodecahedral clay pot 2 A blue knit hat that looks a bit like a bottle folding in on itself 3 A model hype",
+      "element": "table"
+    },
+    {
+      "id": "SilverquillStudent",
+      "text": "Silverquill Student",
+      "element": "h3"
+    },
+    {
+      "id": "FeatureSilverquillInitiate",
+      "text": "Feature: Silverquill Initiate",
+      "element": "h4"
+    },
+    {
+      "id": "SilverquillSpells",
+      "text": "Silverquill Spells Spell Level Spells 1st Dissonant Whispers, Silvery Barbs (in this book) 2nd Calm Emotions, Darkness 3rd Beacon of Hope, Daylight 4th Compulsi",
+      "element": "table"
+    },
+    {
+      "id": "BuildingaSilverquillCharacter",
+      "text": "Building a Silverquill Character",
+      "element": "h4"
+    },
+    {
+      "id": "SilverquillPersonalityTraits",
+      "text": "Silverquill Personality Traits d6 Personality Trait 1 I’ll say whatever I need to in order to maintain my high social status. 2 I prefer saying the blunt truth ",
+      "element": "table"
+    },
+    {
+      "id": "SilverquillTrinkets",
+      "text": "Silverquill Trinkets d6 Trinket 1 A black leather notebook filled with half-finished poems 2 A set of flashcards detailing different colloquialisms and their me",
+      "element": "table"
+    },
+    {
+      "id": "WitherbloomStudent",
+      "text": "Witherbloom Student",
+      "element": "h3"
+    },
+    {
+      "id": "FeatureWitherbloomInitiate",
+      "text": "Feature: Witherbloom Initiate",
+      "element": "h4"
+    },
+    {
+      "id": "WitherbloomSpells",
+      "text": "Witherbloom Spells Spell Level Spells 1st Cure Wounds, Inflict Wounds 2nd Lesser Restoration, Wither and Bloom (in this book) 3rd Revivify, Vampiric Touch 4th B",
+      "element": "table"
+    },
+    {
+      "id": "BuildingaWitherbloomCharacter",
+      "text": "Building a Witherbloom Character",
+      "element": "h4"
+    },
+    {
+      "id": "WitherbloomPersonalityTraits",
+      "text": "Witherbloom Personality Traits",
+      "element": "caption"
+    },
+    {
+      "id": "WitherbloomTrinkets",
+      "text": "Witherbloom Trinkets",
+      "element": "caption"
+    },
+    {
+      "id": "Feats",
+      "text": "Feats",
+      "element": "h2"
+    },
+    {
+      "id": "FeatDescriptions",
+      "text": "Feat Descriptions",
+      "element": "h3"
+    },
+    {
+      "id": "StrixhavenInitiate",
+      "text": "Strixhaven Initiate",
+      "element": "h4"
+    },
+    {
+      "id": "StrixhavenSpells",
+      "text": "Strixhaven Spells",
+      "element": "caption"
+    },
+    {
+      "id": "StrixhavenMascot",
+      "text": "Strixhaven Mascot",
+      "element": "h4"
+    },
+    {
+      "id": "Spells",
+      "text": "Spells",
+      "element": "h2"
+    },
+    {
+      "id": "SpellsTable",
+      "text": "Spells Level Spell School Class 1st Silvery Barbs Enchantment Bard, Sorcerer, Wizard 2nd Borrowed Knowledge Divination Bard, Cleric, Warlock, Wizard 2nd Kinetic",
+      "element": "table"
+    },
+    {
+      "id": "Spells2",
+      "text": "Spells",
+      "element": "caption"
+    },
+    {
+      "id": "SpellDescriptions",
+      "text": "Spell Descriptions",
+      "element": "h3"
+    },
+    {
+      "id": "BorrowedKnowledge",
+      "text": "Borrowed Knowledge",
+      "element": "h4"
+    },
+    {
+      "id": "KineticJaunt",
+      "text": "Kinetic Jaunt",
+      "element": "h4"
+    },
+    {
+      "id": "SilveryBarbs",
+      "text": "Silvery Barbs",
+      "element": "h4"
+    },
+    {
+      "id": "VortexWarp",
+      "text": "Vortex Warp",
+      "element": "h4"
+    },
+    {
+      "id": "WitherandBloom",
+      "text": "Wither and Bloom",
+      "element": "h4"
+    },
+    {
+      "id": "MagicItems",
+      "text": "Magic Items",
+      "element": "h2"
+    },
+    {
+      "id": "MagicItemsforSale",
+      "text": "Magic Items for Sale Item Rarity Cost Bottle of Boundless Coffee Common 100 gp Cuddly Strixhaven Mascot Common 100 gp Lorehold Primer Uncommon 300 gp Prismari P",
+      "element": "table"
+    },
+    {
+      "id": "MagicItemsForSale",
+      "text": "Magic Items for Sale",
+      "element": "caption"
+    },
+    {
+      "id": "MagicItemDescriptions",
+      "text": "Magic Item Descriptions",
+      "element": "h3"
+    },
+    {
+      "id": "BottleofBoundlessCoffee",
+      "text": "Bottle of Boundless Coffee",
+      "element": "h4"
+    },
+    {
+      "id": "CuddlyStrixhavenMascot",
+      "text": "Cuddly Strixhaven Mascot",
+      "element": "h4"
+    },
+    {
+      "id": "LoreholdPrimer",
+      "text": "Lorehold Primer",
+      "element": "h4"
+    },
+    {
+      "id": "PrismariPrimer",
+      "text": "Prismari Primer",
+      "element": "h4"
+    },
+    {
+      "id": "QuandrixPrimer",
+      "text": "Quandrix Primer",
+      "element": "h4"
+    },
+    {
+      "id": "SilverquillPrimer",
+      "text": "Silverquill Primer",
+      "element": "h4"
+    },
+    {
+      "id": "StrixhavenPennant",
+      "text": "Strixhaven Pennant",
+      "element": "h4"
+    },
+    {
+      "id": "WitherbloomPrimer",
+      "text": "Witherbloom Primer",
+      "element": "h4"
+    }
+  ],
+  "transformations": [
+    "Selected the first .p-article-content element.",
+    "Removed scripts, styles, forms, iframes, hidden duplicate labels, and source navigation.",
+    "Removed event handlers and D&D Beyond content-chunk identifiers.",
+    "Rewrote archived sourcebook links to generated reader routes when a local target exists.",
+    "Added lazy image loading and asynchronous decoding hints.",
+    "Added derived IDs to read-aloud, rules, table, and stat-block elements for session navigation.",
+    "Indexed player-version map links as derived session metadata.",
+    "Preserved source wording and original heading IDs; derived metadata remains separate."
+  ],
+  "repairs": []
+}

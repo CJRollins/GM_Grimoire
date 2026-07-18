@@ -1,0 +1,718 @@
+{
+  "title": "Relationships",
+  "sourcebook": "Strixhaven: A Curriculum of Chaos",
+  "bookSlug": "strixhaven-a-curriculum-of-chaos",
+  "world": "Arcavios",
+  "edition": "2014 rules",
+  "chapter": "Relationships",
+  "chapterNumber": 3,
+  "order": 5,
+  "navGroup": "Reference",
+  "kind": "relationships",
+  "audience": "both",
+  "slug": "strixhaven-relationships",
+  "chapterSlug": "relationships",
+  "summary": "As students, the characters have the opportunity to cement friendships, establish rivalries, deepen bonds, and otherwise develop relationships with student NPCs in this book’s adventures. Although these pursuits could be played out entirely with roleplaying, …",
+  "wordCount": 4953,
+  "originalPath": "Arcavios/Stixhaven/Chapter 5 - Relationships.html",
+  "rawUrl": "/archive/strixhaven/Chapter%205%20-%20Relationships.html",
+  "originalAnchors": [
+    {
+      "id": "Relationships",
+      "text": "Relationships",
+      "element": "h1"
+    },
+    {
+      "id": "comp-next-nav",
+      "text": "",
+      "element": "div"
+    },
+    {
+      "id": "imgwitherbloomstudenthealsafriend",
+      "text": "A Witherbloom student heals a friend from Silverquill",
+      "element": "figure"
+    },
+    {
+      "id": "SessionZero",
+      "text": "Session Zero",
+      "element": "h2"
+    },
+    {
+      "id": "UsingTheseRules",
+      "text": "Using These Rules",
+      "element": "h2"
+    },
+    {
+      "id": "IntroducingtheNPCs",
+      "text": "Introducing the NPCs",
+      "element": "h3"
+    },
+    {
+      "id": "RelationshipPoints",
+      "text": "Relationship Points",
+      "element": "h3"
+    },
+    {
+      "id": "MakingFriendsandRivals",
+      "text": "Making Friends and Rivals",
+      "element": "h2"
+    },
+    {
+      "id": "DeepeningRelationships",
+      "text": "Deepening Relationships",
+      "element": "h3"
+    },
+    {
+      "id": "imgdate",
+      "text": "Students discuss their shared interests during a sunset date",
+      "element": "figure"
+    },
+    {
+      "id": "BecomingBeloveds",
+      "text": "Becoming Beloveds",
+      "element": "h4"
+    },
+    {
+      "id": "BelovedInspiration",
+      "text": "Beloved Inspiration",
+      "element": "h4"
+    },
+    {
+      "id": "EndingBelovedRelationships",
+      "text": "Ending Beloved Relationships",
+      "element": "h4"
+    },
+    {
+      "id": "FellowStudents",
+      "text": "Fellow Students",
+      "element": "h2"
+    },
+    {
+      "id": "CollegeandYear",
+      "text": "College and Year",
+      "element": "h3"
+    },
+    {
+      "id": "StatBlocks",
+      "text": "Stat Blocks",
+      "element": "h3"
+    },
+    {
+      "id": "StudentNPCStatBlocks",
+      "text": "Student NPC Stat Blocks Year Stat Block First First-Year Student Second [College] Apprentice Third or Later [College] Pledgemage",
+      "element": "table"
+    },
+    {
+      "id": "FellowStudentsAL",
+      "text": "Fellow Students (A-L)",
+      "element": "h2"
+    },
+    {
+      "id": "AuroraLunaWynterstarr",
+      "text": "Aurora Luna Wynterstarr",
+      "element": "h3"
+    },
+    {
+      "id": "BhedumRampartSooviij",
+      "text": "Bhedum “Rampart” Sooviij",
+      "element": "h3"
+    },
+    {
+      "id": "CadorasDamellawar",
+      "text": "Cadoras Damellawar",
+      "element": "h3"
+    },
+    {
+      "id": "DrazhomirYarnask",
+      "text": "Drazhomir Yarnask",
+      "element": "h3"
+    },
+    {
+      "id": "GraysonWildemere",
+      "text": "Grayson Wildemere",
+      "element": "h3"
+    },
+    {
+      "id": "GretaGorunn",
+      "text": "Greta Gorunn",
+      "element": "h3"
+    },
+    {
+      "id": "JaveneshStoutclaw",
+      "text": "Javenesh Stoutclaw",
+      "element": "h3"
+    },
+    {
+      "id": "LarineArneza",
+      "text": "Larine Arneza",
+      "element": "h3"
+    },
+    {
+      "id": "FellowStudentsMZ",
+      "text": "Fellow Students (M-Z)",
+      "element": "h2"
+    },
+    {
+      "id": "Melwythorne",
+      "text": "Melwythorne",
+      "element": "h3"
+    },
+    {
+      "id": "MinaLee",
+      "text": "Mina Lee",
+      "element": "h3"
+    },
+    {
+      "id": "NoraAnnWu",
+      "text": "Nora Ann Wu",
+      "element": "h3"
+    },
+    {
+      "id": "QuentilliusAntiphiunMelentorIII",
+      "text": "Quentillius Antiphiun Melentor III",
+      "element": "h3"
+    },
+    {
+      "id": "RosimyffenbipRosieWuzfeddlims",
+      "text": "Rosimyffenbip “Rosie” Wuzfeddlims",
+      "element": "h3"
+    },
+    {
+      "id": "RubinaLarkingdale",
+      "text": "Rubina Larkingdale",
+      "element": "h3"
+    },
+    {
+      "id": "ShuvadriGlintmantle",
+      "text": "Shuvadri Glintmantle",
+      "element": "h3"
+    },
+    {
+      "id": "TilanaKapule",
+      "text": "Tilana Kapule",
+      "element": "h3"
+    },
+    {
+      "id": "UrzmaktokGrojsh",
+      "text": "Urzmaktok Grojsh",
+      "element": "h3"
+    },
+    {
+      "id": "ZantherBowen",
+      "text": "Zanther Bowen",
+      "element": "h3"
+    }
+  ],
+  "sourceHash": "c49f77c2942e32103fb1a434fc61eccfefba4f094cd520079fde2d28b9670e99",
+  "extractionDate": "2026-07-13T07:40:57.647Z",
+  "extractionVersion": 3,
+  "headings": [
+    {
+      "depth": 1,
+      "id": "Relationships",
+      "text": "Relationships"
+    },
+    {
+      "depth": 2,
+      "id": "SessionZero",
+      "text": "Session Zero"
+    },
+    {
+      "depth": 2,
+      "id": "UsingTheseRules",
+      "text": "Using These Rules"
+    },
+    {
+      "depth": 3,
+      "id": "IntroducingtheNPCs",
+      "text": "Introducing the NPCs"
+    },
+    {
+      "depth": 3,
+      "id": "RelationshipPoints",
+      "text": "Relationship Points"
+    },
+    {
+      "depth": 2,
+      "id": "MakingFriendsandRivals",
+      "text": "Making Friends and Rivals"
+    },
+    {
+      "depth": 3,
+      "id": "DeepeningRelationships",
+      "text": "Deepening Relationships"
+    },
+    {
+      "depth": 4,
+      "id": "BecomingBeloveds",
+      "text": "Becoming Beloveds"
+    },
+    {
+      "depth": 4,
+      "id": "BelovedInspiration",
+      "text": "Beloved Inspiration"
+    },
+    {
+      "depth": 4,
+      "id": "EndingBelovedRelationships",
+      "text": "Ending Beloved Relationships"
+    },
+    {
+      "depth": 2,
+      "id": "FellowStudents",
+      "text": "Fellow Students"
+    },
+    {
+      "depth": 3,
+      "id": "CollegeandYear",
+      "text": "College and Year"
+    },
+    {
+      "depth": 3,
+      "id": "StatBlocks",
+      "text": "Stat Blocks"
+    },
+    {
+      "depth": 2,
+      "id": "FellowStudentsAL",
+      "text": "Fellow Students (A-L)"
+    },
+    {
+      "depth": 3,
+      "id": "AuroraLunaWynterstarr",
+      "text": "Aurora Luna Wynterstarr"
+    },
+    {
+      "depth": 3,
+      "id": "BhedumRampartSooviij",
+      "text": "Bhedum “Rampart” Sooviij"
+    },
+    {
+      "depth": 3,
+      "id": "CadorasDamellawar",
+      "text": "Cadoras Damellawar"
+    },
+    {
+      "depth": 3,
+      "id": "DrazhomirYarnask",
+      "text": "Drazhomir Yarnask"
+    },
+    {
+      "depth": 3,
+      "id": "GraysonWildemere",
+      "text": "Grayson Wildemere"
+    },
+    {
+      "depth": 3,
+      "id": "GretaGorunn",
+      "text": "Greta Gorunn"
+    },
+    {
+      "depth": 3,
+      "id": "JaveneshStoutclaw",
+      "text": "Javenesh Stoutclaw"
+    },
+    {
+      "depth": 3,
+      "id": "LarineArneza",
+      "text": "Larine Arneza"
+    },
+    {
+      "depth": 2,
+      "id": "FellowStudentsMZ",
+      "text": "Fellow Students (M-Z)"
+    },
+    {
+      "depth": 3,
+      "id": "Melwythorne",
+      "text": "Melwythorne"
+    },
+    {
+      "depth": 3,
+      "id": "MinaLee",
+      "text": "Mina Lee"
+    },
+    {
+      "depth": 3,
+      "id": "NoraAnnWu",
+      "text": "Nora Ann Wu"
+    },
+    {
+      "depth": 3,
+      "id": "QuentilliusAntiphiunMelentorIII",
+      "text": "Quentillius Antiphiun Melentor III"
+    },
+    {
+      "depth": 3,
+      "id": "RosimyffenbipRosieWuzfeddlims",
+      "text": "Rosimyffenbip “Rosie” Wuzfeddlims"
+    },
+    {
+      "depth": 3,
+      "id": "RubinaLarkingdale",
+      "text": "Rubina Larkingdale"
+    },
+    {
+      "depth": 3,
+      "id": "ShuvadriGlintmantle",
+      "text": "Shuvadri Glintmantle"
+    },
+    {
+      "depth": 3,
+      "id": "TilanaKapule",
+      "text": "Tilana Kapule"
+    },
+    {
+      "depth": 3,
+      "id": "UrzmaktokGrojsh",
+      "text": "Urzmaktok Grojsh"
+    },
+    {
+      "depth": 3,
+      "id": "ZantherBowen",
+      "text": "Zanther Bowen"
+    }
+  ],
+  "tags": {
+    "creatures": [
+      "First-Year Student"
+    ],
+    "spells": [],
+    "items": [],
+    "locations": [
+      "Biblioplex",
+      "Bow’s End Tavern",
+      "Firejolt Café",
+      "Lorehold",
+      "Prismari",
+      "Quandrix",
+      "Silverquill",
+      "Strixhaven",
+      "Strixhaven Stadium",
+      "Witherbloom"
+    ],
+    "npcs": [
+      "Aurora Luna Wynterstarr",
+      "Bhedum “Rampart” Sooviij",
+      "Cadoras Damellawar",
+      "Drazhomir Yarnask",
+      "Grayson Wildemere",
+      "Greta Gorunn",
+      "Javenesh Stoutclaw",
+      "Larine Arneza",
+      "Melwythorne",
+      "Mina Lee",
+      "Nora Ann Wu",
+      "Quentillius Antiphiun Melentor III",
+      "Rosimyffenbip “Rosie” Wuzfeddlims",
+      "Rubina Larkingdale",
+      "Shuvadri Glintmantle",
+      "Tilana Kapule",
+      "Urzmaktok Grojsh",
+      "Zanther Bowen"
+    ],
+    "topics": [
+      "campus-life",
+      "relationships",
+      "tables"
+    ]
+  },
+  "session": {
+    "readAloud": [],
+    "rules": [],
+    "tables": [
+      {
+        "id": "StudentNPCStatBlocks",
+        "label": "Student NPC Stat Blocks",
+        "excerpt": "Student NPC Stat Blocks Year Stat Block First First-Year Student Second [College] Apprentice Third or Later [College] Pledgemage"
+      }
+    ],
+    "statBlocks": [],
+    "maps": [],
+    "quickLinks": [
+      {
+        "depth": 2,
+        "id": "SessionZero",
+        "text": "Session Zero",
+        "type": "reference"
+      },
+      {
+        "depth": 2,
+        "id": "UsingTheseRules",
+        "text": "Using These Rules",
+        "type": "rule"
+      },
+      {
+        "depth": 3,
+        "id": "IntroducingtheNPCs",
+        "text": "Introducing the NPCs",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "RelationshipPoints",
+        "text": "Relationship Points",
+        "type": "relationship"
+      },
+      {
+        "depth": 2,
+        "id": "MakingFriendsandRivals",
+        "text": "Making Friends and Rivals",
+        "type": "relationship"
+      },
+      {
+        "depth": 3,
+        "id": "DeepeningRelationships",
+        "text": "Deepening Relationships",
+        "type": "relationship"
+      },
+      {
+        "depth": 4,
+        "id": "BecomingBeloveds",
+        "text": "Becoming Beloveds",
+        "type": "relationship"
+      },
+      {
+        "depth": 4,
+        "id": "BelovedInspiration",
+        "text": "Beloved Inspiration",
+        "type": "relationship"
+      },
+      {
+        "depth": 4,
+        "id": "EndingBelovedRelationships",
+        "text": "Ending Beloved Relationships",
+        "type": "relationship"
+      },
+      {
+        "depth": 2,
+        "id": "FellowStudents",
+        "text": "Fellow Students",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "CollegeandYear",
+        "text": "College and Year",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "StatBlocks",
+        "text": "Stat Blocks",
+        "type": "reference"
+      },
+      {
+        "depth": 2,
+        "id": "FellowStudentsAL",
+        "text": "Fellow Students (A-L)",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "AuroraLunaWynterstarr",
+        "text": "Aurora Luna Wynterstarr",
+        "type": "npc"
+      },
+      {
+        "depth": 3,
+        "id": "BhedumRampartSooviij",
+        "text": "Bhedum “Rampart” Sooviij",
+        "type": "npc"
+      },
+      {
+        "depth": 3,
+        "id": "CadorasDamellawar",
+        "text": "Cadoras Damellawar",
+        "type": "npc"
+      },
+      {
+        "depth": 3,
+        "id": "DrazhomirYarnask",
+        "text": "Drazhomir Yarnask",
+        "type": "npc"
+      },
+      {
+        "depth": 3,
+        "id": "GraysonWildemere",
+        "text": "Grayson Wildemere",
+        "type": "npc"
+      },
+      {
+        "depth": 3,
+        "id": "GretaGorunn",
+        "text": "Greta Gorunn",
+        "type": "npc"
+      },
+      {
+        "depth": 3,
+        "id": "JaveneshStoutclaw",
+        "text": "Javenesh Stoutclaw",
+        "type": "npc"
+      },
+      {
+        "depth": 3,
+        "id": "LarineArneza",
+        "text": "Larine Arneza",
+        "type": "npc"
+      },
+      {
+        "depth": 2,
+        "id": "FellowStudentsMZ",
+        "text": "Fellow Students (M-Z)",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "Melwythorne",
+        "text": "Melwythorne",
+        "type": "npc"
+      },
+      {
+        "depth": 3,
+        "id": "MinaLee",
+        "text": "Mina Lee",
+        "type": "npc"
+      },
+      {
+        "depth": 3,
+        "id": "NoraAnnWu",
+        "text": "Nora Ann Wu",
+        "type": "npc"
+      },
+      {
+        "depth": 3,
+        "id": "QuentilliusAntiphiunMelentorIII",
+        "text": "Quentillius Antiphiun Melentor III",
+        "type": "npc"
+      },
+      {
+        "depth": 3,
+        "id": "RosimyffenbipRosieWuzfeddlims",
+        "text": "Rosimyffenbip “Rosie” Wuzfeddlims",
+        "type": "npc"
+      },
+      {
+        "depth": 3,
+        "id": "RubinaLarkingdale",
+        "text": "Rubina Larkingdale",
+        "type": "npc"
+      },
+      {
+        "depth": 3,
+        "id": "ShuvadriGlintmantle",
+        "text": "Shuvadri Glintmantle",
+        "type": "npc"
+      },
+      {
+        "depth": 3,
+        "id": "TilanaKapule",
+        "text": "Tilana Kapule",
+        "type": "npc"
+      },
+      {
+        "depth": 3,
+        "id": "UrzmaktokGrojsh",
+        "text": "Urzmaktok Grojsh",
+        "type": "npc"
+      },
+      {
+        "depth": 3,
+        "id": "ZantherBowen",
+        "text": "Zanther Bowen",
+        "type": "npc"
+      }
+    ]
+  },
+  "anomalyFlags": [
+    {
+      "type": "reader-address",
+      "passage": "Although these pursuits could be played out entirely with roleplaying, you can use the following Relationship rules to reinforce this aspect of the adventures.",
+      "location": "Relationships",
+      "anchor": "Relationships",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "If you’re interested in using these rules in your game, consider holding a session zero to introduce the rules to the players.",
+      "location": "Session Zero",
+      "anchor": "SessionZero",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "Such a session zero allows you to ascertain players’ comfort with these rules.",
+      "location": "Session Zero",
+      "anchor": "SessionZero",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "Similarly, if you are uncomfortable engaging with the roleplaying encounters these rules describe, we recommend you don’t use them.",
+      "location": "Session Zero",
+      "anchor": "SessionZero",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "Characters who use these rules will have more focused roleplaying time than those who don’t, so you might want to compensate for that lack of “on-screen” time with additional roleplaying encounters for the other characters.",
+      "location": "Session Zero",
+      "anchor": "SessionZero",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "Highlight those NPCs when the characters are at a Job or participating in an Extracurricular, and draw from the entries whenever you want to roleplay an NPC in a classroom setting.",
+      "location": "Introducing the NPCs",
+      "anchor": "IntroducingtheNPCs",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "When it comes time for a Relationship encounter, you might ask a player whether a specific NPC has intrigued them.",
+      "location": "Introducing the NPCs",
+      "anchor": "IntroducingtheNPCs",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "You may also allow your players to browse the “Fellow Students” section to learn more about the NPCs.",
+      "location": "Introducing the NPCs",
+      "anchor": "IntroducingtheNPCs",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "At your discretion, in addition to Relationship encounters, other roleplaying encounters might also provide Relationship Points.",
+      "location": "Relationship Points",
+      "anchor": "RelationshipPoints",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "If you’re playing the adventures in later chapters, the NPCs noted as first-year students have advanced to be the same year as the player characters, and have officially joined their colleges.",
+      "location": "College and Year",
+      "anchor": "CollegeandYear",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "hidden-actor",
+      "passage": "Most people would begrudge the hard labor, but Greta happily does it, reasoning that she is being paid to work out.",
+      "location": "Greta Gorunn",
+      "anchor": "GretaGorunn",
+      "confidence": 0.68,
+      "reason": "A passive construction may conceal who performs the action."
+    }
+  ],
+  "contentHtml": "<h1 class=\"compendium-hr\" id=\"Relationships\">Relationships</h1>\n\n<p>As students, the characters have the opportunity to cement friendships, establish rivalries, deepen bonds, and otherwise develop relationships with student NPCs in this book’s adventures. Although these pursuits could be played out entirely with roleplaying, you can use the following Relationship rules to reinforce this aspect of the adventures.</p>\n<p>These rules provide characters with benefits—or drawbacks!—based on their social endeavors, infusing their interactions with other students with rules weight, and making this integral part of student life a more significant part of the game.</p>\n<p>The rules encompass only interactions with student NPCs. Professors, administrators, and other older adults aren’t part of the Relationship rules.</p>\n<figure id=\"imgwitherbloomstudenthealsafriend\" class=\"compendium-image\">\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/03-006.a-witherbloom-student-heals-a-friend.png\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/03-006.a-witherbloom-student-heals-a-friend.png\" class=\"ddb-lightbox-inner compendium-center-banner-img\" style=\"width: 850px;\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a>\n<figcaption>A Witherbloom student heals a friend from Silverquill</figcaption>\n</figure>\n<h2 class=\"compendium-hr heading-anchor\" id=\"SessionZero\">Session Zero</h2>\n<p>If you’re interested in using these rules in your game, consider holding a session zero to introduce the rules to the players. Such a session zero allows you to ascertain players’ comfort with these rules.</p>\n<p>If some players want to use these rules and other players don’t, using these rules only for some characters, or not using them at all, doesn’t unbalance these adventures. Similarly, if you are uncomfortable engaging with the roleplaying encounters these rules describe, we recommend you don’t use them.</p>\n<p>If any players exhibit trepidation, err on the side of caution and don’t use these rules for some or all of the characters. Characters who use these rules will have more focused roleplaying time than those who don’t, so you might want to compensate for that lack of “on-screen” time with additional roleplaying encounters for the other characters.</p>\n<h2 class=\"compendium-hr heading-anchor\" id=\"UsingTheseRules\">Using These Rules</h2>\n<p>The book’s adventures include Relationship encounters, featuring events during which characters can interact with one or more of the student NPCs in the “<a href=\"#FellowStudents\" title=\"Fellow Students\">Fellow Students</a>” section. When such an encounter begins, use the adventure’s read-aloud text to describe the scene. Then work with the characters one at a time until each has had a turn to interact with the student NPCs.</p>\n<p>The character of each participating player gains 1 Relationship Point or more with student NPCs during Relationship encounters. A character’s number of Relationship Points with a specific NPC determines their status with that NPC.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"IntroducingtheNPCs\">Introducing the NPCs</h3>\n<p>Use the entries in the “Fellow Students” section to populate Strixhaven as the characters explore it, both during and between adventures. Highlight those NPCs when the characters are at a Job or participating in an Extracurricular, and draw from the entries whenever you want to roleplay an NPC in a classroom setting.</p>\n<p>When it comes time for a Relationship encounter, you might ask a player whether a specific NPC has intrigued them. If so, make sure that NPC interacts with them during the encounter. Alternatively, characters who have joined an Extracurricular or taken on a Job might encounter an NPC associated with that endeavor.</p>\n<p>You may also allow your players to browse the “<a href=\"#FellowStudents\" title=\"Fellow Students\">Fellow Students</a>” section to learn more about the NPCs.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"RelationshipPoints\">Relationship Points</h3>\n<p>The characters have opportunities throughout the adventures in this book to gain Relationship Points with student NPCs. At your discretion, in addition to Relationship encounters, other roleplaying encounters might also provide Relationship Points.</p>\n<p>A character’s total number of Relationship Points with an NPC determines their status with that NPC, as described below. Relationship Points start at 0 and increase or decrease by 1 each time a character interacts with one of the NPCs covered by these rules, whether in a Relationship encounter or during another roleplaying scene.</p>\n<p>When a character interacts with a student NPC, that character’s player decides which of the following categories they wish their response to fall under:</p>\n<p><strong>Friendly Response.</strong> A friendly response earns 1 Relationship Point. A friendly response is positive; it might take the form of showing warmth or providing affirmation and camaraderie, as the encounter dictates.</p>\n<p><strong>Rivalrous Response.</strong> A rivalrous response earns −1 Relationship Point. A rivalrous response is negative, and might take the form of being rude to the NPC, antagonizing the NPC, or taking similar unkind actions.</p>\n<p>Each time a character’s number of Relationship Points changes for an NPC, the player should note that on their tracking sheet. The sheet can also be used to track other details about the Relationship.</p>\n<h2 class=\"compendium-hr heading-anchor\" id=\"MakingFriendsandRivals\">Making Friends and Rivals</h2>\n<p>While a character has 2 Relationship Points or more with a student NPC, that NPC becomes a Friend, and the character receives a <strong>Bond Boon</strong> from that person as long as the NPC is a Friend.</p>\n<p>While a character has −2 Relationship Points or less with a student NPC, that NPC becomes a Rival, and the character receives a <strong>Bond Bane</strong> from that person as long as the NPC is a Rival.</p>\n<p>Bond Boons and Bond Banes are noted in each NPC entry in the “<a href=\"#FellowStudents\" title=\"Fellow Students\">Fellow Students</a>” section. When a character makes a Friend or a Rival, the player should note it on their tracking sheet.</p>\n<p>At any time during the adventures in this book, a character can end their friendship with an NPC, effective immediately. When they do so, that character’s Relationship Points with the NPC reset to 0.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"DeepeningRelationships\">Deepening Relationships</h3>\n<p>Once a student NPC has become a character’s Friend, the character has the option of deepening the Relationship. The next time a Relationship encounter happens with the Friend, the character can express a wish for a deeper connection with that NPC. This might be a romantic pairing, a deeper platonic camaraderie, or a sibling-like bond. Before this encounter takes place, talk to the player to ensure a clear understanding of what sort of Relationship they seek with the NPC.</p>\n<figure id=\"imgdate\" class=\"compendium-image\">\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/03-007.sunset-date.png\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/03-007.sunset-date.png\" class=\"ddb-lightbox-inner compendium-center-banner-img\" style=\"width: 850px;\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a>\n<figcaption>Students discuss their shared interests during a sunset date</figcaption>\n</figure>\n<h4 class=\"compendium-hr heading-anchor\" id=\"BecomingBeloveds\">Becoming Beloveds</h4>\n<p>If a player wants a deeper Relationship between their character and a Friend, the Friend can become the character’s Beloved if the character has 2 Relationship Points or more with the NPC. During the next Relationship encounter, they can deepen their Relationship and become Beloveds, in addition to the normal interaction the Relationship encounter allows.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"BelovedInspiration\">Beloved Inspiration</h4>\n<p>When a character has a Beloved, the character gains Beloved Inspiration at the end of each long rest. Beloved Inspiration functions like regular <a class=\"tooltip-hover rule-tooltip\" href=\"https://www.dndbeyond.com/compendium/rules/phb/personality-and-background#Inspiration\" data-tooltip-href=\"/rules/80-tooltip\">Inspiration</a> (as described in the <a class=\"sourcebook\" href=\"https://www.dndbeyond.com/sources/phb\" title=\"Player’s Handbook\">Player’s Handbook</a>), except a character regains a number of uses of Beloved Inspiration after each long rest equal to the number of Beloveds they have, not to exceed a number equal to their proficiency bonus.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"EndingBelovedRelationships\">Ending Beloved Relationships</h4>\n<p>A character can end a Beloved Relationship at any time. When that Relationship ends, the NPC no longer provides Beloved Inspiration to the character.</p>\n<p>If the character’s Relationship Points with the NPC ever drop below 1, the Beloved Relationship ends immediately.</p>\n<h2 class=\"compendium-hr heading-anchor\" id=\"FellowStudents\">Fellow Students</h2>\n<p>The student NPCs are described on the next few pages. Each NPC entry includes personal details and a short biography, along with the Extracurriculars and Job the character is involved in, if any. If an NPC becomes a character’s Friend, the character receives the Bond Boon noted in the NPC’s entry. If the NPC becomes a Rival, the character suffers the noted Bond Bane instead.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"CollegeandYear\">College and Year</h3>\n<p>The academic year noted for an NPC is during the “<a href=\"/chapters/strixhaven-campus-kerfuffle/\" title=\"Campus Kerfuffle\">Campus Kerfuffle</a>” adventure in this chapter. College affiliations for first-year students are provided for flavor and for their subsequent years (students don’t join a college until their second year).</p>\n<p>If you’re playing the adventures in later chapters, the NPCs noted as first-year students have advanced to be the same year as the player characters, and have officially joined their colleges. NPCs noted as second-year students are always a year ahead of the characters. During “<a href=\"/chapters/strixhaven-a-reckoning-in-ruins/\" title=\"A Reckoning in Ruins\">A Reckoning in Ruins</a>” in chapter 6, student NPCs who were in higher years when the characters started at Strixhaven are still around on campus as continuing students or recent alumni.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"StatBlocks\">Stat Blocks</h3>\n<p>The student NPCs are meant to interact with the characters primarily in roleplaying situations and to help create the flavor of attending a university. They aren’t intended to wade into combat—or even venture off campus—when the characters embark on adventures.</p>\n<p>In general, avoid putting these student NPCs in danger with the characters. In situations when you need stat blocks for these NPCs, use the stat block indicated for them in the Student NPC Stat Blocks table, where the stat blocks depend on the student’s year during the current adventure. These stat blocks can be found in <a href=\"/chapters/strixhaven-friends-and-foes/\" title=\"chapter 7\">chapter 7</a>, and in the table, “[College]” refers to the name of the NPC’s college: Lorehold, Prismari, Quandrix, Silverquill, or Witherbloom.</p>\n<table id=\"StudentNPCStatBlocks\" class=\"table-compendium table--left-all\">\n<caption class=\"heading-anchor\"><a href=\"#StudentNPCStatBlocks\"></a>Student NPC Stat Blocks</caption>\n<thead>\n<tr>\n<th>Year</th>\n<th>Stat Block</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>First</td>\n<td><a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160303-first-year-student\" data-tooltip-href=\"/monsters/2160303-tooltip\">First-Year Student</a></td>\n</tr>\n<tr>\n<td>Second</td>\n<td>[College] Apprentice</td>\n</tr>\n<tr>\n<td>Third or Later</td>\n<td>[College] Pledgemage</td>\n</tr>\n</tbody>\n</table>\n<h2 class=\"compendium-hr heading-anchor\" id=\"FellowStudentsAL\">Fellow Students (A-L)</h2>\n<h3 class=\"compendium-hr heading-anchor\" id=\"AuroraLunaWynterstarr\">Aurora Luna Wynterstarr</h3>\n<div class=\"flexible-double-column\">\n<div>\n<p><em>Neutral Dhampir First Year (Witherbloom)</em></p>\n<p>Before arriving at Strixhaven, Aurora changed her name and appearance to that of her on-stage persona: Aurora Luna Wynterstarr, the brilliant singer and songwriter. Aurora was born a dhampir (a partial vampire), which she’s taken as a cosmic sign that she is meant for greatness.</p>\n<p>An accomplished musician on several instruments, Aurora is often found at Bow’s End Tavern performing beautiful dirges on the hurdy-gurdy for the assembled patrons. Aurora is also a member of the Strixhaven Show Band Association, though she believes the music they play lacks the raw emotion of her original compositions.</p>\n<p>She works as a groundskeeper at the Strixhaven Stadium, where she takes great pleasure in using magic to blight undesirable vegetation on the field.</p>\n</div>\n<div>\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/03-008.aurora.png\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/03-008.aurora.png\" class=\"ddb-lightbox-inner\" style=\"width: 350px;\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a>\n</div>\n</div>\n<aside class=\"block-torn-paper\">\n<p><strong>Extracurriculars:</strong> Strixhaven Show Band Association</p>\n<p><strong>Job:</strong> Strixhaven Stadium groundskeeper</p>\n<p><strong>Bond Boon:</strong> Out of respect for Aurora, fellow campus musicians will cover your expenses for one night per week at places where live music is common.</p>\n<p><strong>Bond Bane</strong>: When there’s live music on campus, the lyrics always include rude sentiments directed toward you.</p>\n</aside>\n<h3 class=\"compendium-hr heading-anchor\" id=\"BhedumRampartSooviij\">Bhedum “Rampart” Sooviij</h3>\n<div class=\"flexible-double-column\">\n<div>\n<p><em>Lawful Neutral Loxodon First Year (Lorehold)</em></p>\n<p>Since their name is difficult to pronounce without a trunk, Bhedum has taken to referring to themself as “Rampart,” the closest translation of their name in Common. They are often found poring over ancient texts detailing battles, seeking to better understand the tactical decisions that result in victory and defeat. Rampart is happy to discuss their knowledge with fellow members of the Dragonsguard Historical Society, often doing so late into the night.</p>\n<p>Rampart’s opponents at the Dragonchess Club find themselves outmatched time and again by the loxodon’s technique, though Rampart is a gracious winner. They attend all their classes clad in gilded, centuries-old plate armor, with an immense and similarly decorated sword strapped to their back. Rampart explains that doing so better simulates the battlefield conditions they study.</p>\n</div>\n<div>\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/03-009.bhedum.png\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/03-009.bhedum.png\" class=\"ddb-lightbox-inner\" style=\"width: 350px;\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a>\n</div>\n</div>\n<aside class=\"block-torn-paper\">\n<p><strong>Extracurriculars:</strong> Dragonchess Club, Dragonsguard Historical Society</p>\n<p><strong>Job:</strong> None</p>\n<p><strong>Bond Boon:</strong> Rampart’s commanding presence rubs off, and when you’re trying to avoid campus security, your fellow students always help you lie low.</p>\n<p><strong>Bond Bane</strong>: Library books you need inexplicably go missing at key times, especially those about history. As a result, you can’t pull all-nighters.</p>\n</aside>\n<h3 class=\"compendium-hr heading-anchor\" id=\"CadorasDamellawar\">Cadoras Damellawar</h3>\n<div class=\"flexible-double-column\">\n<div>\n<p><em>Chaotic Good Elf First Year (Quandrix)</em></p>\n<p>Cadoras is a jolly soul, and anyone who spends time with him ends up chuckling at whatever nonsense he is currently sporting. He is a passionate member of the Live-Action Roleplaying Guild and loves playing out all sorts of fantastical adventures. He always roleplays archers, entirely because he’s recently spent a lot of money on a prop-bow and can’t afford anything else. He is also a member of the university’s Distinguished Society of Fine Artists, where he uses magic to sculpt beautiful statuary of complex fractal patterns. The fact that he is self-taught makes the quality of his work that much more impressive.</p>\n<p>Cadoras does have some strange eating habits; he sometimes eats an entire jar of pickled onions in a single sitting and then drinks the vinegar.</p>\n</div>\n<div>\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/03-010.cadoras.png\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/03-010.cadoras.png\" class=\"ddb-lightbox-inner\" style=\"width: 350px;\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a>\n</div>\n</div>\n<aside class=\"block-torn-paper\">\n<p><strong>Extracurriculars:</strong> Distinguished Society of Fine Artists, Live-Action Roleplaying Guild</p>\n<p><strong>Job:</strong> None</p>\n<p><strong>Bond Boon:</strong> The esteem for Cadoras in live-action roleplaying circles extends to you. Guild members will share any information you wish to know about Aberrations, Monstrosities, and Oozes.</p>\n<p><strong>Bond Bane</strong>: You are a pariah in the campus roleplaying scene. The worst monsters are named after you.</p>\n</aside>\n<h3 class=\"compendium-hr heading-anchor\" id=\"DrazhomirYarnask\">Drazhomir Yarnask</h3>\n<div class=\"flexible-double-column\">\n<div>\n<p><em>Neutral Good Minotaur Second Year (Quandrix)</em></p>\n<p>Drazhomir is so soft-spoken that many of his peers must ask him to speak up to be understood. He is over seven feet tall, yet he continuously stoops, as if trying to occupy as little space as possible. Several activities and clubs that involve feats of strength and size continuously try to recruit him—to no avail. Drazhomir prefers spending his time in the Biblioplex, where he works as a book clerk, assisting students in finding required texts and shelving returns. He moves silently through the stacks, and he has given more than one student a scare when they’ve turned around to suddenly find him there.</p>\n<p>Drazhomir’s greatest love is poetry. As a member of the university’s Dead Languages Society, he scours ancient literature for stirring poems written in old tongues, reading them to the rest of the group in a soft, resonant voice that comes directly from his soul.</p>\n</div>\n<div>\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/03-011.drazhomir.png\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/03-011.drazhomir.png\" class=\"ddb-lightbox-inner\" style=\"width: 350px;\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a>\n</div>\n</div>\n<aside class=\"block-torn-paper\">\n<p><strong>Extracurriculars:</strong> Dead Languages Society</p>\n<p><strong>Job:</strong> Biblioplex book clerk</p>\n<p><strong>Bond Boon:</strong> Drazhomir writes you poetry, and the smile it puts on your face makes you likable to everyone on campus except the most stone-hearted.</p>\n<p><strong>Bond Bane</strong>: Other students who work in the Biblioplex refuse to help you find any of the tomes you seek. Even the reference librarians are more cryptic.</p>\n</aside>\n<h3 class=\"compendium-hr heading-anchor\" id=\"GraysonWildemere\">Grayson Wildemere</h3>\n<div class=\"flexible-double-column\">\n<div>\n<p><em>Neutral Human First Year (Silverquill)</em></p>\n<p>Grayson comes from an old, moneyed, and influential family. To him, studying at Strixhaven is a means to an end. Learning business acumen is just as important to Grayson as his classes, so he has joined the Future Entrepreneurs of Strixhaven. Grayson makes a point to know as much about everyone as possible, gathering information until he finds the best circumstance to use it. Having learned to pick locks, he often accesses places where he’s unauthorized, searching for secrets.</p>\n<p>Grayson has become a writer for the <em>Strixhaven Star</em>, where he’s responsible for the gossip column. His writing style is biting, and he uses this platform to expose bullies and mock ignorance. Many of his peers are leery of him, but some have witnessed him paying for poorer students’ books and other supplies—a fact he tries to keep secret.</p>\n</div>\n<div>\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/03-012.grayson.png\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/03-012.grayson.png\" class=\"ddb-lightbox-inner\" style=\"width: 350px;\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a>\n</div>\n</div>\n<aside class=\"block-torn-paper\">\n<p><strong>Extracurriculars:</strong> Future Entrepreneurs of Strixhaven, <em>Strixhaven Star</em></p>\n<p><strong>Job:</strong> None</p>\n<p><strong>Bond Boon:</strong> Whenever you want to buy something on campus, a few words from Grayson get you deals. There’s a 25 percent chance your purchase costs half as much.</p>\n<p><strong>Bond Bane</strong>: Gossip columns proclaim exaggerated versions of your worst traits.</p>\n</aside>\n<h3 class=\"compendium-hr heading-anchor\" id=\"GretaGorunn\">Greta Gorunn</h3>\n<div class=\"flexible-double-column\">\n<div>\n<p><em>Chaotic Good Dwarf First Year (Lorehold)</em></p>\n<p>Greta is often heard long before she is seen, as her raucous laughter echoes through the university’s halls. Enjoying a reputation as a golden-hearted troublemaker, Greta hates studying and grumbles about it at length. This has led to numerous warnings from the librarians for unnecessarily loud behavior, much to Greta’s amusement.</p>\n<p>A fervent member of the Strixhaven Iron-Lifters Society, she has already started to break long-held records in both powerlifting and weightlifting. When not training or competing (or occasionally studying), Greta spends her time in Bow’s End Tavern carousing. As beer isn’t free, she helps out at Strixhaven Stadium, setting up and putting away heavy equipment. Most people would begrudge the hard labor, but Greta happily does it, reasoning that she is being paid to work out.</p>\n</div>\n<div>\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/03-013.greta.png\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/03-013.greta.png\" class=\"ddb-lightbox-inner\" style=\"width: 350px;\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a>\n</div>\n</div>\n<p>Greta makes a point to write regularly to her older brother, Grog, whom she misses terribly.</p>\n<aside class=\"block-torn-paper\">\n<p><strong>Extracurriculars:</strong> Strixhaven Iron-Lifters Society</p>\n<p><strong>Job:</strong> Strixhaven Stadium equipment assistant</p>\n<p><strong>Bond Boon:</strong> Whenever you need anything heavy moved, members of the Iron-Lifters Society show up to help you.</p>\n<p><strong>Bond Bane</strong>: Heavy things show up in inconvenient places, such as in front of your dorm door.</p>\n</aside>\n<h3 class=\"compendium-hr heading-anchor\" id=\"JaveneshStoutclaw\">Javenesh Stoutclaw</h3>\n<div class=\"flexible-double-column\">\n<div>\n<p><em>Neutral Good Owlin Second Year (Lorehold)</em></p>\n<p>Javenesh is an imposing and powerfully built owlin who looks permanently scruffy despite his best efforts. Contributing to his dishevelment are tufts of juvenile plumage that refuse to smooth down, a handful of scars whose origin he’s not sure of, and at least one hole in whatever clothing he’s wearing.</p>\n<p>Contrary to what people initially assume, Javenesh is a friendly sort. To make ends meet, he works at Bow’s End Tavern, managing servers and keeping the peace, relying on his rough appearance to dissuade those intent on making trouble. When not attending classes, Javenesh is an intimidating presence at the Intramural Silkball Club, where few people want to see him barreling toward them. He wishes more people would take the effort to get to know him, rather than be put off by his size and rough exterior.</p>\n</div>\n<div>\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/03-014.javenesh.png\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/03-014.javenesh.png\" class=\"ddb-lightbox-inner\" style=\"width: 350px;\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a>\n</div>\n</div>\n<aside class=\"block-torn-paper\">\n<p><strong>Extracurriculars:</strong> Intramural Silkball Club</p>\n<p><strong>Job:</strong> Bow’s End Tavern assistant manager</p>\n<p><strong>Bond Boon:</strong> Javenesh’s reputation as a tough guy follows you. If peers would be aggressive toward you, they quickly back down.</p>\n<p><strong>Bond Bane</strong>: The servers at Bow’s End Tavern know you are no friend to Javenesh. At the slightest sign of trouble, they blame you and ask you to leave.</p>\n</aside>\n<h3 class=\"compendium-hr heading-anchor\" id=\"LarineArneza\">Larine Arneza</h3>\n<div class=\"flexible-double-column\">\n<div>\n<p><em>Neutral Good Human First Year (Quandrix)</em></p>\n<p>Some think Larine is aloof to the point of being rude, but her friends say that nothing is further from the truth. She is a delightful presence and doesn’t ignore social obligations so much as get distracted easily. Larine is a member of the Intramural Water-Dancing Club, where she performs underwater balletic movements effortlessly. Despite her swimming ability, her tendency to lose focus means learning group choreography takes her more time and effort. Larine has a natural affinity with animals, especially aquatic species, and she’s working on a solo synchronized swimming routine that replaces the other students with a shoal of fish. Rehearsals aren’t going well. As an employee of the Strixhaven Performing Arts Society, Larine is a ticket taker, a job she’s recently switched to as a result of struggling to give correct change while working at the box office.</p>\n</div>\n<div>\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/03-015.larine.png\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/03-015.larine.png\" class=\"ddb-lightbox-inner\" style=\"width: 350px;\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a>\n</div>\n</div>\n<aside class=\"block-torn-paper\">\n<p><strong>Extracurriculars:</strong> Intramural Water-Dancing Club</p>\n<p><strong>Job:</strong> Strixhaven Performing Arts Society ticket taker</p>\n<p><strong>Bond Boon:</strong> Larine is an expert at creating stylized distractions. If you want to slip away unnoticed from anywhere on campus, Larine or her club members help you escape.</p>\n<p><strong>Bond Bane</strong>: You are offered the worst tickets to performances, if any at all.</p>\n</aside>\n<h2 class=\"compendium-hr heading-anchor\" id=\"FellowStudentsMZ\">Fellow Students (M-Z)</h2>\n<h3 class=\"compendium-hr heading-anchor\" id=\"Melwythorne\">Melwythorne</h3>\n<div class=\"flexible-double-column\">\n<div>\n<p><em>Neutral Good Dryad First Year (Witherbloom)</em></p>\n<p>Towering over most students, Melwythorne strikes an imposing figure, especially given the branches that grow from his head like antlers. Calm in demeanor, he’s often confused by the people rushing around him, as their haste won’t lengthen their brief lifespans. Melwythorne had never been away from his grove before coming to Strixhaven and has found the transition to university life difficult. However, since he joined the Intramural Silkball Club, this close-knit surrogate family has helped him deal with his homesickness.</p>\n<p>He is also a member of the Student-Mages of Faith. He enjoys helping his fellow students celebrate their high holidays and discussing theology and spirituality. For him, the natural world and all living beings form a vast consciousness across all planes of existence, transcending the power and reach of any one deity.</p>\n</div>\n<div>\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/03-016.melwythorne.png\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/03-016.melwythorne.png\" class=\"ddb-lightbox-inner\" style=\"width: 350px;\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a>\n</div>\n</div>\n<aside class=\"block-torn-paper\">\n<p><strong>Extracurriculars:</strong> Intramural Silkball Club, Student-Mages of Faith</p>\n<p><strong>Job:</strong> None</p>\n<p><strong>Bond Boon:</strong> Melwythorne’s spirituality centers you. You can calm even the most frazzled of your peers and, if necessary, extract information as needed.</p>\n<p><strong>Bond Bane</strong>: Members of the silkball club and the Student-Mages of Faith refuse to acknowledge your presence.</p>\n</aside>\n<h3 class=\"compendium-hr heading-anchor\" id=\"MinaLee\">Mina Lee</h3>\n<div class=\"flexible-double-column\">\n<div>\n<p><em>Lawful Good Human Second Year (Silverquill)</em></p>\n<p>Mina’s greatest love is the use of language; she adores how subtle differences in intonation and vocabulary can shape one’s perception of reality. Her fascination with language extends to spells and verbal components. After graduation, she plans to conduct research on the variance of language in spells and how one might tweak verbal components that the greater magical community considers immutable.</p>\n<p>Mina’s love of language and nuance has led her to join the <em>Strixhaven Star</em> as an investigative journalist. Here, she reveals truth, corrects misconceptions, and combats injustice. She has also taken a job as a server at Firejolt Café, which not only provides some cash but also puts her in a position to overhear snippets of conversation that might provide leads for her journalistic investigations.</p>\n</div>\n<div>\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/03-017.mina-lee.png\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/03-017.mina-lee.png\" class=\"ddb-lightbox-inner\" style=\"width: 350px;\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a>\n</div>\n</div>\n<aside class=\"block-torn-paper\">\n<p><strong>Extracurriculars:</strong> <em>Strixhaven Star</em></p>\n<p><strong>Job:</strong> Firejolt Café server</p>\n<p><strong>Bond Boon:</strong> Mina loves sharing her vast repository of knowledge with you. If you seek obscure information that’s not secret, Mina researches it and reports her findings within a week.</p>\n<p><strong>Bond Bane</strong>: Firejolt Café never has the ingredients in stock for the beverages you initially order, even if it’s a common drink.</p>\n</aside>\n<h3 class=\"compendium-hr heading-anchor\" id=\"NoraAnnWu\">Nora Ann Wu</h3>\n<div class=\"flexible-double-column\">\n<div>\n<p><em>Neutral Good Human Second Year (Prismari)</em></p>\n<p>Rarely without a smile on her face, Nora is a kind person who is generous with her time and attention. This has led her to gain employment within the university’s dormitories, where she acts as a resident assistant. Nora offers confidential support to any student and is especially passionate about counseling other transgender students. She thoughtfully handles concerns ranging from students’ homesickness to matters that require her to act as an advocate for another student.</p>\n<p>Nora is a passionate member of the Distinguished Society of Fine Artists. As such, she spends hours on the potter’s wheel throwing clay. Despite her enthusiasm, her technical skill is lacking. Her tutors, in attempts to be encouraging, often describe Nora’s work as rustic or naive. Undeterred, Nora continues to produce terrible mug after terrible mug, which she gives as gifts to her friends.</p>\n</div>\n<div>\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/03-018.nora-ann-wu.png\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/03-018.nora-ann-wu.png\" class=\"ddb-lightbox-inner\" style=\"width: 350px;\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a>\n</div>\n</div>\n<aside class=\"block-torn-paper\">\n<p><strong>Extracurriculars:</strong> Distinguished Society of Fine Artists</p>\n<p><strong>Job:</strong> Dormitories resident assistant</p>\n<p><strong>Bond Boon:</strong> The faculty’s respect for Nora extends to you. You can expect straightforward answers when you ask a faculty member for basic information.</p>\n<p><strong>Bond Bane</strong>: Few faculty care to help you with basic requests.</p>\n</aside>\n<h3 class=\"compendium-hr heading-anchor\" id=\"QuentilliusAntiphiunMelentorIII\">Quentillius Antiphiun Melentor III</h3>\n<div class=\"flexible-double-column\">\n<div>\n<p><em>Neutral Human First Year (Prismari)</em></p>\n<p>Quentillius approaches all his endeavors with the utmost seriousness. He believes one should either do something correctly or not at all. Quentillius is a member of the university’s Playactors Drama Guild, where his dedication to what he calls “the craft” is absolute. He looks down on other actors who are slow to memorize lines or who miss cues. Backstage crew members fare better, as Quentillius regards them as crucial and often brings them and the director flowers or notes of thanks. While Quentillius is a powerful presence on stage—especially in romantic roles—critics have called his performances histrionic. To better perform his future roles in ancient plays, Quentillius has joined the Dead Languages Society. He plans to perform his roles in the plays’ original languages, regardless of whether the rest of the production is translated.</p>\n</div>\n<div>\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/03-019.quentillius.png\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/03-019.quentillius.png\" class=\"ddb-lightbox-inner\" style=\"width: 350px;\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a>\n</div>\n</div>\n<aside class=\"block-torn-paper\">\n<p><strong>Extracurriculars:</strong> Dead Languages Society, Play­actors Drama Guild</p>\n<p><strong>Job:</strong> None</p>\n<p><strong>Bond Boon:</strong> You have adopted Quentillius’s authoritative voice, and in dire situations, your peers obey you when you issue commands.</p>\n<p><strong>Bond Bane</strong>: Whenever you perform as part of a production, a small crowd shows up and boos you specifically.</p>\n</aside>\n<h3 class=\"compendium-hr heading-anchor\" id=\"RosimyffenbipRosieWuzfeddlims\">Rosimyffenbip “Rosie” Wuzfeddlims</h3>\n<div class=\"flexible-double-column\">\n<div>\n<p><em>Chaotic Good Gnome First Year (Lorehold)</em></p>\n<p>Excitable and impish, Rosimyffenbip is proud of her name; she insists you can call her “Rosie” only if you are her friend. Or a teacher. Or a student. Or any other member of the university staff. Rosie speaks quickly and with so much energy that it often takes a moment to recover from a conversation with her. She moves far faster than one would expect; it’s unclear whether this is due to magic, a gnomish technological contraption, or just the laws of physics bending to Rosie’s force of personality.</p>\n<p>Rosie referees silkball and takes fair play very seriously. Woe betide any participant who feels the wrath of her whistle. Rosie is also an enthusiastic participant in Strixhaven’s Live-Action Roleplaying Guild. She insists on roleplaying only “monsters” and delights in chasing down participants to “eat” them. Many a participant has heard giggling approaching them at high speed before their character’s death.</p>\n</div>\n<div>\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/03-020.rosie.png\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/03-020.rosie.png\" class=\"ddb-lightbox-inner\" style=\"width: 350px;\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a>\n</div>\n</div>\n<aside class=\"block-torn-paper\">\n<p><strong>Extracurriculars:</strong> Live-Action Roleplaying Guild</p>\n<p><strong>Job:</strong> Intramural Fields referee</p>\n<p><strong>Bond Boon:</strong> Rosie’s energy is contagious. Whenever you travel any significant distance, you can reach your destination in half the normal time.</p>\n<p><strong>Bond Bane</strong>: Whenever you participate in sports on campus (except for big events, such as the Battle of Strixhaven), fouls are constantly called on you.</p>\n</aside>\n<h3 class=\"compendium-hr heading-anchor\" id=\"RubinaLarkingdale\">Rubina Larkingdale</h3>\n<div class=\"flexible-double-column\">\n<div>\n<p><em>Lawful Neutral Human First Year (Silverquill)</em></p>\n<p>When Rubina walks into a room, people take notice. A measured performer with gravitas beyond her years, Rubina is a valued member of the Playactors Drama Guild who can handle weightier roles that more melodramatic actors can’t. This has caused friction within the guild as members vie for parts. Rubina’s stage presence extends to delivering presentations in class. When she orates, one can almost imagine a hardened general marshaling her bloodied and exhausted troops for a final push against a far superior foe.</p>\n<p>Rubina is part of the Strixhaven Show Band Association and has moved from playing to conducting. No previous student conductor has demanded and received such unwavering respect as Rubina. With merely a look and a raised eyebrow, she can quiet even the most raucous orchestra sections.</p>\n</div>\n<div>\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/03-021.rubina.png\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/03-021.rubina.png\" class=\"ddb-lightbox-inner\" style=\"width: 350px;\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a>\n</div>\n</div>\n<aside class=\"block-torn-paper\">\n<p><strong>Extracurriculars:</strong> Playactors Drama Guild, Strixhaven Show Band Association</p>\n<p><strong>Job:</strong> None</p>\n<p><strong>Bond Boon:</strong> Rubina’s gravitas has rubbed off, and you can easily command an entire room’s attention. They hear your words favorably if you wish.</p>\n<p><strong>Bond Bane</strong>: Whenever any band performs in public, its members stop and shake their heads in disapproval when they see you.</p>\n</aside>\n<h3 class=\"compendium-hr heading-anchor\" id=\"ShuvadriGlintmantle\">Shuvadri Glintmantle</h3>\n<div class=\"flexible-double-column\">\n<div>\n<p><em>Lawful Good Owlin First Year (Silverquill)</em></p>\n<p>Her peers are often surprised when they learn Shuvadri is interested in joining Silverquill College, since its members sometimes earn a reputation as abrasive. Shuvadri, on the other hand, exhibits an air of absolute serenity. Anything that might frustrate or delight another student, whether it’s a poor test score or success at a competition, elicits little outward response from Shuvadri. A deep thinker, Shuvadri is rarely surprised by such an outcome, and she enjoys being a centering presence for her peers.</p>\n<p>Also a member of the Student-Mages of Faith, Shuvadri is happy to talk about her appreciation of deities who are devoted to service and community. Many of her peers think she is destined to hold high rank in a temple.</p>\n<p>Shuvadri works on the campus grounds to erase graffiti, wearing a content smile on her face.</p>\n</div>\n<div>\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/03-022.shuvadri.png\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/03-022.shuvadri.png\" class=\"ddb-lightbox-inner\" style=\"width: 350px;\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a>\n</div>\n</div>\n<aside class=\"block-torn-paper\">\n<p><strong>Extracurriculars:</strong> Student-Mages of Faith</p>\n<p><strong>Job:</strong> Campus Grounds graffiti eraser</p>\n<p><strong>Bond Boon:</strong> If you quickly need the help of your peers, they drop everything to assist you as a favor to Shuvadri.</p>\n<p><strong>Bond Bane</strong>: Graffiti making rude allusions to you keeps appearing on campus, and it takes days to get cleaned.</p>\n</aside>\n<h3 class=\"compendium-hr heading-anchor\" id=\"TilanaKapule\">Tilana Kapule</h3>\n<div class=\"flexible-double-column\">\n<div>\n<p><em>Neutral Good Human First Year (Quandrix)</em></p>\n<p>Tilana’s poised demeanor and steady gaze are remarkable. An excellent judge of character, she doesn’t associate with those she deems mean-spirited. Her exacting judgment has led her to join the Dragonchess Club, and while she is still honing her skill at the game itself, she compensates by reading her opponent instead of the board. Many a foe has struggled to sit in silence as she gives them her full attention, probing for weaknesses, the pieces seemingly incidental.</p>\n<p>Surprising to some, Tilana has also joined the Intramural Silkball Club. During matches, she focuses on trying to understand and preempt the opposing sides’ strategies. More than once she has suggested new plays mid-game that have caught the opposing team off guard. The faculty at Strixhaven are convinced that, if she wished, one day Tilana would make an excellent professor.</p>\n</div>\n<div>\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/03-023.tilana.png\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/03-023.tilana.png\" class=\"ddb-lightbox-inner\" style=\"width: 350px;\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a>\n</div>\n</div>\n<aside class=\"block-torn-paper\">\n<p><strong>Extracurriculars:</strong> Dragonchess Club, Intramural Silkball Club</p>\n<p><strong>Job:</strong> None</p>\n<p><strong>Bond Boon:</strong> Tilana loves helping analyze problems. When you go to her for advice, she suggests a helpful solution that you hadn’t considered.</p>\n<p><strong>Bond Bane</strong>: The faculty don’t trust you or help you much, for rumor has it that Tilana has found you wanting.</p>\n</aside>\n<h3 class=\"compendium-hr heading-anchor\" id=\"UrzmaktokGrojsh\">Urzmaktok Grojsh</h3>\n<div class=\"flexible-double-column\">\n<div>\n<p><em>Neutral Orc Second Year (Witherbloom)</em></p>\n<p>First to class, last to leave, and always asking for additional homework, Urzmaktok is a meticulous student. Despite his consistently high marks, Urzmaktok makes no attempt to show off, although his studies seem rudimentary to him. Rumor has it that he is completing enough credits to earn multiple degrees when he graduates.</p>\n<p>Urzmaktok works for the Campus Magic Labs as a specimen preparer. This additional access to the labs also allows him to run his personal experiments in peace. Unsurprisingly, he is also a member of the Fantastical Horticulture Club. There, he looks to develop new species of plants that might yield new ingredients for potions.</p>\n<p>Urzmaktok makes it clear he wants everyone to use his full first name. Should anyone use a nickname, he won’t acknowledge the address.</p>\n</div>\n<div>\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/03-024.urzmaktok.png\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/03-024.urzmaktok.png\" class=\"ddb-lightbox-inner\" style=\"width: 350px;\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a>\n</div>\n</div>\n<aside class=\"block-torn-paper\">\n<p><strong>Extracurriculars:</strong> Fantastical Horticulture Club</p>\n<p><strong>Job:</strong> Campus Magic Labs specimen preparer</p>\n<p><strong>Bond Boon:</strong> No matter the subject, you can always find a partner to study with, whether it’s Urzmaktok or a classmate doing him a favor.</p>\n<p><strong>Bond Bane</strong>: No one on campus who isn’t another player character will study with you. If you ask, most shrug decline, saying you’ll probably fail.</p>\n</aside>\n<h3 class=\"compendium-hr heading-anchor\" id=\"ZantherBowen\">Zanther Bowen</h3>\n<div class=\"flexible-double-column\">\n<div>\n<p><em>Chaotic Good Fire Genasi First Year (Prismari)</em></p>\n<p>One of the most popular students on campus, Zanther is a member of the Mage Tower Cheer Squad, and his exceptional athleticism has earned him the position as the squad’s primary flyer. As such, Zanther is launched into the air in elaborate cheering routines, much to the crowd’s delight.</p>\n<p>Zanther has also joined the Intramural Gymnastics Club. Here he completes at rhythmic gymnastics in both ribbon as well as hoop. To further test himself and impress the judges, Zanther conducts his routines to a vast array of different musical styles and arrangements. When traveling around campus between classes, he shouts random affirmations of school spirit to everyone at large. Despite his peppy nature, Zanther is genuinely encouraging and in no way acts superior. If anything, he seems somewhat oblivious to his own popularity at Strixhaven.</p>\n</div>\n<div>\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/03-025.zanther.png\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/03-025.zanther.png\" class=\"ddb-lightbox-inner\" style=\"width: 350px;\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a>\n</div>\n</div>\n<aside class=\"block-torn-paper\">\n<p><strong>Extracurriculars:</strong> Intramural Gymnastics Club, Mage Tower Cheer Squad</p>\n<p><strong>Job:</strong> None</p>\n<p><strong>Bond Boon:</strong> You enjoy a high social rank as a result of your association with Zanther. Most of your peers fall all over themselves to do you favors.</p>\n<p><strong>Bond Bane</strong>: No one on campus invites you to parties or events, although your friends receive invitations.</p>\n</aside>"
+}

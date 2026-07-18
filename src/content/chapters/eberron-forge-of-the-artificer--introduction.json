@@ -1,0 +1,295 @@
+{
+  "title": "Forge of the Artificer",
+  "sourcebook": "Eberron: Forge of the Artificer",
+  "bookSlug": "eberron-forge-of-the-artificer",
+  "world": "Eberron",
+  "edition": "2024 rules",
+  "chapter": "Introduction: Forge of the Artificer",
+  "chapterNumber": 0,
+  "order": 2,
+  "navGroup": "Sourcebook",
+  "kind": "lore",
+  "audience": "both",
+  "slug": "introduction",
+  "chapterSlug": "introduction",
+  "summary": "When the gorgon’s breath gives life instead of stony death, when fires create instead of destroy, when towers rise from rubble and reach into the sky, then shall embers spring to life in the darkness, and five shall rise to cause a dragon’s fall.",
+  "wordCount": 1267,
+  "originalPath": "Eberron/Chapter 1.html",
+  "rawUrl": "/archive/eberron/Chapter%201.html",
+  "originalAnchors": [
+    {
+      "id": "IntroductionForgeOfTheArtificer",
+      "text": "Forge of the Artificer",
+      "element": "h1"
+    },
+    {
+      "id": "comp-next-nav",
+      "text": "Book Contents Next Chapter 1: The Artificer →",
+      "element": "div"
+    },
+    {
+      "id": "WhenGorgonsBreath",
+      "text": "When the gorgon’s breath gives life instead of stony death, when fires create instead of destroy, when towers rise from rubble and reach into the sky, then shal",
+      "element": "aside"
+    },
+    {
+      "id": "ABoxOfNewTools",
+      "text": "A Box of New Tools",
+      "element": "h2"
+    },
+    {
+      "id": "RevisedArtificer",
+      "text": "Revised Artificer",
+      "element": "h3"
+    },
+    {
+      "id": "Dragonmarks",
+      "text": "Dragonmarks",
+      "element": "h3"
+    },
+    {
+      "id": "Species",
+      "text": "Species",
+      "element": "h3"
+    },
+    {
+      "id": "BastionOptions",
+      "text": "Bastion Options",
+      "element": "h3"
+    },
+    {
+      "id": "CampaignModels",
+      "text": "Campaign Models",
+      "element": "h3"
+    },
+    {
+      "id": "EverythingAirships",
+      "text": "Everything Airships",
+      "element": "h3"
+    },
+    {
+      "id": "TheDraconicProphecy",
+      "text": "The Draconic Prophecy",
+      "element": "h2"
+    },
+    {
+      "id": "UsingTheProphecy",
+      "text": "Using the Prophecy",
+      "element": "h3"
+    },
+    {
+      "id": "imgimageconstruct",
+      "text": "NOOR RAHMAN",
+      "element": "figure"
+    }
+  ],
+  "sourceHash": "bf144699d9ef6005e1fcea55ca169d1888df6defb84cdf3cf5c92c58a9ebfbbd",
+  "extractionDate": "2026-07-13T07:40:57.647Z",
+  "extractionVersion": 3,
+  "headings": [
+    {
+      "depth": 1,
+      "id": "IntroductionForgeOfTheArtificer",
+      "text": "Forge of the Artificer"
+    },
+    {
+      "depth": 2,
+      "id": "ABoxOfNewTools",
+      "text": "A Box of New Tools"
+    },
+    {
+      "depth": 3,
+      "id": "RevisedArtificer",
+      "text": "Revised Artificer"
+    },
+    {
+      "depth": 3,
+      "id": "Dragonmarks",
+      "text": "Dragonmarks"
+    },
+    {
+      "depth": 3,
+      "id": "Species",
+      "text": "Species"
+    },
+    {
+      "depth": 3,
+      "id": "BastionOptions",
+      "text": "Bastion Options"
+    },
+    {
+      "depth": 3,
+      "id": "CampaignModels",
+      "text": "Campaign Models"
+    },
+    {
+      "depth": 3,
+      "id": "EverythingAirships",
+      "text": "Everything Airships"
+    },
+    {
+      "depth": 2,
+      "id": "TheDraconicProphecy",
+      "text": "The Draconic Prophecy"
+    },
+    {
+      "depth": 3,
+      "id": "UsingTheProphecy",
+      "text": "Using the Prophecy"
+    }
+  ],
+  "tags": {
+    "creatures": [
+      "gorgon"
+    ],
+    "spells": [],
+    "items": [],
+    "locations": [
+      "Eberron",
+      "Khorvaire",
+      "Sharn"
+    ],
+    "npcs": [],
+    "topics": [
+      "lore"
+    ]
+  },
+  "session": {
+    "readAloud": [],
+    "rules": [],
+    "tables": [],
+    "statBlocks": [],
+    "maps": [],
+    "quickLinks": [
+      {
+        "depth": 2,
+        "id": "ABoxOfNewTools",
+        "text": "A Box of New Tools",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "RevisedArtificer",
+        "text": "Revised Artificer",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "Dragonmarks",
+        "text": "Dragonmarks",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "Species",
+        "text": "Species",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "BastionOptions",
+        "text": "Bastion Options",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "CampaignModels",
+        "text": "Campaign Models",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "EverythingAirships",
+        "text": "Everything Airships",
+        "type": "reference"
+      },
+      {
+        "depth": 2,
+        "id": "TheDraconicProphecy",
+        "text": "The Draconic Prophecy",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "UsingTheProphecy",
+        "text": "Using the Prophecy",
+        "type": "reference"
+      }
+    ]
+  },
+  "anomalyFlags": [
+    {
+      "type": "reader-address",
+      "passage": "That book is a comprehensive guide to the world of Eberron; this one adds new character options, new campaign models, and new vehicle rules for your Eberron campaign.",
+      "location": "Forge of the Artificer",
+      "anchor": "IntroductionForgeOfTheArtificer",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "You don’t need that book to use this one, but these books work best in tandem, and you’ll find frequent references to Eberron: Rising from the Last War throughout this book.",
+      "location": "Forge of the Artificer",
+      "anchor": "IntroductionForgeOfTheArtificer",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "Each chapter describes one flavor of campaign you might run in Eberron—the gritty life of an inquisitive on the mean streets of Sharn, high-stakes intrigue among the dragonmarked houses, and the rollicking adventures of scholarly explorers from Morgrave University.",
+      "location": "Campaign Models",
+      "anchor": "CampaignModels",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "Building on the tools provided in the 2024 Dungeon Master’s Guide, these chapters outline key conflicts, suggest campaign arcs, provide setting information, and give you stat blocks for NPC figures that characters might encounter in the campaign.",
+      "location": "Campaign Models",
+      "anchor": "CampaignModels",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "” The best way to read this line is as a reference to the characters in your campaign (if there are more or fewer than five characters, you can adjust the number).",
+      "location": "The Draconic Prophecy",
+      "anchor": "TheDraconicProphecy",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "That’s especially fitting if a dragon is a major antagonist in your campaign—or a dragonmarked house, a tyrannical ruler, or anything else easily symbolized as a dragon.",
+      "location": "The Draconic Prophecy",
+      "anchor": "TheDraconicProphecy",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "Using this fragment of the Prophecy as an example, how might you as the Dungeon Master incorporate it into an Eberron campaign?",
+      "location": "Using the Prophecy",
+      "anchor": "UsingTheProphecy",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "Assume the last line refers to the characters in your campaign bringing about the fall of one of your campaign’s major antagonists.",
+      "location": "Using the Prophecy",
+      "anchor": "UsingTheProphecy",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "If you’re using one of the campaign models in this book, the dragon’s fall might refer to one of these antagonists:",
+      "location": "Using the Prophecy",
+      "anchor": "UsingTheProphecy",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    }
+  ],
+  "contentHtml": "<div class=\"efota-title efota-title-intro\">\n<div class=\"efota-title-text\">\n<p><span>Introduction</span></p>\n<h1 class=\"compendium-hr\" id=\"IntroductionForgeOfTheArtificer\">Forge of the Artificer</h1></div>\n<p><span class=\"efota-intro-title\">Introduction</span></p></div>\n\n<aside class=\"epigraph--with-author draconic-prophecy\" id=\"WhenGorgonsBreath\">\n<p> When the gorgon’s breath <br> gives life instead of stony death, <br> when fires create instead of destroy, <br> when towers rise from rubble <br> and reach into the sky, <br> then shall embers spring to life <br> in the darkness, <br> and five shall rise <br> to cause a dragon’s fall. </p>\n<p>—THE DRACONIC PROPHECY</p>\n</aside>\n<p class=\"efota-dropcap\">This book is an extensive supplement to <a class=\"sourcebook\" href=\"https://www.dndbeyond.com/sources/dnd/erftlw\">Eberron: Rising from the Last War</a>. That book is a comprehensive guide to the world of Eberron; this one adds new character options, new campaign models, and new vehicle rules for your Eberron campaign. You don’t need that book to use this one, but these books work best in tandem, and you’ll find frequent references to <em>Eberron: Rising from the Last War</em> throughout this book.</p>\n\n\n\n<h2 class=\"compendium-hr heading-anchor\" id=\"ABoxOfNewTools\">A Box of New Tools</h2>\n<p><em>Eberron: Forge of the Artificer</em> is a toolbox full of new options for any Eberron campaign, as summarized below.</p>\n\n\n<h3 class=\"compendium-hr heading-anchor\" id=\"RevisedArtificer\">Revised Artificer</h3>\n<p>The Artificer class has been revised in line with the class revisions in the 2024 version of the fifth edition <a class=\"sourcebook\" href=\"https://www.dndbeyond.com/sources/dnd/phb-2024\">Player’s Handbook</a>. The class includes a new spell. Additional content that appeared as class feature options in previous versions of the class now appear as magic items in <a href=\"/chapters/new-spells/\">an appendix</a> at the end of the book.</p>\n<p>This version of the <a href=\"/chapters/the-artificer/\">Artificer</a> includes a new subclass, the Cartographer.</p>\n\n\n<h3 class=\"compendium-hr heading-anchor\" id=\"Dragonmarks\">Dragonmarks</h3>\n<p>This book includes feats that grant characters dragonmarks and backgrounds that give some of those feats to characters. A <a href=\"/chapters/character-options/#WhatsNewDragonmarks\">sidebar</a> at the beginning of chapter 2 summarizes the new dragonmark options in this book.</p>\n\n\n<h3 class=\"compendium-hr heading-anchor\" id=\"Species\">Species</h3>\n<p>Four updated species appear in this book: Changeling, Kalashtar, Shifter, and Warforged. Khoravar is a new species, rooted in the experience of Khorvaire’s people of mixed human and elf descent.</p>\n\n\n<h3 class=\"compendium-hr heading-anchor\" id=\"BastionOptions\">Bastion Options</h3>\n<p><a href=\"/chapters/bastions-in-khorvaire/\">Chapter 3</a> offers new special facilities for characters to improve their Bastions, as well as ways to build a mobile Bastion.</p>\n\n\n<h3 class=\"compendium-hr heading-anchor\" id=\"CampaignModels\">Campaign Models</h3>\n<p>Chapters <a href=\"/chapters/eberron-gazetteer/\">4</a>, <a href=\"/chapters/dragonmarks/\">5</a>, and <a href=\"/chapters/friends-and-foes/\">6</a> provide tools to help DMs start an Eberron campaign quickly and easily. Each chapter describes one flavor of campaign you might run in Eberron—the gritty life of an inquisitive on the mean streets of Sharn, high-stakes intrigue among the dragonmarked houses, and the rollicking adventures of scholarly explorers from Morgrave University. Building on the tools provided in the 2024 <a class=\"sourcebook\" href=\"https://www.dndbeyond.com/sources/dnd/dmg-2024\">Dungeon Master’s Guide</a>, these chapters outline key conflicts, suggest campaign arcs, provide setting information, and give you stat blocks for NPC figures that characters might encounter in the campaign.</p>\n\n\n<h3 class=\"compendium-hr heading-anchor\" id=\"EverythingAirships\">Everything Airships</h3>\n<p>The <a href=\"/chapters/magic-items/\">last chapter</a> presents rules and resources for elemental airships: operating them, using them in combat, and undertaking journeys by air.</p>\n\n\n<h2 class=\"compendium-hr heading-anchor\" id=\"TheDraconicProphecy\">The Draconic Prophecy</h2>\n<p>The language of the Draconic Prophecy is richly symbolic and largely conditional. Rather than laying out a predetermined series of events, it explores causation and consequences—it describes what might happen in one arena of existence if something changes in another.</p>\n<p>Scholars sometimes approach the Draconic Prophecy as a puzzle, where solving it is its own reward. They look at each individual fragment of the Prophecy as a self-contained challenge, and they explore how a certain series of actions might fulfill the Prophecy.</p>\n<p>The immortal beings who are truly invested in the Prophecy, however—primarily the dragons of the Chamber and the fiendish Lords of Dust—view each fragment as a tiny piece of a much larger whole. From this broader perspective, one fragment or verse cascades into another, acting out a drama that unfolds over decades, centuries, or even millennia. Every verse will be fulfilled in time, these immortals believe, and their goal is simply to tilt the direction of destiny to one side or another.</p>\n<p>The verse of the Prophecy that begins this introduction is typical, in that each line is open to multiple interpretations. Consider these possibilities:</p>\n<p><strong>“The gorgon’s breath.”</strong> These words could refer to a literal <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/5195052-gorgon\" data-tooltip-href=\"/monsters/5195052-tooltip\">gorgon</a>, perhaps one magically altered or infused with radiant energy so its breath restores health, brings the dead back to life, or animates objects. Or they could refer to <a href=\"/chapters/dragonmarks/#HouseCannith\">House Cannith</a>, whose symbol is a gorgon. (Members of the Chamber, in particular, believe that mortals’ dragonmarks appeared on flesh in order to involve these people in the story of the Prophecy.) The words could refer to Cannith artificers “breathing life” into their warforged creations.</p>\n<p><strong>“When fires create.”</strong> These words could easily refer to the fires of a smith’s forge, especially when connected to House Cannith as the gorgon in the previous line. Or they could refer to the birth of a new thing from the ashes of the old, or to mortal passions (the fires of the heart) being turned to creative pursuits after years of violence in the Last War.</p>\n<p><strong>“When towers rise from rubble.”</strong> These words could be a general reference to buildings rebuilt after a disaster, or perhaps a specific reference to a building project in the Fallen district of Sharn (where the wreckage of a fallen tower still dominates the neighborhood). Or it might refer to a resurgence in a family line, with notable scions arising from a family in decline; their “reaching to the sky” could reflect their lofty aspirations or their literal piloting of an airship.</p>\n<p><strong>“Embers spring to life.”</strong> Hope kindling in the midst of despair is one obvious reading of these words. However, the reference to fires earlier in the verse doesn’t require that the embers here be positive—this could refer to a new, destructive fire raging to life after long lying dormant, or perhaps even the hatching of a red dragon’s egg.</p>\n<p><strong>“Five shall rise to cause a dragon’s fall.”</strong> The best way to read this line is as a reference to the characters in your campaign (if there are more or fewer than five characters, you can adjust the number). That’s especially fitting if a dragon is a major antagonist in your campaign—or a dragonmarked house, a tyrannical ruler, or anything else easily symbolized as a dragon.</p>\n\n\n<h3 class=\"compendium-hr heading-anchor\" id=\"UsingTheProphecy\">Using the Prophecy</h3>\n<p>Using this fragment of the Prophecy as an example, how might you as the Dungeon Master incorporate it into an Eberron campaign?</p>\n<p>Start at the end. Assume the last line refers to the characters in your campaign bringing about the fall of one of your campaign’s major antagonists. If you’re using one of the campaign models in this book, the dragon’s fall might refer to one of these antagonists:</p>\n<p><strong>Sharn Inquisitives (See <a href=\"/chapters/eberron-gazetteer/\">Chapter 4</a>).</strong> Daask, whose trade in the dangerous drug called dragon’s blood is harming Sharn’s population, or a powerful villain whose use of dragon’s blood has brought about a draconic transformation.</p>\n<p><strong>Dragonmarked Intrigue (See <a href=\"/chapters/dragonmarks/\">Chapter 5</a>).</strong> A dragon connected with the Chamber, or the leader of a dragonmarked house.</p>\n<p><strong>Morgrave Expeditions (See <a href=\"/chapters/friends-and-foes/\">Chapter 6</a>).</strong> Lady Illmarrow, leader of the Order of the Emerald Claw (detailed in <a class=\"sourcebook\" href=\"https://www.dndbeyond.com/sources/dnd/erftlw\">Eberron: Rising from the Last War</a>), who has draconic blood, or a fiendish overlord with a draconic form (perhaps Rak Tulkhesh, also detailed in <em>Eberron: Rising from the Last War</em>).</p>\n<p>With that climactic campaign end in mind, plot out a simple campaign arc—a series of four apparently unconnected events, each one reflecting a line of the Prophecy fragment. At each step of the way, the characters might encounter others trying to steer the fulfillment of the Prophecy in various directions. Some of these figures might want the characters to topple the dragon who is the antagonist of the campaign; others might want the characters to bring about a different dragon’s fall. Still others might hope for the five-headed dragon god Tiamat to rise and cause the fall of all the dragonmarked houses in fulfillment of the fragment’s last line.</p>\n<figure class=\"compendium-art compendium-art-center Misc--Dropshadow\" id=\"imgimageconstruct\"><span class=\"artist-credit\">NOOR RAHMAN</span>\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/efota/Jae5SyNcfFGjapTb/09-003.title-image-construct.png\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/efota/Jae5SyNcfFGjapTb/09-003.title-image-construct.png\" class=\"ddb-lightbox-inner\" style=\"width: 650px;\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a>\n</figure>"
+}

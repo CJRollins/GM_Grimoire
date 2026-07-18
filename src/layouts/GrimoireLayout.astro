@@ -3,6 +3,17 @@ import type { CollectionEntry } from 'astro:content';
 import '../styles/global.css';
 
 type Chapter = CollectionEntry<'chapters'>;
+interface ChapterGroup {
+  name: string;
+  chapters: Chapter[];
+}
+interface BookGroup {
+  slug: string;
+  title: string;
+  world: string;
+  chapters: Chapter[];
+  groups: ChapterGroup[];
+}
 
 interface Props {
   title: string;
@@ -14,15 +25,54 @@ interface Props {
 
 const {
   title,
-  description = 'A preserved and searchable reader for Eberron: Forge of the Artificer.',
+  description = 'A preserved, searchable sourcebook library for study and play.',
   chapters,
   current,
   headings = [],
 } = Astro.props;
 
+const bookPriority = new Map([
+  ['eberron-forge-of-the-artificer', 0],
+  ['strixhaven-a-curriculum-of-chaos', 1],
+]);
+const sortedChapters = [...chapters].sort((a, b) => {
+  const bookDifference = (bookPriority.get(a.data.bookSlug) ?? 99) - (bookPriority.get(b.data.bookSlug) ?? 99);
+  return bookDifference || a.data.order - b.data.order;
+});
+const books: BookGroup[] = [];
+for (const chapter of sortedChapters) {
+  let book = books.find((entry) => entry.slug === chapter.data.bookSlug);
+  if (!book) {
+    book = {
+      slug: chapter.data.bookSlug,
+      title: chapter.data.sourcebook,
+      world: chapter.data.world,
+      chapters: [],
+      groups: [],
+    };
+    books.push(book);
+  }
+  book.chapters.push(chapter);
+  let group = book.groups.find((entry) => entry.name === chapter.data.navGroup);
+  if (!group) {
+    group = { name: chapter.data.navGroup, chapters: [] };
+    book.groups.push(group);
+  }
+  group.chapters.push(chapter);
+}
+
+const currentBook = books.find((book) => book.slug === current?.data.bookSlug);
+const bookOpening = currentBook?.chapters[0];
+const pageHeadings = headings.filter((heading) => heading.id && heading.depth <= 4);
 const anomalies = current?.data.anomalyFlags ?? [];
 const sourceHash = current?.data.sourceHash ?? '';
 const shortHash = sourceHash.slice(0, 12);
+const session = current?.data.session;
+const sessionTotal = session
+  ? session.readAloud.length + session.rules.length + session.tables.length + session.statBlocks.length + session.maps.length
+  : 0;
+const hasSessionDeskTarget = current?.data.bookSlug === 'strixhaven-a-curriculum-of-chaos';
+const route = Astro.url.pathname;
 ---
 
 <!doctype html>
@@ -33,57 +83,102 @@ const shortHash = sourceHash.slice(0, 12);
     <meta name="description" content={description} />
     <meta name="generator" content={Astro.generator} />
     <meta name="theme-color" content="#17140f" />
-    <title>{title} · Eberron Grimoire</title>
+    <title>{title} · Arcane Grimoire</title>
     <link rel="stylesheet" href="/pagefind/pagefind-component-ui.css" />
     <script is:inline src="/pagefind/pagefind-component-ui.js" type="module"></script>
   </head>
-  <body data-reader-mode="clean">
-    <a class="skip-link" href="#reader-content">Skip to sourcebook text</a>
+  <body
+    data-reader-mode="clean"
+    data-page-slug={current?.data.slug ?? ''}
+    data-page-title={current?.data.title ?? ''}
+    data-book-title={current?.data.sourcebook ?? ''}
+  >
+    <a class="skip-link" href="#reader-content">Skip to main content</a>
     <header class="masthead" data-pagefind-ignore="all">
-      <a class="sigil" href="/" aria-label="Eberron Grimoire home">E</a>
+      <a class="sigil" href="/" aria-label="Arcane Grimoire home">A</a>
       <div class="masthead-title">
-        <span>The Eberron</span>
+        <span>The Arcane</span>
         <strong>Grimoire</strong>
       </div>
-      <a class="search-button" href="/search/" aria-keyshortcuts="Control+K Meta+K">
-        <span aria-hidden="true">⌕</span> Search <kbd>Ctrl K</kbd>
+      <nav class="desk-nav" aria-label="Grimoire tools">
+        <a href="/" aria-current={route === '/' ? 'page' : undefined}>Library</a>
+        <a href="/study/" aria-current={route === '/study/' ? 'page' : undefined}>Study</a>
+        <a href="/session/" aria-current={route === '/session/' ? 'page' : undefined}>Session</a>
+        <a href="/students/" aria-current={route === '/students/' ? 'page' : undefined}>Students</a>
+      </nav>
+      <a class="resume-link" data-resume-link href="/" hidden>Resume</a>
+      <button class="tray-open" type="button" data-session-tray-open aria-haspopup="dialog">
+        Tray <span data-tray-count>0</span>
+      </button>
+      <a class="search-button" href="/search/" aria-keyshortcuts="Control+K Meta+K /">
+        <span aria-hidden="true">⌕</span> <span>Search</span> <kbd>Ctrl K</kbd>
       </a>
     </header>
 
     <div class="grimoire-grid">
       <aside class="book-rail" aria-label="Sourcebook navigation" data-pagefind-ignore="all">
-        <details open>
-          <summary>Eberron: Forge of the Artificer</summary>
-          <ol>
-            {chapters.map((chapter) => (
-              <li class:list={{ active: chapter.data.slug === current?.data.slug }}>
-                <a href={`/chapters/${chapter.data.slug}/`} aria-current={chapter.data.slug === current?.data.slug ? 'page' : undefined}>
-                  <span>{String(chapter.data.order).padStart(2, '0')}</span>
-                  {chapter.data.title}
-                </a>
-              </li>
+        <p class="rail-label">Sourcebooks</p>
+        {books.map((book) => (
+          <details class="book-group" open={book.slug === current?.data.bookSlug}>
+            <summary>
+              <span>{book.world}</span>
+              {book.title}
+            </summary>
+            {book.groups.map((group) => (
+              <details class="chapter-group" open={book.slug === current?.data.bookSlug && group.name === current?.data.navGroup}>
+                <summary>{group.name}</summary>
+                <ol>
+                  {group.chapters.map((chapter) => (
+                    <li class:list={{ active: chapter.data.slug === current?.data.slug }}>
+                      <a
+                        href={`/chapters/${chapter.data.slug}/`}
+                        aria-current={chapter.data.slug === current?.data.slug ? 'page' : undefined}
+                      >
+                        <span>{String(chapter.data.order).padStart(2, '0')}</span>
+                        {chapter.data.title}
+                      </a>
+                    </li>
+                  ))}
+                </ol>
+              </details>
             ))}
-          </ol>
-        </details>
+          </details>
+        ))}
       </aside>
 
       <div class="reading-stage">
         {current && (
           <nav class="breadcrumbs" aria-label="Breadcrumb" data-pagefind-ignore="all">
-            <a href="/">World</a><span aria-hidden="true">›</span>
-            <a href="/">Eberron</a><span aria-hidden="true">›</span>
-            <a href={`/chapters/${current.data.slug}/`}>{current.data.chapter}</a>
+            <a href="/">Library</a><span aria-hidden="true">›</span>
+            {bookOpening && <a href={`/chapters/${bookOpening.data.slug}/`}>{current.data.world}</a>}
+            <span aria-hidden="true">›</span>
+            <span>{current.data.navGroup}</span><span aria-hidden="true">›</span>
+            <a href={`/chapters/${current.data.slug}/`} aria-current="page">{current.data.title}</a>
           </nav>
         )}
 
+        {current && pageHeadings.length > 0 && (
+          <details class="mobile-toc" data-pagefind-ignore="all">
+            <summary>On this page <span>{pageHeadings.length} sections</span></summary>
+            <ol class="toc">
+              {pageHeadings.map((heading) => (
+                <li class={`depth-${heading.depth}`}><a href={`#${heading.id}`}>{heading.text}</a></li>
+              ))}
+            </ol>
+          </details>
+        )}
+
         {current && (
-          <div class="reader-toolbar" aria-label="Reading mode" data-pagefind-ignore="all">
-            <span>Reading mode</span>
-            <div role="group" aria-label="Choose reading mode">
-              <button type="button" data-mode="clean" aria-pressed="true">Reader</button>
-              <button type="button" data-mode="source" aria-pressed="false">Source</button>
-              <button type="button" data-mode="compare" aria-pressed="false">Compare</button>
+          <div class="reader-toolbar" aria-label="Reader controls" data-pagefind-ignore="all">
+            <div class="reader-modes">
+              <span>View</span>
+              <div role="group" aria-label="Choose reading mode">
+                <button type="button" data-mode="clean" aria-pressed="true">Reader</button>
+                <button type="button" data-mode="source" aria-pressed="false">Source</button>
+                <button type="button" data-mode="compare" aria-pressed="false">Compare</button>
+              </div>
             </div>
+            <button class="study-toggle" type="button" data-study-toggle aria-pressed="false">Mark reviewed</button>
           </div>
         )}
 
@@ -96,10 +191,21 @@ const shortHash = sourceHash.slice(0, 12);
             <section>
               <p class="eyebrow">On this page</p>
               <ol class="toc">
-                {headings.filter((heading) => heading.id && heading.depth <= 3).map((heading) => (
+                {pageHeadings.map((heading) => (
                   <li class={`depth-${heading.depth}`}><a href={`#${heading.id}`}>{heading.text}</a></li>
                 ))}
               </ol>
+            </section>
+            <section class="session-note">
+              <p class="eyebrow">At the table</p>
+              <dl class="session-counts">
+                <div><dt>{session?.readAloud.length ?? 0}</dt><dd>read aloud</dd></div>
+                <div><dt>{session?.tables.length ?? 0}</dt><dd>tables</dd></div>
+                <div><dt>{session?.statBlocks.length ?? 0}</dt><dd>stat blocks</dd></div>
+                <div><dt>{session?.maps.length ?? 0}</dt><dd>player maps</dd></div>
+              </dl>
+              {sessionTotal > 0 && hasSessionDeskTarget && <a href={`/session/#${current.data.slug}`}>Open in session desk</a>}
+              <p class="quiet">Use the pin beside any section heading to add it to your session tray.</p>
             </section>
             <section class="source-note">
               <p class="eyebrow">Source evidence</p>
@@ -131,32 +237,180 @@ const shortHash = sourceHash.slice(0, 12);
         ) : (
           <section>
             <p class="eyebrow">Reader’s note</p>
-            <p>Canonical text remains separate from derived metadata and marginalia.</p>
+            <p>Canonical text remains separate from derived study notes, session links, and marginalia.</p>
           </section>
         )}
       </aside>
     </div>
 
     <footer data-pagefind-ignore="all">
-      <p>Immutable sources · derived reader · explicit provenance</p>
+      <p>Immutable sources · derived reader · local-only study tools · explicit provenance</p>
     </footer>
 
+    <dialog class="session-tray" data-session-tray aria-labelledby="session-tray-title">
+      <div class="tray-heading">
+        <div>
+          <p class="eyebrow">Local session notes</p>
+          <h2 id="session-tray-title">Session tray</h2>
+        </div>
+        <form method="dialog"><button type="submit" aria-label="Close session tray">Close</button></form>
+      </div>
+      <p class="quiet">Pinned sections stay in this browser. The original source text is never changed.</p>
+      <ol data-tray-list></ol>
+      <div class="tray-actions">
+        <a href="/session/">Open session desk</a>
+        <button type="button" data-tray-clear>Clear tray</button>
+      </div>
+    </dialog>
+
     <script is:inline>
+      const readStoredJson = (key, fallback) => {
+        try {
+          const value = JSON.parse(localStorage.getItem(key) || '');
+          return value ?? fallback;
+        } catch {
+          return fallback;
+        }
+      };
+
       const applyReaderMode = (mode) => {
         if (!['clean', 'source', 'compare'].includes(mode)) mode = 'clean';
         document.body.dataset.readerMode = mode;
         document.querySelectorAll('[data-mode]').forEach((button) => {
           button.setAttribute('aria-pressed', String(button.dataset.mode === mode));
         });
-        localStorage.setItem('eberron-reader-mode', mode);
+        localStorage.setItem('grimoire-reader-mode', mode);
       };
 
-      applyReaderMode(localStorage.getItem('eberron-reader-mode') || 'clean');
+      applyReaderMode(localStorage.getItem('grimoire-reader-mode') || 'clean');
       document.querySelectorAll('[data-mode]').forEach((button) => {
         button.addEventListener('click', () => applyReaderMode(button.dataset.mode));
       });
+
+      const pageSlug = document.body.dataset.pageSlug;
+      const pageTitle = document.body.dataset.pageTitle;
+      const bookTitle = document.body.dataset.bookTitle;
+      const studyButton = document.querySelector('[data-study-toggle]');
+      const progress = readStoredJson('grimoire-study-progress', {});
+      const renderStudyButton = () => {
+        if (!studyButton || !pageSlug) return;
+        const reviewed = Boolean(progress[pageSlug]);
+        studyButton.setAttribute('aria-pressed', String(reviewed));
+        studyButton.textContent = reviewed ? 'Reviewed ✓' : 'Mark reviewed';
+      };
+      if (studyButton && pageSlug) {
+        renderStudyButton();
+        studyButton.addEventListener('click', () => {
+          progress[pageSlug] = !progress[pageSlug];
+          localStorage.setItem('grimoire-study-progress', JSON.stringify(progress));
+          renderStudyButton();
+        });
+        localStorage.setItem('grimoire-last-read', JSON.stringify({
+          url: window.location.pathname + window.location.hash,
+          title: pageTitle,
+          book: bookTitle,
+        }));
+      }
+
+      const resume = readStoredJson('grimoire-last-read', null);
+      document.querySelectorAll('[data-resume-link]').forEach((link) => {
+        if (!resume?.url) return;
+        link.href = resume.url;
+        link.title = resume.title ? `Resume ${resume.title}` : 'Resume reading';
+        link.hidden = false;
+      });
+
+      const trayDialog = document.querySelector('[data-session-tray]');
+      const trayList = document.querySelector('[data-tray-list]');
+      let tray = readStoredJson('grimoire-session-tray', []);
+      if (!Array.isArray(tray)) tray = [];
+
+      const saveTray = () => {
+        localStorage.setItem('grimoire-session-tray', JSON.stringify(tray));
+        renderTray();
+      };
+      const renderTray = () => {
+        document.querySelectorAll('[data-tray-count]').forEach((node) => {
+          node.textContent = String(tray.length);
+        });
+        if (!trayList) return;
+        trayList.replaceChildren();
+        if (!tray.length) {
+          const empty = document.createElement('li');
+          empty.className = 'tray-empty';
+          empty.textContent = 'Nothing pinned yet.';
+          trayList.append(empty);
+          return;
+        }
+        tray.forEach((item) => {
+          const row = document.createElement('li');
+          const link = document.createElement('a');
+          const meta = document.createElement('span');
+          const remove = document.createElement('button');
+          link.href = item.url;
+          link.textContent = item.title;
+          meta.textContent = item.chapter + (item.book ? ` · ${item.book}` : '');
+          remove.type = 'button';
+          remove.textContent = 'Remove';
+          remove.setAttribute('aria-label', `Remove ${item.title} from session tray`);
+          remove.addEventListener('click', () => {
+            tray = tray.filter((entry) => entry.url !== item.url);
+            saveTray();
+          });
+          row.append(link, meta, remove);
+          trayList.append(row);
+        });
+      };
+
+      document.querySelectorAll('.sourcebook-content h2[id], .sourcebook-content h3[id], .sourcebook-content h4[id]').forEach((heading) => {
+        const sectionTitle = heading.textContent.trim();
+        const url = window.location.pathname + '#' + heading.id;
+        const button = document.createElement('button');
+        button.type = 'button';
+        button.className = 'pin-section';
+        button.textContent = 'Pin';
+        button.setAttribute('aria-label', `Pin ${sectionTitle} to session tray`);
+        const updatePin = () => {
+          const pinned = tray.some((item) => item.url === url);
+          button.setAttribute('aria-pressed', String(pinned));
+          button.textContent = pinned ? 'Pinned' : 'Pin';
+        };
+        button.addEventListener('click', () => {
+          const existing = tray.findIndex((item) => item.url === url);
+          if (existing >= 0) tray.splice(existing, 1);
+          else tray.push({ url, title: sectionTitle, chapter: pageTitle, book: bookTitle });
+          saveTray();
+          updatePin();
+        });
+        heading.append(button);
+        updatePin();
+      });
+
+      document.querySelectorAll('[data-session-tray-open]').forEach((button) => {
+        button.addEventListener('click', () => {
+          if (typeof trayDialog?.showModal === 'function') trayDialog.showModal();
+          else trayDialog?.setAttribute('open', '');
+        });
+      });
+      document.querySelector('[data-tray-clear]')?.addEventListener('click', () => {
+        tray = [];
+        saveTray();
+        document.querySelectorAll('.pin-section').forEach((button) => {
+          button.setAttribute('aria-pressed', 'false');
+          button.textContent = 'Pin';
+        });
+      });
+      trayDialog?.addEventListener('click', (event) => {
+        if (event.target === trayDialog) trayDialog.close();
+      });
+      renderTray();
+
       document.addEventListener('keydown', (event) => {
-        if ((event.ctrlKey || event.metaKey) && event.key.toLowerCase() === 'k') {
+        const element = event.target;
+        const typing = element instanceof HTMLElement && (
+          element.matches('input, textarea, select') || element.isContentEditable
+        );
+        if (((event.ctrlKey || event.metaKey) && event.key.toLowerCase() === 'k') || (event.key === '/' && !typing)) {
           event.preventDefault();
           window.location.href = '/search/';
         }

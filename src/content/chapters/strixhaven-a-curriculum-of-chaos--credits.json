@@ -1,0 +1,75 @@
+{
+  "title": "Credits",
+  "sourcebook": "Strixhaven: A Curriculum of Chaos",
+  "bookSlug": "strixhaven-a-curriculum-of-chaos",
+  "world": "Arcavios",
+  "edition": "2014 rules",
+  "chapter": "Credits",
+  "chapterNumber": null,
+  "order": 19,
+  "navGroup": "Appendix",
+  "kind": "credits",
+  "audience": "both",
+  "slug": "strixhaven-credits",
+  "chapterSlug": "credits",
+  "summary": "Designers: Bill Benham, Makenzie De Armas, Dan Dillon, Steve Kenson, T. Alexander Stangroom",
+  "wordCount": 587,
+  "originalPath": "Arcavios/Stixhaven/Credits.html",
+  "rawUrl": "/archive/strixhaven/Credits.html",
+  "originalAnchors": [
+    {
+      "id": "Credits",
+      "text": "Credits",
+      "element": "h1"
+    },
+    {
+      "id": "comp-next-nav",
+      "text": "",
+      "element": "div"
+    },
+    {
+      "id": "DDStudio",
+      "text": "D&D Studio",
+      "element": "h5"
+    },
+    {
+      "id": "Marketing",
+      "text": "Marketing",
+      "element": "h5"
+    }
+  ],
+  "sourceHash": "0892743d06b0cf8e55da03b3ddf38a25e1ceb75ae7cf9fd0e1f011db6a77faa0",
+  "extractionDate": "2026-07-13T07:40:57.647Z",
+  "extractionVersion": 3,
+  "headings": [
+    {
+      "depth": 1,
+      "id": "Credits",
+      "text": "Credits"
+    }
+  ],
+  "tags": {
+    "creatures": [],
+    "spells": [],
+    "items": [],
+    "locations": [
+      "Biblioplex",
+      "Strixhaven"
+    ],
+    "npcs": [],
+    "topics": [
+      "campus-life",
+      "credits"
+    ]
+  },
+  "session": {
+    "readAloud": [],
+    "rules": [],
+    "tables": [],
+    "statBlocks": [],
+    "maps": [],
+    "quickLinks": []
+  },
+  "anomalyFlags": [],
+  "contentHtml": "<h1 class=\"compendium-hr\" id=\"Credits\">Credits</h1>\n\n<div class=\"flexible-double-column hangingIndent\">\n<div>\n<p><strong>Lead Designer:</strong> Amanda Hamon</p>\n<p><strong>Assistant Lead Designers:</strong> Jeremy Crawford, James Wyatt</p>\n<p><strong>Art Director:</strong> Emi Tanji</p>\n<p><strong>Designers:</strong> Bill Benham, Makenzie De Armas, Dan Dillon, Steve Kenson, T. Alexander Stangroom</p>\n<p><strong>Assistant Designers:</strong> Sydney Adams, Taymoor Rehman</p>\n<p><strong>Rules Developers:</strong> Jeremy Crawford, Ben Petrisor</p>\n<p><strong>Editors:</strong> Judy Bauer, Michele Carter, Scott Fitzgerald Gray, Ianara Natividad, Christopher Perkins, F. Wesley Schneider</p>\n<p><strong>Cultural &amp; Sensitivity Consultant:</strong> Tanya DePass</p>\n<p><strong>Graphic Designers:</strong> Trystan Falcone, Emi Tanji, Trish Yochum</p>\n<p><strong>Cover Illustrators:</strong> Hydro74, Magali Villeneuve</p>\n<p><strong>Cartographers:</strong> Francesca Baerald, Sean Macdonald, Mike Schley</p>\n<p><strong>Additional Art Directors:</strong> Ovidio Cartagena, Taylor Ingvarsson, Kate Irwin, Thomas Jenkot, Zack Stella, Sarah Wassell</p>\n<p><strong>Interior Illustrators:</strong> Steve Argyle, Jinho Bae, Cristi Balanescu, Mike Bierek, Zoltan Boros, Alex Brock, Filip Burburan, Dmitry Burmak, Ekaterina Burmak, Paul Scott Canavan, Manuel Castañón, Jehan Choo, Billy Christian, Chris Cold, Justine Cruz, Alayna Danner, Jonas De Ro, Olga Drebas, Piotr Dura, Jesper Ejsing, Anna Fehr, Tony Foti, Caroline Gariba, Ilse Gort, Johan Grenier, Yeong-Hao Han, Josh Hass, Hydro74, Izzy, Tomasz Jedruszek, Jihun, Jason Kang, Igor Kieryluk, Mathias Kollros, Yigit Koroglu, Kekai Kotaki, Andrey Kuzinskiy, Luiza Laffitte, Lius Lasahido, Ryan Alexander Lee, Lie Setiawan, Daniel Ljunggren, Lindsey Look, Titus Lunter, Howard Lyon, Slawomir Maniak, Antonio José Manzanedo, Joseph Meehan, Viko Menezes, Robson Michel, Francisco Miyara, Scott Murphy, Marta Nael, Hector Ortiz, Adam Paquette, Alessandra Pisano, Steve Prescott, Chris Rahn, Jason Rainville, Andreas Rocha, Denman Rooke, Sean Sevestre, Liiga Smilshkalne, Bryan Sola, Craig J Spearing, Raymond Swanland, YW Tang, Viktor Titov, Jokubas Uogintas, Randy Vargas, Svetlin Velinov, Raoul Vitale, Johannes Voss, Sara Winters, Bayard Wu, Kieran Yanner, Andreas Zafiratos</p>\n</div>\n<div>\n<p><strong>Strixhaven World Designers:</strong> Doug Beyer (creative lead), Taylor Ingvarsson (art director), Jess Lanzillo (creative director), Meris Mullaley (creative producer), Fox Allison, Annie Sardelis, Emily Teng, Andrew Vallas, James Wyatt, Ari Zirulnik</p>\n<p><strong>Project Engineer:</strong> Cynda Callaway</p>\n<p><strong>Imaging Technicians:</strong> Kevin Yee</p>\n<p><strong>Prepress Specialist:</strong> Jefferson Dunlap</p>\n<h5 id=\"DDStudio\" class=\"quick-menu-exclude compendium-hr heading-anchor\"><a href=\"#DDStudio\" aria-hidden=\"true\"></a>D&amp;D Studio</h5>\n<p><strong>Executive Producer:</strong> Ray Winninger</p>\n<p><strong>Game Design Architects:</strong> Jeremy Crawford, Christopher Perkins</p>\n<p><strong>Design Manager:</strong> Steve Scott</p>\n<p><strong>Design Department:</strong> Sydney Adams, Judy Bauer, Makenzie De Armas, Dan Dillon, Amanda Hamon, Ari Levitch, Ben Petrisor, Taymoor Rehman, F. Wesley Schneider, James Wyatt</p>\n<p><strong>Art Department Manager:</strong> Richard Whitters</p>\n<p><strong>Principal Art Director:</strong> Kate Irwin</p>\n<p><strong>Art Department:</strong> Trystan Falcone, Emi Tanji, Shawn Wood, Trish Yochum</p>\n<p><strong>Senior Producer:</strong> Dan Tovar</p>\n<p><strong>Producers:</strong> Bill Benham, Robert Hawkey, Lea Heleotis</p>\n<p><strong>Director of Product Management:</strong> Liz Schuh</p>\n<p><strong>Product Managers:</strong> Natalie Egan, Chris Lindsay, Hilary Ross, Chris Tulach</p>\n<h5 id=\"Marketing\" class=\"quick-menu-exclude compendium-hr heading-anchor\"><a href=\"#Marketing\" aria-hidden=\"true\"></a>Marketing</h5>\n<p><strong>Executive Producer:</strong> Ray Winninger</p>\n<p><strong>Director of Global Brand Marketing:</strong> Brian Perry</p>\n<p><strong>Global Brand Manager:</strong> Shelly Mazzanoble</p>\n<p><strong>Senior Marketing Communications Manager:</strong> Greg Tito</p>\n<p><strong>Community Manager:</strong> Brandy Camel</p>\n</div>\n</div>\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/08-001.png\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/08-001.png\" class=\"ddb-lightbox-inner\" style=\"width: 320px;\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a>\n<p>&nbsp;</p>\n<div class=\"flexible-double-column\">\n<div>\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/08-003.on-the-cover.png\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/08-003.on-the-cover.png\" class=\"ddb-lightbox-inner\" style=\"width: 600px;\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a>\n<p><strong>ON THE COVER</strong></p>\n<p>Three Strixhaven students find distractions from their studies in Magali Villeneuve’s cover illustration. On the back, a harried Biblioplex assistant tries to tidy the mess.</p>\n</div>\n<div>\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/08-004.on-the-alt-cover.png\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/08-004.on-the-alt-cover.png\" class=\"ddb-lightbox-inner\" style=\"width: 600px;\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a>\n<p><strong>ON THE ALT-COVER</strong></p>\n<p>Hydro74 shows off the Strixhaven star, a symbol of unity and magical fellowship. The sigils of each of Strixhaven’s five colleges adorn the back cover.</p>\n</div>\n</div>\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/08-002.ampersand.png\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/08-002.ampersand.png\" class=\"ddb-lightbox-inner\" style=\"width: 180px;\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a>\n<aside class=\"block-torn-paper\">\n<p>DUNGEONS &amp; DRAGONS, D&amp;D, Wizards of the Coast, the dragon ampersand, Dungeon Master, <a class=\"sourcebook\" href=\"https://www.dndbeyond.com/sources/phb\" title=\"Player’s Handbook\">Player’s Handbook</a>, <a class=\"sourcebook\" href=\"https://www.dndbeyond.com/sources/mm\" title=\"Monster Manual\">Monster Manual</a>, <a class=\"sourcebook\" href=\"https://www.dndbeyond.com/sources/dmg\" title=\"Dungeon Master’s Guide\">Dungeon Master’s Guide</a>, Strixhaven, Magic: The Gathering, the planeswalker symbol, all other Wizards of the Coast product names, and their respective logos are trademarks of Wizards of the Coast in the USA and other countries. All characters and their distinctive likenesses are property of Wizards of the Coast. The materials described in this statement are protected under the copyright laws of the United States of America and around the world under international intellectual property treaties. Any reproduction or unauthorized use of the materials contained herein or artwork contained herein is prohibited without the express written permission of Wizards of the Coast.</p>\n</aside>"
+}

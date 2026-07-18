@@ -1,0 +1,203 @@
+{
+  "title": "Party at the Rose Stage",
+  "sourcebook": "Strixhaven: A Curriculum of Chaos",
+  "bookSlug": "strixhaven-a-curriculum-of-chaos",
+  "originalPath": "Arcavios/Stixhaven/Chapter 10 - Party at the Rose Stage.html",
+  "rawUrl": "/archive/strixhaven/Chapter%2010%20-%20Party%20at%20the%20Rose%20Stage.html",
+  "sourceHash": "482d2333093153bb2b68cce7be4eee520515e10bd5a8b9625443aab29c48f03b",
+  "extractionDate": "2026-07-13T07:40:57.647Z",
+  "extractionVersion": 3,
+  "originalAnchors": [
+    {
+      "id": "PartyattheRoseStage",
+      "text": "Party at the Rose Stage",
+      "element": "h1"
+    },
+    {
+      "id": "comp-next-nav",
+      "text": "",
+      "element": "div"
+    },
+    {
+      "id": "StackEmHigh",
+      "text": "Stack ’Em High",
+      "element": "h2"
+    },
+    {
+      "id": "imgpests",
+      "text": "From a distance, pests look round, squishy, and cuddly. Up close, they’re sharp",
+      "element": "figure"
+    },
+    {
+      "id": "TheContest",
+      "text": "The Contest",
+      "element": "h3"
+    },
+    {
+      "id": "PlayingtheGame",
+      "text": "Playing the Game",
+      "element": "h3"
+    },
+    {
+      "id": "RelationshipEncounter",
+      "text": "Relationship Encounter",
+      "element": "h3"
+    },
+    {
+      "id": "ItsGotThreeHeads",
+      "text": "It’s Got Three Heads!",
+      "element": "h2"
+    },
+    {
+      "id": "ExaminingthePests",
+      "text": "Examining the Pests",
+      "element": "h3"
+    },
+    {
+      "id": "PracticeTime",
+      "text": "Practice Time",
+      "element": "h3"
+    },
+    {
+      "id": "PracticeMakesPerfect",
+      "text": "Practice Makes Perfect",
+      "element": "h2"
+    },
+    {
+      "id": "AerojauntField",
+      "text": "Aerojaunt Field",
+      "element": "h3"
+    },
+    {
+      "id": "AerojauntFieldLocations",
+      "text": "Aerojaunt Field Locations",
+      "element": "h3"
+    },
+    {
+      "id": "Map42aerojauntfield",
+      "text": "Map 4.2: aerojaunt field View Player Version",
+      "element": "figure"
+    },
+    {
+      "id": "A1SouthwesternOutbuilding",
+      "text": "A1. Southwestern Outbuilding",
+      "element": "h4"
+    },
+    {
+      "id": "A2SoutheasternOutbuilding",
+      "text": "A2. Southeastern Outbuilding",
+      "element": "h4"
+    },
+    {
+      "id": "A3PracticeField",
+      "text": "A3. Practice Field",
+      "element": "h4"
+    },
+    {
+      "id": "imgofstrixhaven",
+      "text": "Practice for the Battle of Strixhaven leads to the year-end event that takes place in Strixhaven Stadium",
+      "element": "figure"
+    },
+    {
+      "id": "A4Dugout",
+      "text": "A4. Dugout",
+      "element": "h4"
+    },
+    {
+      "id": "A5Bleachers",
+      "text": "A5. Bleachers",
+      "element": "h4"
+    },
+    {
+      "id": "MageTowerPractice",
+      "text": "Mage Tower Practice",
+      "element": "h3"
+    },
+    {
+      "id": "DuringPractice",
+      "text": "During Practice",
+      "element": "h4"
+    },
+    {
+      "id": "AfterPractice",
+      "text": "After Practice",
+      "element": "h4"
+    },
+    {
+      "id": "AnUnwelcomeVisitor",
+      "text": "An Unwelcome Visitor",
+      "element": "h3"
+    },
+    {
+      "id": "ExaminingtheSlaad",
+      "text": "Examining the Slaad",
+      "element": "h4"
+    },
+    {
+      "id": "ScriveningandSymbologyExamSymbolGlyphs",
+      "text": "Scrivening and Symbology Exam: Symbol Glyphs",
+      "element": "h2"
+    },
+    {
+      "id": "StudyingPhase",
+      "text": "Studying Phase",
+      "element": "h3"
+    },
+    {
+      "id": "TestingPhase",
+      "text": "Testing Phase",
+      "element": "h3"
+    },
+    {
+      "id": "TotheScriptoriaCollections",
+      "text": "To the Scriptoria Collections",
+      "element": "h3"
+    },
+    {
+      "id": "GettingSomeAir",
+      "text": "Getting Some Air",
+      "element": "h2"
+    },
+    {
+      "id": "MagicalSkateOff",
+      "text": "Magical Skate-Off",
+      "element": "h3"
+    },
+    {
+      "id": "imgshenanigans",
+      "text": "Magical shenanigans are common on campus.Students especially love magically getting some air",
+      "element": "figure"
+    },
+    {
+      "id": "TheSkateOff",
+      "text": "The Skate-Off",
+      "element": "h4"
+    },
+    {
+      "id": "RelationshipEncounter1",
+      "text": "Relationship Encounter",
+      "element": "h4"
+    },
+    {
+      "id": "ThatsNotSupposedtoHappen",
+      "text": "That’s Not Supposed to Happen!",
+      "element": "h3"
+    },
+    {
+      "id": "ExaminingtheScene",
+      "text": "Examining the Scene",
+      "element": "h4"
+    }
+  ],
+  "transformations": [
+    "Selected the first .p-article-content element.",
+    "Removed scripts, styles, forms, iframes, hidden duplicate labels, and source navigation.",
+    "Removed event handlers and D&D Beyond content-chunk identifiers.",
+    "Rewrote archived sourcebook links to generated reader routes when a local target exists.",
+    "Added lazy image loading and asynchronous decoding hints.",
+    "Added derived IDs to read-aloud, rules, table, and stat-block elements for session navigation.",
+    "Indexed player-version map links as derived session metadata.",
+    "Preserved source wording and original heading IDs; derived metadata remains separate."
+  ],
+  "repairs": []
+}

@@ -1,0 +1,278 @@
+{
+  "title": "No Time to Lose",
+  "sourcebook": "Strixhaven: A Curriculum of Chaos",
+  "bookSlug": "strixhaven-a-curriculum-of-chaos",
+  "originalPath": "Arcavios/Stixhaven/Chapter 16 - No Time To Lose.html",
+  "rawUrl": "/archive/strixhaven/Chapter%2016%20-%20No%20Time%20To%20Lose.html",
+  "sourceHash": "ceea8a7d63b8cbe02c9ad0dfa0bffeb1694daa8698ea16b4d5a539bb60e75522",
+  "extractionDate": "2026-07-13T07:40:57.647Z",
+  "extractionVersion": 3,
+  "originalAnchors": [
+    {
+      "id": "NoTimetoLose",
+      "text": "No Time to Lose",
+      "element": "h1"
+    },
+    {
+      "id": "comp-next-nav",
+      "text": "",
+      "element": "div"
+    },
+    {
+      "id": "ButWhataboutClasses",
+      "text": "But What about Classes?",
+      "element": "h2"
+    },
+    {
+      "id": "TheStageIsSet",
+      "text": "The Stage Is Set",
+      "element": "h2"
+    },
+    {
+      "id": "AboutMurgaxor",
+      "text": "About Murgaxor",
+      "element": "h2"
+    },
+    {
+      "id": "imggrenshel",
+      "text": "Murgaxor Grenshel",
+      "element": "figure"
+    },
+    {
+      "id": "IntotheBadlands",
+      "text": "Into the Badlands",
+      "element": "h2"
+    },
+    {
+      "id": "ApproachingtheBadlands",
+      "text": "Approaching the Badlands",
+      "element": "h3"
+    },
+    {
+      "id": "FortressBadlandsLocationst1t2",
+      "text": "Fortress Badlands Locations (T1-T2)",
+      "element": "h3"
+    },
+    {
+      "id": "Map62fortressbadlands",
+      "text": "Map 6.2: fortress badlands View Player Version",
+      "element": "figure"
+    },
+    {
+      "id": "T1Watchtowers",
+      "text": "T1. Watchtowers",
+      "element": "h4"
+    },
+    {
+      "id": "T2CollapsingCave",
+      "text": "T2. Collapsing Cave",
+      "element": "h4"
+    },
+    {
+      "id": "HallofWisdomt3at3e",
+      "text": "Hall of Wisdom (T3a-T3e)",
+      "element": "h3"
+    },
+    {
+      "id": "T3ASoutheastEntrance",
+      "text": "T3A. Southeast Entrance",
+      "element": "h4"
+    },
+    {
+      "id": "T3BSouthwestEntrance",
+      "text": "T3B. Southwest Entrance",
+      "element": "h4"
+    },
+    {
+      "id": "T3CEmptyChamber",
+      "text": "T3C. Empty Chamber",
+      "element": "h4"
+    },
+    {
+      "id": "T3DNorthwestEntrance",
+      "text": "T3D. Northwest Entrance",
+      "element": "h4"
+    },
+    {
+      "id": "T3EEastEntrance",
+      "text": "T3E. East Entrance",
+      "element": "h4"
+    },
+    {
+      "id": "FortressBadlandsLocationst4t7",
+      "text": "Fortress Badlands Locations (T4-T7)",
+      "element": "h3"
+    },
+    {
+      "id": "T4SupplyRoom",
+      "text": "T4. Supply Room",
+      "element": "h4"
+    },
+    {
+      "id": "T5Lab",
+      "text": "T5. Lab",
+      "element": "h4"
+    },
+    {
+      "id": "imgexpeditions",
+      "text": "Lorehold expeditions into the badlands sometimes awaken more than mere memories",
+      "element": "figure"
+    },
+    {
+      "id": "T6MushroomCave",
+      "text": "T6. Mushroom Cave",
+      "element": "h4"
+    },
+    {
+      "id": "T7GorgonsCave",
+      "text": "T7. Gorgon’s Cave",
+      "element": "h4"
+    },
+    {
+      "id": "UndergroundCave",
+      "text": "Underground Cave",
+      "element": "h3"
+    },
+    {
+      "id": "Map63undergroundcave",
+      "text": "Map 6.3: underground cave View Player Version",
+      "element": "figure"
+    },
+    {
+      "id": "U1MeditationAlcove",
+      "text": "U1. Meditation Alcove",
+      "element": "h4"
+    },
+    {
+      "id": "U2RitualArea",
+      "text": "U2. Ritual Area",
+      "element": "h4"
+    },
+    {
+      "id": "U3GuardChamber",
+      "text": "U3. Guard Chamber",
+      "element": "h4"
+    },
+    {
+      "id": "U4LivingArea",
+      "text": "U4. Living Area",
+      "element": "h4"
+    },
+    {
+      "id": "SanguineTentacles",
+      "text": "Sanguine Tentacles (1/Day). The blood in the copper basin disappears as tentacles of congealed blood fill a 10-foot cube centered at a point on the ground that ",
+      "element": "aside"
+    },
+    {
+      "id": "Developments1",
+      "text": "Developments",
+      "element": "h3"
+    },
+    {
+      "id": "ThisIsSurrealIsntIt",
+      "text": "This Is Surreal, Isn’t It?",
+      "element": "h2"
+    },
+    {
+      "id": "RelationshipsBeforeWeGo",
+      "text": "Relationships: Before We Go",
+      "element": "h3"
+    },
+    {
+      "id": "imgneverknow",
+      "text": "Adventurers never know whatlurks within an ancient ruin",
+      "element": "figure"
+    },
+    {
+      "id": "TimetoStopMurgaxor",
+      "text": "Time to Stop Murgaxor!",
+      "element": "h4"
+    },
+    {
+      "id": "RuinsofCaerdoon",
+      "text": "Ruins of Caerdoon",
+      "element": "h2"
+    },
+    {
+      "id": "RegionalEffects",
+      "text": "Regional Effects",
+      "element": "h3"
+    },
+    {
+      "id": "FeaturesoftheRuins",
+      "text": "Features of the Ruins",
+      "element": "h3"
+    },
+    {
+      "id": "RuinsLocations",
+      "text": "Ruins Locations",
+      "element": "h3"
+    },
+    {
+      "id": "Map64ruinsofcaerdoon",
+      "text": "Map 6.4: ruins of caerdoon View Player Version",
+      "element": "figure"
+    },
+    {
+      "id": "N1HauntedWatchtower",
+      "text": "N1. Haunted Watchtower",
+      "element": "h4"
+    },
+    {
+      "id": "N2WailingMoat",
+      "text": "N2. Wailing Moat",
+      "element": "h4"
+    },
+    {
+      "id": "N3Wreckage",
+      "text": "N3. Wreckage",
+      "element": "h4"
+    },
+    {
+      "id": "imgruinsnearstrixhaven",
+      "text": "The ruins near Strixhaven are watched over by strange creatures",
+      "element": "figure"
+    },
+    {
+      "id": "N4SupplyTrain",
+      "text": "N4. Supply Train",
+      "element": "h4"
+    },
+    {
+      "id": "N5SiegeTowers",
+      "text": "N5. Siege Towers",
+      "element": "h4"
+    },
+    {
+      "id": "N6Fortress",
+      "text": "N6. Fortress",
+      "element": "h4"
+    },
+    {
+      "id": "imgkhelvor",
+      "text": "Khelvor the daemogoth eagerly anticipatesthe suffering that will occur whenMurgaxor’s ritual is complete",
+      "element": "figure"
+    },
+    {
+      "id": "WhatHappensNext",
+      "text": "What Happens Next?",
+      "element": "h3"
+    },
+    {
+      "id": "Advanceto10thLevel",
+      "text": "Advance to 10th Level!",
+      "element": "h2"
+    }
+  ],
+  "transformations": [
+    "Selected the first .p-article-content element.",
+    "Removed scripts, styles, forms, iframes, hidden duplicate labels, and source navigation.",
+    "Removed event handlers and D&D Beyond content-chunk identifiers.",
+    "Rewrote archived sourcebook links to generated reader routes when a local target exists.",
+    "Added lazy image loading and asynchronous decoding hints.",
+    "Added derived IDs to read-aloud, rules, table, and stat-block elements for session navigation.",
+    "Indexed player-version map links as derived session metadata.",
+    "Preserved source wording and original heading IDs; derived metadata remains separate."
+  ],
+  "repairs": []
+}

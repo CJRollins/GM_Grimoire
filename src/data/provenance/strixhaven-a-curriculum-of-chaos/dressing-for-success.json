@@ -1,0 +1,353 @@
+{
+  "title": "Dressing for Success",
+  "sourcebook": "Strixhaven: A Curriculum of Chaos",
+  "bookSlug": "strixhaven-a-curriculum-of-chaos",
+  "originalPath": "Arcavios/Stixhaven/Chapter 13 - Dressing For Success.html",
+  "rawUrl": "/archive/strixhaven/Chapter%2013%20-%20Dressing%20For%20Success.html",
+  "sourceHash": "9b17b561865e7b0438c78e02b6a4e8ef93f74a941d5cc4c1a2d960009d3b6375",
+  "extractionDate": "2026-07-13T07:40:57.647Z",
+  "extractionVersion": 3,
+  "originalAnchors": [
+    {
+      "id": "DressingforSuccess",
+      "text": "Dressing for Success",
+      "element": "h1"
+    },
+    {
+      "id": "comp-next-nav",
+      "text": "",
+      "element": "div"
+    },
+    {
+      "id": "TheMasqueradesTheme",
+      "text": "The Masquerade’s Theme",
+      "element": "h2"
+    },
+    {
+      "id": "HistoricalResearch",
+      "text": "Historical Research",
+      "element": "h3"
+    },
+    {
+      "id": "RecordsGap",
+      "text": "Records Gap",
+      "element": "h3"
+    },
+    {
+      "id": "FashionShowPreparations",
+      "text": "Fashion Show Preparations",
+      "element": "h3"
+    },
+    {
+      "id": "FashionShowTiming",
+      "text": "Fashion Show Timing",
+      "element": "h4"
+    },
+    {
+      "id": "FashionDesign",
+      "text": "Fashion Design",
+      "element": "h4"
+    },
+    {
+      "id": "imgandstyle",
+      "text": "Magic and style are on full displayat a Strixhaven fashion show",
+      "element": "figure"
+    },
+    {
+      "id": "FashionModeling",
+      "text": "Fashion Modeling",
+      "element": "h4"
+    },
+    {
+      "id": "TheFashionShow",
+      "text": "The Fashion Show",
+      "element": "h3"
+    },
+    {
+      "id": "FashionShowRumors",
+      "text": "Fashion Show Rumors",
+      "element": "h4"
+    },
+    {
+      "id": "FashionShowRumorsTable",
+      "text": "Fashion Show Rumors d6 Rumor 1 Another designer stole the student’s design and is trying to pass it off as their own work! 2 An alumni designer is here to watch",
+      "element": "table"
+    },
+    {
+      "id": "OntheRunway",
+      "text": "On the Runway",
+      "element": "h4"
+    },
+    {
+      "id": "FashionAuction",
+      "text": "Fashion Auction",
+      "element": "h4"
+    },
+    {
+      "id": "FashionatAuction",
+      "text": "Fashion at Auction Check Total Value Comparable Outfit 10–12 15 gp Leather suit with a self-tying tie 13–16 30 gp Violet ballgown with puffy sleeves 17–19 60 gp",
+      "element": "table"
+    },
+    {
+      "id": "RelationshipEncounter1",
+      "text": "Relationship Encounter",
+      "element": "h4"
+    },
+    {
+      "id": "FashionMontage",
+      "text": "Fashion Montage",
+      "element": "h3"
+    },
+    {
+      "id": "PartyPreparations",
+      "text": "Party Preparations",
+      "element": "h2"
+    },
+    {
+      "id": "SedgemoorHarvest",
+      "text": "Sedgemoor Harvest",
+      "element": "h3"
+    },
+    {
+      "id": "RandomEncountersintheBayou",
+      "text": "Random Encounters in the Bayou",
+      "element": "h4"
+    },
+    {
+      "id": "BayouEncounters",
+      "text": "Bayou Encounters d20 Encounter 1–4 No encounter 5–6 1 giant crocodile and 2 crocodiles 7–8 A rare tourmaline-coiffed woodpecker, which a student insists on stud",
+      "element": "table"
+    },
+    {
+      "id": "imgwhovisitsedgemoor",
+      "text": "Those who visit Sedgemoor are bound to discover its wondrous inhabitants and hidden mysteries",
+      "element": "figure"
+    },
+    {
+      "id": "BiblioplexSupplies",
+      "text": "Biblioplex Supplies",
+      "element": "h3"
+    },
+    {
+      "id": "TransportingtheSupplies",
+      "text": "Transporting the Supplies",
+      "element": "h4"
+    },
+    {
+      "id": "AdvancedArcaneHistoryExamDevices",
+      "text": "Advanced Arcane History Exam: Devices",
+      "element": "h2"
+    },
+    {
+      "id": "StudyingPhase1",
+      "text": "Studying Phase",
+      "element": "h3"
+    },
+    {
+      "id": "TestingPhase1",
+      "text": "Testing Phase",
+      "element": "h3"
+    },
+    {
+      "id": "Cheating",
+      "text": "Cheating",
+      "element": "h4"
+    },
+    {
+      "id": "CostumeDesigns",
+      "text": "Costume Designs",
+      "element": "h4"
+    },
+    {
+      "id": "FollowingUpontheDean",
+      "text": "Following Up on the Dean",
+      "element": "h3"
+    },
+    {
+      "id": "Suspicions",
+      "text": "Suspicions",
+      "element": "h2"
+    },
+    {
+      "id": "DeanTullusRumors",
+      "text": "Dean Tullus Rumors d4 Rumor 1 It seems like Dean Tullus is always working—she rarely leaves her office. 2 The dean is rarely seen without a relic from her recen",
+      "element": "table"
+    },
+    {
+      "id": "FancyingUpFootwork",
+      "text": "Fancying Up Footwork",
+      "element": "h2"
+    },
+    {
+      "id": "imgordance",
+      "text": "Whether learning magic or dance,Strixhaven students throw themselvesinto their studies with zeal",
+      "element": "figure"
+    },
+    {
+      "id": "DancewithMe",
+      "text": "Dance with Me?",
+      "element": "h3"
+    },
+    {
+      "id": "DancePartnerQuirks",
+      "text": "Dance Partner Quirks d6 The Character’s Partner… 1 Is already a fantastic dancer. 2 Treats a dance like a competitive, full-contact sport. 3 Is shy or embarrass",
+      "element": "table"
+    },
+    {
+      "id": "RelationshipEncounter2",
+      "text": "Relationship Encounter",
+      "element": "h4"
+    },
+    {
+      "id": "PreparingtheHall",
+      "text": "Preparing the Hall",
+      "element": "h2"
+    },
+    {
+      "id": "KollemaHallFeatures",
+      "text": "Kollema Hall Features",
+      "element": "h3"
+    },
+    {
+      "id": "KollemaHallLocations",
+      "text": "Kollema Hall Locations",
+      "element": "h3"
+    },
+    {
+      "id": "Map52kollemahall",
+      "text": "Map 5.2: kollema hall View Player Version",
+      "element": "figure"
+    },
+    {
+      "id": "K1SerenityQuadrants",
+      "text": "K1. Serenity Quadrants",
+      "element": "h4"
+    },
+    {
+      "id": "K2WiseKollema",
+      "text": "K2. Wise Kollema",
+      "element": "h4"
+    },
+    {
+      "id": "K3DemonstrationStage",
+      "text": "K3. Demonstration Stage",
+      "element": "h4"
+    },
+    {
+      "id": "K4SecondFloorStudy",
+      "text": "K4. Second-Floor Study",
+      "element": "h4"
+    },
+    {
+      "id": "K5InfirmaryIntake",
+      "text": "K5. Infirmary Intake",
+      "element": "h4"
+    },
+    {
+      "id": "K6InfirmaryHall",
+      "text": "K6. Infirmary Hall",
+      "element": "h4"
+    },
+    {
+      "id": "K7Sickroom",
+      "text": "K7. Sickroom",
+      "element": "h4"
+    },
+    {
+      "id": "MasqueradePreparations",
+      "text": "Masquerade Preparations",
+      "element": "h3"
+    },
+    {
+      "id": "KollemaHallAccidents",
+      "text": "Kollema Hall Accidents d10 Event 1–4 No Event 5 Archivist Attack 6 Firebreak 7 Get Me Down 8 Look Out 9–10 Sick Leave",
+      "element": "table"
+    },
+    {
+      "id": "ArchivistAttack",
+      "text": "Archivist Attack",
+      "element": "h4"
+    },
+    {
+      "id": "Firebreak",
+      "text": "Firebreak",
+      "element": "h4"
+    },
+    {
+      "id": "GetMeDown",
+      "text": "Get Me Down",
+      "element": "h4"
+    },
+    {
+      "id": "LookOut",
+      "text": "Look Out",
+      "element": "h4"
+    },
+    {
+      "id": "SickLeave",
+      "text": "Sick Leave",
+      "element": "h4"
+    },
+    {
+      "id": "WakingNightmares",
+      "text": "Waking Nightmares",
+      "element": "h3"
+    },
+    {
+      "id": "EndingthePanic",
+      "text": "Ending the Panic",
+      "element": "h4"
+    },
+    {
+      "id": "InvestigatingthePanic",
+      "text": "Investigating the Panic",
+      "element": "h3"
+    },
+    {
+      "id": "InvestigatingBowsEnd",
+      "text": "Investigating Bow’s End",
+      "element": "h4"
+    },
+    {
+      "id": "TalkingtotheDean",
+      "text": "Talking to the Dean",
+      "element": "h4"
+    },
+    {
+      "id": "Advanceto7thLevel",
+      "text": "Advance to 7th Level!",
+      "element": "h2"
+    },
+    {
+      "id": "AdvancedArcaneHistoryExamUnearthedArcana",
+      "text": "Advanced Arcane History Exam: Unearthed Arcana",
+      "element": "h2"
+    },
+    {
+      "id": "StudyingPhase2",
+      "text": "Studying Phase",
+      "element": "h3"
+    },
+    {
+      "id": "TestingPhase2",
+      "text": "Testing Phase",
+      "element": "h3"
+    },
+    {
+      "id": "Cheating1",
+      "text": "Cheating",
+      "element": "h4"
+    }
+  ],
+  "transformations": [
+    "Selected the first .p-article-content element.",
+    "Removed scripts, styles, forms, iframes, hidden duplicate labels, and source navigation.",
+    "Removed event handlers and D&D Beyond content-chunk identifiers.",
+    "Rewrote archived sourcebook links to generated reader routes when a local target exists.",
+    "Added lazy image loading and asynchronous decoding hints.",
+    "Added derived IDs to read-aloud, rules, table, and stat-block elements for session navigation.",
+    "Indexed player-version map links as derived session metadata.",
+    "Preserved source wording and original heading IDs; derived metadata remains separate."
+  ],
+  "repairs": []
+}

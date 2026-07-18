@@ -6,6 +6,14 @@ import { load } from 'cheerio';
 const root = process.cwd();
 const dist = path.join(root, 'dist');
 const failures = [];
+const archives = [
+  { source: path.join(root, 'Eberron'), built: path.join(dist, 'archive', 'eberron'), label: 'Eberron' },
+  {
+    source: path.join(root, 'Arcavios', 'Stixhaven'),
+    built: path.join(dist, 'archive', 'strixhaven'),
+    label: 'Strixhaven',
+  },
+];
 
 const digest = (buffer) => createHash('sha256').update(buffer).digest('hex');
 
@@ -22,23 +30,52 @@ async function exists(filePath) {
   try { await access(filePath); return true; } catch { return false; }
 }
 
-const sourceFiles = (await readdir(path.join(root, 'Eberron'), { withFileTypes: true })).filter((entry) => entry.isFile());
-for (const entry of sourceFiles) {
-  const source = await readFile(path.join(root, 'Eberron', entry.name));
-  const builtPath = path.join(dist, 'archive', 'eberron', entry.name);
-  if (!(await exists(builtPath))) {
-    failures.push(`Missing preserved archive file: ${entry.name}`);
-    continue;
+let sourceFileCount = 0;
+for (const archive of archives) {
+  const sourceFiles = (await readdir(archive.source, { withFileTypes: true }))
+    .filter((entry) => entry.isFile());
+  sourceFileCount += sourceFiles.length;
+
+  for (const entry of sourceFiles) {
+    const source = await readFile(path.join(archive.source, entry.name));
+    const builtPath = path.join(archive.built, entry.name);
+    if (!(await exists(builtPath))) {
+      failures.push(`Missing preserved ${archive.label} archive file: ${entry.name}`);
+      continue;
+    }
+    const built = await readFile(builtPath);
+    if (digest(source) !== digest(built)) {
+      failures.push(`${archive.label} archive hash mismatch: ${entry.name}`);
+    }
   }
-  const built = await readFile(builtPath);
-  if (digest(source) !== digest(built)) failures.push(`Archive hash mismatch: ${entry.name}`);
+}
+
+const studentsPath = path.join(root, 'src', 'data', 'students.json');
+if (!(await exists(studentsPath))) {
+  failures.push('Generated Strixhaven student dataset is missing.');
+} else {
+  try {
+    const students = JSON.parse(await readFile(studentsPath, 'utf8'));
+    if (!Array.isArray(students) || students.length !== 18) {
+      failures.push(`Expected 18 Strixhaven student records; found ${Array.isArray(students) ? students.length : 'a non-array value'}.`);
+    }
+  } catch {
+    failures.push('Generated Strixhaven student dataset is not valid JSON.');
+  }
+}
+
+const recordsPath = path.join(root, 'src', 'content', 'chapters');
+const readerRecords = (await readdir(recordsPath, { withFileTypes: true }))
+  .filter((entry) => entry.isFile() && entry.name.endsWith('.json'));
+if (readerRecords.length !== 32) {
+  failures.push(`Expected 32 generated reader records; found ${readerRecords.length}.`);
 }
 
 const htmlFiles = (await walk(dist)).filter((file) =>
   file.endsWith('.html') && !file.includes(`${path.sep}archive${path.sep}`),
 );
 const chapterFiles = htmlFiles.filter((file) => file.includes(`${path.sep}chapters${path.sep}`));
-if (chapterFiles.length !== 12) failures.push(`Expected 12 generated chapter pages; found ${chapterFiles.length}.`);
+if (chapterFiles.length !== 32) failures.push(`Expected 32 generated chapter pages; found ${chapterFiles.length}.`);
 
 for (const file of htmlFiles) {
   const html = await readFile(file, 'utf8');
@@ -75,5 +112,5 @@ if (failures.length) {
   failures.forEach((failure) => console.error(`- ${failure}`));
   process.exitCode = 1;
 } else {
-  console.log(`Verified ${sourceFiles.length} byte-identical archive files, ${chapterFiles.length} chapter pages, internal links, anchors, normalized markup, and the Pagefind bundle.`);
+  console.log(`Verified ${sourceFileCount} byte-identical files across 2 source archives, ${readerRecords.length} reader records, ${chapterFiles.length} chapter pages, 18 Strixhaven student records, internal links, anchors, normalized markup, and the Pagefind bundle.`);
 }

@@ -2,24 +2,95 @@
 import { getCollection } from 'astro:content';
 import GrimoireLayout from '../layouts/GrimoireLayout.astro';
 
-const chapters = (await getCollection('chapters')).sort((a, b) => a.data.order - b.data.order);
-const opening = chapters.find((chapter) => chapter.data.slug === 'forge-of-the-artificer') ?? chapters[0];
+const chapters = await getCollection('chapters');
+const bookOrder = ['eberron-forge-of-the-artificer', 'strixhaven-a-curriculum-of-chaos'];
+const descriptions: Record<string, string> = {
+  'eberron-forge-of-the-artificer': 'Artificers, dragonmarks, Khorvaire, magic items, spells, creatures, and the craft of adventure in Eberron.',
+  'strixhaven-a-curriculum-of-chaos': 'Campus life, student relationships, four academic years of adventures, and the friends and foes of Strixhaven.',
+};
+const books = bookOrder.map((slug) => {
+  const entries = chapters
+    .filter((chapter) => chapter.data.bookSlug === slug)
+    .sort((a, b) => a.data.order - b.data.order);
+  return {
+    slug,
+    title: entries[0]?.data.sourcebook ?? slug,
+    world: entries[0]?.data.world ?? '',
+    description: descriptions[slug],
+    entries,
+    opening: entries[0],
+    words: entries.reduce((total, chapter) => total + chapter.data.wordCount, 0),
+    headings: entries.reduce((total, chapter) => total + chapter.data.headings.length, 0),
+    sessionBlocks: entries.reduce((total, chapter) => total
+      + chapter.data.session.readAloud.length
+      + chapter.data.session.tables.length
+      + chapter.data.session.statBlocks.length
+      + chapter.data.session.maps.length, 0),
+  };
+}).filter((book) => book.entries.length);
+const sortedChapters = books.flatMap((book) => book.entries);
 ---
 
-<GrimoireLayout title="Archive entrance" chapters={chapters}>
-  <main id="reader-content" class="landing">
-    <div class="landing-mark" aria-hidden="true">E</div>
-    <p class="kicker">An immutable archive in a living index</p>
-    <h1>Eberron Grimoire</h1>
-    <p class="lede">Read <em>Forge of the Artificer</em> as a sourcebook, inspect the preserved page beside it, or follow the librarian’s uncertain tracks through unusual rules language.</p>
-    <div class="landing-actions">
-      <a class="primary-action" href={`/chapters/${opening.data.slug}/`}>Open the grimoire</a>
-      <a href="/search/">Search the archive</a>
-    </div>
+<GrimoireLayout
+  title="Library"
+  description="An immutable sourcebook archive with practical study and session tools."
+  chapters={sortedChapters}
+>
+  <main id="reader-content" class="landing library-landing">
+    <div class="landing-mark" aria-hidden="true">A</div>
+    <p class="kicker">Preserved sources, made usable</p>
+    <h1>Arcane Grimoire</h1>
+    <p class="lede">Read the books as written, build a study path through their ideas, or pin the exact scenes and rules you need at the table.</p>
+
+    <section class="library-shelf" aria-labelledby="sourcebooks-title">
+      <h2 id="sourcebooks-title">Choose a sourcebook</h2>
+      <div class="book-cards">
+        {books.map((book) => (
+          <article class="book-card" id={book.slug}>
+            <p class="eyebrow">{book.world}</p>
+            <h3>{book.title}</h3>
+            <p>{book.description}</p>
+            <dl>
+              <div><dt>{book.entries.length}</dt><dd>reader pages</dd></div>
+              <div><dt>{book.words.toLocaleString('en-US')}</dt><dd>words</dd></div>
+              <div><dt>{book.headings}</dt><dd>sections</dd></div>
+              <div><dt>{book.sessionBlocks}</dt><dd>table aids</dd></div>
+            </dl>
+            <div class="card-actions">
+              {book.opening && <a class="primary-action" href={`/chapters/${book.opening.data.slug}/`}>Open book</a>}
+              <a href={`/study/#${book.slug}`}>Study guide</a>
+            </div>
+          </article>
+        ))}
+      </div>
+    </section>
+
+    <section class="workbench" aria-labelledby="workbench-title">
+      <p class="kicker">Your workbench</p>
+      <h2 id="workbench-title">From reading to play</h2>
+      <div class="tool-cards">
+        <a href="/study/">
+          <span>Study</span>
+          <strong>Track what you have reviewed</strong>
+          <small>Follow sourcebook sections or focused learning paths.</small>
+        </a>
+        <a href="/session/">
+          <span>Session</span>
+          <strong>Find scenes at table speed</strong>
+          <small>Jump to read-aloud, encounters, locations, rules, and stat blocks.</small>
+        </a>
+        <a href="/students/">
+          <span>Directory</span>
+          <strong>Know the Strixhaven cast</strong>
+          <small>Filter eighteen fellow students by college, cohort, work, and activities.</small>
+        </a>
+      </div>
+    </section>
+
     <dl class="archive-stats">
-      <div><dt>{chapters.length}</dt><dd>reader records</dd></div>
-      <div><dt>{chapters.reduce((total, chapter) => total + chapter.data.headings.length, 0)}</dt><dd>preserved headings</dd></div>
-      <div><dt>{chapters.reduce((total, chapter) => total + chapter.data.anomalyFlags.length, 0)}</dt><dd>comparison flags</dd></div>
+      <div><dt>{sortedChapters.length}</dt><dd>reader records</dd></div>
+      <div><dt>{sortedChapters.reduce((total, chapter) => total + chapter.data.headings.length, 0)}</dt><dd>preserved headings</dd></div>
+      <div><dt>{sortedChapters.reduce((total, chapter) => total + chapter.data.anomalyFlags.length, 0)}</dt><dd>comparison flags</dd></div>
     </dl>
   </main>
 </GrimoireLayout>

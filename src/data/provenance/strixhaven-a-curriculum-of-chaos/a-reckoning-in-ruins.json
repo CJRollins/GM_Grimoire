@@ -1,0 +1,228 @@
+{
+  "title": "A Reckoning in Ruins",
+  "sourcebook": "Strixhaven: A Curriculum of Chaos",
+  "bookSlug": "strixhaven-a-curriculum-of-chaos",
+  "originalPath": "Arcavios/Stixhaven/Chapter 15 - A Reckoning In Ruin.html",
+  "rawUrl": "/archive/strixhaven/Chapter%2015%20-%20A%20Reckoning%20In%20Ruin.html",
+  "sourceHash": "62b5d807b111dbbbfbd771ed7a42f07512f35a3d31baf22cc5d70da1da2f1dc9",
+  "extractionDate": "2026-07-13T07:40:57.647Z",
+  "extractionVersion": 3,
+  "originalAnchors": [
+    {
+      "id": "AReckoninginRuins",
+      "text": "A Reckoning in Ruins",
+      "element": "h1"
+    },
+    {
+      "id": "comp-next-nav",
+      "text": "",
+      "element": "div"
+    },
+    {
+      "id": "imgsplash",
+      "text": "When the characters discover Murgaxor’s deadly plan, they must spring into action",
+      "element": "figure"
+    },
+    {
+      "id": "RunningThisAdventure",
+      "text": "Running This Adventure",
+      "element": "h2"
+    },
+    {
+      "id": "AdventureOverview",
+      "text": "Adventure Overview",
+      "element": "h3"
+    },
+    {
+      "id": "AStandaloneAdventure",
+      "text": "A Standalone Adventure",
+      "element": "h4"
+    },
+    {
+      "id": "CharacterAdvancement",
+      "text": "Character Advancement",
+      "element": "h3"
+    },
+    {
+      "id": "FourthYearLevelAdvancement",
+      "text": "Fourth-Year Level Advancement Level Reached When Characters… 9th Finish exploring the Detention Bog and retrieve the missing crates 10th Descend into the baseme",
+      "element": "table"
+    },
+    {
+      "id": "RandomEncounters",
+      "text": "Random Encounters",
+      "element": "h3"
+    },
+    {
+      "id": "FourthYearEncounters",
+      "text": "Fourth-Year Encounters d10 Encounter 1–4 2 bulettes 5–6 1 red slaad and 1 vrock that escaped from their classroom bonds 7–8 1 cloaker that has been hiding in th",
+      "element": "table"
+    },
+    {
+      "id": "StudentSchedules",
+      "text": "Student Schedules",
+      "element": "h3"
+    },
+    {
+      "id": "FourthYearCourses",
+      "text": "Fourth-Year Courses d6 Course Offered By 1 Advanced Applied Magic General Studies 2 Advanced Lumimancy Silverquill 3 Applied Illusory Arts Quandrix 4 Arcane Mac",
+      "element": "table"
+    },
+    {
+      "id": "imgfourthyearstudents",
+      "text": "Fourth-year courses are the university’s most challenging,and students often employ magical study techniques to get by",
+      "element": "figure"
+    },
+    {
+      "id": "ASinisterShadow",
+      "text": "A Sinister Shadow",
+      "element": "h2"
+    },
+    {
+      "id": "ABriefDistraction",
+      "text": "A Brief Distraction",
+      "element": "h2"
+    },
+    {
+      "id": "Scufflecup",
+      "text": "Scufflecup",
+      "element": "h3"
+    },
+    {
+      "id": "ScufflecupRules",
+      "text": "Scufflecup Rules",
+      "element": "h4"
+    },
+    {
+      "id": "CheeringandHeckling",
+      "text": "Cheering and Heckling",
+      "element": "h4"
+    },
+    {
+      "id": "RelationshipEncounter",
+      "text": "Relationship Encounter",
+      "element": "h4"
+    },
+    {
+      "id": "ArcaneHerbologyExamVegetationIdentification",
+      "text": "Arcane Herbology Exam: Vegetation Identification",
+      "element": "h2"
+    },
+    {
+      "id": "StudyingPhase",
+      "text": "Studying Phase",
+      "element": "h3"
+    },
+    {
+      "id": "TestingPhase",
+      "text": "Testing Phase",
+      "element": "h3"
+    },
+    {
+      "id": "ClueintheBayou",
+      "text": "Clue in the Bayou",
+      "element": "h2"
+    },
+    {
+      "id": "DetentionMonitors",
+      "text": "Detention Monitors",
+      "element": "h3"
+    },
+    {
+      "id": "imghuts",
+      "text": "Idyllic huts dot the bayou surrounding Witherbloom College’s campus",
+      "element": "figure"
+    },
+    {
+      "id": "StudentsinDetention",
+      "text": "Students in Detention",
+      "element": "h4"
+    },
+    {
+      "id": "StudentsInDetention",
+      "text": "Students in Detention d10 Student (College) Offense 1 Quentillius A. Melentor III (Prismari) Released pest mascots in Widdershins Hall 2 Rosie Wuzfeddlims (Lore",
+      "element": "table"
+    },
+    {
+      "id": "TheDetentionBog",
+      "text": "The Detention Bog",
+      "element": "h3"
+    },
+    {
+      "id": "SearchingforSupplies",
+      "text": "Searching for Supplies",
+      "element": "h4"
+    },
+    {
+      "id": "DetentionBogFeatures",
+      "text": "Detention Bog Features",
+      "element": "h3"
+    },
+    {
+      "id": "DetentionBogLocations",
+      "text": "Detention Bog Locations",
+      "element": "h3"
+    },
+    {
+      "id": "Map61thedetentionbog",
+      "text": "Map 6.1: the detention bog View Player Version",
+      "element": "figure"
+    },
+    {
+      "id": "D1TheStickiestCrate",
+      "text": "D1. The Stickiest Crate",
+      "element": "h4"
+    },
+    {
+      "id": "D2AngryTrudges",
+      "text": "D2. Angry Trudges",
+      "element": "h4"
+    },
+    {
+      "id": "imgbog",
+      "text": "When the Detention Bog isn’t officially in use, students practice experimental magic here",
+      "element": "figure"
+    },
+    {
+      "id": "D3LonelyCrate",
+      "text": "D3. Lonely Crate",
+      "element": "h4"
+    },
+    {
+      "id": "D4ConfusedConstructs",
+      "text": "D4. Confused Constructs",
+      "element": "h4"
+    },
+    {
+      "id": "D5EmptyCrate",
+      "text": "D5. Empty Crate",
+      "element": "h4"
+    },
+    {
+      "id": "D6UnstableCrate",
+      "text": "D6. Unstable Crate",
+      "element": "h4"
+    },
+    {
+      "id": "Developments",
+      "text": "Developments",
+      "element": "h3"
+    },
+    {
+      "id": "Advanceto9thLevel",
+      "text": "Advance to 9th Level!",
+      "element": "h2"
+    }
+  ],
+  "transformations": [
+    "Selected the first .p-article-content element.",
+    "Removed scripts, styles, forms, iframes, hidden duplicate labels, and source navigation.",
+    "Removed event handlers and D&D Beyond content-chunk identifiers.",
+    "Rewrote archived sourcebook links to generated reader routes when a local target exists.",
+    "Added lazy image loading and asynchronous decoding hints.",
+    "Added derived IDs to read-aloud, rules, table, and stat-block elements for session navigation.",
+    "Indexed player-version map links as derived session metadata.",
+    "Preserved source wording and original heading IDs; derived metadata remains separate."
+  ],
+  "repairs": []
+}

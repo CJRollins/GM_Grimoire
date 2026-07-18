@@ -1,0 +1,425 @@
+{
+  "title": "Campus Kerfuffle",
+  "sourcebook": "Strixhaven: A Curriculum of Chaos",
+  "bookSlug": "strixhaven-a-curriculum-of-chaos",
+  "originalPath": "Arcavios/Stixhaven/Chapter 6 - Campus Kerfuffle",
+  "rawUrl": "/archive/strixhaven/Chapter%206%20-%20Campus%20Kerfuffle",
+  "sourceHash": "08272802c6d845d0307154108da20c5b71bb11d86ed0939f9ff74fa8dc325c8f",
+  "extractionDate": "2026-07-13T07:40:57.647Z",
+  "extractionVersion": 3,
+  "originalAnchors": [
+    {
+      "id": "CampusKerfuffle",
+      "text": "Campus Kerfuffle",
+      "element": "h1"
+    },
+    {
+      "id": "comp-next-nav",
+      "text": "",
+      "element": "div"
+    },
+    {
+      "id": "RunningThisAdventure",
+      "text": "Running This Adventure",
+      "element": "h2"
+    },
+    {
+      "id": "CharacterAdvancement",
+      "text": "Character Advancement",
+      "element": "h3"
+    },
+    {
+      "id": "FirstYearLevelAdvancement",
+      "text": "First-Year Level Advancement Level Reached When Characters… 2nd Complete the first Magical Physiologies Exam 3rd Complete the “Campus Daredevils” section and ex",
+      "element": "table"
+    },
+    {
+      "id": "AdventureOverview",
+      "text": "Adventure Overview",
+      "element": "h3"
+    },
+    {
+      "id": "AStandaloneAdventure",
+      "text": "A Standalone Adventure",
+      "element": "h4"
+    },
+    {
+      "id": "RandomEncounters",
+      "text": "Random Encounters",
+      "element": "h3"
+    },
+    {
+      "id": "FirstYearEncounters",
+      "text": "First-Year Encounters d10 Encounter 1–4 2 stirges and 1 giant rat, both of which were attracted to a nearby sickly scent and are hostile 5–6 2 suits of animated",
+      "element": "table"
+    },
+    {
+      "id": "StudentSchedules",
+      "text": "Student Schedules",
+      "element": "h3"
+    },
+    {
+      "id": "FirstYearCourses",
+      "text": "First-Year Courses d6 Course Offered By 1 Arcano-botany for Beginners Witherbloom 2 Basic Magical Auras General Studies 3 Beginning Computational Magic Quandrix",
+      "element": "table"
+    },
+    {
+      "id": "FirstDayonCampus",
+      "text": "First Day on Campus",
+      "element": "h2"
+    },
+    {
+      "id": "imgbiblioplex",
+      "text": "Some Strixhaven students take studying very seriously. Others would rather play with magic in the Biblioplex",
+      "element": "figure"
+    },
+    {
+      "id": "Orientation",
+      "text": "Orientation",
+      "element": "h3"
+    },
+    {
+      "id": "StrixhavenKnowledge",
+      "text": "Strixhaven Knowledge",
+      "element": "h3"
+    },
+    {
+      "id": "Biblioplex",
+      "text": "Biblioplex",
+      "element": "h3"
+    },
+    {
+      "id": "BiblioplexFeatures",
+      "text": "Biblioplex Features",
+      "element": "h4"
+    },
+    {
+      "id": "imgdeepconcentration",
+      "text": "Many students employ deep concentrationtechniques to help them tackletheir rigorous class schedules",
+      "element": "figure"
+    },
+    {
+      "id": "StrixhavenAccessibility",
+      "text": "STRIXHAVEN ACCESSIBILITY The buildings on campus feature magic steps and staircases that respond to the needs of those who use them. The steps might shift up or",
+      "element": "aside"
+    },
+    {
+      "id": "BiblioplexLocationsB1B9",
+      "text": "Biblioplex Locations (B1-B9)",
+      "element": "h3"
+    },
+    {
+      "id": "Map31thebiblioplex",
+      "text": "Map 3.1: the biblioplex View Player Version",
+      "element": "figure"
+    },
+    {
+      "id": "B1MainEntrance",
+      "text": "B1. Main Entrance",
+      "element": "h4"
+    },
+    {
+      "id": "B2BiblioplexLounge",
+      "text": "B2. Biblioplex Lounge",
+      "element": "h4"
+    },
+    {
+      "id": "B3StudentCafSeating",
+      "text": "B3. Student Café Seating",
+      "element": "h4"
+    },
+    {
+      "id": "B4InformationDesk",
+      "text": "B4. Information Desk",
+      "element": "h4"
+    },
+    {
+      "id": "B5StudentStore",
+      "text": "B5. Student Store",
+      "element": "h4"
+    },
+    {
+      "id": "B6BiblioplexCafe",
+      "text": "B6. Biblioplex Café",
+      "element": "h4"
+    },
+    {
+      "id": "CafSandwichOfTheDay",
+      "text": "Café Sandwich of the Day d6 Sandwich 1 Grilled halloumi with morels on wheat 2 Toasted cockatrice gizzards on rye 3 Open-faced radish chips, deep-fried with dij",
+      "element": "table"
+    },
+    {
+      "id": "B7LectureHall",
+      "text": "B7. Lecture Hall",
+      "element": "h4"
+    },
+    {
+      "id": "B8StudyArea",
+      "text": "B8. Study Area",
+      "element": "h4"
+    },
+    {
+      "id": "B9BookGarden",
+      "text": "B9. Book Garden",
+      "element": "h4"
+    },
+    {
+      "id": "imgbiblioplexhall",
+      "text": "The Biblioplex is a storied hall of learning on campus as well as a meeting place for friends of all stripes",
+      "element": "figure"
+    },
+    {
+      "id": "BiblioplexLocationsB10B19",
+      "text": "Biblioplex Locations (B10-B19)",
+      "element": "h3"
+    },
+    {
+      "id": "B10MainStacks",
+      "text": "B10. Main Stacks",
+      "element": "h4"
+    },
+    {
+      "id": "B11HallofOracles",
+      "text": "B11. Hall of Oracles",
+      "element": "h4"
+    },
+    {
+      "id": "B12StudentandAlumniArtGallery",
+      "text": "B12. Student and Alumni Art Gallery",
+      "element": "h4"
+    },
+    {
+      "id": "B13Amphitheater",
+      "text": "B13. Amphitheater",
+      "element": "h4"
+    },
+    {
+      "id": "B14StudentActivitiesCenter",
+      "text": "B14. Student Activities Center",
+      "element": "h4"
+    },
+    {
+      "id": "B15StudentCouncilHall",
+      "text": "B15. Student Council Hall",
+      "element": "h4"
+    },
+    {
+      "id": "B16AdvancedStudentStacks",
+      "text": "B16. Advanced Student Stacks",
+      "element": "h4"
+    },
+    {
+      "id": "B17AdvancedStudentOffice",
+      "text": "B17. Advanced Student Office",
+      "element": "h4"
+    },
+    {
+      "id": "B18AdvancedStudentLounge",
+      "text": "B18. Advanced Student Lounge",
+      "element": "h4"
+    },
+    {
+      "id": "B19TheCompendium",
+      "text": "B19. The Compendium",
+      "element": "h4"
+    },
+    {
+      "id": "imgcleaning",
+      "text": "Cleaning up after students is often a harried undertaking.Luckily, the many Biblioplex assistants are up to the task",
+      "element": "figure"
+    },
+    {
+      "id": "OrientationChallenge",
+      "text": "Orientation Challenge",
+      "element": "h2"
+    },
+    {
+      "id": "ScavengerHuntClues",
+      "text": "Scavenger Hunt Clues",
+      "element": "h3"
+    },
+    {
+      "id": "RunningtheHunt",
+      "text": "Running the Hunt",
+      "element": "h3"
+    },
+    {
+      "id": "Clue1HallofOracles",
+      "text": "Clue 1: Hall of Oracles",
+      "element": "h3"
+    },
+    {
+      "id": "imgsnarl",
+      "text": "The magic snarl at the heart of the Hall of Oracles shines through the Biblioplex like a miniature sun",
+      "element": "figure"
+    },
+    {
+      "id": "Clue2StudentArtGallery",
+      "text": "Clue 2: Student Art Gallery",
+      "element": "h3"
+    },
+    {
+      "id": "Clue3BiblioplexCaf",
+      "text": "Clue 3: Biblioplex Café",
+      "element": "h3"
+    },
+    {
+      "id": "Clue4BookGarden",
+      "text": "Clue 4: Book Garden",
+      "element": "h3"
+    },
+    {
+      "id": "Clue5Amphitheater",
+      "text": "Clue 5: Amphitheater",
+      "element": "h3"
+    },
+    {
+      "id": "ThatTrunkHasTeeth",
+      "text": "That Trunk Has Teeth!",
+      "element": "h3"
+    },
+    {
+      "id": "EndingtheThreat",
+      "text": "Ending the Threat",
+      "element": "h4"
+    },
+    {
+      "id": "ExaminingtheTrunk",
+      "text": "Examining the Trunk",
+      "element": "h3"
+    },
+    {
+      "id": "FrogstheWord",
+      "text": "Frog’s the Word",
+      "element": "h2"
+    },
+    {
+      "id": "FirejoltCafe",
+      "text": "Firejolt Café",
+      "element": "h3"
+    },
+    {
+      "id": "FirejoltCafeFeatures",
+      "text": "Firejolt Café Features",
+      "element": "h4"
+    },
+    {
+      "id": "FirejoltCafeLocations",
+      "text": "Firejolt Café Locations",
+      "element": "h3"
+    },
+    {
+      "id": "Map32firejoltcafe",
+      "text": "Map 3.2: firejolt cafe View Player Version",
+      "element": "figure"
+    },
+    {
+      "id": "F1StudyTables",
+      "text": "F1. Study Tables",
+      "element": "h4"
+    },
+    {
+      "id": "F2SeatingArea",
+      "text": "F2. Seating Area",
+      "element": "h4"
+    },
+    {
+      "id": "F3BaristaStation",
+      "text": "F3. Barista Station",
+      "element": "h4"
+    },
+    {
+      "id": "F4Newsstand",
+      "text": "F4. Newsstand",
+      "element": "h4"
+    },
+    {
+      "id": "F5FiresideLounge",
+      "text": "F5. Fireside Lounge",
+      "element": "h4"
+    },
+    {
+      "id": "F6QuietRoom",
+      "text": "F6. Quiet Room",
+      "element": "h4"
+    },
+    {
+      "id": "AGreatFrogRace",
+      "text": "A Great Frog Race",
+      "element": "h3"
+    },
+    {
+      "id": "ParticipatingintheRace",
+      "text": "Participating in the Race",
+      "element": "h4"
+    },
+    {
+      "id": "RelationshipEncounter",
+      "text": "Relationship Encounter",
+      "element": "h4"
+    },
+    {
+      "id": "TheyveGoneBerserk",
+      "text": "They’ve Gone Berserk!",
+      "element": "h3"
+    },
+    {
+      "id": "EndingtheThreat1",
+      "text": "Ending the Threat",
+      "element": "h4"
+    },
+    {
+      "id": "ExaminingtheFrogs",
+      "text": "Examining the Frogs",
+      "element": "h3"
+    },
+    {
+      "id": "MagicalPhysiologiesExamSlaadi",
+      "text": "Magical Physiologies Exam: Slaadi",
+      "element": "h2"
+    },
+    {
+      "id": "StudyingPhase1",
+      "text": "Studying Phase",
+      "element": "h3"
+    },
+    {
+      "id": "TestingPhase1",
+      "text": "Testing Phase",
+      "element": "h3"
+    },
+    {
+      "id": "AllaboutSlaadi",
+      "text": "ALL ABOUT SLAADI To give this Exam more flavor, describe some of the facts the characters are trying to memorize, such as the following: Slaadi are Aberrations ",
+      "element": "aside"
+    },
+    {
+      "id": "imgfrogs",
+      "text": "Frogs are common on campus and are often kept as pets",
+      "element": "figure"
+    },
+    {
+      "id": "Advanceto2ndLevel",
+      "text": "Advance to 2nd Level!",
+      "element": "h2"
+    }
+  ],
+  "transformations": [
+    "Selected the first .p-article-content element.",
+    "Removed scripts, styles, forms, iframes, hidden duplicate labels, and source navigation.",
+    "Removed event handlers and D&D Beyond content-chunk identifiers.",
+    "Rewrote archived sourcebook links to generated reader routes when a local target exists.",
+    "Added lazy image loading and asynchronous decoding hints.",
+    "Added derived IDs to read-aloud, rules, table, and stat-block elements for session navigation.",
+    "Indexed player-version map links as derived session metadata.",
+    "Preserved source wording and original heading IDs; derived metadata remains separate."
+  ],
+  "repairs": [
+    {
+      "location": "Strixhaven Knowledge > Central Campus",
+      "original": "/sources/sacoc/work-hard-play-harder#BowsEndTavern",
+      "derivedTarget": "/chapters/strixhaven-work-hard-play-harder/#BowsEndTavern1",
+      "confidence": "high"
+    }
+  ]
+}

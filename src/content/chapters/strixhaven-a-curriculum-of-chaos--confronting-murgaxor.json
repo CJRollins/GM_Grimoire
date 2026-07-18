@@ -1,0 +1,349 @@
+{
+  "title": "Confronting Murgaxor",
+  "sourcebook": "Strixhaven: A Curriculum of Chaos",
+  "bookSlug": "strixhaven-a-curriculum-of-chaos",
+  "world": "Arcavios",
+  "edition": "2014 rules",
+  "chapter": "Confronting Murgaxor",
+  "chapterNumber": 6,
+  "order": 17,
+  "navGroup": "Year Four",
+  "kind": "adventure",
+  "audience": "gm",
+  "slug": "strixhaven-confronting-murgaxor",
+  "chapterSlug": "confronting-murgaxor",
+  "summary": "Completing the life-draining ritual occupies all of Murgaxor’s attention. This distraction coupled with his unbridled hubris give the characters the edge they need to defeat him once and for all.",
+  "wordCount": 1569,
+  "originalPath": "Arcavios/Stixhaven/Chapter 17 - Confronting Murgaxor.html",
+  "rawUrl": "/archive/strixhaven/Chapter%2017%20-%20Confronting%20Murgaxor.html",
+  "originalAnchors": [
+    {
+      "id": "ConfrontingMurgaxor",
+      "text": "Confronting Murgaxor",
+      "element": "h1"
+    },
+    {
+      "id": "comp-next-nav",
+      "text": "",
+      "element": "div"
+    },
+    {
+      "id": "RitualStones",
+      "text": "Ritual Stones",
+      "element": "h2"
+    },
+    {
+      "id": "imgruinsofcaerdoonhold",
+      "text": "The Ruins of Caerdoon hold many remnants of ancient warfare",
+      "element": "figure"
+    },
+    {
+      "id": "BasementFeatures",
+      "text": "Basement Features",
+      "element": "h2"
+    },
+    {
+      "id": "LocationsintheBasement",
+      "text": "Locations in the Basement",
+      "element": "h2"
+    },
+    {
+      "id": "Map65fortressofcaerdoonbasement",
+      "text": "Map 6.5: fortress of caerdoon basement View Player Version",
+      "element": "figure"
+    },
+    {
+      "id": "M1CentralChamber",
+      "text": "M1. Central Chamber",
+      "element": "h3"
+    },
+    {
+      "id": "M2MunitionStorage",
+      "text": "M2. Munition Storage",
+      "element": "h3"
+    },
+    {
+      "id": "M3BrokenElevator",
+      "text": "M3. Broken Elevator",
+      "element": "h3"
+    },
+    {
+      "id": "M4RuinedStorage",
+      "text": "M4. Ruined Storage",
+      "element": "h3"
+    },
+    {
+      "id": "M5Armory",
+      "text": "M5. Armory",
+      "element": "h3"
+    },
+    {
+      "id": "M6ImmortalityRitual",
+      "text": "M6. Immortality Ritual",
+      "element": "h3"
+    },
+    {
+      "id": "StoppingtheRitual",
+      "text": "Stopping the Ritual",
+      "element": "h3"
+    },
+    {
+      "id": "HeroesofStrixhaven",
+      "text": "Heroes of Strixhaven",
+      "element": "h2"
+    },
+    {
+      "id": "imgmembers",
+      "text": "Strixhaven’s faculty members celebrate the characters’ victory over Murgaxor",
+      "element": "figure"
+    },
+    {
+      "id": "FailingtoStoptheRitual",
+      "text": "Failing to Stop the Ritual",
+      "element": "h2"
+    }
+  ],
+  "sourceHash": "0e255d0bf341130ace26e8bd20ae4a5f550411f4bb0b386f762461e9a7be0edc",
+  "extractionDate": "2026-07-13T07:40:57.647Z",
+  "extractionVersion": 3,
+  "headings": [
+    {
+      "depth": 1,
+      "id": "ConfrontingMurgaxor",
+      "text": "Confronting Murgaxor"
+    },
+    {
+      "depth": 2,
+      "id": "RitualStones",
+      "text": "Ritual Stones"
+    },
+    {
+      "depth": 2,
+      "id": "BasementFeatures",
+      "text": "Basement Features"
+    },
+    {
+      "depth": 2,
+      "id": "LocationsintheBasement",
+      "text": "Locations in the Basement"
+    },
+    {
+      "depth": 3,
+      "id": "M1CentralChamber",
+      "text": "M1. Central Chamber"
+    },
+    {
+      "depth": 3,
+      "id": "M2MunitionStorage",
+      "text": "M2. Munition Storage"
+    },
+    {
+      "depth": 3,
+      "id": "M3BrokenElevator",
+      "text": "M3. Broken Elevator"
+    },
+    {
+      "depth": 3,
+      "id": "M4RuinedStorage",
+      "text": "M4. Ruined Storage"
+    },
+    {
+      "depth": 3,
+      "id": "M5Armory",
+      "text": "M5. Armory"
+    },
+    {
+      "depth": 3,
+      "id": "M6ImmortalityRitual",
+      "text": "M6. Immortality Ritual"
+    },
+    {
+      "depth": 3,
+      "id": "StoppingtheRitual",
+      "text": "Stopping the Ritual"
+    },
+    {
+      "depth": 2,
+      "id": "HeroesofStrixhaven",
+      "text": "Heroes of Strixhaven"
+    },
+    {
+      "depth": 2,
+      "id": "FailingtoStoptheRitual",
+      "text": "Failing to Stop the Ritual"
+    }
+  ],
+  "tags": {
+    "creatures": [
+      "bullywug",
+      "clay golem",
+      "mud mephits",
+      "Murgaxor",
+      "Oriq blood mage"
+    ],
+    "spells": [
+      "continual flame"
+    ],
+    "items": [
+      "Alchemist’s Doom",
+      "bolts",
+      "bombs",
+      "Catapult Munition",
+      "chain mail",
+      "glaives",
+      "heavy crossbows",
+      "mauls",
+      "Murgaxor’s Elixir of Life",
+      "spears",
+      "splint armor"
+    ],
+    "locations": [
+      "Armory",
+      "Broken Elevator",
+      "Central Chamber",
+      "Immortality Ritual",
+      "Munition Storage",
+      "Ruined Storage",
+      "Ruins of Caerdoon",
+      "Strixhaven"
+    ],
+    "npcs": [],
+    "topics": [
+      "adventure",
+      "campus-life",
+      "gm-tools",
+      "read-aloud"
+    ]
+  },
+  "session": {
+    "readAloud": [
+      {
+        "id": "session-read-aloud-1",
+        "label": "Read aloud 1",
+        "excerpt": "Torches illuminate a spacious chamber that has crates and boxes stashed in its corners. Five stout, wooden doors line the chamber’s south wall. Soggy texts and scrolls lie in pudd…"
+      },
+      {
+        "id": "session-read-aloud-2",
+        "label": "Read aloud 2",
+        "excerpt": "Globules of swamp water float in the air, their surfaces rippling. A bullywug, sitting hunched with legs crossed, is partially hidden within a cocoon made of thin, tightly woven s…"
+      },
+      {
+        "id": "session-read-aloud-3",
+        "label": "Read aloud 3",
+        "excerpt": "A warbling, high-pitched wail escapes Murgaxor as he crashes to the floor with a wet thump. A rush of air and a concussive blast momentarily replaces all sound. The thrum of magic…"
+      }
+    ],
+    "rules": [],
+    "tables": [],
+    "statBlocks": [],
+    "maps": [
+      {
+        "id": "session-player-map-1",
+        "label": "Map 6.5: fortress of caerdoon basement",
+        "dmUrl": "https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/map-6.5-fortress-of-caerdoon-basement.jpg",
+        "playerUrl": "https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/map-6.5-fortress-of-caerdoon-basement-player.jpg"
+      }
+    ],
+    "quickLinks": [
+      {
+        "depth": 2,
+        "id": "RitualStones",
+        "text": "Ritual Stones",
+        "type": "scene"
+      },
+      {
+        "depth": 2,
+        "id": "BasementFeatures",
+        "text": "Basement Features",
+        "type": "scene"
+      },
+      {
+        "depth": 2,
+        "id": "LocationsintheBasement",
+        "text": "Locations in the Basement",
+        "type": "location"
+      },
+      {
+        "depth": 3,
+        "id": "M1CentralChamber",
+        "text": "M1. Central Chamber",
+        "type": "location"
+      },
+      {
+        "depth": 3,
+        "id": "M2MunitionStorage",
+        "text": "M2. Munition Storage",
+        "type": "location"
+      },
+      {
+        "depth": 3,
+        "id": "M3BrokenElevator",
+        "text": "M3. Broken Elevator",
+        "type": "location"
+      },
+      {
+        "depth": 3,
+        "id": "M4RuinedStorage",
+        "text": "M4. Ruined Storage",
+        "type": "location"
+      },
+      {
+        "depth": 3,
+        "id": "M5Armory",
+        "text": "M5. Armory",
+        "type": "location"
+      },
+      {
+        "depth": 3,
+        "id": "M6ImmortalityRitual",
+        "text": "M6. Immortality Ritual",
+        "type": "location"
+      },
+      {
+        "depth": 3,
+        "id": "StoppingtheRitual",
+        "text": "Stopping the Ritual",
+        "type": "encounter"
+      },
+      {
+        "depth": 2,
+        "id": "HeroesofStrixhaven",
+        "text": "Heroes of Strixhaven",
+        "type": "scene"
+      },
+      {
+        "depth": 2,
+        "id": "FailingtoStoptheRitual",
+        "text": "Failing to Stop the Ritual",
+        "type": "scene"
+      }
+    ]
+  },
+  "anomalyFlags": [
+    {
+      "type": "reader-address",
+      "passage": "To the north, you hear an eerie chant made up of guttural croaks.",
+      "location": "M1. Central Chamber",
+      "anchor": "M1CentralChamber",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "hidden-actor",
+      "passage": "Once the barrier is destroyed, characters can attack Murgaxor and the five ritual stones circling him.",
+      "location": "M6. Immortality Ritual",
+      "anchor": "M6ImmortalityRitual",
+      "confidence": 0.68,
+      "reason": "A passive construction may conceal who performs the action."
+    },
+    {
+      "type": "hidden-actor",
+      "passage": "If Murgaxor’s barrier and ritual stones are destroyed, Murgaxor loses access to his lair actions.",
+      "location": "Stopping the Ritual",
+      "anchor": "StoppingtheRitual",
+      "confidence": 0.68,
+      "reason": "A passive construction may conceal who performs the action."
+    }
+  ],
+  "contentHtml": "<h1 class=\"compendium-hr\" id=\"ConfrontingMurgaxor\">Confronting Murgaxor</h1>\n\n<p>Completing the life-draining ritual occupies all of Murgaxor’s attention. This distraction coupled with his unbridled hubris give the characters the edge they need to defeat him once and for all.</p>\n<h2 class=\"compendium-hr heading-anchor\" id=\"RitualStones\">Ritual Stones</h2>\n<p>Murgaxor’s ritual can’t be completed without five ritual stones, which circle Murgaxor while he performs the ritual. Without the stones, he can’t manipulate the forces of life and death and would be overwhelmed by their power. See <a href=\"#M6ImmortalityRitual\" title=\"area M6\">area M6</a> for more information about these stones.</p>\n<figure id=\"imgruinsofcaerdoonhold\" class=\"compendium-image\">\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/06-010.the-ruins-of-caerdoon-hold.png\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/06-010.the-ruins-of-caerdoon-hold.png\" class=\"ddb-lightbox-inner compendium-center-banner-img\" style=\"width: 850px;\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a>\n<figcaption>The Ruins of Caerdoon hold many remnants of ancient warfare</figcaption>\n</figure>\n<h2 class=\"compendium-hr heading-anchor\" id=\"BasementFeatures\">Basement Features</h2>\n<p>The Fortress of Caerdoon’s basement has the following features:</p>\n<p><strong>Walls.</strong> The walls are damp and made of smooth, worked stone.</p>\n<p><strong>Ceilings.</strong> The ceilings throughout this level are 10 feet high.</p>\n<p><strong>Doors.</strong> The doors are constructed of heavy wood. Each sports a simple but sturdy drop-down latch on the outside unless otherwise specified. Latched doors require a successful DC 16 Strength (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/2-tooltip\">Athletics</a>) check to batter open from the inside.</p>\n<p><strong>Floors.</strong> The floors are worked stone and covered with small puddles of water.</p>\n<p><strong>Illumination.</strong> Sconces hold torches that have <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2048-continual-flame\" data-tooltip-href=\"/spells/2048-tooltip\">continual flame</a> spells cast on them. The sconces are spaced at 20-foot intervals along the walls.</p>\n<h2 class=\"compendium-hr heading-anchor\" id=\"LocationsintheBasement\">Locations in the Basement</h2>\n<p>The following locations are keyed to map 6.5.</p>\n<figure id=\"Map65fortressofcaerdoonbasement\" class=\"compendium-image\">\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/map-6.5-fortress-of-caerdoon-basement.jpg\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/map-6.5-fortress-of-caerdoon-basement.jpg\" class=\"ddb-lightbox-inner\" style=\"width: 750px;\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a>\n<figcaption>Map 6.5: fortress of caerdoon basement <a class=\"ddb-lightbox-outer\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/map-6.5-fortress-of-caerdoon-basement-player.jpg\" data-lightbox=\"1\" data-title=\"View Player Version\" id=\"session-player-map-1\">View Player Version</a></figcaption>\n</figure>\n<h3 class=\"compendium-hr heading-anchor\" id=\"M1CentralChamber\">M1. Central Chamber</h3>\n<aside class=\"read-aloud-text\" id=\"session-read-aloud-1\">\n<p>Torches illuminate a spacious chamber that has crates and boxes stashed in its corners. Five stout, wooden doors line the chamber’s south wall. Soggy texts and scrolls lie in puddles on the floor. To the north, you hear an eerie chant made up of guttural croaks.</p>\n</aside>\n<p>Murgaxor is the source of the chant. If the characters make any loud noises here, Murgaxor notices their presence, although he remains in <a href=\"#M6ImmortalityRitual\" title=\"area M6\">area M6</a>.</p>\n<p>The soggy books and blank scrolls lying in puddles on the floor were used by Murgaxor to prepare for his ritual; they no longer have any value.</p>\n<p><strong><em>Crates.</em></strong> A character who spends 1 minute searching the crates can, with a successful DC 15 Intelligence (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/6-tooltip\">Arcana</a> or <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/9-tooltip\">Nature</a>) check, find one of the following useful concoctions. Only one of each concoction can be found here:</p>\n<p><strong><a class=\"tooltip-hover item-tooltip\" href=\"https://www.dndbeyond.com/equipment/324-alchemists-doom\" data-tooltip-href=\"/adventuring-gear/324-tooltip\">Alchemist’s Doom</a>.</strong> Stored in a flask, this concoction is alchemist’s fire, except it deals 7 (2d6) fire damage at the start of the target’s turns.</p>\n<p><strong><a class=\"tooltip-hover item-tooltip\" href=\"https://www.dndbeyond.com/equipment/326-murgaxors-elixir-of-life\" data-tooltip-href=\"/adventuring-gear/326-tooltip\">Murgaxor’s Elixir of Life</a>.</strong> Whoever drinks this concoction gains advantage on death saving throws for 24 hours.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"M2MunitionStorage\">M2. Munition Storage</h3>\n<p>These rooms were once used to store volatile munitions. A character who spends 1 minute searching one of these rooms can make a DC 15 Intelligence (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/8-tooltip\">Investigation</a>) check, finding one of the following items on a success. No more than two of each item can be found:</p>\n<p><strong>Bomb.</strong> See “<a href=\"https://www.dndbeyond.com/sources/dmg/dungeon-masters-workshop#Explosives\" title=\"Explosives\">Explosives</a>” in the <a class=\"sourcebook\" href=\"https://www.dndbeyond.com/sources/dmg\" title=\"Dungeon Master’s Guide\">Dungeon Master’s Guide</a> for more information on <a class=\"tooltip-hover item-tooltip\" href=\"https://www.dndbeyond.com/equipment/195-bomb\" data-tooltip-href=\"/adventuring-gear/195-tooltip\">bombs</a>.</p>\n<p><strong><a class=\"tooltip-hover item-tooltip\" href=\"https://www.dndbeyond.com/equipment/325-catapult-munition\" data-tooltip-href=\"/adventuring-gear/325-tooltip\">Catapult Munition</a>.</strong> This device looks like a cannonball and weighs as much as one. It functions like the catapult munition found in <a href=\"/chapters/strixhaven-no-time-to-lose/#N3Wreckage\" title=\"area N3\">area N3</a>.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"M3BrokenElevator\">M3. Broken Elevator</h3>\n<p>This room is actually the top of a shaft that once connected the fortress basement to a tunnel network below the basement. An elevator hoist is still attached to the ceiling and has frayed ropes dangling from it. Twenty feet below the door, the shaft is impassibly choked with rubble. Characters can use the dangling ropes to lower themselves down to the rubble. A search of the rubble yields nothing of value, and the elevator platform itself is buried under tons of debris.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"M4RuinedStorage\">M4. Ruined Storage</h3>\n<p>Grain and other dry goods used to be stored here, but Murgaxor has consumed them, leaving the room bare except for some empty sacks.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"M5Armory\">M5. Armory</h3>\n<p>These rooms held weapons and armor for the fort’s defenders. What’s left is described below.</p>\n<p><em><strong>North Room.</strong></em> This room holds five suits of <a class=\"tooltip-hover item-tooltip\" href=\"https://www.dndbeyond.com/equipment/16-chain-mail\" data-tooltip-href=\"/armor/16-tooltip\">chain mail</a> and five suits of <a class=\"tooltip-hover item-tooltip\" href=\"https://www.dndbeyond.com/equipment/17-splint\" data-tooltip-href=\"/armor/17-tooltip\">splint armor</a>.</p>\n<p><em><strong>Center Room.</strong></em> This room holds six <a class=\"tooltip-hover item-tooltip\" href=\"https://www.dndbeyond.com/equipment/14-spear\" data-tooltip-href=\"/weapons/14-tooltip\">spears</a>, three <a class=\"tooltip-hover item-tooltip\" href=\"https://www.dndbeyond.com/equipment/25-maul\" data-tooltip-href=\"/weapons/25-tooltip\">mauls</a>, and three <a class=\"tooltip-hover item-tooltip\" href=\"https://www.dndbeyond.com/equipment/2-glaive\" data-tooltip-href=\"/weapons/2-tooltip\">glaives</a>. The weapons are battered but functional.</p>\n<p><em><strong>South Room.</strong></em> This room holds five <a class=\"tooltip-hover item-tooltip\" href=\"https://www.dndbeyond.com/equipment/36-crossbow-heavy\" data-tooltip-href=\"/weapons/36-tooltip\">heavy crossbows</a> and three dozen <a class=\"tooltip-hover item-tooltip\" href=\"https://www.dndbeyond.com/equipment/3-crossbow-bolts\" data-tooltip-href=\"/adventuring-gear/3-tooltip\">bolts</a>.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"M6ImmortalityRitual\">M6. Immortality Ritual</h3>\n<aside class=\"read-aloud-text\" id=\"session-read-aloud-2\">\n<p>Globules of swamp water float in the air, their surfaces rippling. A bullywug, sitting hunched with legs crossed, is partially hidden within a cocoon made of thin, tightly woven strands of mud. Five bright stones buzz around this hunched figure like flies, and a runic circle crackles with eldritch power on the floor below the figure.</p>\n</aside>\n<p>The bipedal figure is <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160313-murgaxor\" data-tooltip-href=\"/monsters/2160313-tooltip\">Murgaxor</a>, who uses the <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160315-oriq-blood-mage\" data-tooltip-href=\"/monsters/2160315-tooltip\">Oriq blood mage</a> stat block in <a href=\"/chapters/strixhaven-friends-and-foes/#OriqBloodMage\" title=\"chapter 7\">chapter 7</a> and has access to lair actions (see “Murgaxor’s Lair Actions” below), which he can use anywhere in the Ruins of Caerdoon. Whirling around him are five stones he needs to complete his life-draining ritual (see “Murgaxor and the Ritual Stones” below). While performing the ritual, Murgaxor can’t move or take actions, bonus actions, or reactions. However, he can take lair actions.</p>\n<p><em><strong>Barrier.</strong></em> Murgaxor is surrounded by a barrier of arcane energy resembling a cocoon of writhing mud. While surrounded by this barrier, Murgaxor and the stones encircling him can’t be targeted by attacks or spells. The barrier has AC 14; 200 hit points; resistance to bludgeoning, piercing, and slashing damage from nonmagical attacks; and immunity to poison and psychic damage. The barrier can’t be circumvented by teleportation magic, which fizzles if anyone tries to teleport past it.</p>\n<p><em><strong>Murgaxor and the Ritual Stones.</strong></em> Once the barrier is destroyed, characters can attack Murgaxor and the five ritual stones circling him. Each stone is an 8-inch-long cylindrical opal covered with delicate golden runes. It has AC 18, 30 hit points, and immunity to poison and psychic damage. Reducing Murgaxor to 0 hit points or destroying all five ritual stones ends the ritual before it can be completed (see “<a href=\"#StoppingtheRitual\" title=\"Stopping the Ritual\">Stopping the Ritual</a>” below).</p>\n<p><em><strong>Murgaxor’s Lair Actions.</strong></em> On initiative count 20 (losing initiative ties), Murgaxor can take one of the following lair actions; after he does so, he can’t use that action again until he finishes a long rest:</p>\n<p><strong>Clay Behemoth.</strong> A <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/16825-clay-golem\" data-tooltip-href=\"/monsters/16825-tooltip\">clay golem</a> erupts from the floor in an unoccupied space within 15 feet of the ritual circle. The golem obeys Murgaxor’s commands, takes its turns on initiative count 10 (losing initiative ties), fights until destroyed, and reverts to a mound of inanimate clay after 1 hour.</p>\n<p><strong>Earthen Fist.</strong> A Medium fist made of packed earth rises from the floor in an unoccupied space that Murgaxor can see within 30 feet of him. The fist then attacks one creature of his choice that is within 5 feet of the fist. The fist has a +11 bonus to hit, and on a hit, the target takes 13 (3d8) bludgeoning damage and is <a class=\"tooltip-hover condition-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#GrappledCondition\" data-tooltip-href=\"/conditions/6-tooltip\">grappled</a> (escape DC 15). The fist disappears if the attack roll misses or if the grapple ends. When the fist disappears, this lair action recharges, allowing Murgaxor to use it again.</p>\n<p><strong>Necrotic Burst.</strong> Tendrils of necrotic energy erupt from the ritual circle and lash out at any number of creatures Murgaxor can see within 15 feet of the circle. Each target must succeed on a DC 15 Dexterity saving throw, or it takes 5 (1d10) necrotic damage and can’t regain hit points until the start of its next turn.</p>\n<p><strong>Summon Mephits.</strong> Murgaxor summons four <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/17173-mud-mephit\" data-tooltip-href=\"/monsters/17173-tooltip\">mud mephits</a> that appear in unoccupied spaces within 15 feet of the ritual circle. The mephits obey Murgaxor’s commands, take their turns on initiative count 15 (losing initiative ties), and fight until destroyed.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"StoppingtheRitual\">Stopping the Ritual</h3>\n<p>If Murgaxor’s barrier and ritual stones are destroyed, Murgaxor loses access to his lair actions. In addition, any creatures or effects brought forth by his lair actions (such as the clay golem, the earthen fist, and the mud mephits) transform into heaps of harmless clay, earth, or mud. When Murgaxor’s ritual is stopped, read:</p>\n<aside class=\"read-aloud-text\" id=\"session-read-aloud-3\">\n<p>A warbling, high-pitched wail escapes Murgaxor as he crashes to the floor with a wet thump. A rush of air and a concussive blast momentarily replaces all sound. The thrum of magical power is gone.</p>\n</aside>\n<p>The pitiful, muddy figure on the floor is Murgaxor (use the <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/17120-bullywug\" data-tooltip-href=\"/monsters/17120-tooltip\">bullywug</a> stat block). When the ritual was disrupted, his powers dissipated as well. In this state, he no longer poses a threat to anyone. The characters have won!</p>\n<h2 class=\"compendium-hr heading-anchor\" id=\"HeroesofStrixhaven\">Heroes of Strixhaven</h2>\n<figure id=\"imgmembers\" class=\"compendium-image\">\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/06-011.faculty-members.png\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/06-011.faculty-members.png\" class=\"ddb-lightbox-inner compendium-center-banner-img\" style=\"width: 850px;\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a>\n<figcaption>Strixhaven’s faculty members celebrate the characters’ victory over Murgaxor</figcaption>\n</figure>\n<p>If the characters stop Murgaxor’s ritual, the mishaps plaguing Strixhaven University cease, and the corruption affecting Strixhaven’s scholars vanishes. If Murgaxor survives the ritual’s premature end, the characters have a choice to make. They can take him back to Strixhaven to stand trial for his crimes, or they can administer justice themselves.</p>\n<p>News of Murgaxor’s defeat lifts the gloom on campus and restores its typically joyful atmosphere. Professor Sharpbeak tells the characters that the faculty plans to honor the heroes on their graduation day with a celebration attended by their Friends, Beloveds, and even Rivals. The faculty also offers each character a token of gratitude, in the form of a rare or uncommon magic item of the character’s choice.</p>\n<h2 class=\"compendium-hr heading-anchor\" id=\"FailingtoStoptheRitual\">Failing to Stop the Ritual</h2>\n<p>If all the characters fall <a class=\"tooltip-hover condition-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#UnconsciousCondition\" data-tooltip-href=\"/conditions/15-tooltip\">unconscious</a> or die in the final encounter, they fail to stop Murgaxor’s ritual. Shortly afterward, the ritual deals 70 (20d6) necrotic damage to everyone on campus as Murgaxor siphons their life force. Hundreds of scholars die, and many more are severely injured. Murgaxor becomes immortal and one of the most powerful spellcasters in the world. If the characters survive, perhaps the Founder Dragons and the archaics can guide them as they attempt to stop Murgaxor in a dystopian new world.</p>"
+}

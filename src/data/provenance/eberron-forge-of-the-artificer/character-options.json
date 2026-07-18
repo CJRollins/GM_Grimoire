@@ -1,0 +1,593 @@
+{
+  "title": "Character Options",
+  "sourcebook": "Eberron: Forge of the Artificer",
+  "bookSlug": "eberron-forge-of-the-artificer",
+  "originalPath": "Eberron/Chapter 2.html",
+  "rawUrl": "/archive/eberron/Chapter%202.html",
+  "sourceHash": "f41a11c49481d0c4060ddd6989928f55a006d3316afba47cb2c7f911cbc49102",
+  "extractionDate": "2026-07-13T07:40:57.647Z",
+  "extractionVersion": 3,
+  "originalAnchors": [
+    {
+      "id": "Chapter2CharacterOptions",
+      "text": "Character Options",
+      "element": "h1"
+    },
+    {
+      "id": "comp-next-nav",
+      "text": "Previous ← Chapter 1: The Artificer Book Contents Next Chapter 3: Bastions in Khorvaire →",
+      "element": "div"
+    },
+    {
+      "id": "imgCharacterOptionsOpener",
+      "text": "Leroy Steinmann An Artificer and his creation meet each other for the first time",
+      "element": "figure"
+    },
+    {
+      "id": "Dragonmarks",
+      "text": "Dragonmarks",
+      "element": "h2"
+    },
+    {
+      "id": "imgdragonmarks",
+      "text": "Lee Moyer Left to Right: Mark of Detection, Mark of Shadow, Mark of Making",
+      "element": "figure"
+    },
+    {
+      "id": "GreaterDragonmarks",
+      "text": "Greater Dragonmarks",
+      "element": "h3"
+    },
+    {
+      "id": "imggreaterdragonmarks",
+      "text": "Lee Moyer Left to Right: Greater Mark of Detection, Greater Mark of Shadow, Greater Mark of Making",
+      "element": "figure"
+    },
+    {
+      "id": "SiberysDragonmarks",
+      "text": "Siberys Dragonmarks",
+      "element": "h3"
+    },
+    {
+      "id": "imgSiberysDragonmarks",
+      "text": "Lee Moyer Left to Right: Siberys Mark of Detection, Siberys Mark of Shadow, Siberys Mark of Making",
+      "element": "figure"
+    },
+    {
+      "id": "WhatsNewDragonmarks",
+      "text": "What’s New with Dragonmarks? Compared to the rules in Eberron: Rising from the Last War, here’s what’s different about dragonmarks in this chapter: The benefits",
+      "element": "aside"
+    },
+    {
+      "id": "MarksofMystery",
+      "text": "Marks of Mystery",
+      "element": "h3"
+    },
+    {
+      "id": "DragonmarkedHeir",
+      "text": "Dragonmarked Heir",
+      "element": "h4"
+    },
+    {
+      "id": "DistantOffshoot",
+      "text": "Distant Offshoot",
+      "element": "h4"
+    },
+    {
+      "id": "MarkofProphechy",
+      "text": "Mark of Prophecy",
+      "element": "h4"
+    },
+    {
+      "id": "AberrantMark",
+      "text": "Aberrant Mark",
+      "element": "h4"
+    },
+    {
+      "id": "Backgrounds",
+      "text": "Backgrounds",
+      "element": "h2"
+    },
+    {
+      "id": "AberrantHeir",
+      "text": "Aberrant Heir",
+      "element": "h3"
+    },
+    {
+      "id": "imgAbberantHeirBackground",
+      "text": "Kevin Gnutzmans",
+      "element": "figure"
+    },
+    {
+      "id": "Archaeologist",
+      "text": "Archaeologist",
+      "element": "h3"
+    },
+    {
+      "id": "imgArcheologistBackground",
+      "text": "Cullen Cole",
+      "element": "figure"
+    },
+    {
+      "id": "HouseAgent",
+      "text": "House Agent",
+      "element": "h3"
+    },
+    {
+      "id": "imgHouseAgentBackground",
+      "text": "Calder Moore",
+      "element": "figure"
+    },
+    {
+      "id": "HouseCannithHeir",
+      "text": "House Cannith Heir",
+      "element": "h3"
+    },
+    {
+      "id": "imgHouseCannithHeirBackground",
+      "text": "Kevin Gnutzmans",
+      "element": "figure"
+    },
+    {
+      "id": "HouseDeneithHeir",
+      "text": "House Deneith Heir",
+      "element": "h3"
+    },
+    {
+      "id": "imgHouseDeneithHeirBackground",
+      "text": "Ahmed Zulfiqar",
+      "element": "figure"
+    },
+    {
+      "id": "HouseGhallandaHeir",
+      "text": "House Ghallanda Heir",
+      "element": "h3"
+    },
+    {
+      "id": "imgHouseGhallandaHeirBackground",
+      "text": "Cullen Cole",
+      "element": "figure"
+    },
+    {
+      "id": "HouseJorascoHeir",
+      "text": "House Jorasco Heir",
+      "element": "h3"
+    },
+    {
+      "id": "imgHouseJorascoHeirBackground",
+      "text": "Arthur Loftis",
+      "element": "figure"
+    },
+    {
+      "id": "HouseKundarakHeir",
+      "text": "House Kundarak Heir",
+      "element": "h3"
+    },
+    {
+      "id": "imgHouseKundarakHeirBackground",
+      "text": "Ahmed Zulfiqar",
+      "element": "figure"
+    },
+    {
+      "id": "HouseLyrandarHeir",
+      "text": "House Lyrandar Heir",
+      "element": "h3"
+    },
+    {
+      "id": "imgHouseLyrandarHeirBackground",
+      "text": "Dave Sarabia",
+      "element": "figure"
+    },
+    {
+      "id": "HouseMedaniHeir",
+      "text": "House Medani Heir",
+      "element": "h3"
+    },
+    {
+      "id": "imgHouseMedaniHeirBackground",
+      "text": "Kenny Vo",
+      "element": "figure"
+    },
+    {
+      "id": "HouseOrienHeir",
+      "text": "House Orien Heir",
+      "element": "h3"
+    },
+    {
+      "id": "imgHouseOrienHeirBackground",
+      "text": "Kenny Vo",
+      "element": "figure"
+    },
+    {
+      "id": "HousePhiarlanHeir",
+      "text": "House Phiarlan Heir",
+      "element": "h3"
+    },
+    {
+      "id": "imgHousePhiarlanHeirBackground",
+      "text": "Arthur Loftis",
+      "element": "figure"
+    },
+    {
+      "id": "HouseSivisHeir",
+      "text": "House Sivis Heir",
+      "element": "h3"
+    },
+    {
+      "id": "imgHouseSivisHeirBackground",
+      "text": "Yinfaowei Harrison",
+      "element": "figure"
+    },
+    {
+      "id": "HouseTharashkHeir",
+      "text": "House Tharashk Heir",
+      "element": "h3"
+    },
+    {
+      "id": "imgHouseTharashkHeirBackground",
+      "text": "Calder Moore",
+      "element": "figure"
+    },
+    {
+      "id": "HouseThuranniHeir",
+      "text": "House Thuranni Heir",
+      "element": "h3"
+    },
+    {
+      "id": "imgHouseThuranniHeirBackground",
+      "text": "Arthur Loftis",
+      "element": "figure"
+    },
+    {
+      "id": "HouseVadalisHeir",
+      "text": "House Vadalis Heir",
+      "element": "h3"
+    },
+    {
+      "id": "imgHouseVadalisHeirBackground",
+      "text": "Ahmed Zulfiqar",
+      "element": "figure"
+    },
+    {
+      "id": "Inquisitive",
+      "text": "Inquisitive",
+      "element": "h3"
+    },
+    {
+      "id": "imgInquisitiveBackground",
+      "text": "Esther Wu",
+      "element": "figure"
+    },
+    {
+      "id": "SpeciesDescriptions",
+      "text": "Species Descriptions",
+      "element": "h2"
+    },
+    {
+      "id": "imgSpeciesChangelings",
+      "text": "Leroy Steinmann",
+      "element": "figure"
+    },
+    {
+      "id": "Changeling",
+      "text": "Changeling",
+      "element": "h3"
+    },
+    {
+      "id": "ChangelingTraits",
+      "text": "Changeling Traits",
+      "element": "h4"
+    },
+    {
+      "id": "Kalashtar",
+      "text": "Kalashtar",
+      "element": "h3"
+    },
+    {
+      "id": "imgSpeciesKalashtar",
+      "text": "Andrea de Dominicis",
+      "element": "figure"
+    },
+    {
+      "id": "KalashtarTraits",
+      "text": "Kalashtar Traits",
+      "element": "h4"
+    },
+    {
+      "id": "Khoravar",
+      "text": "Khoravar",
+      "element": "h3"
+    },
+    {
+      "id": "imgSpeciesKhoravar",
+      "text": "Daarken",
+      "element": "figure"
+    },
+    {
+      "id": "KhoravarTraits",
+      "text": "Khoravar Traits",
+      "element": "h4"
+    },
+    {
+      "id": "Shifter",
+      "text": "Shifter",
+      "element": "h3"
+    },
+    {
+      "id": "imgSpeciesShifter",
+      "text": "John Thacker",
+      "element": "figure"
+    },
+    {
+      "id": "ShifterTraits",
+      "text": "Shifter Traits",
+      "element": "h4"
+    },
+    {
+      "id": "Warforged",
+      "text": "Warforged",
+      "element": "h3"
+    },
+    {
+      "id": "imgSpeciesWarforged",
+      "text": "Ignacio Bazan-Lazcano",
+      "element": "figure"
+    },
+    {
+      "id": "WarforgedTraits",
+      "text": "Warforged Traits",
+      "element": "h4"
+    },
+    {
+      "id": "Feats",
+      "text": "Feats",
+      "element": "h2"
+    },
+    {
+      "id": "DragonmarkFeats",
+      "text": "Dragonmark Feats",
+      "element": "h3"
+    },
+    {
+      "id": "AberrantDragonmark",
+      "text": "Aberrant Dragonmark",
+      "element": "h4"
+    },
+    {
+      "id": "MarkofDetection",
+      "text": "Mark of Detection",
+      "element": "h4"
+    },
+    {
+      "id": "MarkofDetectionSpells",
+      "text": "Mark of Detection Spells",
+      "element": "h4"
+    },
+    {
+      "id": "MarkofFinding",
+      "text": "Mark of Finding",
+      "element": "h4"
+    },
+    {
+      "id": "MarkofFindingSpells",
+      "text": "Mark of Finding Spells",
+      "element": "h4"
+    },
+    {
+      "id": "MarkofHandling",
+      "text": "Mark of Handling",
+      "element": "h4"
+    },
+    {
+      "id": "MarkofHandlingSpells",
+      "text": "Mark of Handling Spells",
+      "element": "h4"
+    },
+    {
+      "id": "MarkofHealing",
+      "text": "Mark of Healing",
+      "element": "h4"
+    },
+    {
+      "id": "MarkofHealingSpells",
+      "text": "Mark of Healing Spells",
+      "element": "h4"
+    },
+    {
+      "id": "MarkofHospitality",
+      "text": "Mark of Hospitality",
+      "element": "h4"
+    },
+    {
+      "id": "MarkofHospitalitySpells",
+      "text": "Mark of Hospitality Spells",
+      "element": "h4"
+    },
+    {
+      "id": "MarkofMaking",
+      "text": "Mark of Making",
+      "element": "h4"
+    },
+    {
+      "id": "MarkofMakingSpells",
+      "text": "Mark of Making Spells",
+      "element": "h4"
+    },
+    {
+      "id": "MarkofPassage",
+      "text": "Mark of Passage",
+      "element": "h4"
+    },
+    {
+      "id": "MarkofPassageSpells",
+      "text": "Mark of Passage Spells",
+      "element": "h4"
+    },
+    {
+      "id": "MarkofScribing",
+      "text": "Mark of Scribing",
+      "element": "h4"
+    },
+    {
+      "id": "MarkofScribingSpells",
+      "text": "Mark of Scribing Spells",
+      "element": "h4"
+    },
+    {
+      "id": "MarkofSentinel",
+      "text": "Mark of Sentinel",
+      "element": "h4"
+    },
+    {
+      "id": "MarkofSentinelSpells",
+      "text": "Mark of Sentinel Spells",
+      "element": "h4"
+    },
+    {
+      "id": "MarkofShadow",
+      "text": "Mark of Shadow",
+      "element": "h4"
+    },
+    {
+      "id": "MarkofShadowSpells",
+      "text": "Mark of Shadow Spells",
+      "element": "h4"
+    },
+    {
+      "id": "MarkofStorm",
+      "text": "Mark of Storm",
+      "element": "h4"
+    },
+    {
+      "id": "MarkofStormSpells",
+      "text": "Mark of Storm Spells",
+      "element": "h4"
+    },
+    {
+      "id": "MarkofWarding",
+      "text": "Mark of Warding",
+      "element": "h4"
+    },
+    {
+      "id": "MarkofWardingSpells",
+      "text": "Mark of Warding Spells",
+      "element": "h4"
+    },
+    {
+      "id": "GeneralFeats",
+      "text": "General Feats",
+      "element": "h3"
+    },
+    {
+      "id": "GreaterAberrantMark",
+      "text": "Greater Aberrant Mark",
+      "element": "h4"
+    },
+    {
+      "id": "GreaterMarkofDetection",
+      "text": "Greater Mark of Detection",
+      "element": "h4"
+    },
+    {
+      "id": "GreaterMarkofFinding",
+      "text": "Greater Mark of Finding",
+      "element": "h4"
+    },
+    {
+      "id": "imgGreaterMarkofFinding",
+      "text": "Lee Moyer Geater Mark of Finding",
+      "element": "figure"
+    },
+    {
+      "id": "GreaterMarkofHandling",
+      "text": "Greater Mark of Handling",
+      "element": "h4"
+    },
+    {
+      "id": "GreaterMarkofHealing",
+      "text": "Greater Mark of Healing",
+      "element": "h4"
+    },
+    {
+      "id": "GreaterMarkofHospitality",
+      "text": "Greater Mark of Hospitality",
+      "element": "h4"
+    },
+    {
+      "id": "GreaterMarkofMaking",
+      "text": "Greater Mark of Making",
+      "element": "h4"
+    },
+    {
+      "id": "GreaterMarkofPassage",
+      "text": "Greater Mark of Passage",
+      "element": "h4"
+    },
+    {
+      "id": "imgGreaterMarkofPassage",
+      "text": "Lee Moyer Greater Mark of Passage",
+      "element": "figure"
+    },
+    {
+      "id": "GreaterMarkofScribing",
+      "text": "Greater Mark of Scribing",
+      "element": "h4"
+    },
+    {
+      "id": "GreaterMarkofSentinel",
+      "text": "Greater Mark of Sentinel",
+      "element": "h4"
+    },
+    {
+      "id": "GreaterMarkofShadow",
+      "text": "Greater Mark of Shadow",
+      "element": "h4"
+    },
+    {
+      "id": "GreaterMarkofStorm",
+      "text": "Greater Mark of Storm",
+      "element": "h4"
+    },
+    {
+      "id": "imgGreaterMarkofStorm",
+      "text": "Lee Moyer Greater Mark of Storm",
+      "element": "figure"
+    },
+    {
+      "id": "GreaterMarkofWarding",
+      "text": "Greater Mark of Warding",
+      "element": "h4"
+    },
+    {
+      "id": "PotentDragonmark",
+      "text": "Potent Dragonmark",
+      "element": "h4"
+    },
+    {
+      "id": "EpicBoonFeat",
+      "text": "Epic Boon Feat",
+      "element": "h3"
+    },
+    {
+      "id": "BoonofSiberys",
+      "text": "Boon of Siberys",
+      "element": "h4"
+    },
+    {
+      "id": "SiberysDragonmarkSpells",
+      "text": "Siberys Dragonmark Spells",
+      "element": "h4"
+    }
+  ],
+  "transformations": [
+    "Selected the first .p-article-content element.",
+    "Removed scripts, styles, forms, iframes, hidden duplicate labels, and source navigation.",
+    "Removed event handlers and D&D Beyond content-chunk identifiers.",
+    "Rewrote archived sourcebook links to generated reader routes when a local target exists.",
+    "Added lazy image loading and asynchronous decoding hints.",
+    "Added derived IDs to read-aloud, rules, table, and stat-block elements for session navigation.",
+    "Indexed player-version map links as derived session metadata.",
+    "Preserved source wording and original heading IDs; derived metadata remains separate."
+  ],
+  "repairs": []
+}

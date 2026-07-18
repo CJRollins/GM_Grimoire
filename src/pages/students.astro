@@ -1,0 +1,251 @@
+---
+import { getCollection } from 'astro:content';
+import GrimoireLayout from '../layouts/GrimoireLayout.astro';
+import studentData from '../data/students.json';
+
+const chapters = (await getCollection('chapters')).sort((a, b) =>
+  a.data.sourcebook.localeCompare(b.data.sourcebook) || a.data.order - b.data.order
+);
+const students = [...studentData].sort((a, b) => a.name.localeCompare(b.name));
+const colleges = [...new Set(students.map((student) => student.college))].sort();
+const cohorts = [...new Set(students.map((student) => student.cohort))].sort();
+const employed = students.filter((student) => student.job && student.job !== 'None').length;
+const extracurriculars = new Set(students.flatMap((student) => student.extracurriculars)).size;
+---
+
+<GrimoireLayout
+  title="Student directory"
+  description="A filterable Strixhaven student roster with profiles, campus roles, and relationship boons and banes."
+  chapters={chapters}
+>
+  <main id="reader-content" class="students-page dashboard-page">
+    <header class="dashboard-hero">
+      <p class="kicker">Relationship roster</p>
+      <h1>Know who is in the room.</h1>
+      <p>
+        Filter the recurring student cast by college, cohort, work, or any remembered detail. Open a
+        profile for biography and relationship effects, then jump straight back to its canonical entry.
+      </p>
+      <dl class="dashboard-stats" aria-label="Student directory totals">
+        <div><dt>{students.length}</dt><dd>students</dd></div>
+        <div><dt>{colleges.length}</dt><dd>colleges</dd></div>
+        <div><dt>{extracurriculars}</dt><dd>activities</dd></div>
+        <div><dt>{employed}</dt><dd>campus jobs</dd></div>
+      </dl>
+    </header>
+
+    <form class="student-filters" id="student-filters" role="search" aria-label="Filter student directory">
+      <label class="search-field">
+        <span>Search the roster</span>
+        <input id="student-search" type="search" placeholder="Name, species, job, or activity…" autocomplete="off" />
+      </label>
+      <label>
+        <span>College</span>
+        <select id="college-filter">
+          <option value="">All colleges</option>
+          {colleges.map((college) => <option value={college}>{college}</option>)}
+        </select>
+      </label>
+      <label>
+        <span>Cohort</span>
+        <select id="cohort-filter">
+          <option value="">All cohorts</option>
+          {cohorts.map((cohort) => <option value={cohort}>{cohort}-year students</option>)}
+        </select>
+      </label>
+      <label>
+        <span>Campus work</span>
+        <select id="job-filter">
+          <option value="">Any work status</option>
+          <option value="yes">Has a campus job</option>
+          <option value="no">No listed job</option>
+        </select>
+      </label>
+      <button id="reset-student-filters" type="reset">Reset</button>
+    </form>
+
+    <div class="result-line" aria-live="polite">
+      <strong id="student-result-count">{students.length}</strong>
+      <span id="student-result-label">students shown</span>
+    </div>
+
+    <section class="student-grid" aria-label="Student profiles">
+      {students.map((student) => {
+        const hasJob = Boolean(student.job && student.job !== 'None');
+        const searchText = [
+          student.name,
+          student.alignment,
+          student.species,
+          student.cohort,
+          student.college,
+          student.biography,
+          student.job,
+          ...student.extracurriculars,
+          student.bondBoon,
+          student.bondBane,
+        ].join(' ').toLocaleLowerCase();
+
+        return (
+          <article
+            class="student-card"
+            data-student
+            data-college={student.college}
+            data-cohort={student.cohort}
+            data-job={hasJob ? 'yes' : 'no'}
+            data-search={searchText}
+          >
+            <header>
+              <img src={student.portrait} alt={`Portrait of ${student.name}`} loading="lazy" decoding="async" />
+              <div>
+                <p class="college-label">{student.college}</p>
+                <h2>{student.name}</h2>
+                <p>{student.cohort}-year {student.species} · {student.alignment}</p>
+              </div>
+            </header>
+
+            <dl class="student-roles">
+              <div>
+                <dt>Activities</dt>
+                <dd>
+                  {student.extracurriculars.length
+                    ? student.extracurriculars.join(' · ')
+                    : 'No listed extracurriculars'}
+                </dd>
+              </div>
+              <div>
+                <dt>Campus job</dt>
+                <dd>{hasJob ? student.job : 'No listed job'}</dd>
+              </div>
+            </dl>
+
+            <details class="student-profile">
+              <summary>Open profile and relationship effects</summary>
+              <div class="profile-body">
+                <p>{student.biography}</p>
+                <section class="bond bond-boon">
+                  <h3>Bond boon</h3>
+                  <p>{student.bondBoon}</p>
+                </section>
+                <section class="bond bond-bane">
+                  <h3>Bond bane</h3>
+                  <p>{student.bondBane}</p>
+                </section>
+              </div>
+            </details>
+
+            <a class="source-link" href={student.sourceUrl}>Open source profile <span aria-hidden="true">→</span></a>
+          </article>
+        );
+      })}
+    </section>
+
+    <p id="student-empty" class="empty-state" hidden>
+      No students match those filters. Try clearing one field or searching a broader term.
+    </p>
+  </main>
+
+  <script is:inline>
+    (() => {
+      const form = document.querySelector('#student-filters');
+      const search = document.querySelector('#student-search');
+      const college = document.querySelector('#college-filter');
+      const cohort = document.querySelector('#cohort-filter');
+      const job = document.querySelector('#job-filter');
+      const cards = Array.from(document.querySelectorAll('[data-student]'));
+      const count = document.querySelector('#student-result-count');
+      const label = document.querySelector('#student-result-label');
+      const empty = document.querySelector('#student-empty');
+
+      const normalize = (value) => value.trim().toLocaleLowerCase();
+      const applyFilters = () => {
+        const query = normalize(search?.value || '');
+        const selectedCollege = college?.value || '';
+        const selectedCohort = cohort?.value || '';
+        const selectedJob = job?.value || '';
+        let visible = 0;
+
+        cards.forEach((card) => {
+          const matches = (!query || card.dataset.search.includes(query))
+            && (!selectedCollege || card.dataset.college === selectedCollege)
+            && (!selectedCohort || card.dataset.cohort === selectedCohort)
+            && (!selectedJob || card.dataset.job === selectedJob);
+          card.toggleAttribute('hidden', !matches);
+          if (matches) visible += 1;
+        });
+
+        if (count) count.textContent = String(visible);
+        if (label) label.textContent = visible === 1 ? 'student shown' : 'students shown';
+        empty?.toggleAttribute('hidden', visible !== 0);
+      };
+
+      form?.addEventListener('input', applyFilters);
+      form?.addEventListener('reset', () => requestAnimationFrame(applyFilters));
+      applyFilters();
+    })();
+  </script>
+</GrimoireLayout>
+
+<style>
+  .dashboard-page { max-width: 1160px; margin: 2rem auto 0; }
+  .dashboard-hero { max-width: 900px; }
+  .dashboard-hero h1 { margin: .2rem 0 1rem; font: 600 clamp(2.4rem, 6vw, 4.8rem)/1.02 var(--display); }
+  .dashboard-hero > p:last-of-type { max-width: 760px; color: var(--ink-dim); font-size: 1.08rem; line-height: 1.65; }
+  .dashboard-stats { display: flex; gap: clamp(1.3rem, 4vw, 3.5rem); margin: 2rem 0 0; padding: 1.25rem 0; border-block: 1px solid var(--line); }
+  .dashboard-stats div { display: flex; flex-direction: column; }
+  .dashboard-stats dt { color: var(--gold-bright); font: 600 1.6rem var(--display); }
+  .dashboard-stats dd { margin: .2rem 0 0; color: var(--ink-dim); font-size: .75rem; }
+  .student-filters { display: grid; grid-template-columns: minmax(220px, 2fr) repeat(3, minmax(130px, 1fr)) auto; align-items: end; gap: .8rem; margin: 2.5rem 0 1rem; padding: 1rem; border: 1px solid var(--line); background: rgba(41, 37, 29, .72); }
+  .student-filters label { display: grid; gap: .35rem; min-width: 0; color: var(--ink-dim); font-size: .7rem; }
+  .student-filters input, .student-filters select { width: 100%; min-height: 2.5rem; padding: .55rem .65rem; border: 1px solid var(--line); border-radius: 0; color: var(--ink); background: var(--paper-deep); }
+  .student-filters select { font: inherit; font-size: .82rem; }
+  .student-filters button { min-height: 2.5rem; padding: .55rem .8rem; border: 1px solid var(--gold); color: var(--gold-bright); background: transparent; cursor: pointer; }
+  .result-line { display: flex; gap: .35rem; margin: 1.2rem 0 .7rem; color: var(--ink-dim); font-size: .78rem; }
+  .result-line strong { color: var(--aether); }
+  .student-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1rem; }
+  .student-card { --college-accent: var(--aether); min-width: 0; overflow: hidden; border: 1px solid var(--line); border-top: 3px solid var(--college-accent); background: rgba(33, 30, 24, .9); }
+  .student-card[data-college='Lorehold'] { --college-accent: #d3a05f; }
+  .student-card[data-college='Prismari'] { --college-accent: #72a9cd; }
+  .student-card[data-college='Quandrix'] { --college-accent: #6fbd9b; }
+  .student-card[data-college='Silverquill'] { --college-accent: #c8c3d2; }
+  .student-card[data-college='Witherbloom'] { --college-accent: #91a65f; }
+  .student-card > header { display: grid; grid-template-columns: 96px minmax(0, 1fr); gap: 1rem; align-items: center; min-height: 118px; padding: .75rem 1rem .75rem .75rem; background: linear-gradient(100deg, color-mix(in srgb, var(--college-accent) 11%, transparent), transparent 70%); }
+  .student-card img { display: block; width: 96px; height: 96px; object-fit: cover; object-position: top center; border: 1px solid color-mix(in srgb, var(--college-accent) 70%, var(--line)); background: var(--paper-deep); }
+  .college-label { margin: 0 0 .2rem; color: var(--college-accent); font: 600 .65rem var(--display); letter-spacing: .12em; text-transform: uppercase; }
+  .student-card h2 { margin: 0 0 .3rem; color: var(--ink); font: 600 1.35rem/1.12 var(--display); }
+  .student-card header div > p:last-child { margin: 0; color: var(--ink-dim); font-size: .74rem; }
+  .student-roles { display: grid; grid-template-columns: 1fr 1fr; margin: 0; border-block: 1px solid rgba(74, 65, 47, .7); }
+  .student-roles div { min-width: 0; padding: .75rem 1rem; }
+  .student-roles div + div { border-left: 1px solid rgba(74, 65, 47, .7); }
+  .student-roles dt { margin-bottom: .3rem; color: #776d59; font: .62rem var(--display); letter-spacing: .1em; text-transform: uppercase; }
+  .student-roles dd { margin: 0; color: var(--ink-dim); font-size: .76rem; line-height: 1.4; }
+  .student-profile { margin: .8rem 1rem; }
+  .student-profile > summary { color: var(--gold-bright); cursor: pointer; font-size: .8rem; }
+  .profile-body { padding-top: .65rem; color: var(--ink-dim); font-size: .83rem; line-height: 1.55; }
+  .profile-body > p { margin-top: 0; }
+  .bond { margin-top: .7rem; padding: .7rem .8rem; border-left: 3px solid; background: rgba(23, 20, 15, .62); }
+  .bond h3 { margin: 0 0 .25rem; font: 600 .68rem var(--display); letter-spacing: .1em; text-transform: uppercase; }
+  .bond p { margin: 0; }
+  .bond-boon { border-color: var(--aether); }
+  .bond-boon h3 { color: var(--aether); }
+  .bond-bane { border-color: var(--danger); }
+  .bond-bane h3 { color: #d28a78; }
+  .source-link { display: block; margin: 0 1rem 1rem; padding-top: .7rem; border-top: 1px solid rgba(74, 65, 47, .7); font-size: .76rem; text-decoration: none; }
+  .source-link span { margin-left: .25rem; }
+  .empty-state { padding: 2rem; border: 1px dashed var(--line); color: var(--ink-dim); text-align: center; }
+  [hidden] { display: none !important; }
+
+  @media (max-width: 940px) {
+    .student-filters { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+    .search-field { grid-column: 1 / -1; }
+  }
+  @media (max-width: 680px) {
+    .dashboard-page { margin-top: .5rem; }
+    .dashboard-stats { display: grid; grid-template-columns: repeat(2, 1fr); }
+    .student-filters, .student-grid { grid-template-columns: 1fr; }
+    .search-field { grid-column: auto; }
+    .student-card > header { grid-template-columns: 76px minmax(0, 1fr); }
+    .student-card img { width: 76px; height: 76px; }
+    .student-roles { grid-template-columns: 1fr; }
+    .student-roles div + div { border-left: 0; border-top: 1px solid rgba(74, 65, 47, .7); }
+  }
+</style>

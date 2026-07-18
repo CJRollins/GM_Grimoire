@@ -1,0 +1,1868 @@
+{
+  "title": "Life at Strixhaven",
+  "sourcebook": "Strixhaven: A Curriculum of Chaos",
+  "bookSlug": "strixhaven-a-curriculum-of-chaos",
+  "world": "Arcavios",
+  "edition": "2014 rules",
+  "chapter": "Life at Strixhaven",
+  "chapterNumber": 1,
+  "order": 2,
+  "navGroup": "Reference",
+  "kind": "lore",
+  "audience": "both",
+  "slug": "strixhaven-life-at-strixhaven",
+  "chapterSlug": "life-at-strixhaven",
+  "summary": "Strixhaven University sparkles with the enthusiasm of its students and faculty, as they study, debate about, and experiment with magic in its varied forms. This chapter offers an overview of life and studies on the university’s campus, as well as a look at ea…",
+  "wordCount": 8740,
+  "originalPath": "Arcavios/Stixhaven/Chapter 2 - Life At Strixhaven.html",
+  "rawUrl": "/archive/strixhaven/Chapter%202%20-%20Life%20At%20Strixhaven.html",
+  "originalAnchors": [
+    {
+      "id": "LifeatStrixhaven",
+      "text": "Life at Strixhaven",
+      "element": "h1"
+    },
+    {
+      "id": "comp-next-nav",
+      "text": "",
+      "element": "div"
+    },
+    {
+      "id": "imgsplash",
+      "text": "During a duel in the Hall of Oracles, a student transformsher opponent into a goat, who is held back by a friend",
+      "element": "figure"
+    },
+    {
+      "id": "MagicalStudy",
+      "text": "Magical Study",
+      "element": "h2"
+    },
+    {
+      "id": "PrinciplesandPolarities",
+      "text": "Principles and Polarities",
+      "element": "h3"
+    },
+    {
+      "id": "Faculty",
+      "text": "Faculty",
+      "element": "h3"
+    },
+    {
+      "id": "Instructors",
+      "text": "Instructors",
+      "element": "h4"
+    },
+    {
+      "id": "Professors",
+      "text": "Professors",
+      "element": "h4"
+    },
+    {
+      "id": "Students",
+      "text": "Students",
+      "element": "h3"
+    },
+    {
+      "id": "ChoosingaCollege",
+      "text": "Choosing a College",
+      "element": "h4"
+    },
+    {
+      "id": "AfterStrixhaven",
+      "text": "After Strixhaven",
+      "element": "h4"
+    },
+    {
+      "id": "Administration",
+      "text": "Administration",
+      "element": "h3"
+    },
+    {
+      "id": "Mascots",
+      "text": "Mascots",
+      "element": "h3"
+    },
+    {
+      "id": "StrixhavenMascots",
+      "text": "Strixhaven Mascots College Mascot Lorehold Spirit Statue Mascot Prismari Art Elemental Mascot Quandrix Fractal Mascot Silverquill Inkling Mascot Witherbloom Pes",
+      "element": "table"
+    },
+    {
+      "id": "CampusOverview",
+      "text": "Campus Overview",
+      "element": "h2"
+    },
+    {
+      "id": "imgcommons",
+      "text": "Archway Commons is a favorite spot for students to gather",
+      "element": "figure"
+    },
+    {
+      "id": "CentralCampus",
+      "text": "Central Campus",
+      "element": "h3"
+    },
+    {
+      "id": "Map11centralcampus",
+      "text": "Map 1.1: central campus View Player Version",
+      "element": "figure"
+    },
+    {
+      "id": "TheBiblioplex",
+      "text": "The Biblioplex",
+      "element": "h4"
+    },
+    {
+      "id": "ArchwayCommons",
+      "text": "Archway Commons",
+      "element": "h4"
+    },
+    {
+      "id": "FirejoltCaf",
+      "text": "Firejolt Café",
+      "element": "h4"
+    },
+    {
+      "id": "BowsEndTavern",
+      "text": "Bow’s End Tavern",
+      "element": "h4"
+    },
+    {
+      "id": "StrixhavenStadium",
+      "text": "Strixhaven Stadium",
+      "element": "h4"
+    },
+    {
+      "id": "LoreholdCollege",
+      "text": "Lorehold College",
+      "element": "h2"
+    },
+    {
+      "id": "StudiesandPhilosophy",
+      "text": "Studies and Philosophy",
+      "element": "h3"
+    },
+    {
+      "id": "imgoflorehold",
+      "text": "The heart of Lorehold College overlooks a chasm littered with ancient ruins",
+      "element": "figure"
+    },
+    {
+      "id": "OrderandChaos",
+      "text": "Order and Chaos",
+      "element": "h4"
+    },
+    {
+      "id": "ScholarsofLorehold",
+      "text": "Scholars of Lorehold",
+      "element": "h4"
+    },
+    {
+      "id": "LoreholdScholars",
+      "text": "Lorehold Scholars d10 Scholar Principle 1 Archaeoscribe, chronicling historical truths for posterity Order 2 Battle medium, strengthening summoned spirits for u",
+      "element": "table"
+    },
+    {
+      "id": "LoreholdFaculty",
+      "text": "Lorehold Faculty",
+      "element": "h3"
+    },
+    {
+      "id": "AugustaTullusDeanofOrder",
+      "text": "Augusta Tullus, Dean of Order",
+      "element": "h4"
+    },
+    {
+      "id": "PlarggDeanofChaos",
+      "text": "Plargg, Dean of Chaos",
+      "element": "h4"
+    },
+    {
+      "id": "HofriGhostforge",
+      "text": "Hofri Ghostforge",
+      "element": "h4"
+    },
+    {
+      "id": "OsgirtheReconstructor",
+      "text": "Osgir, the Reconstructor",
+      "element": "h4"
+    },
+    {
+      "id": "GolwandatheBloodspiller",
+      "text": "GOLWANDA THE BLOODSPILLER “Have you met Golwanda yet?” is a question that older Lorehold students love to ask second-year students, new to the college. Sooner o",
+      "element": "aside"
+    },
+    {
+      "id": "LosheelClockworkScholar",
+      "text": "Losheel, Clockwork Scholar",
+      "element": "h4"
+    },
+    {
+      "id": "LoreholdCampus",
+      "text": "Lorehold Campus",
+      "element": "h3"
+    },
+    {
+      "id": "Map12loreholdcampus",
+      "text": "Map 1.2: lorehold campus View Player Version",
+      "element": "figure"
+    },
+    {
+      "id": "Pillardrop",
+      "text": "Pillardrop",
+      "element": "h4"
+    },
+    {
+      "id": "EffigyRow",
+      "text": "Effigy Row",
+      "element": "h4"
+    },
+    {
+      "id": "KollemaHall",
+      "text": "Kollema Hall",
+      "element": "h4"
+    },
+    {
+      "id": "PrismariCollege",
+      "text": "Prismari College",
+      "element": "h2"
+    },
+    {
+      "id": "StudiesandPhilosophy1",
+      "text": "Studies and Philosophy",
+      "element": "h3"
+    },
+    {
+      "id": "PerfectionandExpression",
+      "text": "Perfection and Expression",
+      "element": "h4"
+    },
+    {
+      "id": "OctaviatheLivingThesis",
+      "text": "OCTAVIA, THE LIVING THESIS Crafted as a graduate’s final project many years ago, Octavia (a water elemental that looks like an enormous octopus) took up residen",
+      "element": "aside"
+    },
+    {
+      "id": "ScholarsofPrismari",
+      "text": "Scholars of Prismari",
+      "element": "h4"
+    },
+    {
+      "id": "PrismariScholars",
+      "text": "Prismari Scholars d12 Scholar Principle 1 Aesthemancer, studying abstract principles of beauty for insight into the workings of the multiverse Perfection 2 Elec",
+      "element": "table"
+    },
+    {
+      "id": "PrismariFaculty",
+      "text": "Prismari Faculty",
+      "element": "h3"
+    },
+    {
+      "id": "imgcollegeoffersbreathtakingviews",
+      "text": "Prismari College offers breathtaking views to inspire its artists",
+      "element": "figure"
+    },
+    {
+      "id": "UvildaMistcoilerDeanofPerfection",
+      "text": "Uvilda Mistcoiler, Dean of Perfection",
+      "element": "h4"
+    },
+    {
+      "id": "NassariDeanofExpression",
+      "text": "Nassari, Dean of Expression",
+      "element": "h4"
+    },
+    {
+      "id": "VeyranVoiceofDuality",
+      "text": "Veyran, Voice of Duality",
+      "element": "h4"
+    },
+    {
+      "id": "ZaffaiThunderConductor",
+      "text": "Zaffai, Thunder Conductor",
+      "element": "h4"
+    },
+    {
+      "id": "ArkinMinexesPeppyInstructor",
+      "text": "Arkin Minexes, Peppy Instructor",
+      "element": "h4"
+    },
+    {
+      "id": "PrismariCampus",
+      "text": "Prismari Campus",
+      "element": "h3"
+    },
+    {
+      "id": "map13prismaricampus",
+      "text": "Map 1.3: Prismari CampusView Player Version",
+      "element": "figure"
+    },
+    {
+      "id": "ConjurotHall",
+      "text": "Conjurot Hall",
+      "element": "h4"
+    },
+    {
+      "id": "OpusWalk",
+      "text": "Opus Walk",
+      "element": "h4"
+    },
+    {
+      "id": "Furygale",
+      "text": "Furygale",
+      "element": "h4"
+    },
+    {
+      "id": "QuandrixCollege",
+      "text": "Quandrix College",
+      "element": "h2"
+    },
+    {
+      "id": "StudiesandPhilosophy2",
+      "text": "Studies and Philosophy",
+      "element": "h3"
+    },
+    {
+      "id": "SubstanceandTheory",
+      "text": "Substance and Theory",
+      "element": "h4"
+    },
+    {
+      "id": "ScholarsofQuandrix",
+      "text": "Scholars of Quandrix",
+      "element": "h4"
+    },
+    {
+      "id": "QuandrixScholars",
+      "text": "Quandrix Scholars d8 Scholar Principle 1 Abstractor, using magic to stretch the possibilities of space Theory 2 Augmenter, making creatures and things larger Su",
+      "element": "table"
+    },
+    {
+      "id": "QuandrixFaculty",
+      "text": "Quandrix Faculty",
+      "element": "h3"
+    },
+    {
+      "id": "imghall",
+      "text": "The geometry of Torus Hall is the most prominent feature of Quandrix College",
+      "element": "figure"
+    },
+    {
+      "id": "KianneDeanofSubstance",
+      "text": "Kianne, Dean of Substance",
+      "element": "h4"
+    },
+    {
+      "id": "ImbrahamDeanofTheory",
+      "text": "Imbraham, Dean of Theory",
+      "element": "h4"
+    },
+    {
+      "id": "AdrixandNevTwincasters",
+      "text": "Adrix and Nev, Twincasters",
+      "element": "h4"
+    },
+    {
+      "id": "DeekahFractalTheorist",
+      "text": "Deekah, Fractal Theorist",
+      "element": "h4"
+    },
+    {
+      "id": "RuxaPatientProfessor",
+      "text": "Ruxa, Patient Professor",
+      "element": "h4"
+    },
+    {
+      "id": "QuandrixCampus",
+      "text": "Quandrix Campus",
+      "element": "h3"
+    },
+    {
+      "id": "Map14quandrixcampus",
+      "text": "Map 1.4: quandrix campus View Player Version",
+      "element": "figure"
+    },
+    {
+      "id": "TorusHall",
+      "text": "Torus Hall",
+      "element": "h4"
+    },
+    {
+      "id": "TheArithmodrome",
+      "text": "The Arithmodrome",
+      "element": "h4"
+    },
+    {
+      "id": "EsixFractalBloom",
+      "text": "ESIX, FRACTAL BLOOM Tasked with devising an infinite equation, a group of Quandrix students accidentally created Esix, a living theorem obsessed with infinity. ",
+      "element": "aside"
+    },
+    {
+      "id": "TheCultivarium",
+      "text": "The Cultivarium",
+      "element": "h4"
+    },
+    {
+      "id": "SilverquillCollege",
+      "text": "Silverquill College",
+      "element": "h2"
+    },
+    {
+      "id": "StudiesandPhilosophy3",
+      "text": "Studies and Philosophy",
+      "element": "h3"
+    },
+    {
+      "id": "RadianceandShadow",
+      "text": "Radiance and Shadow",
+      "element": "h4"
+    },
+    {
+      "id": "ScholarsofSilverquill",
+      "text": "Scholars of Silverquill",
+      "element": "h4"
+    },
+    {
+      "id": "SilverquillScholars",
+      "text": "Silverquill Scholars d8 Scholar Principle 1 Bantermage, using incisive observation to pierce rivals’ confidence Shadow 2 Duskmage, conjuring inky voids of shado",
+      "element": "table"
+    },
+    {
+      "id": "SilverquillFaculty",
+      "text": "Silverquill Faculty",
+      "element": "h3"
+    },
+    {
+      "id": "Figure2",
+      "text": "The stately buildings of Silverquill promote an atmosphere of dignified study",
+      "element": "figure"
+    },
+    {
+      "id": "ShaileTalonrookDeanofRadiance",
+      "text": "Shaile Talonrook, Dean of Radiance",
+      "element": "h4"
+    },
+    {
+      "id": "EmbroseLuDeanofShadow",
+      "text": "Embrose Lu, Dean of Shadow",
+      "element": "h4"
+    },
+    {
+      "id": "BreenatheDemagogue",
+      "text": "Breena, the Demagogue",
+      "element": "h4"
+    },
+    {
+      "id": "NilsDisciplineEnforcer",
+      "text": "Nils, Discipline Enforcer",
+      "element": "h4"
+    },
+    {
+      "id": "BrennethBlackstoneScriptologyStar",
+      "text": "Brenneth Blackstone, Scriptology Star",
+      "element": "h4"
+    },
+    {
+      "id": "FaintheBroker",
+      "text": "Fain, the Broker",
+      "element": "h4"
+    },
+    {
+      "id": "SilverquillCampus",
+      "text": "Silverquill Campus",
+      "element": "h3"
+    },
+    {
+      "id": "Map15silverquillcampus",
+      "text": "Map 1.5: silverquill campus View Player Version",
+      "element": "figure"
+    },
+    {
+      "id": "GrandloftHall",
+      "text": "Grandloft Hall",
+      "element": "h4"
+    },
+    {
+      "id": "TheRoseStage",
+      "text": "The Rose Stage",
+      "element": "h4"
+    },
+    {
+      "id": "TheDramarium",
+      "text": "The Dramarium",
+      "element": "h4"
+    },
+    {
+      "id": "WitherbloomCollege",
+      "text": "Witherbloom College",
+      "element": "h2"
+    },
+    {
+      "id": "StudiesandPhilosophy4",
+      "text": "Studies and Philosophy",
+      "element": "h3"
+    },
+    {
+      "id": "GrowthandDecay",
+      "text": "Growth and Decay",
+      "element": "h4"
+    },
+    {
+      "id": "ScholarsofWitherbloom",
+      "text": "Scholars of Witherbloom",
+      "element": "h4"
+    },
+    {
+      "id": "WitherbloomScholars",
+      "text": "Witherbloom Scholars d8 Scholar Principle 1 Banelock, using concoctions of noxious ingredients for withering magic Decay 2 Bleed doctor, drain the essence of li",
+      "element": "table"
+    },
+    {
+      "id": "WitherbloomFaculty",
+      "text": "Witherbloom Faculty",
+      "element": "h3"
+    },
+    {
+      "id": "imginthebayou",
+      "text": "Deep in the bayou of Sedgemoor, Widdershins Hall is the heart of Witherbloom College",
+      "element": "figure"
+    },
+    {
+      "id": "LisetteDeanoftheRoot",
+      "text": "Lisette, Dean of the Root",
+      "element": "h4"
+    },
+    {
+      "id": "ValentinDeanoftheVein",
+      "text": "Valentin, Dean of the Vein",
+      "element": "h4"
+    },
+    {
+      "id": "WillowduskEssenceSeer",
+      "text": "Willowdusk, Essence Seer",
+      "element": "h4"
+    },
+    {
+      "id": "TivashGloomSummoner",
+      "text": "Tivash, Gloom Summoner",
+      "element": "h4"
+    },
+    {
+      "id": "VereldaLangArcanoBiologist",
+      "text": "Verelda Lang, Arcano-Biologist",
+      "element": "h4"
+    },
+    {
+      "id": "YedoraGraveGardener",
+      "text": "Yedora, Grave Gardener",
+      "element": "h4"
+    },
+    {
+      "id": "GyomeMasterChef",
+      "text": "Gyome, Master Chef",
+      "element": "h4"
+    },
+    {
+      "id": "WitherbloomCampus",
+      "text": "Witherbloom Campus",
+      "element": "h3"
+    },
+    {
+      "id": "Map16witherbloomcampus",
+      "text": "Map 1.6: witherbloom campus View Player Version",
+      "element": "figure"
+    },
+    {
+      "id": "Sedgemoor",
+      "text": "Sedgemoor",
+      "element": "h4"
+    },
+    {
+      "id": "WiddershinsHall",
+      "text": "Widdershins Hall",
+      "element": "h4"
+    },
+    {
+      "id": "DetentionBog",
+      "text": "Detention Bog",
+      "element": "h4"
+    }
+  ],
+  "sourceHash": "be30994f1f4f3d54920d1de2697042890c2af6255b6eaebea742f71be8b34e5a",
+  "extractionDate": "2026-07-13T07:40:57.647Z",
+  "extractionVersion": 3,
+  "headings": [
+    {
+      "depth": 1,
+      "id": "LifeatStrixhaven",
+      "text": "Life at Strixhaven"
+    },
+    {
+      "depth": 2,
+      "id": "MagicalStudy",
+      "text": "Magical Study"
+    },
+    {
+      "depth": 3,
+      "id": "PrinciplesandPolarities",
+      "text": "Principles and Polarities"
+    },
+    {
+      "depth": 3,
+      "id": "Faculty",
+      "text": "Faculty"
+    },
+    {
+      "depth": 4,
+      "id": "Instructors",
+      "text": "Instructors"
+    },
+    {
+      "depth": 4,
+      "id": "Professors",
+      "text": "Professors"
+    },
+    {
+      "depth": 3,
+      "id": "Students",
+      "text": "Students"
+    },
+    {
+      "depth": 4,
+      "id": "ChoosingaCollege",
+      "text": "Choosing a College"
+    },
+    {
+      "depth": 4,
+      "id": "AfterStrixhaven",
+      "text": "After Strixhaven"
+    },
+    {
+      "depth": 3,
+      "id": "Administration",
+      "text": "Administration"
+    },
+    {
+      "depth": 3,
+      "id": "Mascots",
+      "text": "Mascots"
+    },
+    {
+      "depth": 2,
+      "id": "CampusOverview",
+      "text": "Campus Overview"
+    },
+    {
+      "depth": 3,
+      "id": "CentralCampus",
+      "text": "Central Campus"
+    },
+    {
+      "depth": 4,
+      "id": "TheBiblioplex",
+      "text": "The Biblioplex"
+    },
+    {
+      "depth": 4,
+      "id": "ArchwayCommons",
+      "text": "Archway Commons"
+    },
+    {
+      "depth": 4,
+      "id": "FirejoltCaf",
+      "text": "Firejolt Café"
+    },
+    {
+      "depth": 4,
+      "id": "BowsEndTavern",
+      "text": "Bow’s End Tavern"
+    },
+    {
+      "depth": 4,
+      "id": "StrixhavenStadium",
+      "text": "Strixhaven Stadium"
+    },
+    {
+      "depth": 2,
+      "id": "LoreholdCollege",
+      "text": "Lorehold College"
+    },
+    {
+      "depth": 3,
+      "id": "StudiesandPhilosophy",
+      "text": "Studies and Philosophy"
+    },
+    {
+      "depth": 4,
+      "id": "OrderandChaos",
+      "text": "Order and Chaos"
+    },
+    {
+      "depth": 4,
+      "id": "ScholarsofLorehold",
+      "text": "Scholars of Lorehold"
+    },
+    {
+      "depth": 3,
+      "id": "LoreholdFaculty",
+      "text": "Lorehold Faculty"
+    },
+    {
+      "depth": 4,
+      "id": "AugustaTullusDeanofOrder",
+      "text": "Augusta Tullus, Dean of Order"
+    },
+    {
+      "depth": 4,
+      "id": "PlarggDeanofChaos",
+      "text": "Plargg, Dean of Chaos"
+    },
+    {
+      "depth": 4,
+      "id": "HofriGhostforge",
+      "text": "Hofri Ghostforge"
+    },
+    {
+      "depth": 4,
+      "id": "OsgirtheReconstructor",
+      "text": "Osgir, the Reconstructor"
+    },
+    {
+      "depth": 4,
+      "id": "LosheelClockworkScholar",
+      "text": "Losheel, Clockwork Scholar"
+    },
+    {
+      "depth": 3,
+      "id": "LoreholdCampus",
+      "text": "Lorehold Campus"
+    },
+    {
+      "depth": 4,
+      "id": "Pillardrop",
+      "text": "Pillardrop"
+    },
+    {
+      "depth": 4,
+      "id": "EffigyRow",
+      "text": "Effigy Row"
+    },
+    {
+      "depth": 4,
+      "id": "KollemaHall",
+      "text": "Kollema Hall"
+    },
+    {
+      "depth": 2,
+      "id": "PrismariCollege",
+      "text": "Prismari College"
+    },
+    {
+      "depth": 3,
+      "id": "StudiesandPhilosophy1",
+      "text": "Studies and Philosophy"
+    },
+    {
+      "depth": 4,
+      "id": "PerfectionandExpression",
+      "text": "Perfection and Expression"
+    },
+    {
+      "depth": 4,
+      "id": "ScholarsofPrismari",
+      "text": "Scholars of Prismari"
+    },
+    {
+      "depth": 3,
+      "id": "PrismariFaculty",
+      "text": "Prismari Faculty"
+    },
+    {
+      "depth": 4,
+      "id": "UvildaMistcoilerDeanofPerfection",
+      "text": "Uvilda Mistcoiler, Dean of Perfection"
+    },
+    {
+      "depth": 4,
+      "id": "NassariDeanofExpression",
+      "text": "Nassari, Dean of Expression"
+    },
+    {
+      "depth": 4,
+      "id": "VeyranVoiceofDuality",
+      "text": "Veyran, Voice of Duality"
+    },
+    {
+      "depth": 4,
+      "id": "ZaffaiThunderConductor",
+      "text": "Zaffai, Thunder Conductor"
+    },
+    {
+      "depth": 4,
+      "id": "ArkinMinexesPeppyInstructor",
+      "text": "Arkin Minexes, Peppy Instructor"
+    },
+    {
+      "depth": 3,
+      "id": "PrismariCampus",
+      "text": "Prismari Campus"
+    },
+    {
+      "depth": 4,
+      "id": "ConjurotHall",
+      "text": "Conjurot Hall"
+    },
+    {
+      "depth": 4,
+      "id": "OpusWalk",
+      "text": "Opus Walk"
+    },
+    {
+      "depth": 4,
+      "id": "Furygale",
+      "text": "Furygale"
+    },
+    {
+      "depth": 2,
+      "id": "QuandrixCollege",
+      "text": "Quandrix College"
+    },
+    {
+      "depth": 3,
+      "id": "StudiesandPhilosophy2",
+      "text": "Studies and Philosophy"
+    },
+    {
+      "depth": 4,
+      "id": "SubstanceandTheory",
+      "text": "Substance and Theory"
+    },
+    {
+      "depth": 4,
+      "id": "ScholarsofQuandrix",
+      "text": "Scholars of Quandrix"
+    },
+    {
+      "depth": 3,
+      "id": "QuandrixFaculty",
+      "text": "Quandrix Faculty"
+    },
+    {
+      "depth": 4,
+      "id": "KianneDeanofSubstance",
+      "text": "Kianne, Dean of Substance"
+    },
+    {
+      "depth": 4,
+      "id": "ImbrahamDeanofTheory",
+      "text": "Imbraham, Dean of Theory"
+    },
+    {
+      "depth": 4,
+      "id": "AdrixandNevTwincasters",
+      "text": "Adrix and Nev, Twincasters"
+    },
+    {
+      "depth": 4,
+      "id": "DeekahFractalTheorist",
+      "text": "Deekah, Fractal Theorist"
+    },
+    {
+      "depth": 4,
+      "id": "RuxaPatientProfessor",
+      "text": "Ruxa, Patient Professor"
+    },
+    {
+      "depth": 3,
+      "id": "QuandrixCampus",
+      "text": "Quandrix Campus"
+    },
+    {
+      "depth": 4,
+      "id": "TorusHall",
+      "text": "Torus Hall"
+    },
+    {
+      "depth": 4,
+      "id": "TheArithmodrome",
+      "text": "The Arithmodrome"
+    },
+    {
+      "depth": 4,
+      "id": "TheCultivarium",
+      "text": "The Cultivarium"
+    },
+    {
+      "depth": 2,
+      "id": "SilverquillCollege",
+      "text": "Silverquill College"
+    },
+    {
+      "depth": 3,
+      "id": "StudiesandPhilosophy3",
+      "text": "Studies and Philosophy"
+    },
+    {
+      "depth": 4,
+      "id": "RadianceandShadow",
+      "text": "Radiance and Shadow"
+    },
+    {
+      "depth": 4,
+      "id": "ScholarsofSilverquill",
+      "text": "Scholars of Silverquill"
+    },
+    {
+      "depth": 3,
+      "id": "SilverquillFaculty",
+      "text": "Silverquill Faculty"
+    },
+    {
+      "depth": 4,
+      "id": "ShaileTalonrookDeanofRadiance",
+      "text": "Shaile Talonrook, Dean of Radiance"
+    },
+    {
+      "depth": 4,
+      "id": "EmbroseLuDeanofShadow",
+      "text": "Embrose Lu, Dean of Shadow"
+    },
+    {
+      "depth": 4,
+      "id": "BreenatheDemagogue",
+      "text": "Breena, the Demagogue"
+    },
+    {
+      "depth": 4,
+      "id": "NilsDisciplineEnforcer",
+      "text": "Nils, Discipline Enforcer"
+    },
+    {
+      "depth": 4,
+      "id": "BrennethBlackstoneScriptologyStar",
+      "text": "Brenneth Blackstone, Scriptology Star"
+    },
+    {
+      "depth": 4,
+      "id": "FaintheBroker",
+      "text": "Fain, the Broker"
+    },
+    {
+      "depth": 3,
+      "id": "SilverquillCampus",
+      "text": "Silverquill Campus"
+    },
+    {
+      "depth": 4,
+      "id": "GrandloftHall",
+      "text": "Grandloft Hall"
+    },
+    {
+      "depth": 4,
+      "id": "TheRoseStage",
+      "text": "The Rose Stage"
+    },
+    {
+      "depth": 4,
+      "id": "TheDramarium",
+      "text": "The Dramarium"
+    },
+    {
+      "depth": 2,
+      "id": "WitherbloomCollege",
+      "text": "Witherbloom College"
+    },
+    {
+      "depth": 3,
+      "id": "StudiesandPhilosophy4",
+      "text": "Studies and Philosophy"
+    },
+    {
+      "depth": 4,
+      "id": "GrowthandDecay",
+      "text": "Growth and Decay"
+    },
+    {
+      "depth": 4,
+      "id": "ScholarsofWitherbloom",
+      "text": "Scholars of Witherbloom"
+    },
+    {
+      "depth": 3,
+      "id": "WitherbloomFaculty",
+      "text": "Witherbloom Faculty"
+    },
+    {
+      "depth": 4,
+      "id": "LisetteDeanoftheRoot",
+      "text": "Lisette, Dean of the Root"
+    },
+    {
+      "depth": 4,
+      "id": "ValentinDeanoftheVein",
+      "text": "Valentin, Dean of the Vein"
+    },
+    {
+      "depth": 4,
+      "id": "WillowduskEssenceSeer",
+      "text": "Willowdusk, Essence Seer"
+    },
+    {
+      "depth": 4,
+      "id": "TivashGloomSummoner",
+      "text": "Tivash, Gloom Summoner"
+    },
+    {
+      "depth": 4,
+      "id": "VereldaLangArcanoBiologist",
+      "text": "Verelda Lang, Arcano-Biologist"
+    },
+    {
+      "depth": 4,
+      "id": "YedoraGraveGardener",
+      "text": "Yedora, Grave Gardener"
+    },
+    {
+      "depth": 4,
+      "id": "GyomeMasterChef",
+      "text": "Gyome, Master Chef"
+    },
+    {
+      "depth": 3,
+      "id": "WitherbloomCampus",
+      "text": "Witherbloom Campus"
+    },
+    {
+      "depth": 4,
+      "id": "Sedgemoor",
+      "text": "Sedgemoor"
+    },
+    {
+      "depth": 4,
+      "id": "WiddershinsHall",
+      "text": "Widdershins Hall"
+    },
+    {
+      "depth": 4,
+      "id": "DetentionBog",
+      "text": "Detention Bog"
+    }
+  ],
+  "tags": {
+    "creatures": [
+      "Art Elemental Mascot",
+      "brackish trudges",
+      "dryad",
+      "Fractal Mascot",
+      "groffs",
+      "Inkling Mascot",
+      "Lorehold professor of chaos",
+      "Lorehold professor of order",
+      "Pest Mascot",
+      "Prismari professor of expression",
+      "Prismari professor of perfection",
+      "Quandrix professor of substance",
+      "Quandrix professor of theory",
+      "Silverquill professor of radiance",
+      "Silverquill professor of shadow",
+      "Silver­quill professor of shadow",
+      "Spirit Statue Mascot",
+      "stone giant",
+      "treant",
+      "troll",
+      "vampire",
+      "water elemental",
+      "Witherbloom professor of decay",
+      "Witherbloom professor of growth"
+    ],
+    "spells": [],
+    "items": [],
+    "locations": [
+      "Archway Commons",
+      "Biblioplex",
+      "Bow’s End Tavern",
+      "Conjurot Hall",
+      "Detention Bog",
+      "Effigy Row",
+      "Firejolt Café",
+      "Furygale",
+      "Grandloft Hall",
+      "Kollema Hall",
+      "Lorehold",
+      "Opus Walk",
+      "Pillardrop",
+      "Prismari",
+      "Prismari Campus",
+      "Quandrix",
+      "Quandrix Campus",
+      "Rose Stage",
+      "Sedgemoor",
+      "Silverquill",
+      "Silverquill Campus",
+      "Strixhaven",
+      "Strixhaven Stadium",
+      "The Arithmodrome",
+      "The Biblioplex",
+      "The Cultivarium",
+      "The Dramarium",
+      "The Rose Stage",
+      "Torus Hall",
+      "Widdershins Hall",
+      "Wiltroot Hall",
+      "Witherbloom",
+      "Witherbloom Campus"
+    ],
+    "npcs": [
+      "Adrix and Nev",
+      "Arkin Minexes",
+      "Augusta Tullus",
+      "Breena",
+      "Brenneth Blackstone",
+      "Deekah",
+      "Embrose Lu",
+      "Fain",
+      "Gyome",
+      "Hofri Ghostforge",
+      "Imbraham",
+      "Kianne",
+      "Lisette",
+      "Losheel",
+      "Nassari",
+      "Nils",
+      "Osgir",
+      "Plargg",
+      "Ruxa",
+      "Shaile Talonrook",
+      "Tivash",
+      "Uvilda Mistcoiler",
+      "Valentin",
+      "Verelda Lang",
+      "Veyran",
+      "Willowdusk",
+      "Yedora",
+      "Zaffai"
+    ],
+    "topics": [
+      "campus-life",
+      "lore",
+      "relationships",
+      "tables"
+    ]
+  },
+  "session": {
+    "readAloud": [],
+    "rules": [
+      {
+        "id": "GolwandatheBloodspiller",
+        "label": "Rule box 1",
+        "excerpt": "GOLWANDA THE BLOODSPILLER “Have you met Golwanda yet?” is a question that older Lorehold students love to ask second-year students, new to the college. Sooner or later, one profes…"
+      },
+      {
+        "id": "OctaviatheLivingThesis",
+        "label": "Rule box 2",
+        "excerpt": "OCTAVIA, THE LIVING THESIS Crafted as a graduate’s final project many years ago, Octavia (a water elemental that looks like an enormous octopus) took up residence on campus and ne…"
+      },
+      {
+        "id": "EsixFractalBloom",
+        "label": "Rule box 3",
+        "excerpt": "ESIX, FRACTAL BLOOM Tasked with devising an infinite equation, a group of Quandrix students accidentally created Esix, a living theorem obsessed with infinity. Over the years, a f…"
+      }
+    ],
+    "tables": [
+      {
+        "id": "StrixhavenMascots",
+        "label": "Strixhaven Mascots",
+        "excerpt": "Strixhaven Mascots College Mascot Lorehold Spirit Statue Mascot Prismari Art Elemental Mascot Quandrix Fractal Mascot Silverquill Inkling Mascot Witherbloom Pest Mascot"
+      },
+      {
+        "id": "LoreholdScholars",
+        "label": "Lorehold Scholars",
+        "excerpt": "Lorehold Scholars d10 Scholar Principle 1 Archaeoscribe, chronicling historical truths for posterity Order 2 Battle medium, strengthening summoned spirits for use in battles Order…"
+      },
+      {
+        "id": "PrismariScholars",
+        "label": "Prismari Scholars",
+        "excerpt": "Prismari Scholars d12 Scholar Principle 1 Aesthemancer, studying abstract principles of beauty for insight into the workings of the multiverse Perfection 2 Electrovisionary, wield…"
+      },
+      {
+        "id": "QuandrixScholars",
+        "label": "Quandrix Scholars",
+        "excerpt": "Quandrix Scholars d8 Scholar Principle 1 Abstractor, using magic to stretch the possibilities of space Theory 2 Augmenter, making creatures and things larger Substance 3 Fractalol…"
+      },
+      {
+        "id": "SilverquillScholars",
+        "label": "Silverquill Scholars",
+        "excerpt": "Silverquill Scholars d8 Scholar Principle 1 Bantermage, using incisive observation to pierce rivals’ confidence Shadow 2 Duskmage, conjuring inky voids of shadow magic Shadow 3 In…"
+      },
+      {
+        "id": "WitherbloomScholars",
+        "label": "Witherbloom Scholars",
+        "excerpt": "Witherbloom Scholars d8 Scholar Principle 1 Banelock, using concoctions of noxious ingredients for withering magic Decay 2 Bleed doctor, drain the essence of living creatures to f…"
+      }
+    ],
+    "statBlocks": [],
+    "maps": [
+      {
+        "id": "session-player-map-1",
+        "label": "Map 1.1: central campus",
+        "dmUrl": "https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/map-1.1-central-campus.jpg",
+        "playerUrl": "https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/map-1.1-central-campus-player.jpg"
+      },
+      {
+        "id": "session-player-map-2",
+        "label": "Map 1.2: lorehold campus",
+        "dmUrl": "https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/map-1.2-lorehold-campus.jpg",
+        "playerUrl": "https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/map-1.2-lorehold-campus-player.jpg"
+      },
+      {
+        "id": "session-player-map-3",
+        "label": "Map 1.3: Prismari Campus",
+        "dmUrl": "https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/map-1.3.jpg",
+        "playerUrl": "https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/map-1.3-player.jpg"
+      },
+      {
+        "id": "session-player-map-4",
+        "label": "Map 1.4: quandrix campus",
+        "dmUrl": "https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/map-1.4-quandrix-campus.jpg",
+        "playerUrl": "https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/map-1.4-quandrix-campus-player.jpg"
+      },
+      {
+        "id": "session-player-map-5",
+        "label": "Map 1.5: silverquill campus",
+        "dmUrl": "https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/map-1.5-silverquill-campus.jpg",
+        "playerUrl": "https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/map-1.5-silverquill-campus-player.jpg"
+      },
+      {
+        "id": "session-player-map-6",
+        "label": "Map 1.6: witherbloom campus",
+        "dmUrl": "https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/map-1.6-witherbloom-campus.jpg",
+        "playerUrl": "https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/map-1.6-witherbloom-campus-player.jpg"
+      }
+    ],
+    "quickLinks": [
+      {
+        "depth": 2,
+        "id": "MagicalStudy",
+        "text": "Magical Study",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "PrinciplesandPolarities",
+        "text": "Principles and Polarities",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "Faculty",
+        "text": "Faculty",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "Instructors",
+        "text": "Instructors",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "Professors",
+        "text": "Professors",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "Students",
+        "text": "Students",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "ChoosingaCollege",
+        "text": "Choosing a College",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "AfterStrixhaven",
+        "text": "After Strixhaven",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "Administration",
+        "text": "Administration",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "Mascots",
+        "text": "Mascots",
+        "type": "reference"
+      },
+      {
+        "depth": 2,
+        "id": "CampusOverview",
+        "text": "Campus Overview",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "CentralCampus",
+        "text": "Central Campus",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "TheBiblioplex",
+        "text": "The Biblioplex",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "ArchwayCommons",
+        "text": "Archway Commons",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "FirejoltCaf",
+        "text": "Firejolt Café",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "BowsEndTavern",
+        "text": "Bow’s End Tavern",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "StrixhavenStadium",
+        "text": "Strixhaven Stadium",
+        "type": "reference"
+      },
+      {
+        "depth": 2,
+        "id": "LoreholdCollege",
+        "text": "Lorehold College",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "StudiesandPhilosophy",
+        "text": "Studies and Philosophy",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "OrderandChaos",
+        "text": "Order and Chaos",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "ScholarsofLorehold",
+        "text": "Scholars of Lorehold",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "LoreholdFaculty",
+        "text": "Lorehold Faculty",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "AugustaTullusDeanofOrder",
+        "text": "Augusta Tullus, Dean of Order",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "PlarggDeanofChaos",
+        "text": "Plargg, Dean of Chaos",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "HofriGhostforge",
+        "text": "Hofri Ghostforge",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "OsgirtheReconstructor",
+        "text": "Osgir, the Reconstructor",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "LosheelClockworkScholar",
+        "text": "Losheel, Clockwork Scholar",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "LoreholdCampus",
+        "text": "Lorehold Campus",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "Pillardrop",
+        "text": "Pillardrop",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "EffigyRow",
+        "text": "Effigy Row",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "KollemaHall",
+        "text": "Kollema Hall",
+        "type": "reference"
+      },
+      {
+        "depth": 2,
+        "id": "PrismariCollege",
+        "text": "Prismari College",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "StudiesandPhilosophy1",
+        "text": "Studies and Philosophy",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "PerfectionandExpression",
+        "text": "Perfection and Expression",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "ScholarsofPrismari",
+        "text": "Scholars of Prismari",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "PrismariFaculty",
+        "text": "Prismari Faculty",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "UvildaMistcoilerDeanofPerfection",
+        "text": "Uvilda Mistcoiler, Dean of Perfection",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "NassariDeanofExpression",
+        "text": "Nassari, Dean of Expression",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "VeyranVoiceofDuality",
+        "text": "Veyran, Voice of Duality",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "ZaffaiThunderConductor",
+        "text": "Zaffai, Thunder Conductor",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "ArkinMinexesPeppyInstructor",
+        "text": "Arkin Minexes, Peppy Instructor",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "PrismariCampus",
+        "text": "Prismari Campus",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "ConjurotHall",
+        "text": "Conjurot Hall",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "OpusWalk",
+        "text": "Opus Walk",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "Furygale",
+        "text": "Furygale",
+        "type": "reference"
+      },
+      {
+        "depth": 2,
+        "id": "QuandrixCollege",
+        "text": "Quandrix College",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "StudiesandPhilosophy2",
+        "text": "Studies and Philosophy",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "SubstanceandTheory",
+        "text": "Substance and Theory",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "ScholarsofQuandrix",
+        "text": "Scholars of Quandrix",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "QuandrixFaculty",
+        "text": "Quandrix Faculty",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "KianneDeanofSubstance",
+        "text": "Kianne, Dean of Substance",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "ImbrahamDeanofTheory",
+        "text": "Imbraham, Dean of Theory",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "AdrixandNevTwincasters",
+        "text": "Adrix and Nev, Twincasters",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "DeekahFractalTheorist",
+        "text": "Deekah, Fractal Theorist",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "RuxaPatientProfessor",
+        "text": "Ruxa, Patient Professor",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "QuandrixCampus",
+        "text": "Quandrix Campus",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "TorusHall",
+        "text": "Torus Hall",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "TheArithmodrome",
+        "text": "The Arithmodrome",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "TheCultivarium",
+        "text": "The Cultivarium",
+        "type": "reference"
+      },
+      {
+        "depth": 2,
+        "id": "SilverquillCollege",
+        "text": "Silverquill College",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "StudiesandPhilosophy3",
+        "text": "Studies and Philosophy",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "RadianceandShadow",
+        "text": "Radiance and Shadow",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "ScholarsofSilverquill",
+        "text": "Scholars of Silverquill",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "SilverquillFaculty",
+        "text": "Silverquill Faculty",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "ShaileTalonrookDeanofRadiance",
+        "text": "Shaile Talonrook, Dean of Radiance",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "EmbroseLuDeanofShadow",
+        "text": "Embrose Lu, Dean of Shadow",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "BreenatheDemagogue",
+        "text": "Breena, the Demagogue",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "NilsDisciplineEnforcer",
+        "text": "Nils, Discipline Enforcer",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "BrennethBlackstoneScriptologyStar",
+        "text": "Brenneth Blackstone, Scriptology Star",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "FaintheBroker",
+        "text": "Fain, the Broker",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "SilverquillCampus",
+        "text": "Silverquill Campus",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "GrandloftHall",
+        "text": "Grandloft Hall",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "TheRoseStage",
+        "text": "The Rose Stage",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "TheDramarium",
+        "text": "The Dramarium",
+        "type": "reference"
+      },
+      {
+        "depth": 2,
+        "id": "WitherbloomCollege",
+        "text": "Witherbloom College",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "StudiesandPhilosophy4",
+        "text": "Studies and Philosophy",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "GrowthandDecay",
+        "text": "Growth and Decay",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "ScholarsofWitherbloom",
+        "text": "Scholars of Witherbloom",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "WitherbloomFaculty",
+        "text": "Witherbloom Faculty",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "LisetteDeanoftheRoot",
+        "text": "Lisette, Dean of the Root",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "ValentinDeanoftheVein",
+        "text": "Valentin, Dean of the Vein",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "WillowduskEssenceSeer",
+        "text": "Willowdusk, Essence Seer",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "TivashGloomSummoner",
+        "text": "Tivash, Gloom Summoner",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "VereldaLangArcanoBiologist",
+        "text": "Verelda Lang, Arcano-Biologist",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "YedoraGraveGardener",
+        "text": "Yedora, Grave Gardener",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "GyomeMasterChef",
+        "text": "Gyome, Master Chef",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "WitherbloomCampus",
+        "text": "Witherbloom Campus",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "Sedgemoor",
+        "text": "Sedgemoor",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "WiddershinsHall",
+        "text": "Widdershins Hall",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "DetentionBog",
+        "text": "Detention Bog",
+        "type": "reference"
+      }
+    ]
+  },
+  "anomalyFlags": [
+    {
+      "type": "reader-address",
+      "passage": "You may use the table to randomly determine the scholarly focus of a Lorehold student or faculty member.",
+      "location": "Scholars of Lorehold",
+      "anchor": "ScholarsofLorehold",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "“Have you met Golwanda yet?",
+      "location": "Osgir, the Reconstructor",
+      "anchor": "OsgirtheReconstructor",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "You may use the table to randomly determine the scholarly focus of a Prismari student or faculty member.",
+      "location": "Scholars of Prismari",
+      "anchor": "ScholarsofPrismari",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "You may use the table to randomly determine the scholarly focus of a Quandrix student or faculty member.",
+      "location": "Scholars of Quandrix",
+      "anchor": "ScholarsofQuandrix",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "You may use the table to randomly determine the scholarly focus of a Silverquill student or faculty member.",
+      "location": "Scholars of Silverquill",
+      "anchor": "ScholarsofSilverquill",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "If she wants you to do something, you won’t just do it—you’ll be sure it was your idea all along.",
+      "location": "Breena, the Demagogue",
+      "anchor": "BreenatheDemagogue",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "He has an extensive network of connections on and off campus, and he can procure just about anything—so long as you can afford his price.",
+      "location": "Fain, the Broker",
+      "anchor": "FaintheBroker",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "You may use the table to randomly determine the scholarly focus of a Witherbloom student or faculty member.",
+      "location": "Scholars of Witherbloom",
+      "anchor": "ScholarsofWitherbloom",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "It’s tough to study the secrets of life and death without getting your hands dirty—which is the first thing Tivash (neutral human Witherbloom professor of decay) teaches Witherbloom students.",
+      "location": "Tivash, Gloom Summoner",
+      "anchor": "TivashGloomSummoner",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "Some call the forces he manipulates evil, but he asserts that power is only as good or evil as how you use it.",
+      "location": "Tivash, Gloom Summoner",
+      "anchor": "TivashGloomSummoner",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    }
+  ],
+  "contentHtml": "<h1 class=\"compendium-hr\" id=\"LifeatStrixhaven\">Life at Strixhaven</h1>\n\n<p>Strixhaven University sparkles with the enthusiasm of its students and faculty, as they study, debate about, and experiment with magic in its varied forms. This chapter offers an overview of life and studies on the university’s campus, as well as a look at each of the five colleges where students explore different modes of magical study.</p>\n<figure id=\"imgsplash\" class=\"compendium-image compendium-image-center\">\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/01-001.chapter-splash.jpg\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/01-001.chapter-splash.jpg\" class=\"ddb-lightbox-inner\" style=\"width: 650px;\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a>\n<figcaption>During a duel in the Hall of Oracles, a student transforms<br>her opponent into a goat, who is held back by a friend</figcaption>\n</figure>\n<h2 class=\"compendium-hr heading-anchor\" id=\"MagicalStudy\">Magical Study</h2>\n<p>The fundamental work of Strixhaven University is the application of magic to academic study. Students and faculty aren’t limited to magical topics alone; they pursue studies in every facet of existence—magical or otherwise—applying magic to whatever they study. At Strixhaven, historians call the spirits of the dead to aid their lessons about the past, and arcano-biologists use necromancy to pull at life and coax out death when teaching about the natural world. Simultaneously, mage-artists sculpt elemental energy to create animate art, and arcane symbologists teach students how to recognize and understand the magical glyphs they encounter.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"PrinciplesandPolarities\">Principles and Polarities</h3>\n<p>The colleges and curriculum at Strixhaven are organized around the idea of philosophical principles joined in concordant opposition. Each school embraces the paradoxical unity of two polar principles: life and death, order and chaos, reason and emotion, and so on. The five Founder Dragons are thought to embody the coexistence of these principles, while the ten deans of the colleges stand for the individual principles distinguished from their opposites.</p>\n<p>A student’s course of learning at Strixhaven involves exploring the tension between these opposing principles, which typically involves late-night arguments in residence halls and study rooms. The university’s teaching philosophy is built on the idea that exploring opposites leads to an understanding of a greater whole. Most people believe that only a being with the wisdom (and long life) of the Founder Dragons or the archaics can truly master both halves of a school’s dichotomy, but a mage must learn at least the rudiments of those halves. A Strixhaven graduate is expected to leave the university prepared to argue the fundamental issues of their school’s philosophies.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"Faculty\">Faculty</h3>\n<p>The faculty members of Strixhaven are mages and scholars—experts in their various fields and in the use of magic to enhance their studies. They are dedicated to their research and to educating generations of mage-students who follow in their footsteps. Some faculty members value research more than teaching, while others make education their highest priority. But all find some balance between the two.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"Instructors\">Instructors</h4>\n<p>Strixhaven’s faculty begin their careers as instructors, focusing primarily on teaching classes and crafting curriculum, while the school administration evaluates their performance. At the end of a provisional period, which can last from one to several years, an instructor is elevated to the rank of professor or let go.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"Professors\">Professors</h4>\n<p>Professors who have distinguished themselves over the course of a long career—typically at least twenty years—hope to be recognized with the title of esteemed professor. This honor is bestowed in recognition of groundbreaking research as well as exceptional teaching.</p>\n<p>Upon retiring, a professor receives the title of mage emeritus. Mages emeriti are held in high esteem and welcomed to campus as guest lecturers.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"Students\">Students</h3>\n<p>Students at Strixhaven spend their first year in a course of general studies, which lays the foundation for the more specialized work to follow. During this year, they wear a uniform of black, white, and gray. They’re encouraged to study broadly so that they become acquainted with a wide range of disciplines.</p>\n<p>First-year students live in dormitories located on the central campus and often form close friendships there that last throughout their educational careers, even when members of tight-knit groups of friends join different colleges in their second year. A few students continue to live on central campus after choosing a college, particularly if they pursue extensive studies in multiple colleges or work as resident advisers to first-year students. But most students move to dormitories located on their chosen college’s campus in their second year.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"ChoosingaCollege\">Choosing a College</h4>\n<p>Before starting their second year of studies, students choose one of the five colleges—<a href=\"#LoreholdCollege\" title=\"Lorehold\">Lorehold</a>, <a href=\"#PrismariCollege\" title=\"Prismari\">Prismari</a>, <a href=\"#QuandrixCollege\" title=\"Quandrix\">Quandrix</a>, <a href=\"#SilverquillCollege\" title=\"Silverquill\">Silverquill</a>, or <a href=\"#WitherbloomCollege\" title=\"Witherbloom\">Witherbloom</a>—to be their academic home for the remainder of their education. From this point, students wear uniforms featuring the colors of their college, though these outfits aren’t as unvarying as the first-year garb.</p>\n<p><em><strong>Two Counselors.</strong></em> Upon choosing a college, a student is assigned two professors to serve as counselors to help the student plan a course of studies. The two deans of the college assign these two counselors, who represent the poles of the college’s philosophical opposition. By design, the two counselors tend to offer conflicting advice, forcing the student to navigate opposing principles. For example, a student pursuing historical studies in Lorehold College might have one counselor who focuses on the unpredictable, war-filled chaos of historical reality and another who dwells on the idea of an orderly progression toward an ideal. The former might encourage the student to choose courses based on gut feeling, to delve into the military aspects of an issue, and to supplement their academic studies with some practical martial training. The other counselor, meanwhile, might offer several ordered, rational proposals for course selection, focus on the political and human aspects of historical issues, and place less emphasis on martial prowess. The student must then navigate this conflicting advice and chart their own course.</p>\n<p><em><strong>Course of Study.</strong></em> Some students, having chosen a college, spend virtually all their remaining school years on that campus and study with those professors, diving into their preferred area of study and related fields. Other students take as many as a third of their classes in other colleges, continuing the breadth of their first-year education and looking for places where the perspectives of other disciplines can bring new insight to their studies. Both approaches are encouraged at the university.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"AfterStrixhaven\">After Strixhaven</h4>\n<p>A student’s course of study at Strixhaven lasts at least four years but allows for advanced study for several years beyond that time frame. Most students eventually graduate, though, and they walk a variety of paths after leaving the university. Many return to whatever home they came from, putting what they have learned to use in their communities. Some mages travel the multiverse in search of ever-greater magic, continuing their research in some form beyond the confines of an academic program. A few alumni return to Strixhaven, sooner or later, as instructors themselves, and a small, select number join the Dragonsguard, an elite force of mages who work with the Founder Dragons.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"Administration\">Administration</h3>\n<p>The day-to-day functioning of Strixhaven relies on hundreds of laborers, clerks, coaches, administrators, and others. These personnel include folk like Mavinda Sharpbeak, the kindly owlin guidance counselor who takes first-year students under her wing, and Gyome, the troll chef of Witherbloom College. In addition to legions of people who devote their lives to the university’s operations, numerous automatons and artificial life-forms—various kinds of Constructs—serve in various roles, including campus guides and library assistants.</p>\n<p>All these operations are managed by an administration overseen by the ten deans, two in each college. Each dean is an esteemed professor who embraces one side of their school’s philosophical dichotomy. The deans, like the professors who serve as counselors to students, view it as their role to disagree with each other and guide the college by way of their arguments. Furthermore, rivalries among the deans only exacerbate this combative attitude.</p>\n<p>When the argumentative deans fail to chart a coherent course for Strixhaven, the Founder Dragons are occasionally forced to intervene. They don’t step in directly, but a director known as the Voice of the Founders—currently an imposing man named Taiva—speaks on the dragons’ behalf.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"Mascots\">Mascots</h3>\n<p>Each of Strixhaven’s five colleges has a mascot—a small creature associated with the magic of the school and often found wandering their respective campuses. Witherbloom’s mascots, pests, are naturally found in the world around the campus. The other colleges’ mascots are brought into being through magic. The Strixhaven Mascots table lists the mascots by college. Each of these mascots is detailed in <a href=\"/chapters/strixhaven-friends-and-foes/\" title=\"chapter 7\">chapter 7</a>.</p>\n<table id=\"StrixhavenMascots\" class=\"table-compendium table--left-all\">\n<caption class=\"compendium-hr heading-anchor\"><a href=\"#StrixhavenMascots\"></a>Strixhaven Mascots</caption>\n<thead>\n<tr>\n<th>College</th>\n<th>Mascot</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Lorehold</td>\n<td><a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160334-spirit-statue-mascot\" data-tooltip-href=\"/monsters/2160334-tooltip\">Spirit Statue Mascot</a></td>\n</tr>\n<tr>\n<td>Prismari</td>\n<td><a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160297-art-elemental-mascot\" data-tooltip-href=\"/monsters/2160297-tooltip\">Art Elemental Mascot</a></td>\n</tr>\n<tr>\n<td>Quandrix</td>\n<td><a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160304-fractal-mascot\" data-tooltip-href=\"/monsters/2160304-tooltip\">Fractal Mascot</a></td>\n</tr>\n<tr>\n<td>Silverquill</td>\n<td><a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160307-inkling-mascot\" data-tooltip-href=\"/monsters/2160307-tooltip\">Inkling Mascot</a></td>\n</tr>\n<tr>\n<td>Witherbloom</td>\n<td><a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160317-pest-mascot\" data-tooltip-href=\"/monsters/2160317-tooltip\">Pest Mascot</a></td>\n</tr>\n</tbody>\n</table>\n<p>The five kinds of mascots act as companions for students and faculty, sometimes serving as willing subjects for experiments or demonstrations, and occasionally even helping out in a duel or a more serious combat situation. Most notably, mascots are also playing pieces of sorts in the Strixhaven sport of Mage Tower, described in more detail in <a href=\"/chapters/strixhaven-hunt-for-mage-tower/\" title=\"chapter 4\">chapter 4</a>.</p>\n<h2 class=\"compendium-hr heading-anchor\" id=\"CampusOverview\">Campus Overview</h2>\n<p>Strixhaven occupies hundreds of acres, spread out over six campuses. Each of the university’s five colleges has its own campus, and the central campus, home to the Biblioplex and Strixhaven Stadium, serves as a hub for university life. See the <a href=\"/chapters/strixhaven-campus-map/\" title=\"appendix\">appendix</a> or the poster map for a view of the entire university.</p>\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/01-013.png\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/01-013.png\" class=\"ddb-lightbox-inner\" style=\"width: 275px;\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a>\n<p>Well-maintained roads connect the six campuses, and walking from one to another can take a half-hour or more. Regular shuttles—large carriages drawn by horselike automata—run on an hourly schedule between a station near the Biblioplex and each of the satellite campuses, making the journey in about 15 minutes. In addition, each campus has multiple permanent teleportation circles, which faculty and more advanced students can use when they require instantaneous travel, and several magical portals exist as well. These portals can be unpredictable: they aren’t necessarily open all the time, they don’t always lead to the same places, and some require complicated conditions or keys to open.</p>\n<figure id=\"imgcommons\" class=\"compendium-image\">\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/01-002.archway-commons.png\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/01-002.archway-commons.png\" class=\"ddb-lightbox-inner compendium-center-banner-img\" style=\"width: 850px;\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a>\n<figcaption>Archway Commons is a favorite spot for students to gather</figcaption>\n</figure>\n<h3 class=\"compendium-hr heading-anchor\" id=\"CentralCampus\">Central Campus</h3>\n<p>The central campus—shown on map 1.1—is the heart of Strixhaven. Its extensive grounds include residence halls for first-year students, dining halls, administration buildings, classrooms and laboratories (mostly used for first-year classes and interdisciplinary studies), and space for social gatherings.</p>\n<p>Two of the sites on map 1.1 are described elsewhere in the book: Aerojaunt Field (see <a href=\"/chapters/strixhaven-party-at-the-rose-stage/#Map42aerojauntfield\" title=\"chapter 4\">chapter 4</a>) and Captain Dapplewing’s Manor (see <a href=\"/chapters/strixhaven-work-hard-play-harder/#Map34captaindapplewingsmanor\" title=\"chapter 3\">chapter 3</a>).</p>\n<figure id=\"Map11centralcampus\" class=\"compendium-image\">\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/map-1.1-central-campus.jpg\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/map-1.1-central-campus.jpg\" class=\"ddb-lightbox-inner compendium-center-banner-img\" style=\"width: 850px;\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a>\n<figcaption>Map 1.1: central campus <a class=\"ddb-lightbox-outer\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/map-1.1-central-campus-player.jpg\" data-lightbox=\"1\" data-title=\"View Player Version\" id=\"session-player-map-1\">View Player Version</a></figcaption>\n</figure>\n<h4 class=\"compendium-hr heading-anchor\" id=\"TheBiblioplex\">The Biblioplex</h4>\n<p>The center of Strixhaven is the Biblioplex, the university’s main library. At the heart of the library is a snarl, a tangle in the fabric of magic, that glows like a miniature sun in the grand Hall of Oracles. A star arch called the Dawnbow curves across the sky above the library, marking its location as a center of mystic learning.</p>\n<p>Arches welcome inquisitive minds into the library. Inside, almost every surface from the floor to the high ceiling is jammed with stacks of books. The interior of the Biblioplex is vast, with long hallways, archive chambers tall enough to have their own weather, and even pools and moat-passages crossable only by boat.</p>\n<p>Five lines of beacon-towers radiate from the Biblioplex like enormous spokes. These Torches of Enlightenment stretch out to the five college campuses and beyond, more than a hundred miles into the surrounding countryside. They burn perpetually with magical flame, symbolizing the path toward learning and an escape from ignorance.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"ArchwayCommons\">Archway Commons</h4>\n<p>Just south of the Biblioplex, a star arch curves overhead like a smaller echo of the Dawnbow, and a lush park, Archway Commons, marks the site. More familiarly called the Commons, the park is a favorite spot for students—especially first-years—to gather in fair weather or to wander through on dates. Some of the university’s clubs also use the park to host social gatherings and games, including live-action roleplaying games and casual sports.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"FirejoltCaf\">Firejolt Café</h4>\n<p>At the edge of Archway Commons and just outside the Biblioplex stands the cozy Firejolt Café, where students cram both information and caffeine into themselves before exams. The café’s name comes from its trademark beverage, which the manager, an elf mage named Ellina, brews with her fire magic. The Firejolt has a reputation as a hangout for first-year students, but older students from all five colleges can be seen inside at all hours.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"BowsEndTavern\">Bow’s End Tavern</h4>\n<p>At the western end of the Dawnbow, where it meets the ground, stands a smaller university landmark: Bow’s End Tavern, which serves as a hangout for older students. Most patrons come for the live music, deliciously greasy food, and various potions and beverages. Others come to settle their differences in wild duels in the lot behind the tavern. The tavern’s manager is a kind but strict orc named Tulk “the Bulk” Tusktooth.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"StrixhavenStadium\">Strixhaven Stadium</h4>\n<p>The stadium where thousands gather to watch students play Mage Tower (and sometimes other sports) is located near Bow’s End Tavern. Chapter 4 offers more information about <a href=\"/chapters/strixhaven-hunt-for-mage-tower/#TheGameofMageTower\" title=\"Mage Tower\">Mage Tower</a>.</p>\n<h2 class=\"compendium-hr heading-anchor\" id=\"LoreholdCollege\">Lorehold College</h2>\n<p>Lorehold is the College of Archaeomancy—a term that describes the exploration of ancient things through magic. Its mages explore the past by poring over archaeological sites, calling forth magical energy from old tomes, and summoning the spirits of long-dead historical figures. Lorehold mages travel far and wide across the world, gathering relics of bygone ages and learning dead languages to unpack the secrets of history.</p>\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/01-003.lorehold.png\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/01-003.lorehold.png\" class=\"ddb-lightbox-inner\" style=\"width: 275px;\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a>\n<h3 class=\"compendium-hr heading-anchor\" id=\"StudiesandPhilosophy\">Studies and Philosophy</h3>\n<p>Lorehold College is devoted to the study of history, broadly understood to include the various aspects of culture, behavior, and social relationships that shape historical events. Its studies include various subdivisions of history (military history, social history, cultural history), archaeology, anthropology, psychology, sociology, religion, and economics. It overlaps with Prismari College in the field of art history, with some students splitting their studies between the two colleges. Lorehold mages use their magic to unearth secrets and share illumination.</p>\n<figure id=\"imgoflorehold\" class=\"compendium-image\">\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/01-004.heart-of-lorehold.png\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/01-004.heart-of-lorehold.png\" class=\"ddb-lightbox-inner compendium-center-banner-img\" style=\"width: 850px;\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a>\n<figcaption>The heart of Lorehold College overlooks a chasm littered with ancient ruins</figcaption>\n</figure>\n<h4 class=\"compendium-hr heading-anchor\" id=\"OrderandChaos\">Order and Chaos</h4>\n<p>Lorehold’s two deans carry the titles Dean of Order and Dean of Chaos, as order versus chaos encapsulates the fundamental conflict at the heart of Lorehold’s philosophy. This conflict revolves around the forces that underlie and drive history. Is the course of time driving toward a well-ordered ideal state or slowly devolving into chaos? Are deep patterns hidden in historical texts, or is time a series of coincidence and happenstance?</p>\n<p>The perspective of order emphasizes the structures that pull people together—law, religion, economics, education, social class, and so on—and how those structures drive historical events. Order focuses on systemic changes and the actions of people collectively.</p>\n<p>The perspective of chaos, by contrast, emphasizes individual actions, personal bonds of families and friends, and the disruptive force of lone, passionate people in history. Scholars of chaos gravitate toward reckless discovery and the spirit of adventure in their research of the past—the essence and emotion of history over precision or procedure.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"ScholarsofLorehold\">Scholars of Lorehold</h4>\n<p>The Lorehold Scholars table offers examples of the scholars in Lorehold College. You may use the table to randomly determine the scholarly focus of a Lorehold student or faculty member. The Principle column notes which side of the order-chaos conflict a scholar more likely aligns with.</p>\n<table id=\"LoreholdScholars\" class=\"table-compendium table--generic-dice table--left-col3\">\n<caption class=\"compendium-hr heading-anchor\"><a href=\"#LoreholdScholars\"></a>Lorehold Scholars</caption>\n<thead>\n<tr>\n<th>d10</th>\n<th>Scholar</th>\n<th>Principle</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1</td>\n<td><strong>Archaeoscribe</strong>, chronicling historical truths for posterity</td>\n<td>Order</td>\n</tr>\n<tr>\n<td>2</td>\n<td><strong>Battle medium</strong>, strengthening summoned spirits for use in battles</td>\n<td>Order</td>\n</tr>\n<tr>\n<td>3</td>\n<td><strong>Chaos scholar</strong>, chasing down historical anecdotes as a litany of happenstance</td>\n<td>Chaos</td>\n</tr>\n<tr>\n<td>4</td>\n<td><strong>Conservator</strong>, preserving ancient spell knowledge and other relics of the past</td>\n<td>Order</td>\n</tr>\n<tr>\n<td>5</td>\n<td><strong>Dustspeaker</strong>, conversing with spirits of the past to learn their stories</td>\n<td>Chaos</td>\n</tr>\n<tr>\n<td>6</td>\n<td><strong>Pastraiser</strong>, binding spirits into the monuments that bear their likeness to learn about their inspiring deeds</td>\n<td>Order</td>\n</tr>\n<tr>\n<td>7</td>\n<td><strong>Relic reader</strong>, divining wisdom from the past from the context of ruin sites</td>\n<td>Order</td>\n</tr>\n<tr>\n<td>8</td>\n<td><strong>Ruin shaman</strong>, wielding magic that helps delve into ancient sites</td>\n<td>Chaos</td>\n</tr>\n<tr>\n<td>9</td>\n<td><strong>Tomewielder</strong>, summoning fiery magic from the words in old writings</td>\n<td>Chaos</td>\n</tr>\n<tr>\n<td>10</td>\n<td><strong>Warsinger</strong>, studying the magic used in ancient wars</td>\n<td>Chaos</td>\n</tr>\n</tbody>\n</table>\n<h3 class=\"compendium-hr heading-anchor\" id=\"LoreholdFaculty\">Lorehold Faculty</h3>\n<p>This section describes noteworthy members of the Lorehold faculty. Some of them use a Lore­hold-specific stat block from <a href=\"/chapters/strixhaven-friends-and-foes/#LoreholdScholars\" title=\"chapter 7\">chapter 7</a>.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"AugustaTullusDeanofOrder\">Augusta Tullus, Dean of Order</h4>\n<p>Augusta Tullus (lawful neutral human <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160311-lorehold-professor-of-order\" data-tooltip-href=\"/monsters/2160311-tooltip\">Lorehold professor of order</a>) is the current Dean of Order. A professor of spirit studies, she has been called the college’s most talented pastraiser. She can conjure entire legions of ghostly apparitions to reenact historical events for her lectures.</p>\n<p>Augusta believes that history repeats itself as an orderly progression toward an ideal. In her view, the mistakes of the past can inform the choices of the present, creating a world of peace and order. She plays things by the book and frowns on students who embark on Dean Plargg’s dangerous field trips.</p>\n<p>Characters have ample opportunity to meet Dean Tullus in the adventure presented in <a href=\"/chapters/strixhaven-the-magisters-masquerade/\" title=\"chapter 5\">chapter 5</a>.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"PlarggDeanofChaos\">Plargg, Dean of Chaos</h4>\n<p>Plargg (chaotic good orc <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160310-lorehold-professor-of-chaos\" data-tooltip-href=\"/monsters/2160310-tooltip\">Lorehold professor of chaos</a>) is the current Dean of Chaos. Specializing in military history, Plargg is known for his perfect recall of historical stories, as well as his potent scroll magic. Blind himself, he invented a form of magical embossing called heat lettering, which provides a tactile way to read texts.</p>\n<p>Plargg believes that history is full of unpredictable, war-filled chaos and that his students must be ready for anything. He teaches that no rewards come without risk, and his excursions typically end with students heading to the infirmary. He pays little attention to Dean Tullus’s work, usually dismissing her attempts to find order in chaos as foolhardy.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"HofriGhostforge\">Hofri Ghostforge</h4>\n<p>When Hofri (neutral good dwarf <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160311-lorehold-professor-of-order\" data-tooltip-href=\"/monsters/2160311-tooltip\">Lorehold professor of order</a>) first enrolled in Strixhaven, he believed his future lay with Prismari. A diligent student, he quickly mastered the technical skills of art, but his magic left something to be desired. After talking with the school’s counselor, Mavinda, Hofri decided to try his luck with Lorehold. It turned out he had a natural talent for Lorehold’s spirit magic.</p>\n<p>His time at Prismari was hardly wasted, however. Combining his artistic skill with his keen spiritual sense, Hofri could visualize a spirit’s mortal appearance and construct a viable statue form for them to inhabit. No one in Lorehold’s history had previously created a spirit statue from scratch, and Hofri was offered a professorial position after graduation, which he happily accepted.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"OsgirtheReconstructor\">Osgir, the Reconstructor</h4>\n<p>Even by Lorehold standards, Osgir (neutral <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/17024-stone-giant\" data-tooltip-href=\"/monsters/17024-tooltip\">stone giant</a>) is obsessed with relics of the past. A professor of order, he treasures every connection to old civilizations, whether it’s a magnificent jeweled crown or an old shovel. As a student, he constantly spent time in detention for hoarding the best finds from Lorehold dig sites in his room; he lost count of how many times he was sternly told, “History belongs to us all!”</p>\n<p>So, naturally, he mastered the magical art of duplicative restoration. Not only can he perfectly recreate an ancient object or device from the smallest scrap, but he can also produce a second, identical version for his personal collection. He displays something different every week in his Lorehold office, from a mighty sword of demon-slaying to a delicate elven music box.</p>\n<aside class=\"rules-text\" id=\"GolwandatheBloodspiller\">\n<p>GOLWANDA THE BLOODSPILLER</p>\n<p>“Have you met Golwanda yet?” is a question that older Lorehold students love to ask second-year students, new to the college. Sooner or later, one professor or another summons this spirit of a notorious stone giant warmonger, ostensibly as a cautionary tale about the dire fate that befalls a society that loses control of its aggressive impulses. Golwanda plays her role with relish, doing her best to strike terror into the students with her bloodcurdling screams and howls of rage.</p>\n</aside>\n<h4 class=\"compendium-hr heading-anchor\" id=\"LosheelClockworkScholar\">Losheel, Clockwork Scholar</h4>\n<p>Losheel (chaotic good loxodon <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160310-lorehold-professor-of-chaos\" data-tooltip-href=\"/monsters/2160310-tooltip\">Lorehold professor of chaos</a>) is a Humanoid resembling a bipedal elephant. She proudly admits that she is willing to work hard to be as lazy as possible. She turns her brilliant mind to constructing increasingly efficient mechanical helpers, with the goal of one day being able to do anything she wants without standing up.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"LoreholdCampus\">Lorehold Campus</h3>\n<p>The Lorehold campus—shown on map 1.2—is situated northwest of the central campus in a region of stark vertical relief. Rugged mesas and steep hills rise from a wide plain, and a great chasm holds the excavated ruins of an ancient settlement. Several star arches encircle rocky peaks and outcroppings, testifying to the powerful magical energy in the vicinity—energy once harnessed by the ancients who used to inhabit this area.</p>\n<figure id=\"Map12loreholdcampus\" class=\"compendium-image\">\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/map-1.2-lorehold-campus.jpg\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/map-1.2-lorehold-campus.jpg\" class=\"ddb-lightbox-inner compendium-center-banner-img\" style=\"width: 850px;\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a>\n<figcaption>Map 1.2: lorehold campus <a class=\"ddb-lightbox-outer\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/map-1.2-lorehold-campus-player.jpg\" data-lightbox=\"1\" data-title=\"View Player Version\" id=\"session-player-map-2\">View Player Version</a></figcaption>\n</figure>\n<h4 class=\"compendium-hr heading-anchor\" id=\"Pillardrop\">Pillardrop</h4>\n<p>Part natural chasm, part archaeological excavation, and part new construction, Pillardrop is a series of buildings excavated out of cliffs on the Lorehold campus. Ruins and upgraded halls together are now used for research, classwork, and housing. Precarious bridges link one neighborhood of Pillardrop to another, often directly passing the enormous stone faces of old statues. Every Lorehold class has a story of some careless student making a misstep on one of these bridges or in some particularly crumbling section of the ruins, sometimes with disastrous consequences—and sometimes finding deliverance when a spirit statue appears from nowhere to catch the hapless student before they suffer serious harm.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"EffigyRow\">Effigy Row</h4>\n<p>The heart of the Lorehold campus surrounds a soaring bridge that crosses the chasm of Pillardrop. The bridge and surrounding pathways are lined with monuments depicting historic figures, including past professors and prominent mage-students, as well as war heroes and heads of state from ages past.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"KollemaHall\">Kollema Hall</h4>\n<p>Kollema Hall is a grand, multitiered gallery built into a large outcrop at the end of Effigy Row. Here, Lorehold mages gather for large lectures. At the center of the hall towers a magnificent statue of Kollema, a wise monastic who was one of the first Lorehold professors.</p>\n<p><a href=\"/chapters/strixhaven-dressing-for-success/#Map52kollemahall\" title=\"Chapter 5\">Chapter 5</a> includes a partial map of Kollema Hall.</p>\n<h2 class=\"compendium-hr heading-anchor\" id=\"PrismariCollege\">Prismari College</h2>\n<p>Prismari, the College of Elemental Arts, is devoted to the study and practice of art intertwined with magic. The mage-students of Prismari wield magic in spectacles of creativity: masterpieces of showy, over-the-top magic. They use elemental magic to express who they are and how they see the world, often combining different types of energy—fire, water, air, earth, lightning, heat, cold—in powerful expressions of conflict and harmony.</p>\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/01-005.prismari-college.png\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/01-005.prismari-college.png\" class=\"ddb-lightbox-inner\" style=\"width: 275px;\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a>\n<h3 class=\"compendium-hr heading-anchor\" id=\"StudiesandPhilosophy1\">Studies and Philosophy</h3>\n<p>Prismari College is dedicated to the arts. Its scholars view art as the fundamental form of self-expression and magic as a tool, a medium, and an inspiration. Prismari studies focus on visual arts (including architecture, painting, and sculpture) and performing arts (such as dance, music, and theater). The curriculum overlaps with Lorehold in the field of art history and with Silverquill in the literary arts, and some students divide their time between Prismari and one of those other schools to pursue these interdisciplinary fields. Prismari mages use magic to weave the elements into their creations; they might juxtapose fire alongside paint, ceramics, or fabric, or they might choreograph elaborate works that unite a dancer’s movements with gusts and eddies of air.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"PerfectionandExpression\">Perfection and Expression</h4>\n<p>Prismari’s two deans carry the titles Dean of Perfection and Dean of Expression, and they often express the fundamental conflict of their philosophy as perfection versus expression—or, sometimes, as intellect versus emotion. What is the purpose of art? Is it to make people think things or make people feel things? Is it supposed to be carefully thought out or raw and spontaneous? Is mastery of art a matter of honing precise techniques to a point of perfection or of perfectly expressing a raw emotional state? Does art aspire to express universal truths or intensely personal ones?</p>\n<p>The perspective of perfection focuses on technique, analysis, theory, aesthetics, and universal principles. It embraces intellect over emotion, strives to be thought-provoking and reflective, and aspires to mastery. Its mages tend to use elemental forces of cold, water, and wind.</p>\n<p>The perspective of expression instead emphasizes the portrayal of personal emotional truths. Its mages value improvisation, innovation, and rule-breaking, and they often favor elemental magic using fire, lightning, and earth.</p>\n<aside class=\"rules-text compendium-hr heading-anchor\" id=\"OctaviatheLivingThesis\">\n<p>OCTAVIA, THE LIVING THESIS</p>\n<p>Crafted as a graduate’s final project many years ago, Octavia (a <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/17051-water-elemental\" data-tooltip-href=\"/monsters/17051-tooltip\">water elemental</a> that looks like an enormous octopus) took up residence on campus and never left. After all, in its humble opinion, every student deserves the chance to see true art in person. Some say it’s incoherent, but really, Octavia is just a very conceptual thinker.</p>\n</aside>\n<h4 class=\"compendium-hr heading-anchor\" id=\"ScholarsofPrismari\">Scholars of Prismari</h4>\n<p>The Prismari Scholars table offers examples of the scholars in Prismari College. You may use the table to randomly determine the scholarly focus of a Prismari student or faculty member. The Principle column notes which side of the perfection-expression conflict a scholar more likely aligns with.</p>\n<table id=\"PrismariScholars\" class=\"table-compendium table--generic-dice table--left-col3\">\n<caption class=\"compendium-hr heading-anchor\"><a href=\"#PrismariScholars\"></a>Prismari Scholars</caption>\n<thead>\n<tr>\n<th>d12</th>\n<th>Scholar</th>\n<th>Principle</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1</td>\n<td><strong>Aesthemancer</strong>, studying abstract principles of beauty for insight into the workings of the multiverse</td>\n<td>Perfection</td>\n</tr>\n<tr>\n<td>2</td>\n<td><strong>Electrovisionary</strong>, wielding the forms of lightning as a paintbrush</td>\n<td>Expression</td>\n</tr>\n<tr>\n<td>3</td>\n<td><strong>Flamesinger</strong>, combining fire and music</td>\n<td>Expression</td>\n</tr>\n<tr>\n<td>4</td>\n<td><strong>Geosculptor</strong>, using earth and lava in volatile emotional displays</td>\n<td>Expression</td>\n</tr>\n<tr>\n<td>5</td>\n<td><strong>Heartrager</strong>, turning inner creative fire into personal strength</td>\n<td>Expression</td>\n</tr>\n<tr>\n<td>6</td>\n<td><strong>Ice sculptor</strong>, crafting ice and cold into immersive experiences</td>\n<td>Perfection</td>\n</tr>\n<tr>\n<td>7</td>\n<td><strong>Mistmage</strong>, shaping cloud, fog, and mist into lasting sculptures</td>\n<td>Perfection</td>\n</tr>\n<tr>\n<td>8</td>\n<td><strong>Muse channeler</strong>, projecting blasts of inspiration toward others</td>\n<td>Expression</td>\n</tr>\n<tr>\n<td>9</td>\n<td><strong>Opusmancer</strong>, creating magical effects on a monumental scale</td>\n<td>Perfection</td>\n</tr>\n<tr>\n<td>10</td>\n<td><strong>Spectacle mage</strong>, hurling stormy displays into the sky</td>\n<td>Expression</td>\n</tr>\n<tr>\n<td>11</td>\n<td><strong>Waterbinder</strong>, shaping water into animated elemental forms</td>\n<td>Perfection</td>\n</tr>\n<tr>\n<td>12</td>\n<td><strong>Zephyrist</strong>, weaving wind with dance</td>\n<td>Perfection</td>\n</tr>\n</tbody>\n</table>\n<h3 class=\"compendium-hr heading-anchor\" id=\"PrismariFaculty\">Prismari Faculty</h3>\n<p>This section describes noteworthy members of the Prismari faculty. Some of them use a Prismari-specific stat block from <a href=\"/chapters/strixhaven-friends-and-foes/#PrismariScholars\" title=\"chapter 7\">chapter 7</a>. Several of them are genasi, who are Humanoids touched by the Elemental Planes.</p>\n<figure id=\"imgcollegeoffersbreathtakingviews\" class=\"compendium-image\">\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/01-006.prismari-college-offers-breathtaking-views.png\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/01-006.prismari-college-offers-breathtaking-views.png\" class=\"ddb-lightbox-inner compendium-center-banner-img\" style=\"width: 850px;\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a>\n<figcaption>Prismari College offers breathtaking views to inspire its artists</figcaption>\n</figure>\n<h4 class=\"compendium-hr heading-anchor\" id=\"UvildaMistcoilerDeanofPerfection\">Uvilda Mistcoiler, Dean of Perfection</h4>\n<p>Uvilda Mistcoiler (neutral good genasi <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160321-prismari-professor-of-perfection\" data-tooltip-href=\"/monsters/2160321-tooltip\">Prismari professor of perfection</a>) is the current Dean of Perfection. A master of artistic technique, Uvilda trains with a range of elements whenever she isn’t focused on her teaching. She is known for giving students profoundly insightful feedback, which she tailors to each individual. After a review, she often offers a small piece of advice that alters the student’s point of view and work forever—for the better.</p>\n<p>Uvilda believes that good art comes from the head. To her, carefully measured strokes and deliberate object placement make the difference between fully realized art and a total mess. If Dean Nassari interrupts her careful work with bombastic expressions one more time, Uvilda is prepared to enroll in Quandrix to learn how to shrink Nassari.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"NassariDeanofExpression\">Nassari, Dean of Expression</h4>\n<p>Nassari (chaotic good genasi <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160320-prismari-professor-of-expression\" data-tooltip-href=\"/monsters/2160320-tooltip\">Prismari professor of expression</a>) is the current Dean of Expression. Nazzari always want to see art that is bigger, more radical in concept, and more emotionally powerful. For their final project as a mage-student, Nassari famously “turned in” an earthquake, which almost destroyed three campus buildings. The piece received a standing ovation from the mage-student body—and a grumpy thumbs down from the campus construction golems.</p>\n<p>Nassari believes that true expression comes from the heart. They encourage their students to treat the entire world as a canvas on which to spread emotion and excitement. Nassari takes little heed of Dean Mistcoiler’s quiet masterpieces and often feigns forgetfulness about Dean Mistcoiler’s very existence.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"VeyranVoiceofDuality\">Veyran, Voice of Duality</h4>\n<p>In addition to being an accomplished elementalist, Veyran (chaotic good genasi <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160321-prismari-professor-of-perfection\" data-tooltip-href=\"/monsters/2160321-tooltip\">Prismari professor of perfection</a>) serves as a mentor to many Prismari pledgemages. She advocates enthusiastically for the importance of both passion and disciplined technique in any artistic pursuit. If a new student is upset or overwhelmed, she eagerly calls forth playful, beautiful elemental creatures to cheer up the student.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"ZaffaiThunderConductor\">Zaffai, Thunder Conductor</h4>\n<p>As soon as Zaffai (chaotic neutral human <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160320-prismari-professor-of-expression\" data-tooltip-href=\"/monsters/2160320-tooltip\">Prismari professor of expression</a>) came of age, his parents sent him to Strixhaven, assuring him his budding musical genius deserved the finest instruction in the world. (In truth, though he did possess prodigious talent, they were also growing tired of their house being randomly struck by lightning or engulfed in cyclones whenever he practiced.) Even as he flourished as both mage and musician, he discovered a new aptitude: conducting.</p>\n<p>In addition to teaching, he serves as Grand Maestro of Strixhaven’s Orchestra of the Arcane, an elite extracurricular activity for top Prismari students. They practice only outdoors, and their concerts fill the sky with beautiful explosions of elemental magic.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"ArkinMinexesPeppyInstructor\">Arkin Minexes, Peppy Instructor</h4>\n<p>Arkin (lawful good human <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160320-prismari-professor-of-expression\" data-tooltip-href=\"/monsters/2160320-tooltip\">Prismari professor of expression</a>) is a newly hired instructor teaching a few courses in choreography and dance ensembles. He recently graduated from Strixhaven himself, and he bubbles with excitement at the prospect of guiding a new generation of students on the course of study he so greatly enjoyed. He particularly delights in finding new ways to help students work collaboratively to unlock the heights of their creative potential.</p>\n<p>Characters might encounter Instructor Minexes in <a href=\"/chapters/strixhaven-a-reckoning-in-ruins/#DetentionMonitors\" title=\"chapter 6\">chapter 6</a>.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"PrismariCampus\">Prismari Campus</h3>\n<p>Southwest of the central campus, the Prismari campus—shown on map 1.3—is situated in a region of jagged rocks, rugged spires, and intense geothermal activity.</p>\n<figure class=\"compendium-image\" id=\"map13prismaricampus\">\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/map-1.3.jpg\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/map-1.3.jpg\" class=\"ddb-lightbox-inner compendium-center-banner-img\" style=\"width: 850px;\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a>\n<figcaption>Map 1.3: Prismari Campus<a class=\"ddb-lightbox-outer\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/map-1.3-player.jpg\" data-lightbox=\"1\" data-title=\"View Player Version\" id=\"session-player-map-3\">View Player Version</a></figcaption>\n</figure>\n<h4 class=\"compendium-hr heading-anchor\" id=\"ConjurotHall\">Conjurot Hall</h4>\n<p>The center of the Prismari campus is Conjurot Hall, a towering structure with a glassed-in observation area at the top. Constantly changing strands of elemental energy encircle the structure. Artist-mages can see for miles from Conjurot’s main turret, and the view has inspired many artistic creations.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"OpusWalk\">Opus Walk</h4>\n<p>Hundreds of Prismari creations are displayed along a path that winds through the central campus buildings, giving the path its name: Opus Walk. Some famous pieces of magical art have been displayed along Opus Walk for centuries, while other transient bursts of creativity last only a few moments.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"Furygale\">Furygale</h4>\n<p>At the outskirts of the Prismari campus, the abandoned creations of thousands of past artist-mages have coalesced over the years into the notorious region of Furygale. Roped off by magical wards and warning signs, Furygale is several acres of ever-changing magical energy, gales of ice and wind and fire, and elementals gone rogue. While dangerous, it also provides a source of wild inspiration, and it remains a popular spot for students who want to duel without being interrupted by faculty.</p>\n<h2 class=\"compendium-hr heading-anchor\" id=\"QuandrixCollege\">Quandrix College</h2>\n<p>Quandrix is the College of Numeromancy—a term that encompasses the study of patterns, fractals, and symmetries to wield power over the fundamental mathematics of nature. Quandrix mages can summon creatures made of fractals or turn abstract theories into towering, spiraling patterns. They love to expand and multiply; they can increase their knowledge or size by bending numbers. They dwell in the overlap between the theoretical and the natural—from the fabric of their robes to the nature of their spells, they make use of repeated elements, clever symmetries, and surprising geometry to express the complex truths they study.</p>\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/01-007.quandrix-college.png\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/01-007.quandrix-college.png\" class=\"ddb-lightbox-inner\" style=\"width: 275px;\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a>\n<h3 class=\"compendium-hr heading-anchor\" id=\"StudiesandPhilosophy2\">Studies and Philosophy</h3>\n<p>The studies undertaken within Quandrix College include mathematics, physics, logic, statistics, metaphysics, and various fields of theoretical magic. Students from the other colleges occasionally delve into Quandrix courses to bolster the theoretical underpinnings of their studies, and Quandrix’s studies of nature and Witherbloom’s explorations of practical biology have some significant overlap.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"SubstanceandTheory\">Substance and Theory</h4>\n<p>Quandrix’s two deans carry the titles Dean of Substance and Dean of Theory, reflecting the philosophical division within the college. Is mathematics a natural force that exists in the universe independent of the constructs of intelligent minds, or is it a theoretical framework created by those who study it? Is the work of the scholar to discover what is or to define what could be?</p>\n<p>The perspective of substance emphasizes physical reality. In this view, math is embodied in the natural forces of the multiverse, waiting to be discovered by those with the intellectual fortitude to delve into those secrets. Quandrix mages who embrace this view use magic to bring numerical concepts to life, creating or altering physical reality out of mathematical possibility.</p>\n<p>The perspective of theory focuses on the abstract realms of conjecture and possibility. Its scholars view math as a lens through which a mind can understand the cosmos, not something that exists independently in the world. Mages who embrace this perspective use their spells to weave illusions and manipulate the fabric of magic itself.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"ScholarsofQuandrix\">Scholars of Quandrix</h4>\n<p>The Quandrix Scholars table offers examples of the scholars in Quandrix College. You may use the table to randomly determine the scholarly focus of a Quandrix student or faculty member. The Principle column notes which side of the substance-theory conflict a scholar more likely aligns with.</p>\n<table id=\"QuandrixScholars\" class=\"table-compendium table--generic-dice table--left-col3\">\n<caption class=\"compendium-hr heading-anchor\"><a href=\"#QuandrixScholars\"></a>Quandrix Scholars</caption>\n<thead>\n<tr>\n<th>d8</th>\n<th>Scholar</th>\n<th>Principle</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1</td>\n<td><strong>Abstractor</strong>, using magic to stretch the possibilities of space</td>\n<td>Theory</td>\n</tr>\n<tr>\n<td>2</td>\n<td><strong>Augmenter</strong>, making creatures and things larger</td>\n<td>Substance</td>\n</tr>\n<tr>\n<td>3</td>\n<td><strong>Fractalologist</strong>, creating beautiful illusory patterns</td>\n<td>Theory</td>\n</tr>\n<tr>\n<td>4</td>\n<td><strong>Mana scholar</strong>, studying snarls, leylines, and star arches</td>\n<td>Substance</td>\n</tr>\n<tr>\n<td>5</td>\n<td><strong>Metamancer</strong>, studying metaphysics to alter reality</td>\n<td>Theory</td>\n</tr>\n<tr>\n<td>6</td>\n<td><strong>Scale druid</strong>, manipulating the size of plants and animals</td>\n<td>Substance</td>\n</tr>\n<tr>\n<td>7</td>\n<td><strong>Sequence prophet</strong>, studying repeating patterns that bend the mind</td>\n<td>Theory</td>\n</tr>\n<tr>\n<td>8</td>\n<td><strong>Vivifier</strong>, conjuring fractal creatures based on biological life</td>\n<td>Substance</td>\n</tr>\n</tbody>\n</table>\n<h3 class=\"compendium-hr heading-anchor\" id=\"QuandrixFaculty\">Quandrix Faculty</h3>\n<p>This section describes noteworthy members of the Quandrix faculty. Some of them use a Quandrix-specific stat block from <a href=\"/chapters/strixhaven-friends-and-foes/#QuandrixScholars\" title=\"chapter 7\">chapter 7</a>.</p>\n<figure id=\"imghall\" class=\"compendium-image\">\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/01-008.torus-hall.png\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/01-008.torus-hall.png\" class=\"ddb-lightbox-inner compendium-center-banner-img\" style=\"width: 850px;\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a>\n<figcaption>The geometry of Torus Hall is the most prominent feature of Quandrix College</figcaption>\n</figure>\n<h4 class=\"compendium-hr heading-anchor\" id=\"KianneDeanofSubstance\">Kianne, Dean of Substance</h4>\n<p>Brilliant and eccentric, Dean Kianne (neutral elf <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160324-quandrix-professor-of-substance\" data-tooltip-href=\"/monsters/2160324-tooltip\">Quandrix professor of substance</a>) is one of the preeminent mana scholars of the world. She has visited and studied countless bizarre magical phenomena, from snarls to star arches to ancient shrines. She loves to share her wild theories with anyone who will listen.</p>\n<p>Kianne believes in using mathematics to better understand nature. She places an emphasis on practical magic that improves daily life through applied calculations. She rolls her eyes at Dean Imbraham’s theories, dismissing them as evidence that her fellow dean lives in an imaginary world.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"ImbrahamDeanofTheory\">Imbraham, Dean of Theory</h4>\n<p>Dean Imbraham (neutral owlin <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160325-quandrix-professor-of-theory\" data-tooltip-href=\"/monsters/2160325-tooltip\">Quandrix professor of theory</a>) is stern and shrewd, with a mind as piercing as his curved beak. He is known for the unnerving habit of fully rotating his head around to address his students, while still rapidly chalking up complex theorems and equations on a chalkboard. Imbraham loves numbers more than people or the out-of-doors; some say he hasn’t gone outside certain chambers of the Quandrix campus in years.</p>\n<p>Imbraham wants nothing more than to crack the mysteries of the world through dauntingly complex theories. He offers his students standing bounties on any of his unsolved equations.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"AdrixandNevTwincasters\">Adrix and Nev, Twincasters</h4>\n<p>The twins Adrix (neutral good triton <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160324-quandrix-professor-of-substance\" data-tooltip-href=\"/monsters/2160324-tooltip\">Quandrix professor of substance</a>) and Nev (neutral good triton <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160325-quandrix-professor-of-theory\" data-tooltip-href=\"/monsters/2160325-tooltip\">Quandrix professor of theory</a>) grew up literally swimming in magic, in an ocean region near a powerful magical snarl. At an early age, they began to see patterns in the tides and currents that eluded even the most esteemed scholars of their society. Once, they saved a hundred lives by predicting the sudden arrival of a tsunami, despite the deceptively calm seas—washing away any doubts in their prowess.</p>\n<p>Adrix and Nev now teach as a duo, blending mastery of both of Quandrix’s philosophical perspectives. They constantly debate the merits of various esoteric mathematical principles, but if one of their students is in danger, they leap into action in perfect harmony.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"DeekahFractalTheorist\">Deekah, Fractal Theorist</h4>\n<p>Deekah (lawful neutral human <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160325-quandrix-professor-of-theory\" data-tooltip-href=\"/monsters/2160325-tooltip\">Quandrix professor of theory</a>) sees the world as an endless sequence of interconnected equations, which to her is the most beautiful thing imaginable. She explores new theorems by giving them physical form, and her exquisite geometric creations are thrilling sights on campus.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"RuxaPatientProfessor\">Ruxa, Patient Professor</h4>\n<p>Ruxa (neutral good <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160324-quandrix-professor-of-substance\" data-tooltip-href=\"/monsters/2160324-tooltip\">Quandrix professor of substance</a>) looks like a bipedal brown bear and knows that wild new theories, though exciting, are worthless without a deep understanding of the basics. He teaches students of all levels, and even his most experienced pupils benefit from a much deeper understanding of the fundamental building blocks of the world.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"QuandrixCampus\">Quandrix Campus</h3>\n<p>The Quandrix campus—shown on map 1.4—is situated in a coastal area to the northeast of the central campus, surrounded by lush woodland and abundant rivers and streams.</p>\n<figure id=\"Map14quandrixcampus\" class=\"compendium-image\">\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/map-1.4-quandrix-campus.jpg\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/map-1.4-quandrix-campus.jpg\" class=\"ddb-lightbox-inner compendium-center-banner-img\" style=\"width: 850px;\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a>\n<figcaption>Map 1.4: quandrix campus <a class=\"ddb-lightbox-outer\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/map-1.4-quandrix-campus-player.jpg\" data-lightbox=\"1\" data-title=\"View Player Version\" id=\"session-player-map-4\">View Player Version</a></figcaption>\n</figure>\n<h4 class=\"compendium-hr heading-anchor\" id=\"TorusHall\">Torus Hall</h4>\n<p>The central hall of Quandrix campus lies at the end of a geometric series of walkways, terminating at ascending ramps to the towering building. Inside, Torus Hall’s architecture is mapped to an ever-changing three-dimensional grid, which slowly evolves. Some Quandrix faculty members insist that mage-students shouldn’t linger too long inside the hall, lest its geometry eventually turn itself inside out while students are still within it.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"TheArithmodrome\">The Arithmodrome</h4>\n<p>The Quandrix campus is alive with dynamic sculptures made of water behaving in odd ways: cube-shaped fountains, arching aqueducts that flow through the air, towers of solid-seeming water. One water structure holds a secret: a mysterious inner expanse called the Arithmodrome. From the outside, the Arithmodrome looks like a large cube of water, ten feet on each side. The inside is an apparently boundless theory-space that suspends the rules of reality. Mages use this space to explore theoretical numerical possibilities.</p>\n<aside class=\"rules-text\" id=\"EsixFractalBloom\">\n<p>ESIX, FRACTAL BLOOM</p>\n<p>Tasked with devising an infinite equation, a group of Quandrix students accidentally created Esix, a living theorem obsessed with infinity. Over the years, a few professors have tried to deactivate it, but all their formulas somehow end up dividing by zero and fizzling out. Esix never seems to register these would-be threats, as it remains consumed by its own calculations.</p>\n</aside>\n<h4 class=\"compendium-hr heading-anchor\" id=\"TheCultivarium\">The Cultivarium</h4>\n<p>The Cultivarium is an eye-popping, sun-drenched garden of spiraling, cyclical plants and fractalized animals. Quandrix faculty members have repeatedly taught growth spells in this part of campus, and over the centuries, the area has come to intensify any growth magic cast within it.</p>\n<h2 class=\"compendium-hr heading-anchor\" id=\"SilverquillCollege\">Silverquill College</h2>\n<p>Silverquill is the College of Eloquence, and its mages—stylish, intimidating, and driven—are masters of the magic of words. They create spells from spoken-word battle poetry or magical manifestations of the written word, scribing patterns of runic ink in the air. These mages make for natural leaders, fiercely competitive, with a piercing wit and a never-second-place attitude.</p>\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/01-009.silverquill-college.png\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/01-009.silverquill-college.png\" class=\"ddb-lightbox-inner\" style=\"width: 275px;\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a>\n<h3 class=\"compendium-hr heading-anchor\" id=\"StudiesandPhilosophy3\">Studies and Philosophy</h3>\n<p>The curriculum of Silverquill College revolves around words, encompassing literature (including fiction, essays, drama, and poetry), languages, linguistics, oratory, rhetoric, and dramatic performance. Students from other colleges often take Silverquill courses to improve their communication skills, learning to speak and write more effectively about their primary field of study. Silverquill and Prismari see overlap in the area of performing arts, with Silverquill emphasizing verbal performance and Prismari focusing more on dance and other forms of movement.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"RadianceandShadow\">Radiance and Shadow</h4>\n<p>The two deans of Silverquill are called the Dean of Radiance and the Dean of Shadow, highlighting the college’s use of metaphor in describing its philosophical differences. The metaphor of radiance and shadow takes concrete form in Silverquill magic, as students learn to manifest brilliant light or inky darkness with their spells. The fundamental argument among Silverquill’s scholars centers on the purpose of communication. Is it to help others or further a personal agenda? Does literature selflessly better society or selfishly advance one’s own goals?</p>\n<p>The college’s perspective of radiance envisions language as sunlight emanating from the speaker or writer to illuminate others and make the world a brighter place. Mages who embrace this view use their language skills—and their magic—to uplift and empower others, to shine light on the evils of society, and to inspire the best in those around them.</p>\n<p>The college’s perspective of shadow focuses on the power of language to stab, to expose stinging truths, and to obfuscate secrets. The magic of shadow mages often manifests as bolts or blades of darkness or blotches of flowing ink, and its effects range from a sting of shame to an assault on the target’s life energy.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"ScholarsofSilverquill\">Scholars of Silverquill</h4>\n<p>The Silverquill Scholars table offers examples of the scholars in Silverquill College. You may use the table to randomly determine the scholarly focus of a Silverquill student or faculty member. The Principle column notes which side of the radiance-shadow conflict a scholar more likely aligns with.</p>\n<table id=\"SilverquillScholars\" class=\"table-compendium table--generic-dice table--left-col3\">\n<caption class=\"compendium-hr heading-anchor\"><a href=\"#SilverquillScholars\"></a>Silverquill Scholars</caption>\n<thead>\n<tr>\n<th>d8</th>\n<th>Scholar</th>\n<th>Principle</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1</td>\n<td><strong>Bantermage</strong>, using incisive observation to pierce rivals’ confidence</td>\n<td>Shadow</td>\n</tr>\n<tr>\n<td>2</td>\n<td><strong>Duskmage</strong>, conjuring inky voids of shadow magic</td>\n<td>Shadow</td>\n</tr>\n<tr>\n<td>3</td>\n<td><strong>Inkcaster</strong>, summoning living inklings to service</td>\n<td>Shadow</td>\n</tr>\n<tr>\n<td>4</td>\n<td><strong>Lumimancer</strong>, bringing light to bear on shameful situations and holding corrupt institutions to account</td>\n<td>Radiance</td>\n</tr>\n<tr>\n<td>5</td>\n<td><strong>Shadewing</strong>, forming weapons from darkness to slice and stab at foes</td>\n<td>Shadow</td>\n</tr>\n<tr>\n<td>6</td>\n<td><strong>Silvertongue</strong>, bathing others in the light of inspiring words</td>\n<td>Radiance</td>\n</tr>\n<tr>\n<td>7</td>\n<td><strong>Vainglory</strong>, wielding the power of a perfectly crafted compliment to enhance a person’s best qualities</td>\n<td>Radiance</td>\n</tr>\n<tr>\n<td>8</td>\n<td><strong>Warsinger</strong>, stirring hearts through poetic performance and song</td>\n<td>Radiance</td>\n</tr>\n</tbody>\n</table>\n<h3 class=\"compendium-hr heading-anchor\" id=\"SilverquillFaculty\">Silverquill Faculty</h3>\n<p>This section describes noteworthy members of the Silverquill faculty. Some of them use a Silver­quill-specific stat block from <a href=\"/chapters/strixhaven-friends-and-foes/#SilverquillScholars\" title=\"chapter 7\">chapter 7</a>.</p>\n<figure class=\"compendium-image\" id=\"Figure2\">\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/01-010.png\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/01-010.png\" class=\"ddb-lightbox-inner compendium-center-banner-img\" style=\"width: 850px;\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a>\n<figcaption>The stately buildings of Silverquill promote an atmosphere of dignified study</figcaption>\n</figure>\n<h4 class=\"compendium-hr heading-anchor\" id=\"ShaileTalonrookDeanofRadiance\">Shaile Talonrook, Dean of Radiance</h4>\n<p>Dean Shaile Talonrook (lawful good owlin <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160332-silverquill-professor-of-radiance\" data-tooltip-href=\"/monsters/2160332-tooltip\">Silverquill professor of radiance</a>) is a perennially optimistic orator. A master of literature, she often quotes obscure passages from famous texts. Her soul-filling advice and educated references have been known to make people literally glow.</p>\n<p>Shaile believes that all people have the potential for good and wishes to teach her students how to make the world a better place. She and Dean Lu often clash over Silverquill’s curriculum, but the balance found between them is far more eloquent than even their words can describe.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"EmbroseLuDeanofShadow\">Embrose Lu, Dean of Shadow</h4>\n<p>Dean Embrose Lu (lawful neutral human <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160333-silverquill-professor-of-shadow\" data-tooltip-href=\"/monsters/2160333-tooltip\">Silverquill professor of shadow</a>) is a master poet whose ink magic is merciless. Scant with praise and quick with a cutting remark, Dean Lu has seen many mage-students scrub out of Strixhaven and has nothing good to say about those who can’t hack it.</p>\n<p>A cynic, Embrose believes that most people are in it for themselves. He demands his students learn how to use language-based magic to “get what they deserve.” While he often argues with Dean Talonrook, he holds a deep (if begrudging) respect for the owlin.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"BreenatheDemagogue\">Breena, the Demagogue</h4>\n<p>Breena (neutral good owlin <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160333-silverquill-professor-of-shadow\" data-tooltip-href=\"/monsters/2160333-tooltip\">Silverquill professor of shadow</a>) has a talent for getting her way. If she wants you to do something, you won’t just do it—you’ll be sure it was your idea all along. Her students and colleagues alike hang on her every word, and in front of a crowd, she’s a powerhouse of charisma, enhancing her speeches with elegant swirls of ink magic. Though she’s an elite mage who can easily hold her own in a fight, Breena prefers to defeat her foes with words alone.</p>\n<p>An Oriq agent once trapped and attempted to recruit her, threatening her students’ lives if she didn’t comply. Within an hour, she convinced him to free her, abandon his wicked ways, and seek wisdom from the archaics.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"NilsDisciplineEnforcer\">Nils, Discipline Enforcer</h4>\n<p>Nils (lawful neutral human <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160332-silverquill-professor-of-radiance\" data-tooltip-href=\"/monsters/2160332-tooltip\">Silverquill professor of radiance</a>) is an optimist, as he believes in every student’s potential for greatness. However, this outlook also means he’s constantly disappointed by their suboptimal choices, and he is well known for his strictness and abrupt scoldings.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"BrennethBlackstoneScriptologyStar\">Brenneth Blackstone, Scriptology Star</h4>\n<p>Brenneth Blackstone (neutral good dhampir <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160333-silverquill-professor-of-shadow\" data-tooltip-href=\"/monsters/2160333-tooltip\">Silver­quill professor of shadow</a>) is a rising star in the study of magical writing and symbols. With a dynamic lecturing style, this dhampir—a partial vampire—attracts students from across Strixhaven purely for his lessons’ value as performance art. He teaches a course in scrivening and scriptology that characters take over the course of <a href=\"/chapters/strixhaven-hunt-for-mage-tower/\" title=\"chapter 4\">chapter 4</a>.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"FaintheBroker\">Fain, the Broker</h4>\n<p>Lost an important textbook? Craving some rare delicacy from home? Need something inconveniently forbidden? Enter Fain (neutral human <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160333-silverquill-professor-of-shadow\" data-tooltip-href=\"/monsters/2160333-tooltip\">Silverquill professor of shadow</a>). He has an extensive network of connections on and off campus, and he can procure just about anything—so long as you can afford his price.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"SilverquillCampus\">Silverquill Campus</h3>\n<p>The Silverquill campus—shown on map 1.5—is located due north of the central Strixhaven campus and looks much like an extension of it. Silverquill is the most urban of the five colleges, with a campus that features buildings of stately elegance.</p>\n<figure id=\"Map15silverquillcampus\" class=\"compendium-image\">\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/map-1.5-silverquill-campus.jpg\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/map-1.5-silverquill-campus.jpg\" class=\"ddb-lightbox-inner compendium-center-banner-img\" style=\"width: 850px;\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a>\n<figcaption>Map 1.5: silverquill campus <a class=\"ddb-lightbox-outer\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/map-1.5-silverquill-campus-player.jpg\" data-lightbox=\"1\" data-title=\"View Player Version\" id=\"session-player-map-5\">View Player Version</a></figcaption>\n</figure>\n<h4 class=\"compendium-hr heading-anchor\" id=\"GrandloftHall\">Grandloft Hall</h4>\n<p>The main Silverquill building is Grandloft Hall, a vast space with shafts of light streaking in from the enchanted windowpanes far above. Grandloft teems with balconies, loges, booths, daises, and other spaces where orators can perform their craft. Inklings, the college’s mascots, flit around the high ceiling, and enchanted spotlights automatically focus on any mage who uses powerful magic.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"TheRoseStage\">The Rose Stage</h4>\n<p>The Rose Stage is a rotating circular platform on the Silverquill campus. It has a backdrop of roses made of magical ink (tributes left by spectators of past performances), which creates excellent acoustics. Mage-students meet at the Rose Stage to practice performances, spar, or engage in honor duels. Faculty members often observe performances at the Rose Stage, coaching the students in their magical and rhetorical displays.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"TheDramarium\">The Dramarium</h4>\n<p>The Dramarium is a facility where Silverquill students train in fitness, dance, martial arts, and other acts of physical performance. Students can avail themselves of the preparation space called the Gray Room (actually a chain of rooms), which has hair and makeup salons, voice rehearsal booths, mirrored rehearsal spaces, and spa facilities. The back of the Dramarium has a special sensory deprivation chamber for mage-students who want complete silence in which to meditate.</p>\n<h2 class=\"compendium-hr heading-anchor\" id=\"WitherbloomCollege\">Witherbloom College</h2>\n<p>At Witherbloom, the College of Essence Studies, mages draw power from the opposing forces of life and death. These mages brew their spells from natural components and the essence of living creatures, using that power to heal or harm the living or to raise or entreat the dead. They can cause entire forests to blossom out of nowhere or call down old curses that scourge flesh from bone. Some Witherbloom mages defend ecosystems from pollution, while others revel in the power of corruption. They’re at home riding zombie crocodiles down a languid river, picking herbs for a potion to treat a disease, brooding over a chorus of swamp frogs, or summoning fearsome avatars of nature.</p>\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/01-011.witherbloom-college.png\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/01-011.witherbloom-college.png\" class=\"ddb-lightbox-inner\" style=\"width: 275px;\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a>\n<h3 class=\"compendium-hr heading-anchor\" id=\"StudiesandPhilosophy4\">Studies and Philosophy</h3>\n<p>The curriculum of Witherbloom College focuses on various sciences, revolving around the life sciences. Biology, ecology, botany, chemistry, and related sciences combine with the study and manipulation of the magical energy of the Positive Plane and the Negative Plane, the primal forces of life and death. Witherbloom’s curriculum shares some overlap with Quandrix’s analysis of the mathematical patterns in nature.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"GrowthandDecay\">Growth and Decay</h4>\n<p>The two deans of Witherbloom are traditionally called the Dean of the Root and the Dean of the Vein. These titles are a somewhat abstract way of framing the core division in the college’s philosophy: is growth or decay the driving force in nature?</p>\n<p>The philosophy of the root (growth) focuses on life and its irrepressible drive to thrive. This view celebrates the diversity and adaptability of life-forms, from the tiniest cells to the most complex networks of living things. The growth philosophy asserts that the urge to survive and reproduce is the most essential principle in the cosmos. Mages who adopt this view wield positive energy and practice healing magic.</p>\n<p>The philosophy of the vein (decay) focuses on the inevitability of death and decay. Its traditional name comes from the prominence of vampires within the college, whose conceptions of draining life through the vein have long proven an important counterweight to the growth philosophy of Witherbloom. The decay philosophy sees life energy as a resource to be consumed, rather than a good to be nourished for its own sake. Mages who adopt this view wield negative energy and practice necromancy.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"ScholarsofWitherbloom\">Scholars of Witherbloom</h4>\n<p>The Witherbloom Scholars table offers examples of the scholars in Witherbloom College. You may use the table to randomly determine the scholarly focus of a Witherbloom student or faculty member. The Principle column notes which side of the growth-decay conflict a scholar more likely aligns with.</p>\n<table id=\"WitherbloomScholars\" class=\"table-compendium table--generic-dice table--left-col3\">\n<caption class=\"compendium-hr heading-anchor\"><a href=\"#WitherbloomScholars\"></a>Witherbloom Scholars</caption>\n<thead>\n<tr>\n<th>d8</th>\n<th>Scholar</th>\n<th>Principle</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1</td>\n<td><strong>Banelock</strong>, using concoctions of noxious ingredients for withering magic</td>\n<td>Decay</td>\n</tr>\n<tr>\n<td>2</td>\n<td><strong>Bleed doctor</strong>, drain the essence of living creatures to fuel sinister spells</td>\n<td>Decay</td>\n</tr>\n<tr>\n<td>3</td>\n<td><strong>Boon witch</strong>, brewing drafts to empower the living</td>\n<td>Growth</td>\n</tr>\n<tr>\n<td>4</td>\n<td><strong>Boughcaller</strong>, summoning creatures from bogs</td>\n<td>Growth</td>\n</tr>\n<tr>\n<td>5</td>\n<td><strong>Dreadbones</strong>, infusing dead tissue with magic to create Undead servants</td>\n<td>Decay</td>\n</tr>\n<tr>\n<td>6</td>\n<td><strong>Earthcroucher</strong>, connecting directly with the land to power nature magic</td>\n<td>Growth</td>\n</tr>\n<tr>\n<td>7</td>\n<td><strong>Leafbinder</strong>, using medicinal herbs to soothe wounds</td>\n<td>Growth</td>\n</tr>\n<tr>\n<td>8</td>\n<td><strong>Pestcatcher</strong>, harvesting life energy from the pests of the bayou</td>\n<td>Decay</td>\n</tr>\n</tbody>\n</table>\n<h3 class=\"compendium-hr heading-anchor\" id=\"WitherbloomFaculty\">Witherbloom Faculty</h3>\n<p>This section describes noteworthy members of the Witherbloom faculty. Some of them use a Witherbloom-specific stat block from <a href=\"/chapters/strixhaven-friends-and-foes/#WitherbloomScholars\" title=\"chapter 7\">chapter 7</a>.</p>\n<figure id=\"imginthebayou\" class=\"compendium-image\">\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/01-012.deep-in-the-bayou.png\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/01-012.deep-in-the-bayou.png\" class=\"ddb-lightbox-inner compendium-center-banner-img\" style=\"width: 850px;\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a>\n<figcaption>Deep in the bayou of Sedgemoor, Widdershins Hall is the heart of Witherbloom College</figcaption>\n</figure>\n<h4 class=\"compendium-hr heading-anchor\" id=\"LisetteDeanoftheRoot\">Lisette, Dean of the Root</h4>\n<p>Dean Lissette (neutral good human <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160341-witherbloom-professor-of-growth\" data-tooltip-href=\"/monsters/2160341-tooltip\">Witherbloom professor of growth</a>) is a world-class healer and herbalist; it’s even said she once cured the Lorehold founder dragon of a secret illness. Lisette’s classes lean more toward demonstration and hands-on experience than lectures. When Lisette speaks, her words are soft and full of colorful metaphors.</p>\n<p>Lisette believes in preserving nature and life, and she instills in her students a respect for all living things. While Dean Valentin’s exploitation of living creatures disgusts her, she also knows she can use the results of his cruelty to help future lives.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"ValentinDeanoftheVein\">Valentin, Dean of the Vein</h4>\n<p>Dean Valentin (neutral <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/17043-vampire\" data-tooltip-href=\"/monsters/17043-tooltip\">vampire</a>) is ancient and drinks the blood of living creatures throughout the bayou. Valentin is a kind of sangromancer—he receives visions from the blood he consumes, which he uses to learn things about a creature or place. He has no qualms about exploiting the bayou’s creatures for personal gain.</p>\n<p>Valentin’s classes focus on dissection and decay. He and Dean Lisette often clash over his cavalier treatment of animals, but that hasn’t stopped her from using his discoveries for her research.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"WillowduskEssenceSeer\">Willowdusk, Essence Seer</h4>\n<p>No one knows how old Willowdusk (neutral good <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/17037-treant\" data-tooltip-href=\"/monsters/17037-tooltip\">treant</a>) really is. This professor of growth claims to be older than Strixhaven itself, and although many suspect that she exaggerates, no one else who has lived long enough to refute her cares to do so. Many years ago, a group of rebellious students got lost in Detention Bog and took shelter in what turned out to be Willowdusk’s roots. She protected them from a pack of hungry groffs and shepherded them back to Widdershins Hall, offering a lecture on proper herb-gathering practices during the journey.</p>\n<p>Her lessons proved so effective that she was asked to stay as a professor. She loves passing on her knowledge of medicinal herbs, pest mascot cultivation, and dissection techniques to generations of new students, and she almost always has a pot of tea brewing.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"TivashGloomSummoner\">Tivash, Gloom Summoner</h4>\n<p>It’s tough to study the secrets of life and death without getting your hands dirty—which is the first thing Tivash (neutral human <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160340-witherbloom-professor-of-decay\" data-tooltip-href=\"/monsters/2160340-tooltip\">Witherbloom professor of decay</a>) teaches Witherbloom students. Some call the forces he manipulates evil, but he asserts that power is only as good or evil as how you use it.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"VereldaLangArcanoBiologist\">Verelda Lang, Arcano-Biologist</h4>\n<p>Verelda Lang (chaotic neutral <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/16849-dryad\" data-tooltip-href=\"/monsters/16849-tooltip\">dryad</a>) is a respected Witherbloom professor of growth who teaches introductory courses in magical physiologies, helping students in every college learn about the many unusual creatures they’re likely to encounter, whatever the students’ field of study. Her research extends to the vital functions of fractal creatures and other artificial life-forms, leading her to teach courses at Quandrix College as well.</p>\n<p>Characters have multiple opportunities to study with Professor Lang in <a href=\"/chapters/strixhaven-all-the-worlds-a-stage/#SecretsinSedgemoor\" title=\"chapters 3\">chapters 3</a> and <a href=\"/chapters/strixhaven-a-reckoning-in-ruins/#ArcaneHerbologyExamVegetationIdentification\" title=\"6\">6</a>.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"YedoraGraveGardener\">Yedora, Grave Gardener</h4>\n<p>Yedora (neutral <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/17037-treant\" data-tooltip-href=\"/monsters/17037-tooltip\">treant</a>) is the head groundskeeper and unofficial undertaker of Strixhaven. Students and graduates often wish to spend their afterlife at their beloved university, and she honors that wish. Each tree she plants represents the essence of a fallen mage, and she remembers them all by name.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"GyomeMasterChef\">Gyome, Master Chef</h4>\n<p>Anyone who thinks a troll can’t be a great chef has never met Gyome (neutral <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/17040-troll\" data-tooltip-href=\"/monsters/17040-tooltip\">troll</a>). He combines local ingredients with flavors from his homeland into an ever-changing menu of delicacies. Students from every college trek through Sedgemoor in droves for his food. The only complaint he ever receives is that he gives out unreasonably large portions.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"WitherbloomCampus\">Witherbloom Campus</h3>\n<p>Witherbloom’s campus—shown on map 1.6—is tucked away in a wide bayou to the southeast of Strixhaven’s central campus. Wiltroot Hall is described in <a href=\"/chapters/strixhaven-hunt-for-mage-tower/#WiltrootHall\" title=\"chapter 4\">chapter 4</a>.</p>\n<figure id=\"Map16witherbloomcampus\" class=\"compendium-image\">\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/map-1.6-witherbloom-campus.jpg\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/map-1.6-witherbloom-campus.jpg\" class=\"ddb-lightbox-inner compendium-center-banner-img\" style=\"width: 850px;\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a>\n<figcaption>Map 1.6: witherbloom campus <a class=\"ddb-lightbox-outer\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/map-1.6-witherbloom-campus-player.jpg\" data-lightbox=\"1\" data-title=\"View Player Version\" id=\"session-player-map-6\">View Player Version</a></figcaption>\n</figure>\n<h4 class=\"compendium-hr heading-anchor\" id=\"Sedgemoor\">Sedgemoor</h4>\n<p>Sedgemoor, the bayou area that encompasses the Witherbloom campus, is known for a range of swamp creatures: bats, crocodilian monsters, zombified animals, lumbering beasts called brackish trudges, and canine creatures called groffs (<a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160299-brackish-trudge\" data-tooltip-href=\"/monsters/2160299-tooltip\">brackish trudges</a> and <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160306-groff\" data-tooltip-href=\"/monsters/2160306-tooltip\">groffs</a> are described in <a href=\"/chapters/strixhaven-friends-and-foes/\" title=\"chapter 7\">chapter 7</a>). Sedgemoor is an excellent place to find pest mascots, herbs, spider silk, fungi, and other ingredients for potions and spells.</p>\n<p>Characters have the opportunity to explore Sedgemoor in <a href=\"/chapters/strixhaven-all-the-worlds-a-stage/#SecretsinSedgemoor\" title=\"chapter 3\">chapter 3</a>.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"WiddershinsHall\">Widdershins Hall</h4>\n<p>The center of the Witherbloom campus is Widdershins Hall, a bog mansion that looks like it grew out of Sedgemoor itself. Widdershins is a network of inter­connected wooden pods, with planked walkways leading out of it like tendrils. The hall has a cozy inner chamber where students gather for classwork.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"DetentionBog\">Detention Bog</h4>\n<p>A stinking, thoroughly unpleasant marshland lies adjacent to Sedgemoor: the Detention Bog. Witherbloom faculty members send misbehaving students to this bog as punishment, but it’s also an excellent place to gather herbs for certain cures and curses.</p>\n<p>The adventure presented in <a href=\"/chapters/strixhaven-a-reckoning-in-ruins/#TheDetentionBog\" title=\"chapter 6\">chapter 6</a> offers characters the opportunity to enter this bog.</p>"
+}

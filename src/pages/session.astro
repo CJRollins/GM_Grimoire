@@ -1,0 +1,387 @@
+---
+import { getCollection, type CollectionEntry } from 'astro:content';
+import GrimoireLayout from '../layouts/GrimoireLayout.astro';
+
+type Chapter = CollectionEntry<'chapters'>;
+type QuickLink = Chapter['data']['session']['quickLinks'][number];
+
+const chapters = (await getCollection('chapters')).sort((a, b) =>
+  a.data.sourcebook.localeCompare(b.data.sourcebook) || a.data.order - b.data.order
+);
+const strixhaven = chapters.filter((chapter) => chapter.data.bookSlug === 'strixhaven-a-curriculum-of-chaos');
+const adventures = strixhaven.filter((chapter) => chapter.data.kind === 'adventure');
+const chapterBySlug = new Map(chapters.map((chapter) => [chapter.data.slug, chapter]));
+
+const quickLinkOrder = ['scene', 'encounter', 'exam', 'relationship', 'location', 'creature', 'rule', 'reference'];
+const quickLinkLabels: Record<string, string> = {
+  scene: 'Scenes',
+  encounter: 'Encounters',
+  exam: 'Exams',
+  relationship: 'Relationship beats',
+  location: 'Keyed locations',
+  creature: 'Creatures',
+  rule: 'Rules',
+  reference: 'Other references',
+};
+
+const enrichChapter = (chapter: Chapter) => ({
+  chapter,
+  linkGroups: quickLinkOrder
+    .map((type) => ({
+      type,
+      label: quickLinkLabels[type],
+      links: chapter.data.session.quickLinks.filter((link) => link.type === type),
+    }))
+    .filter((group) => group.links.length),
+  encounters: chapter.data.session.quickLinks.filter((link) => link.type === 'encounter').length,
+  exams: chapter.data.session.quickLinks.filter((link) => link.type === 'exam').length,
+  locations: chapter.data.session.quickLinks.filter((link) => link.type === 'location').length,
+});
+
+const years = ['Year One', 'Year Two', 'Year Three', 'Year Four']
+  .map((name) => ({
+    name,
+    chapters: adventures.filter((chapter) => chapter.data.navGroup === name).map(enrichChapter),
+  }))
+  .filter((year) => year.chapters.length);
+
+const references = [
+  {
+    label: 'Orientation',
+    description: 'The university premise, the book’s structure, and the world around Strixhaven.',
+    slug: 'strixhaven-welcome-to-strixhaven',
+  },
+  {
+    label: 'Campus life',
+    description: 'The five colleges, faculty, landmarks, and six player-version campus maps.',
+    slug: 'strixhaven-life-at-strixhaven',
+  },
+  {
+    label: 'Campus atlas',
+    description: 'Orient travel and show the whole university at a glance.',
+    slug: 'strixhaven-campus-map',
+  },
+  {
+    label: 'Character options',
+    description: 'Backgrounds, feats, spells, and magic items players might bring to the table.',
+    slug: 'strixhaven-character-options',
+  },
+  {
+    label: 'School rules',
+    description: 'Exams, jobs, extracurriculars, and the student dice system.',
+    slug: 'strixhaven-school-is-in-session',
+  },
+  {
+    label: 'Relationships',
+    description: 'Boons, banes, and relationship encounters.',
+    slug: 'strixhaven-relationships',
+  },
+  {
+    label: 'Student directory',
+    description: 'Filter the recurring student cast by college or cohort.',
+    href: '/students/',
+  },
+  {
+    label: 'Friends and foes',
+    description: 'The Strixhaven bestiary and named NPC stat blocks.',
+    slug: 'strixhaven-friends-and-foes',
+  },
+].map((reference) => ({
+  ...reference,
+  chapter: reference.slug ? chapterBySlug.get(reference.slug) : undefined,
+}));
+
+const totals = adventures.reduce((result, chapter) => ({
+  readAloud: result.readAloud + chapter.data.session.readAloud.length,
+  encounters: result.encounters + chapter.data.session.quickLinks.filter((link) => link.type === 'encounter').length,
+  exams: result.exams + chapter.data.session.quickLinks.filter((link) => link.type === 'exam').length,
+  tables: result.tables + chapter.data.session.tables.length,
+  maps: result.maps + chapter.data.session.maps.length,
+}), { readAloud: 0, encounters: 0, exams: 0, tables: 0, maps: 0 });
+
+const linkHref = (chapter: Chapter, link: QuickLink) => `/chapters/${chapter.data.slug}/#${link.id}`;
+---
+
+<GrimoireLayout
+  title="Session desk"
+  description="A year-by-year Strixhaven session index for scenes, encounters, exams, read-aloud text, and rules."
+  chapters={chapters}
+>
+  <main id="reader-content" class="session-page dashboard-page">
+    <header class="dashboard-hero">
+      <p class="kicker">Session desk</p>
+      <h1>Find the next beat before the table goes quiet.</h1>
+      <p>
+        The campaign is arranged in running order below. Each chapter opens into a compact index of
+        scenes, encounters, exams, keyed locations, read-aloud text, tables, player maps, and stat blocks.
+      </p>
+      <dl class="dashboard-stats" aria-label="Strixhaven session index totals">
+        <div><dt>{adventures.length}</dt><dd>adventure records</dd></div>
+        <div><dt>{totals.readAloud}</dt><dd>read-aloud blocks</dd></div>
+        <div><dt>{totals.encounters}</dt><dd>encounter anchors</dd></div>
+        <div><dt>{totals.exams}</dt><dd>exam anchors</dd></div>
+        <div><dt>{totals.maps}</dt><dd>player maps</dd></div>
+      </dl>
+    </header>
+
+    <section class="prep-progress" aria-labelledby="prep-progress-heading">
+      <div>
+        <p class="eyebrow" id="prep-progress-heading">Campaign prep</p>
+        <p id="prep-progress-copy" aria-live="polite">No adventure chapters marked prepared.</p>
+      </div>
+      <progress id="prep-progress" max={adventures.length} value="0">0%</progress>
+    </section>
+
+    <section aria-labelledby="reference-heading">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">Keep within reach</p>
+          <h2 id="reference-heading">Session references</h2>
+        </div>
+        <a href="/study/">Switch to study mode</a>
+      </div>
+      <div class="reference-grid">
+        {references.map((reference) => (
+          <a
+            class="reference-card"
+            id={reference.chapter?.data.slug}
+            href={reference.href ?? (reference.chapter ? `/chapters/${reference.chapter.data.slug}/` : '#')}
+          >
+            <strong>{reference.label}</strong>
+            <span>{reference.description}</span>
+          </a>
+        ))}
+      </div>
+    </section>
+
+    <section class="campaign-run" aria-labelledby="campaign-heading">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">Campaign run</p>
+          <h2 id="campaign-heading">Four years at Strixhaven</h2>
+        </div>
+        <button id="clear-prep-progress" class="text-button" type="button">Clear prep marks</button>
+      </div>
+
+      {years.map((year, yearIndex) => (
+        <details class="year-board" open={yearIndex === 0}>
+          <summary>
+            <span>{year.name}</span>
+            <small>{year.chapters.length} chapters</small>
+          </summary>
+          <div class="year-chapters">
+            {year.chapters.map(({ chapter, linkGroups, encounters, exams, locations }, chapterIndex) => (
+              <article class="session-chapter" id={chapter.data.slug} data-prep-card={chapter.data.slug}>
+                <header>
+                  <div class="chapter-sequence" aria-hidden="true">{yearIndex + 1}.{chapterIndex + 1}</div>
+                  <div>
+                    <p>{chapter.data.chapter}</p>
+                    <h3><a href={`/chapters/${chapter.data.slug}/`}>{chapter.data.title}</a></h3>
+                  </div>
+                  <label class="prep-control">
+                    <input type="checkbox" data-prep-slug={chapter.data.slug} />
+                    <span>Prepared</span>
+                  </label>
+                </header>
+                <p class="chapter-summary">{chapter.data.summary}</p>
+                <dl class="session-signals">
+                  <div><dt>Read aloud</dt><dd>{chapter.data.session.readAloud.length}</dd></div>
+                  <div><dt>Encounters</dt><dd>{encounters}</dd></div>
+                  <div><dt>Exams</dt><dd>{exams}</dd></div>
+                  <div><dt>Locations</dt><dd>{locations}</dd></div>
+                  <div><dt>Tables</dt><dd>{chapter.data.session.tables.length}</dd></div>
+                  <div><dt>Stat blocks</dt><dd>{chapter.data.session.statBlocks.length}</dd></div>
+                  <div><dt>Player maps</dt><dd>{chapter.data.session.maps.length}</dd></div>
+                </dl>
+
+                <details class="chapter-index">
+                  <summary>Open session index</summary>
+                  <div class="session-index-grid">
+                    {chapter.data.session.readAloud.length > 0 && (
+                      <section>
+                        <h4>Read aloud</h4>
+                        <ul>
+                          {chapter.data.session.readAloud.map((block) => (
+                            <li>
+                              <a href={`/chapters/${chapter.data.slug}/#${block.id}`}>{block.label}</a>
+                              {block.excerpt && <span>{block.excerpt}</span>}
+                            </li>
+                          ))}
+                        </ul>
+                      </section>
+                    )}
+                    {chapter.data.session.tables.length > 0 && (
+                      <section>
+                        <h4>Tables</h4>
+                        <ul>
+                          {chapter.data.session.tables.map((block) => (
+                            <li><a href={`/chapters/${chapter.data.slug}/#${block.id}`}>{block.label}</a></li>
+                          ))}
+                        </ul>
+                      </section>
+                    )}
+                    {chapter.data.session.statBlocks.length > 0 && (
+                      <section>
+                        <h4>Stat blocks</h4>
+                        <ul>
+                          {chapter.data.session.statBlocks.map((block) => (
+                            <li><a href={`/chapters/${chapter.data.slug}/#${block.id}`}>{block.label}</a></li>
+                          ))}
+                        </ul>
+                      </section>
+                    )}
+                    {chapter.data.session.maps.length > 0 && (
+                      <section>
+                        <h4>Player maps</h4>
+                        <ul>
+                          {chapter.data.session.maps.map((map) => (
+                            <li class="map-links">
+                              <span>{map.label}</span>
+                              <a href={`/chapters/${chapter.data.slug}/#${map.id}`}>View in chapter</a>
+                              <a href={map.playerUrl} target="_blank" rel="noopener noreferrer">Open player version ↗</a>
+                            </li>
+                          ))}
+                        </ul>
+                      </section>
+                    )}
+                    {linkGroups.map((group) => (
+                      <section>
+                        <h4>{group.label}</h4>
+                        <ul>
+                          {group.links.map((link) => (
+                            <li><a href={linkHref(chapter, link)}>{link.text}</a></li>
+                          ))}
+                        </ul>
+                      </section>
+                    ))}
+                  </div>
+                </details>
+              </article>
+            ))}
+          </div>
+        </details>
+      ))}
+    </section>
+  </main>
+
+  <script is:inline>
+    (() => {
+      const storageKey = 'grimoire-session-prep';
+      const inputs = Array.from(document.querySelectorAll('[data-prep-slug]'));
+      const progress = document.querySelector('#prep-progress');
+      const progressCopy = document.querySelector('#prep-progress-copy');
+
+      const load = () => {
+        try {
+          const value = JSON.parse(localStorage.getItem(storageKey) || '[]');
+          if (Array.isArray(value)) return new Set(value);
+          if (value && typeof value === 'object') {
+            return new Set(Object.entries(value).filter(([, done]) => done).map(([slug]) => slug));
+          }
+        } catch {}
+        return new Set();
+      };
+
+      let prepared = load();
+      const update = () => {
+        const validSlugs = new Set(inputs.map((input) => input.dataset.prepSlug));
+        prepared = new Set([...prepared].filter((slug) => validSlugs.has(slug)));
+        inputs.forEach((input) => {
+          const done = prepared.has(input.dataset.prepSlug);
+          input.checked = done;
+          input.closest('[data-prep-card]')?.toggleAttribute('data-prepared', done);
+        });
+        const count = prepared.size;
+        const percent = inputs.length ? Math.round((count / inputs.length) * 100) : 0;
+        if (progress) progress.value = count;
+        if (progressCopy) progressCopy.textContent = count
+          ? `${count} of ${inputs.length} adventure chapters prepared (${percent}%).`
+          : 'No adventure chapters marked prepared.';
+      };
+
+      inputs.forEach((input) => input.addEventListener('change', () => {
+        if (input.checked) prepared.add(input.dataset.prepSlug);
+        else prepared.delete(input.dataset.prepSlug);
+        localStorage.setItem(storageKey, JSON.stringify([...prepared]));
+        update();
+      }));
+
+      document.querySelector('#clear-prep-progress')?.addEventListener('click', () => {
+        prepared.clear();
+        localStorage.removeItem(storageKey);
+        update();
+      });
+      update();
+    })();
+  </script>
+</GrimoireLayout>
+
+<style>
+  .dashboard-page { max-width: 1160px; margin: 2rem auto 0; }
+  .dashboard-hero { max-width: 900px; }
+  .dashboard-hero h1 { margin: .2rem 0 1rem; font: 600 clamp(2.4rem, 6vw, 4.8rem)/1.02 var(--display); }
+  .dashboard-hero > p:last-of-type { max-width: 760px; color: var(--ink-dim); font-size: 1.08rem; line-height: 1.65; }
+  .dashboard-stats { display: flex; gap: clamp(1.3rem, 4vw, 3.5rem); margin: 2rem 0 0; padding: 1.25rem 0; border-block: 1px solid var(--line); }
+  .dashboard-stats div { display: flex; flex-direction: column; }
+  .dashboard-stats dt { color: var(--gold-bright); font: 600 1.6rem var(--display); }
+  .dashboard-stats dd { margin: .2rem 0 0; color: var(--ink-dim); font-size: .75rem; }
+  .prep-progress { display: grid; grid-template-columns: minmax(210px, 1fr) minmax(200px, 2fr); align-items: center; gap: 1.25rem; margin: 2rem 0 4rem; padding: 1rem 1.2rem; border: 1px solid var(--line); background: rgba(41, 37, 29, .72); }
+  .prep-progress p { margin: 0; }
+  .prep-progress .eyebrow { margin-bottom: .3rem; }
+  progress { width: 100%; height: .75rem; accent-color: var(--aether); }
+  .section-heading { display: flex; justify-content: space-between; align-items: end; gap: 1rem; margin-bottom: 1.3rem; }
+  .section-heading h2 { margin: 0; font: 600 clamp(1.7rem, 3vw, 2.4rem) var(--display); }
+  .reference-grid { display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); gap: .7rem; }
+  .reference-card { min-width: 0; padding: 1rem; border: 1px solid var(--line); background: rgba(41, 37, 29, .72); text-decoration: none; }
+  .reference-card strong { display: block; margin-bottom: .4rem; color: var(--gold-bright); font-family: var(--display); }
+  .reference-card span { display: block; color: var(--ink-dim); font-size: .78rem; line-height: 1.45; }
+  .reference-card:hover { border-color: var(--gold); background: rgba(202, 168, 94, .08); }
+  .campaign-run { margin-top: 4.5rem; }
+  .text-button { border: 0; padding: .4rem; color: var(--gold-bright); background: transparent; text-decoration: underline; text-underline-offset: .2em; cursor: pointer; }
+  .year-board { margin: 1rem 0; border: 1px solid var(--line); background: rgba(28, 25, 19, .45); }
+  .year-board > summary { display: flex; justify-content: space-between; align-items: center; min-height: 3.4rem; padding: .8rem 1rem; color: var(--gold-bright); font: 600 1.15rem var(--display); cursor: pointer; list-style-position: inside; }
+  .year-board > summary small { color: var(--ink-dim); font: .7rem var(--serif); }
+  .year-chapters { display: grid; gap: 1rem; padding: 0 1rem 1rem; }
+  .session-chapter { min-width: 0; padding: 1rem; border: 1px solid var(--line); background: rgba(33, 30, 24, .9); }
+  .session-chapter[data-prepared] { border-color: rgba(116, 167, 161, .65); box-shadow: inset 3px 0 var(--aether); }
+  .session-chapter > header { display: grid; grid-template-columns: auto minmax(0, 1fr) auto; align-items: start; gap: .9rem; }
+  .chapter-sequence { display: grid; place-items: center; width: 2.5rem; height: 2.5rem; border: 1px solid var(--line); border-radius: 50%; color: var(--aether); font: .72rem var(--display); }
+  .session-chapter header p { margin: 0 0 .15rem; color: #776d59; font-size: .68rem; }
+  .session-chapter h3 { margin: 0; font: 600 1.3rem var(--display); }
+  .prep-control { display: flex; gap: .4rem; align-items: center; padding: .35rem; color: var(--ink-dim); font-size: .75rem; }
+  .chapter-summary { margin: .8rem 0 1rem 3.4rem; color: var(--ink-dim); line-height: 1.55; }
+  .session-signals { display: grid; grid-template-columns: repeat(auto-fit, minmax(78px, 1fr)); margin: 0 0 1rem 3.4rem; border: 1px solid rgba(74, 65, 47, .7); }
+  .session-signals div { padding: .55rem; border-left: 1px solid rgba(74, 65, 47, .7); text-align: center; }
+  .session-signals div:first-child { border-left: 0; }
+  .session-signals dt { color: #776d59; font-size: .64rem; }
+  .session-signals dd { margin: .2rem 0 0; color: var(--gold-bright); font: 600 1rem var(--display); }
+  .chapter-index { margin-left: 3.4rem; }
+  .chapter-index > summary { width: max-content; color: var(--gold-bright); cursor: pointer; font-size: .82rem; }
+  .session-index-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: .8rem; margin-top: .9rem; }
+  .session-index-grid section { min-width: 0; max-height: 19rem; padding: .8rem; overflow: auto; border: 1px solid rgba(74, 65, 47, .75); background: var(--paper-deep); scrollbar-width: thin; }
+  .session-index-grid h4 { position: sticky; top: -.8rem; z-index: 1; margin: -.8rem -.8rem .55rem; padding: .65rem .8rem; color: var(--aether); background: var(--paper-deep); font: 600 .72rem var(--display); letter-spacing: .1em; text-transform: uppercase; }
+  .session-index-grid ul { margin: 0; padding-left: 1.05rem; }
+  .session-index-grid li { margin: .48rem 0; color: #776d59; font-size: .78rem; line-height: 1.35; }
+  .session-index-grid li span { display: block; margin-top: .2rem; color: #776d59; font-size: .68rem; }
+  .session-index-grid .map-links > span { color: var(--ink-dim); font-size: .76rem; }
+  .session-index-grid .map-links a { display: block; margin-top: .28rem; font-size: .72rem; }
+
+  @media (max-width: 900px) {
+    .reference-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+    .session-index-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+    .session-signals { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+    .session-signals div:nth-child(3n + 1) { border-left: 0; }
+  }
+  @media (max-width: 600px) {
+    .dashboard-page { margin-top: .5rem; }
+    .dashboard-stats { display: grid; grid-template-columns: repeat(2, 1fr); }
+    .prep-progress, .session-index-grid, .reference-grid { grid-template-columns: 1fr; }
+    .section-heading { align-items: start; flex-direction: column; }
+    .session-chapter > header { grid-template-columns: auto minmax(0, 1fr); }
+    .prep-control { grid-column: 2; }
+    .chapter-summary, .session-signals, .chapter-index { margin-left: 0; }
+    .session-signals { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+    .session-signals div:nth-child(odd) { border-left: 0; }
+    .session-signals div:nth-child(even) { border-left: 1px solid rgba(74, 65, 47, .7); }
+  }
+</style>

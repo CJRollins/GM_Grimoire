@@ -1,0 +1,273 @@
+{
+  "title": "Hunt for Mage Tower",
+  "sourcebook": "Strixhaven: A Curriculum of Chaos",
+  "bookSlug": "strixhaven-a-curriculum-of-chaos",
+  "originalPath": "Arcavios/Stixhaven/Chapter 9 - Hunt For Mage Tower.html",
+  "rawUrl": "/archive/strixhaven/Chapter%209%20-%20Hunt%20For%20Mage%20Tower.html",
+  "sourceHash": "d7d79a9ead9a7069e75262a1038b8b034c337eb262b3d9f34d241eb5d2ebe1ae",
+  "extractionDate": "2026-07-13T07:40:57.647Z",
+  "extractionVersion": 3,
+  "originalAnchors": [
+    {
+      "id": "HuntforMageTower",
+      "text": "Hunt for Mage Tower",
+      "element": "h1"
+    },
+    {
+      "id": "comp-next-nav",
+      "text": "",
+      "element": "div"
+    },
+    {
+      "id": "imgsplash",
+      "text": "With their full abilities on display, Strixhaven students often createbreathtaking spectacles when they play the game of Mage Tower",
+      "element": "figure"
+    },
+    {
+      "id": "RunningThisAdventure",
+      "text": "Running This Adventure",
+      "element": "h2"
+    },
+    {
+      "id": "CharacterAdvancement",
+      "text": "Character Advancement",
+      "element": "h3"
+    },
+    {
+      "id": "SecondYearLevelAdvancement",
+      "text": "Second-Year Level Advancement Level Reached When Characters… 5th Complete the first Scrivening and Symbology Exam 6th Finish the adventure",
+      "element": "table"
+    },
+    {
+      "id": "ChoosingaCollege",
+      "text": "Choosing a College",
+      "element": "h3"
+    },
+    {
+      "id": "AdventureOverview",
+      "text": "Adventure Overview",
+      "element": "h3"
+    },
+    {
+      "id": "AStandaloneAdventure",
+      "text": "A Standalone Adventure",
+      "element": "h4"
+    },
+    {
+      "id": "RandomEncounters",
+      "text": "Random Encounters",
+      "element": "h3"
+    },
+    {
+      "id": "SecondYearEncounters",
+      "text": "Second-Year Encounters d10 Encounter 1–4 2 awakened trees, pretending to be Feywild guardians and refusing to let students access an important academic area 5–6",
+      "element": "table"
+    },
+    {
+      "id": "StudentSchedules",
+      "text": "Student Schedules",
+      "element": "h3"
+    },
+    {
+      "id": "SecondYearCourses",
+      "text": "Second-Year Courses d10 Course Offered By 1 Applied Computational Magic Quandrix 2 Basic Arcane Artifacts Lorehold 3 Electro-choreography Prismari 4 Historical ",
+      "element": "table"
+    },
+    {
+      "id": "BackinSession",
+      "text": "Back in Session",
+      "element": "h2"
+    },
+    {
+      "id": "StrixhavenFlyer",
+      "text": "",
+      "element": "figure"
+    },
+    {
+      "id": "TheGameofMageTower",
+      "text": "The Game of Mage Tower",
+      "element": "h3"
+    },
+    {
+      "id": "MageTowersRules",
+      "text": "Mage Tower’s Rules",
+      "element": "h4"
+    },
+    {
+      "id": "FormingaTeam",
+      "text": "Forming a Team",
+      "element": "h3"
+    },
+    {
+      "id": "MascotsEverywhere",
+      "text": "Mascots Everywhere!",
+      "element": "h2"
+    },
+    {
+      "id": "ChoosingaMageTowerMascot",
+      "text": "Choosing a Mage Tower Mascot",
+      "element": "h3"
+    },
+    {
+      "id": "imgmascots",
+      "text": "Mascots are common sights on campus—and sometimes they gather and cause mischief",
+      "element": "figure"
+    },
+    {
+      "id": "WiltrootHall",
+      "text": "Wiltroot Hall",
+      "element": "h3"
+    },
+    {
+      "id": "AStandaloneAdventure1",
+      "text": "A Standalone Adventure",
+      "element": "h4"
+    },
+    {
+      "id": "MascotHunting",
+      "text": "Mascot Hunting",
+      "element": "h4"
+    },
+    {
+      "id": "WiltrootHallFeatures",
+      "text": "Wiltroot Hall Features",
+      "element": "h4"
+    },
+    {
+      "id": "WiltrootHallLocationsW1W7",
+      "text": "Wiltroot Hall Locations (W1-W7)",
+      "element": "h3"
+    },
+    {
+      "id": "Map41wiltroothallandoutergrounds",
+      "text": "Map 4.1: wiltroot hall and outer grounds View Player Version",
+      "element": "figure"
+    },
+    {
+      "id": "W1HallandLearningPlatform",
+      "text": "W1. Hall and Learning Platform",
+      "element": "h4"
+    },
+    {
+      "id": "W2ObservationHutA",
+      "text": "W2. Observation Hut A",
+      "element": "h4"
+    },
+    {
+      "id": "W3SouthwestClearing",
+      "text": "W3. Southwest Clearing",
+      "element": "h4"
+    },
+    {
+      "id": "W4SouthernOutskirts",
+      "text": "W4. Southern Outskirts",
+      "element": "h4"
+    },
+    {
+      "id": "W5SouthernClearing",
+      "text": "W5. Southern Clearing",
+      "element": "h4"
+    },
+    {
+      "id": "imginsedgemoor",
+      "text": "Some pests in Sedgemoor, eluding capture, grow to prodigious size",
+      "element": "figure"
+    },
+    {
+      "id": "W6SoutheasternClearing",
+      "text": "W6. Southeastern Clearing",
+      "element": "h4"
+    },
+    {
+      "id": "W7ObservationHutB",
+      "text": "W7. Observation Hut B",
+      "element": "h4"
+    },
+    {
+      "id": "WiltrootHallLocationsW8W14",
+      "text": "Wiltroot Hall Locations (W8-W14)",
+      "element": "h3"
+    },
+    {
+      "id": "W8WesternClearing",
+      "text": "W8. Western Clearing",
+      "element": "h4"
+    },
+    {
+      "id": "W9ObservationHutC",
+      "text": "W9. Observation Hut C",
+      "element": "h4"
+    },
+    {
+      "id": "imgsedgemoor",
+      "text": "Sedgemoor is expansive and can be intimidating even for older students who explore its grounds",
+      "element": "figure"
+    },
+    {
+      "id": "W10ObservationHutD",
+      "text": "W10. Observation Hut D",
+      "element": "h4"
+    },
+    {
+      "id": "W11NorthwesternClearing",
+      "text": "W11. Northwestern Clearing",
+      "element": "h4"
+    },
+    {
+      "id": "W12NorthernClearing",
+      "text": "W12. Northern Clearing",
+      "element": "h4"
+    },
+    {
+      "id": "W13NorthernOutskirts",
+      "text": "W13. Northern Outskirts",
+      "element": "h4"
+    },
+    {
+      "id": "W14ObservationHutE",
+      "text": "W14. Observation Hut E",
+      "element": "h4"
+    },
+    {
+      "id": "ReportingtoProfSharpbeak",
+      "text": "Reporting to Prof. Sharpbeak",
+      "element": "h3"
+    },
+    {
+      "id": "ScriveningandSymbologyExamGlyphofWarding",
+      "text": "Scrivening and Symbology Exam: Glyph of Warding",
+      "element": "h2"
+    },
+    {
+      "id": "imgmagic",
+      "text": "Scribing magic is an important field of study at Strixhaven, as sloppiness can have strange effects",
+      "element": "figure"
+    },
+    {
+      "id": "StudyingPhase",
+      "text": "Studying Phase",
+      "element": "h3"
+    },
+    {
+      "id": "TestingPhase",
+      "text": "Testing Phase",
+      "element": "h3"
+    },
+    {
+      "id": "Advanceto5thLevel",
+      "text": "Advance to 5th Level!",
+      "element": "h2"
+    }
+  ],
+  "transformations": [
+    "Selected the first .p-article-content element.",
+    "Removed scripts, styles, forms, iframes, hidden duplicate labels, and source navigation.",
+    "Removed event handlers and D&D Beyond content-chunk identifiers.",
+    "Rewrote archived sourcebook links to generated reader routes when a local target exists.",
+    "Added lazy image loading and asynchronous decoding hints.",
+    "Added derived IDs to read-aloud, rules, table, and stat-block elements for session navigation.",
+    "Indexed player-version map links as derived session metadata.",
+    "Preserved source wording and original heading IDs; derived metadata remains separate."
+  ],
+  "repairs": []
+}

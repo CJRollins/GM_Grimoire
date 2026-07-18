@@ -586,7 +586,7 @@ tableOfContents:
 <p>When you reach character level 3, you also always have the <a class="tooltip-hover spell-tooltip" href="https://www.dndbeyond.com/spells/2619011-see-invisibility" data-tooltip-href="/spells/2619011-tooltip">See Invisibility</a> spell prepared and can cast it the same way.</p>
 <p><strong><em> Spells of the Mark. </em></strong> If you have the Spellcasting or Pact Magic class feature, the spells on the Mark of Detection Spells table are added to that feature’s spell list.</p>
 
-<table class="table-compendium table--generic-dice">
+<table class="table-compendium table--generic-dice" id="session-table-1">
     <caption>
 
 <h4 class="compendium-hr quick-menu-exclude heading-anchor" id="MarkofDetectionSpells">Mark of Detection Spells</h4>
@@ -633,7 +633,7 @@ tableOfContents:
 <p>When you reach character level 3, you also always have the <a class="tooltip-hover spell-tooltip" href="https://www.dndbeyond.com/spells/2619002-locate-object" data-tooltip-href="/spells/2619002-tooltip">Locate Object</a> spell prepared and can cast it the same way.</p>
 <p><strong><em> Spells of the Mark. </em></strong> If you have the Spellcasting or Pact Magic class feature, the spells on the Mark of Finding Spells table are added to that feature’s spell list.</p>
 
-<table class="table-compendium table--generic-dice">
+<table class="table-compendium table--generic-dice" id="session-table-2">
     <caption>
 
 <h4 class="compendium-hr quick-menu-exclude heading-anchor" id="MarkofFindingSpells">Mark of Finding Spells</h4>
@@ -680,7 +680,7 @@ tableOfContents:
 <p><strong><em> Monstrous Connections. </em></strong> When you reach character level 3, you can target a Monstrosity when you cast <em>Animal Friendship</em> or <em>Speak with Animals</em> if the creature’s Intelligence score is 3 or lower.</p>
 <p><strong><em> Spells of the Mark. </em></strong> If you have the Spellcasting or Pact Magic class feature, the spells on the Mark of Handling Spells table are added to that feature’s spell list.</p>
 
-<table class="table-compendium table--generic-dice">
+<table class="table-compendium table--generic-dice" id="session-table-3">
     <caption>
 
 <h4 class="compendium-hr quick-menu-exclude heading-anchor" id="MarkofHandlingSpells">Mark of Handling Spells</h4>
@@ -727,7 +727,7 @@ tableOfContents:
 <p>When you reach character level 3, you also always have the <a class="tooltip-hover spell-tooltip" href="https://www.dndbeyond.com/spells/2619016-lesser-restoration" data-tooltip-href="/spells/2619016-tooltip">Lesser Restoration</a> spell prepared and can cast it the same way.</p>
 <p><strong><em> Spells of the Mark. </em></strong> If you have the Spellcasting or Pact Magic class feature, the spells on the Mark of Healing Spells table are added to that feature’s spell list.</p>
 
-<table class="table-compendium table--generic-dice">
+<table class="table-compendium table--generic-dice" id="session-table-4">
     <caption>
 
 <h4 class="compendium-hr quick-menu-exclude heading-anchor" id="MarkofHealingSpells">Mark of Healing Spells</h4>
@@ -774,7 +774,7 @@ tableOfContents:
 <p>When you reach character level 3, you also always have the <a class="tooltip-hover spell-tooltip" href="https://www.dndbeyond.com/spells/2618959-calm-emotions" data-tooltip-href="/spells/2618959-tooltip">Calm Emotions</a> spell prepared and can cast it the same way.</p>
 <p><strong><em> Spells of the Mark. </em></strong> If you have the Spellcasting or Pact Magic class feature, the spells on the Mark of Hospitality Spells table are added to that feature’s spell list.</p>
 
-<table class="table-compendium table--generic-dice">
+<table class="table-compendium table--generic-dice" id="session-table-5">
     <caption>
 
 <h4 class="compendium-hr quick-menu-exclude heading-anchor" id="MarkofHospitalitySpells">Mark of Hospitality Spells</h4>
@@ -820,7 +820,7 @@ tableOfContents:
 <p><strong><em> Spellsmith. </em></strong> You know the <a class="tooltip-hover spell-tooltip" href="https://www.dndbeyond.com/spells/2619033-mending" data-tooltip-href="/spells/2619033-tooltip">Mending</a> cantrip. You also always have the <a class="tooltip-hover spell-tooltip" href="https://www.dndbeyond.com/spells/2619024-magic-weapon" data-tooltip-href="/spells/2619024-tooltip">Magic Weapon</a> spell prepared. You can cast it once without a spell slot, and you regain the ability to cast it in that way when you finish a Long Rest. You can also cast it using any spell slots you have. Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells (choose when you select this feat).</p>
 <p><strong><em> Spells of the Mark. </em></strong> If you have the Spellcasting or Pact Magic class feature, the spells on the Mark of Making Spells table are added to that feature’s spell list.</p>
 
-<table class="table-compendium table--generic-dice">
+<table class="table-compendium table--generic-dice" id="session-table-6">
     <caption>
 
 <h4 class="compendium-hr quick-menu-exclude heading-anchor" id="MarkofMakingSpells">Mark of Making Spells</h4>
@@ -867,7 +867,7 @@ tableOfContents:
 <p><strong><em> Magical Passage. </em></strong> You always have the <a class="tooltip-hover spell-tooltip" href="https://www.dndbeyond.com/spells/2619133-misty-step" data-tooltip-href="/spells/2619133-tooltip">Misty Step</a> spell prepared. You can cast it once without a spell slot, and you regain the ability to cast it in that way when you finish a Long Rest. You can also cast it using any spell slots you have. Intelligence, Wisdom, or Charisma is your spellcasting ability for this spell (choose when you select this feat).</p>
 <p><strong><em> Spells of the Mark. </em></strong> If you have the Spellcasting or Pact Magic class feature, the spells on the Mark of Passage Spells table are added to that feature’s spell list.</p>
 
-<table class="table-compendium table--generic-dice">
+<table class="table-compendium table--generic-dice" id="session-table-7">
     <caption>
 
 <h4 class="compendium-hr quick-menu-exclude heading-anchor" id="MarkofPassageSpells">Mark of Passage Spells</h4>
@@ -914,7 +914,7 @@ tableOfContents:
 <p>When you reach character level 3, you also always have the <a class="tooltip-hover spell-tooltip" href="https://www.dndbeyond.com/spells/2619023-magic-mouth" data-tooltip-href="/spells/2619023-tooltip">Magic Mouth</a> spell prepared and can cast it the same way.</p>
 <p><strong><em> Spells of the Mark. </em></strong> If you have the Spellcasting or Pact Magic class feature, the spells on the Mark of Scribing Spells table are added to that feature’s spell list.</p>
 
-<table class="table-compendium table--generic-dice">
+<table class="table-compendium table--generic-dice" id="session-table-8">
     <caption>
 
 <h4 class="compendium-hr quick-menu-exclude heading-anchor" id="MarkofScribingSpells">Mark of Scribing Spells</h4>
@@ -961,7 +961,7 @@ tableOfContents:
 <p><strong><em> Vigilant Guardian. </em></strong> When a creature you can see within 5 feet of you is hit by an attack roll, you can take a Reaction to swap places with that creature, and you are hit by the attack instead. You can use this feature a number of times equal to your Proficiency Bonus and regain all expended uses when you finish a Long Rest.</p>
 <p><strong><em> Spells of the Mark. </em></strong> If you have the Spellcasting or Pact Magic class feature, the spells on the Mark of Sentinel Spells table are added to that feature’s spell list.</p>
 
-<table class="table-compendium table--generic-dice">
+<table class="table-compendium table--generic-dice" id="session-table-9">
     <caption>
 
 <h4 class="compendium-hr quick-menu-exclude heading-anchor" id="MarkofSentinelSpells">Mark of Sentinel Spells</h4>
@@ -1007,7 +1007,7 @@ tableOfContents:
 <p><strong><em> Shape Shadows. </em></strong> You know the <a class="tooltip-hover spell-tooltip" href="https://www.dndbeyond.com/spells/2619039-minor-illusion" data-tooltip-href="/spells/2619039-tooltip">Minor Illusion</a> cantrip. You also always have the <a class="tooltip-hover spell-tooltip" href="https://www.dndbeyond.com/spells/2619116-invisibility" data-tooltip-href="/spells/2619116-tooltip">Invisibility</a> spell prepared. You can cast it once without a spell slot, and you regain the ability to cast it in that way when you finish a Long Rest. You can also cast it using any spell slots you have of the appropriate level. Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells (choose when you select this feat).</p>
 <p><strong><em> Spells of the Mark. </em></strong> If you have the Spellcasting or Pact Magic class feature, the spells on the Mark of Shadow Spells table are added to that feature’s spell list.</p>
 
-<table class="table-compendium table--generic-dice">
+<table class="table-compendium table--generic-dice" id="session-table-10">
     <caption>
 
 <h4 class="compendium-hr quick-menu-exclude heading-anchor" id="MarkofShadowSpells">Mark of Shadow Spells</h4>
@@ -1054,7 +1054,7 @@ tableOfContents:
 <p><strong><em> Storm Magic. </em></strong> You know the <a class="tooltip-hover spell-tooltip" href="https://www.dndbeyond.com/spells/2619179-thunderclap" data-tooltip-href="/spells/2619179-tooltip">Thunderclap</a> cantrip. When you reach character level 3, you also always have the <a class="tooltip-hover spell-tooltip" href="https://www.dndbeyond.com/spells/2619137-gust-of-wind" data-tooltip-href="/spells/2619137-tooltip">Gust of Wind</a> spell prepared. You can cast it once without a spell slot, and you regain the ability to cast it in that way when you finish a Long Rest. You can also cast it using any spell slots you have of the appropriate level. Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells (choose when you select this feat).</p>
 <p><strong><em> Spells of the Mark. </em></strong> If you have the Spellcasting or Pact Magic class feature, the spells on the Mark of Storm Spells table are added to that feature’s spell list.</p>
 
-<table class="table-compendium table--generic-dice">
+<table class="table-compendium table--generic-dice" id="session-table-11">
     <caption>
 
 <h4 class="compendium-hr quick-menu-exclude heading-anchor" id="MarkofStormSpells">Mark of Storm Spells</h4>
@@ -1101,7 +1101,7 @@ tableOfContents:
 <p>When you reach character level 3, you also always have the <a class="tooltip-hover spell-tooltip" href="https://www.dndbeyond.com/spells/2618868-arcane-lock" data-tooltip-href="/spells/2618868-tooltip">Arcane Lock</a> spell prepared and can cast it the same way.</p>
 <p><strong><em> Spells of the Mark. </em></strong> If you have the Spellcasting or Pact Magic class feature, the spells on the Mark of Warding Spells table are added to that feature’s spell list.</p>
 
-<table class="table-compendium table--generic-dice">
+<table class="table-compendium table--generic-dice" id="session-table-12">
     <caption>
 
 <h4 class="compendium-hr quick-menu-exclude heading-anchor" id="MarkofWardingSpells">Mark of Warding Spells</h4>
@@ -1342,7 +1342,7 @@ tableOfContents:
 <p><strong><em> Ability Score Increase. </em></strong> Increase one ability score of your choice by 1, to a maximum of 30.</p>
 <p><strong><em> Aberrant Magic. </em></strong> Choose a level 8 or lower spell from the Sorcerer spell list or a spell from the Siberys Dragonmark Spells table (the table includes dragonmark suggestions if you’d like to associate a spell with one of the marks). You always have that spell prepared. You can cast it once without a spell slot or spell components, and you regain the ability to cast it in that way when you finish a Short or Long Rest. You can also cast this spell using any spell slots you have of the appropriate level. Intelligence, Wisdom, or Charisma is your spellcasting ability for this spell (choose when you gain this feat).</p>
 
-<table class="table-compendium table--left-all">
+<table class="table-compendium table--left-all" id="session-table-13">
     <caption>
 
 <h4 class="compendium-hr quick-menu-exclude heading-anchor" id="SiberysDragonmarkSpells">Siberys Dragonmark Spells</h4>

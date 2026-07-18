@@ -1,0 +1,900 @@
+{
+  "title": "The Magister’s Masquerade",
+  "sourcebook": "Strixhaven: A Curriculum of Chaos",
+  "bookSlug": "strixhaven-a-curriculum-of-chaos",
+  "world": "Arcavios",
+  "edition": "2014 rules",
+  "chapter": "The Magister’s Masquerade",
+  "chapterNumber": 5,
+  "order": 12,
+  "navGroup": "Year Three",
+  "kind": "adventure",
+  "audience": "gm",
+  "slug": "strixhaven-the-magisters-masquerade",
+  "chapterSlug": "the-magisters-masquerade",
+  "summary": "As the characters’ third year at Strixhaven dawns, their legacies are beginning to solidify. They made it through their second year of studies, and their heroics have earned them reputations as some of the most remarkable student-mages on campus.",
+  "wordCount": 5085,
+  "originalPath": "Arcavios/Stixhaven/Chapter 12 - The Magister's Masquerade.html",
+  "rawUrl": "/archive/strixhaven/Chapter%2012%20-%20The%20Magister's%20Masquerade.html",
+  "originalAnchors": [
+    {
+      "id": "TheMagistersMasquerade",
+      "text": "The Magister’s Masquerade",
+      "element": "h1"
+    },
+    {
+      "id": "comp-next-nav",
+      "text": "",
+      "element": "div"
+    },
+    {
+      "id": "imgsplash",
+      "text": "The annual Magister’s Masquerade is a night of magicand fun that third-year students will never forget",
+      "element": "figure"
+    },
+    {
+      "id": "RunningThisAdventure",
+      "text": "Running This Adventure",
+      "element": "h2"
+    },
+    {
+      "id": "AdventureOverview",
+      "text": "Adventure Overview",
+      "element": "h3"
+    },
+    {
+      "id": "AStandaloneAdventure",
+      "text": "A Standalone Adventure",
+      "element": "h4"
+    },
+    {
+      "id": "CharacterAdvancement",
+      "text": "Character Advancement",
+      "element": "h3"
+    },
+    {
+      "id": "ThirdYearLevelAdvancement",
+      "text": "Third-Year Level Advancement Level Reached When Characters… 7th Quell the panicked students as they prepare for the Magister’s Masquerade 8th Finish the adventu",
+      "element": "table"
+    },
+    {
+      "id": "RandomEncounters",
+      "text": "Random Encounters",
+      "element": "h3"
+    },
+    {
+      "id": "ThirdYearEncounters",
+      "text": "Third-Year Encounters d10 Encounter 1–3 2d4 pest mascots (see chapter 7) making off with a student’s ball gown 4–5 1d4 Lorehold apprentices (see chapter 7) affe",
+      "element": "table"
+    },
+    {
+      "id": "StudentSchedules",
+      "text": "Student Schedules",
+      "element": "h3"
+    },
+    {
+      "id": "ThirdYearCourses",
+      "text": "Third-Year Courses d10 Course Offered By 1 Advanced Abstraction Quandrix 2 Aquatic Cryptozoology Witherbloom 3 Ethics in Enchantment Silverquill 4 Extradimensio",
+      "element": "table"
+    },
+    {
+      "id": "MysteriousMagic",
+      "text": "Mysterious Magic",
+      "element": "h3"
+    },
+    {
+      "id": "MurgaxorsOrb",
+      "text": "Murgaxor’s Orb",
+      "element": "h4"
+    },
+    {
+      "id": "CordiallyInvited",
+      "text": "Cordially Invited",
+      "element": "h2"
+    },
+    {
+      "id": "TheMagistersMasquerade1",
+      "text": "The Magister’s Masquerade",
+      "element": "h3"
+    },
+    {
+      "id": "imginvitation",
+      "text": "",
+      "element": "figure"
+    },
+    {
+      "id": "MasqueCharm",
+      "text": "Masque Charm",
+      "element": "h4"
+    },
+    {
+      "id": "MasqueradeHistory",
+      "text": "Masquerade History",
+      "element": "h4"
+    },
+    {
+      "id": "ReceptionatBowsEnd",
+      "text": "Reception at Bow’s End",
+      "element": "h2"
+    },
+    {
+      "id": "imgaugustatullus",
+      "text": "Dean Augusta Tullus",
+      "element": "figure"
+    },
+    {
+      "id": "ActivitiesandRumors",
+      "text": "Activities and Rumors",
+      "element": "h3"
+    },
+    {
+      "id": "ReceptionActivities",
+      "text": "Reception Activities d6 Activity 1 Catching Up. The student wants to talk about their recent break, which they spent reading everything by a specific author, ma",
+      "element": "table"
+    },
+    {
+      "id": "ThirdYearRumorMill",
+      "text": "Third-Year Rumor Mill d6 Rumor Accuracy 1 Some professors seek to change Mage Tower for the sake of student safety. Many students oppose this. False 2 There’s a",
+      "element": "table"
+    },
+    {
+      "id": "RelationshipEncounter",
+      "text": "Relationship Encounter",
+      "element": "h4"
+    },
+    {
+      "id": "MasqueradeCommittee",
+      "text": "Masquerade Committee",
+      "element": "h3"
+    },
+    {
+      "id": "SnackSampling",
+      "text": "Snack Sampling",
+      "element": "h3"
+    },
+    {
+      "id": "BowsEndSnacks",
+      "text": "Bow’s End Snacks d6 Snack 1 Eel rolls with sticky rice, jalapeno-infusedhoney-ginger sauce, and wriggling eels 2 Exploding cheese puffs that pop in the mouth wi",
+      "element": "table"
+    },
+    {
+      "id": "OneTooMany",
+      "text": "One Too Many?",
+      "element": "h4"
+    },
+    {
+      "id": "TheChallenge",
+      "text": "The Challenge",
+      "element": "h3"
+    },
+    {
+      "id": "WhoAretheRivals",
+      "text": "Who Are the Rivals?",
+      "element": "h4"
+    },
+    {
+      "id": "WhyaChallenge",
+      "text": "Why a Challenge?",
+      "element": "h4"
+    },
+    {
+      "id": "ChallengeDetails",
+      "text": "Challenge Details",
+      "element": "h4"
+    },
+    {
+      "id": "FateatFurygale",
+      "text": "Fate at Furygale",
+      "element": "h2"
+    },
+    {
+      "id": "imgfurygale",
+      "text": "Students sometimes sneak off to the Furygale Repository, adangerous disposal site for failed magic, to duel away from prying eyes",
+      "element": "figure"
+    },
+    {
+      "id": "FurygaleRepository",
+      "text": "Furygale Repository",
+      "element": "h3"
+    },
+    {
+      "id": "FurygaleRepositoryFeatures",
+      "text": "Furygale Repository Features",
+      "element": "h4"
+    },
+    {
+      "id": "Map51furygalerepository",
+      "text": "Map 5.1: furygale repository View Player Version",
+      "element": "figure"
+    },
+    {
+      "id": "FurygaleRepositorySecrets",
+      "text": "Furygale Repository Secrets",
+      "element": "h4"
+    },
+    {
+      "id": "DuelsintheRepository",
+      "text": "Duels in the Repository",
+      "element": "h3"
+    },
+    {
+      "id": "imgmagicoffurygale",
+      "text": "The magic of Furygale is erratic and dangerous.Students dueling there often get in over their heads",
+      "element": "figure"
+    },
+    {
+      "id": "DuelingBegins",
+      "text": "Dueling Begins",
+      "element": "h3"
+    },
+    {
+      "id": "FoulPlay",
+      "text": "Foul Play",
+      "element": "h3"
+    },
+    {
+      "id": "Aftermath",
+      "text": "Aftermath",
+      "element": "h4"
+    },
+    {
+      "id": "AdvancedArcaneHistoryExamRelics",
+      "text": "Advanced Arcane History Exam: Relics",
+      "element": "h2"
+    },
+    {
+      "id": "TheRelicLecture",
+      "text": "The Relic Lecture",
+      "element": "h3"
+    },
+    {
+      "id": "imgprofessors",
+      "text": "Lorehold professors often use relics they’ve unearthed in their lectures about magical objects",
+      "element": "figure"
+    },
+    {
+      "id": "StudyingPhase",
+      "text": "Studying Phase",
+      "element": "h3"
+    },
+    {
+      "id": "TestingPhase",
+      "text": "Testing Phase",
+      "element": "h3"
+    }
+  ],
+  "sourceHash": "f01acc3cc19e876d5a9a9d78c391de7a3b20abd39175f1582cab8392744ead4a",
+  "extractionDate": "2026-07-13T07:40:57.647Z",
+  "extractionVersion": 3,
+  "headings": [
+    {
+      "depth": 1,
+      "id": "TheMagistersMasquerade",
+      "text": "The Magister’s Masquerade"
+    },
+    {
+      "depth": 2,
+      "id": "RunningThisAdventure",
+      "text": "Running This Adventure"
+    },
+    {
+      "depth": 3,
+      "id": "AdventureOverview",
+      "text": "Adventure Overview"
+    },
+    {
+      "depth": 4,
+      "id": "AStandaloneAdventure",
+      "text": "A Standalone Adventure"
+    },
+    {
+      "depth": 3,
+      "id": "CharacterAdvancement",
+      "text": "Character Advancement"
+    },
+    {
+      "depth": 3,
+      "id": "RandomEncounters",
+      "text": "Random Encounters"
+    },
+    {
+      "depth": 3,
+      "id": "StudentSchedules",
+      "text": "Student Schedules"
+    },
+    {
+      "depth": 3,
+      "id": "MysteriousMagic",
+      "text": "Mysterious Magic"
+    },
+    {
+      "depth": 4,
+      "id": "MurgaxorsOrb",
+      "text": "Murgaxor’s Orb"
+    },
+    {
+      "depth": 2,
+      "id": "CordiallyInvited",
+      "text": "Cordially Invited"
+    },
+    {
+      "depth": 3,
+      "id": "TheMagistersMasquerade1",
+      "text": "The Magister’s Masquerade"
+    },
+    {
+      "depth": 4,
+      "id": "MasqueCharm",
+      "text": "Masque Charm"
+    },
+    {
+      "depth": 4,
+      "id": "MasqueradeHistory",
+      "text": "Masquerade History"
+    },
+    {
+      "depth": 2,
+      "id": "ReceptionatBowsEnd",
+      "text": "Reception at Bow’s End"
+    },
+    {
+      "depth": 3,
+      "id": "ActivitiesandRumors",
+      "text": "Activities and Rumors"
+    },
+    {
+      "depth": 4,
+      "id": "RelationshipEncounter",
+      "text": "Relationship Encounter"
+    },
+    {
+      "depth": 3,
+      "id": "MasqueradeCommittee",
+      "text": "Masquerade Committee"
+    },
+    {
+      "depth": 3,
+      "id": "SnackSampling",
+      "text": "Snack Sampling"
+    },
+    {
+      "depth": 4,
+      "id": "OneTooMany",
+      "text": "One Too Many?"
+    },
+    {
+      "depth": 3,
+      "id": "TheChallenge",
+      "text": "The Challenge"
+    },
+    {
+      "depth": 4,
+      "id": "WhoAretheRivals",
+      "text": "Who Are the Rivals?"
+    },
+    {
+      "depth": 4,
+      "id": "WhyaChallenge",
+      "text": "Why a Challenge?"
+    },
+    {
+      "depth": 4,
+      "id": "ChallengeDetails",
+      "text": "Challenge Details"
+    },
+    {
+      "depth": 2,
+      "id": "FateatFurygale",
+      "text": "Fate at Furygale"
+    },
+    {
+      "depth": 3,
+      "id": "FurygaleRepository",
+      "text": "Furygale Repository"
+    },
+    {
+      "depth": 4,
+      "id": "FurygaleRepositoryFeatures",
+      "text": "Furygale Repository Features"
+    },
+    {
+      "depth": 4,
+      "id": "FurygaleRepositorySecrets",
+      "text": "Furygale Repository Secrets"
+    },
+    {
+      "depth": 3,
+      "id": "DuelsintheRepository",
+      "text": "Duels in the Repository"
+    },
+    {
+      "depth": 3,
+      "id": "DuelingBegins",
+      "text": "Dueling Begins"
+    },
+    {
+      "depth": 3,
+      "id": "FoulPlay",
+      "text": "Foul Play"
+    },
+    {
+      "depth": 4,
+      "id": "Aftermath",
+      "text": "Aftermath"
+    },
+    {
+      "depth": 2,
+      "id": "AdvancedArcaneHistoryExamRelics",
+      "text": "Advanced Arcane History Exam: Relics"
+    },
+    {
+      "depth": 3,
+      "id": "TheRelicLecture",
+      "text": "The Relic Lecture"
+    },
+    {
+      "depth": 3,
+      "id": "StudyingPhase",
+      "text": "Studying Phase"
+    },
+    {
+      "depth": 3,
+      "id": "TestingPhase",
+      "text": "Testing Phase"
+    }
+  ],
+  "tags": {
+    "creatures": [
+      "cloaker",
+      "helmed horror",
+      "inkling mascots",
+      "Lorehold apprentices",
+      "Lorehold professor of order",
+      "oni",
+      "pest mascots",
+      "rug of smothering"
+    ],
+    "spells": [
+      "detect magic",
+      "disguise self",
+      "Otto’s irresistible dance",
+      "raise dead",
+      "remove curse",
+      "suggestion"
+    ],
+    "items": [
+      "dust of sneezing and choking",
+      "masque charm",
+      "Masque Charm",
+      "Murgaxor’s orb",
+      "Murgaxor’s Orb",
+      "potions of healing"
+    ],
+    "locations": [
+      "Biblioplex",
+      "Bow’s End Tavern",
+      "Lorehold",
+      "Prismari",
+      "Prismari Campus",
+      "Quandrix",
+      "Silverquill",
+      "Strixhaven",
+      "Witherbloom"
+    ],
+    "npcs": [],
+    "topics": [
+      "adventure",
+      "campus-life",
+      "exams",
+      "gm-tools",
+      "read-aloud",
+      "relationships",
+      "tables"
+    ]
+  },
+  "session": {
+    "readAloud": [
+      {
+        "id": "session-read-aloud-1",
+        "label": "Read aloud 1",
+        "excerpt": "Classes haven’t even started at Strixhaven yet, but excitement and magic are already in the air on campus. Amid the bustle of students reuniting after their time away and preparin…"
+      },
+      {
+        "id": "session-read-aloud-2",
+        "label": "Read aloud 2",
+        "excerpt": "A crowd of boisterous third-year students fills Bow’s End Tavern, abuzz with conversations about the Magister’s Masquerade and dream outfits for the event. Among the crowds of cha…"
+      },
+      {
+        "id": "session-read-aloud-3",
+        "label": "Read aloud 3",
+        "excerpt": "Out of place amid the laughter and conversation comes an uncomfortable-sounding groan. Two students escort a third sick-looking student toward the tavern doors. As they pass, one …"
+      },
+      {
+        "id": "session-read-aloud-4",
+        "label": "Read aloud 4",
+        "excerpt": "The space within the Furygale Repository is a vast, open area filled with discarded magical creations. Elemental forces infuse the structure’s walls and numerous alcoves, the surf…"
+      },
+      {
+        "id": "session-read-aloud-5",
+        "label": "Read aloud 5",
+        "excerpt": "“What… what are you doing?” your opponent stammers, panicking as their friends sprawl across the floor. “Cut it out, cheaters! You can’t do this!”"
+      },
+      {
+        "id": "session-read-aloud-6",
+        "label": "Read aloud 6",
+        "excerpt": "“A historian interrogates the stories we tell ourselves about the past, learning how true they are—or otherwise,” lectures Dean Tullus. “Only by understanding the truth of the pas…"
+      }
+    ],
+    "rules": [],
+    "tables": [
+      {
+        "id": "ThirdYearLevelAdvancement",
+        "label": "Third-Year Level Advancement",
+        "excerpt": "Third-Year Level Advancement Level Reached When Characters… 7th Quell the panicked students as they prepare for the Magister’s Masquerade 8th Finish the adventure"
+      },
+      {
+        "id": "ThirdYearEncounters",
+        "label": "Third-Year Encounters",
+        "excerpt": "Third-Year Encounters d10 Encounter 1–3 2d4 pest mascots (see chapter 7) making off with a student’s ball gown 4–5 1d4 Lorehold apprentices (see chapter 7) affected by an Otto’s i…"
+      },
+      {
+        "id": "ThirdYearCourses",
+        "label": "Third-Year Courses",
+        "excerpt": "Third-Year Courses d10 Course Offered By 1 Advanced Abstraction Quandrix 2 Aquatic Cryptozoology Witherbloom 3 Ethics in Enchantment Silverquill 4 Extradimensional Architecture Qu…"
+      },
+      {
+        "id": "ReceptionActivities",
+        "label": "Reception Activities",
+        "excerpt": "Reception Activities d6 Activity 1 Catching Up. The student wants to talk about their recent break, which they spent reading everything by a specific author, mastering an esoteric…"
+      },
+      {
+        "id": "ThirdYearRumorMill",
+        "label": "Third-Year Rumor Mill",
+        "excerpt": "Third-Year Rumor Mill d6 Rumor Accuracy 1 Some professors seek to change Mage Tower for the sake of student safety. Many students oppose this. False 2 There’s a ailment going arou…"
+      },
+      {
+        "id": "BowsEndSnacks",
+        "label": "Bow’s End Snacks",
+        "excerpt": "Bow’s End Snacks d6 Snack 1 Eel rolls with sticky rice, jalapeno-infusedhoney-ginger sauce, and wriggling eels 2 Exploding cheese puffs that pop in the mouth with cheesy flavor an…"
+      }
+    ],
+    "statBlocks": [],
+    "maps": [
+      {
+        "id": "session-player-map-1",
+        "label": "Map 5.1: furygale repository",
+        "dmUrl": "https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/map-5.1-furygale-repository.jpg",
+        "playerUrl": "https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/map-5.1-furygale-repository-player.jpg"
+      }
+    ],
+    "quickLinks": [
+      {
+        "depth": 2,
+        "id": "RunningThisAdventure",
+        "text": "Running This Adventure",
+        "type": "rule"
+      },
+      {
+        "depth": 3,
+        "id": "AdventureOverview",
+        "text": "Adventure Overview",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "AStandaloneAdventure",
+        "text": "A Standalone Adventure",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "CharacterAdvancement",
+        "text": "Character Advancement",
+        "type": "rule"
+      },
+      {
+        "depth": 3,
+        "id": "RandomEncounters",
+        "text": "Random Encounters",
+        "type": "encounter"
+      },
+      {
+        "depth": 3,
+        "id": "StudentSchedules",
+        "text": "Student Schedules",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "MysteriousMagic",
+        "text": "Mysterious Magic",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "MurgaxorsOrb",
+        "text": "Murgaxor’s Orb",
+        "type": "reference"
+      },
+      {
+        "depth": 2,
+        "id": "CordiallyInvited",
+        "text": "Cordially Invited",
+        "type": "scene"
+      },
+      {
+        "depth": 3,
+        "id": "TheMagistersMasquerade1",
+        "text": "The Magister’s Masquerade",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "MasqueCharm",
+        "text": "Masque Charm",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "MasqueradeHistory",
+        "text": "Masquerade History",
+        "type": "reference"
+      },
+      {
+        "depth": 2,
+        "id": "ReceptionatBowsEnd",
+        "text": "Reception at Bow’s End",
+        "type": "scene"
+      },
+      {
+        "depth": 3,
+        "id": "ActivitiesandRumors",
+        "text": "Activities and Rumors",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "RelationshipEncounter",
+        "text": "Relationship Encounter",
+        "type": "relationship"
+      },
+      {
+        "depth": 3,
+        "id": "MasqueradeCommittee",
+        "text": "Masquerade Committee",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "SnackSampling",
+        "text": "Snack Sampling",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "OneTooMany",
+        "text": "One Too Many?",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "TheChallenge",
+        "text": "The Challenge",
+        "type": "encounter"
+      },
+      {
+        "depth": 4,
+        "id": "WhoAretheRivals",
+        "text": "Who Are the Rivals?",
+        "type": "relationship"
+      },
+      {
+        "depth": 4,
+        "id": "WhyaChallenge",
+        "text": "Why a Challenge?",
+        "type": "encounter"
+      },
+      {
+        "depth": 4,
+        "id": "ChallengeDetails",
+        "text": "Challenge Details",
+        "type": "encounter"
+      },
+      {
+        "depth": 2,
+        "id": "FateatFurygale",
+        "text": "Fate at Furygale",
+        "type": "scene"
+      },
+      {
+        "depth": 3,
+        "id": "FurygaleRepository",
+        "text": "Furygale Repository",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "FurygaleRepositoryFeatures",
+        "text": "Furygale Repository Features",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "FurygaleRepositorySecrets",
+        "text": "Furygale Repository Secrets",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "DuelsintheRepository",
+        "text": "Duels in the Repository",
+        "type": "encounter"
+      },
+      {
+        "depth": 3,
+        "id": "DuelingBegins",
+        "text": "Dueling Begins",
+        "type": "encounter"
+      },
+      {
+        "depth": 3,
+        "id": "FoulPlay",
+        "text": "Foul Play",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "Aftermath",
+        "text": "Aftermath",
+        "type": "reference"
+      },
+      {
+        "depth": 2,
+        "id": "AdvancedArcaneHistoryExamRelics",
+        "text": "Advanced Arcane History Exam: Relics",
+        "type": "exam"
+      },
+      {
+        "depth": 3,
+        "id": "TheRelicLecture",
+        "text": "The Relic Lecture",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "StudyingPhase",
+        "text": "Studying Phase",
+        "type": "exam"
+      },
+      {
+        "depth": 3,
+        "id": "TestingPhase",
+        "text": "Testing Phase",
+        "type": "exam"
+      }
+    ]
+  },
+  "anomalyFlags": [
+    {
+      "type": "reader-address",
+      "passage": "Here’s what you need to know to run the adventure in this chapter, whether you’re running it as part of a campaign or as a standalone adventure.",
+      "location": "Running This Adventure",
+      "anchor": "RunningThisAdventure",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "If you’re running this chapter’s adventure as a standalone, Murgaxor is long dead, defeated in his first attempt to murder hundreds of students and use their life energy to achieve immortality.",
+      "location": "A Standalone Adventure",
+      "anchor": "AStandaloneAdventure",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "The adventure tells you when cursed students behave strangely during relevant events, so don’t worry about tracking which Strixhaven students are cursed.",
+      "location": "Mysterious Magic",
+      "anchor": "MysteriousMagic",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "At any time during your turn, the orb can cast the suggestion spell (save DC 17), targeting you or one other creature that touched the orb within the last 24 hours.",
+      "location": "Murgaxor’s Orb",
+      "anchor": "MurgaxorsOrb",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "This isn’t a power of the orb that you control.",
+      "location": "Murgaxor’s Orb",
+      "anchor": "MurgaxorsOrb",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "Any Humanoid you touch while holding the orb must succeed on a DC 10 Wisdom saving throw or become cursed.",
+      "location": "Murgaxor’s Orb",
+      "anchor": "MurgaxorsOrb",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "On your turn, the orb can use an action to produce one of the following effects, targeting one or more creatures it has cursed:",
+      "location": "Murgaxor’s Orb",
+      "anchor": "MurgaxorsOrb",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "hidden-actor",
+      "passage": "The curse can also be removed from a creature with a remove curse spell or similar magic.",
+      "location": "Murgaxor’s Orb",
+      "anchor": "MurgaxorsOrb",
+      "confidence": 0.68,
+      "reason": "A passive construction may conceal who performs the action."
+    },
+    {
+      "type": "hidden-actor",
+      "passage": "All cases of the curse end if Murgaxor’s orb is destroyed.",
+      "location": "Murgaxor’s Orb",
+      "anchor": "MurgaxorsOrb",
+      "confidence": 0.68,
+      "reason": "A passive construction may conceal who performs the action."
+    },
+    {
+      "type": "reader-address",
+      "passage": "Amid the bustle of students reuniting after their time away and preparing for the new year, you find your new lodgings.",
+      "location": "Cordially Invited",
+      "anchor": "CordiallyInvited",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "Inside the small, clean room is a bed, a closet, and a desk, and on the desktop is a thick piece of vellum, carefully rolled, sealed, and bearing your name.",
+      "location": "Cordially Invited",
+      "anchor": "CordiallyInvited",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "While wearing this charm, you can use an action to cast the disguise self spell (DC 13 to discern the disguise).",
+      "location": "Masque Charm",
+      "anchor": "MasqueCharm",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "hidden-actor",
+      "passage": "In either case, the spell ends if the charm is removed from you.",
+      "location": "Masque Charm",
+      "anchor": "MasqueCharm",
+      "confidence": 0.68,
+      "reason": "A passive construction may conceal who performs the action."
+    },
+    {
+      "type": "hidden-actor",
+      "passage": "A statue fights until it is destroyed or its opponents leave the Furygale Repository.",
+      "location": "Furygale Repository Secrets",
+      "anchor": "FurygaleRepositorySecrets",
+      "confidence": 0.68,
+      "reason": "A passive construction may conceal who performs the action."
+    },
+    {
+      "type": "hidden-actor",
+      "passage": "A character who succeeds on a DC 14 Intelligence (Arcana) check knows that these marks serve as stations for student duelists, and the scars between them were made by violent magic.",
+      "location": "Furygale Repository Secrets",
+      "anchor": "FurygaleRepositorySecrets",
+      "confidence": 0.68,
+      "reason": "A passive construction may conceal who performs the action."
+    }
+  ],
+  "contentHtml": "<h1 class=\"compendium-hr\" id=\"TheMagistersMasquerade\">The Magister’s Masquerade</h1>\n\n<p>As the characters’ third year at Strixhaven dawns, their legacies are beginning to solidify. They made it through their second year of studies, and their heroics have earned them reputations as some of the most remarkable student-mages on campus.</p>\n<p>In this adventure, the characters are invited to the Magister’s Masquerade, one of the most elaborate annual events on campus. Before the big dance, though, they’ll clash with rivals, pick the perfect masquerade outfit, and help prepare for one of the most glamorous nights of their lives. During this time, an influential faculty member begins to act strangely, and a menacing shadow falls over all of Strixhaven.</p>\n<figure id=\"imgsplash\" class=\"compendium-image\">\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/05-001.chapter-splash.jpg\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/05-001.chapter-splash.jpg\" class=\"ddb-lightbox-inner\" style=\"width: 650px;\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a>\n<figcaption>The annual Magister’s Masquerade is a night of magic<br>and fun that third-year students will never forget</figcaption>\n</figure>\n<h2 class=\"compendium-hr heading-anchor\" id=\"RunningThisAdventure\">Running This Adventure</h2>\n<p>Here’s what you need to know to run the adventure in this chapter, whether you’re running it as part of a campaign or as a standalone adventure.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"AdventureOverview\">Adventure Overview</h3>\n<p>Recently, Murgaxor found his opportunity to wreak new havoc on Strixhaven University. During an archaeological expedition in the Fortress Badlands, Dean Augusta Tullus of Lorehold College unearthed a curious orb. Unknown to her, this orb allows Murgaxor to influence her to fulfill his plan to drain the life from Strixhaven’s students.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"AStandaloneAdventure\">A Standalone Adventure</h4>\n<p>If you’re running this chapter’s adventure as a standalone, Murgaxor is long dead, defeated in his first attempt to murder hundreds of students and use their life energy to achieve immortality. However, his spirit lingers in <a class=\"tooltip-hover magic-item-tooltip\" href=\"https://www.dndbeyond.com/magic-items/4239820-murgaxors-orb\" data-tooltip-href=\"/magic-items/4239820-tooltip\">Murgaxor’s orb</a>, allowing him a chance to sow his revenge.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"CharacterAdvancement\">Character Advancement</h3>\n<p>This adventure assumes the characters are 6th level when it begins. The Third-Year Level Advancement table summarizes when the characters gain levels during the adventure.</p>\n<table id=\"ThirdYearLevelAdvancement\" class=\"table-compendium table--left-col2\">\n<caption class=\"compendium-hr heading-anchor\"><a href=\"#ThirdYearLevelAdvancement\"></a>Third-Year Level Advancement</caption>\n<thead>\n<tr>\n<th>Level</th>\n<th>Reached When Characters…</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>7th</td>\n<td>Quell the panicked students as they prepare for the Magister’s Masquerade</td>\n</tr>\n<tr>\n<td>8th</td>\n<td>Finish the adventure</td>\n</tr>\n</tbody>\n</table>\n<h3 class=\"compendium-hr heading-anchor\" id=\"RandomEncounters\">Random Encounters</h3>\n<p>Use the Third-Year Encounters table for random encounters on campus during this adventure.</p>\n<table id=\"ThirdYearEncounters\" class=\"table-compendium table--generic-dice\">\n<caption class=\"compendium-hr heading-anchor\"><a href=\"#ThirdYearEncounters\"></a>Third-Year Encounters</caption>\n<thead>\n<tr>\n<th>d10</th>\n<th>Encounter</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1–3</td>\n<td>2d4 <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160317-pest-mascot\" data-tooltip-href=\"/monsters/2160317-tooltip\">pest mascots</a> (see <a href=\"/chapters/strixhaven-friends-and-foes/#PestMascot\" title=\"chapter 7\">chapter 7</a>) making off with a student’s ball gown</td>\n</tr>\n<tr>\n<td>4–5</td>\n<td>1d4 <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160308-lorehold-apprentice\" data-tooltip-href=\"/monsters/2160308-tooltip\">Lorehold apprentices</a> (see <a href=\"/chapters/strixhaven-friends-and-foes/#LoreholdApprentice\" title=\"chapter 7\">chapter 7</a>) affected by an <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2160-ottos-irresistible-dance\" data-tooltip-href=\"/spells/2160-tooltip\">Otto’s irresistible dance</a> spell</td>\n</tr>\n<tr>\n<td>6–7</td>\n<td>1d6 <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160307-inkling-mascot\" data-tooltip-href=\"/monsters/2160307-tooltip\">inkling mascots</a> (see <a href=\"/chapters/strixhaven-friends-and-foes/#InklingMascot\" title=\"chapter 7\">chapter 7</a>) on a mission to mar a student’s outfit for the Magister’s Masquerade</td>\n</tr>\n<tr>\n<td>8–9</td>\n<td>1d4 bolts of shimmering, animate fabric (use the <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/17000-rug-of-smothering\" data-tooltip-href=\"/monsters/17000-tooltip\">rug of smothering</a> stat block for each bolt) that clearly don’t want to be turned into clothes</td>\n</tr>\n<tr>\n<td>10</td>\n<td>1 <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/16826-cloaker\" data-tooltip-href=\"/monsters/16826-tooltip\">cloaker</a> disguised as part of a student’s outfit for the Magister’s Masquerade</td>\n</tr>\n</tbody>\n</table>\n<h3 class=\"compendium-hr heading-anchor\" id=\"StudentSchedules\">Student Schedules</h3>\n<p>Before starting this adventure, have the players choose at least three courses their characters are taking this year, either by coming up with the courses themselves or by rolling on the Third-Year Courses table. Inform them that the characters are also enrolled in a required course, Advanced Arcane History.</p>\n<table id=\"ThirdYearCourses\" class=\"table-compendium table--generic-dice table--left-last\">\n<caption class=\"compendium-hr heading-anchor\"><a href=\"#ThirdYearCourses\"></a>Third-Year Courses</caption>\n<thead>\n<tr>\n<th>d10</th>\n<th>Course</th>\n<th>Offered By</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1</td>\n<td>Advanced Abstraction</td>\n<td>Quandrix</td>\n</tr>\n<tr>\n<td>2</td>\n<td>Aquatic Cryptozoology</td>\n<td>Witherbloom</td>\n</tr>\n<tr>\n<td>3</td>\n<td>Ethics in Enchantment</td>\n<td>Silverquill</td>\n</tr>\n<tr>\n<td>4</td>\n<td>Extradimensional Architecture</td>\n<td>Quandrix</td>\n</tr>\n<tr>\n<td>5</td>\n<td>History of Magic Rings</td>\n<td>Lorehold</td>\n</tr>\n<tr>\n<td>6</td>\n<td>Introductory Aesthemancy</td>\n<td>Prismari</td>\n</tr>\n<tr>\n<td>7</td>\n<td>Overview of Magical Notation</td>\n<td>Silverquill</td>\n</tr>\n<tr>\n<td>8</td>\n<td>Advanced Arcano-mycology</td>\n<td>Witherbloom</td>\n</tr>\n<tr>\n<td>9</td>\n<td>Principles of Warsinging</td>\n<td>Lorehold</td>\n</tr>\n<tr>\n<td>10</td>\n<td>Turning Inner Fire into Outer Flames</td>\n<td>Prismari</td>\n</tr>\n</tbody>\n</table>\n<h3 class=\"compendium-hr heading-anchor\" id=\"MysteriousMagic\">Mysterious Magic</h3>\n<p>Many of the strange events that occur in this chapter are a result of Murgaxor Grenshel manipulating Dean Tullus using a mysterious orb. This device, <a class=\"tooltip-hover magic-item-tooltip\" href=\"https://www.dndbeyond.com/magic-items/4239820-murgaxors-orb\" data-tooltip-href=\"/magic-items/4239820-tooltip\">Murgaxor’s orb</a> (see below), remains in the dean’s possession throughout the adventure and allows her to spread the curse that afflicts Strixhaven’s students. The adventure tells you when cursed students behave strangely during relevant events, so don’t worry about tracking which Strixhaven students are cursed.</p>\n<aside class=\"block-torn-paper\">\n<h4 class=\"compendium-hr heading-anchor\" id=\"MurgaxorsOrb\"><a class=\"tooltip-hover magic-item-tooltip\" href=\"https://www.dndbeyond.com/magic-items/4239820-murgaxors-orb\" data-tooltip-href=\"/magic-items/4239820-tooltip\">Murgaxor’s Orb</a></h4>\n<p><em>Wondrous Item, Legendary (Requires Attunement)</em></p>\n<p>Roiling green mist fills this glass orb, which the exiled Strixhaven mage Murgaxor once used in foul magical experiments. Murgaxor’s spirit has infused the orb, which he uses to spread a terrible curse among Strixhaven’s students.</p>\n<p><em><strong>Sentience.</strong></em> <a class=\"tooltip-hover magic-item-tooltip\" href=\"https://www.dndbeyond.com/magic-items/4239820-murgaxors-orb\" data-tooltip-href=\"/magic-items/4239820-tooltip\">Murgaxor’s orb</a> is a sentient, chaotic evil magic item with the following properties:</p>\n<ul>\n<li>The orb has an Intelligence of 20, a Wisdom of 16, and a Charisma of 16, as well as hearing and <a class=\"tooltip-hover sense-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#Darkvision\" data-tooltip-href=\"/senses/2-tooltip\">darkvision</a> out to a range of 30 feet.</li>\n<li>The orb can speak, read, and understand Common, and it can communicate telepathically with any creature touching it.</li>\n<li>At any time during your turn, the orb can cast the <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2269-suggestion\" data-tooltip-href=\"/spells/2269-tooltip\">suggestion</a> spell (save DC 17), targeting you or one other creature that touched the orb within the last 24 hours. This isn’t a power of the orb that you control.</li>\n</ul>\n<p><em><strong>Curse.</strong></em> Any Humanoid you touch while holding the orb must succeed on a DC 10 Wisdom saving throw or become cursed. Each creature cursed by the orb bears an echo of Murgaxor’s hateful thoughts, and that creature suffers from headaches that are persistent but not debilitating until the curse ends. On your turn, the orb can use an action to produce one of the following effects, targeting one or more creatures it has cursed:</p>\n<p><strong>Unconsciousness.</strong> The cursed creature falls <a class=\"tooltip-hover condition-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#UnconsciousCondition\" data-tooltip-href=\"/conditions/15-tooltip\">unconscious</a> for 1 hour. The creature is roused if it takes damage or someone uses an action to shake or slap it awake.</p>\n<p><strong>Visions of Terror.</strong> The cursed creature sees terrifying visions, causing it to view all creatures that aren’t also cursed as dangerous monsters for 10 minutes. The cursed creature must use its action each round to make one attack against the nearest non-cursed creature. If the cursed creature has multiple possible targets, it attacks one at random. This effect ends if the cursed creature is <a class=\"tooltip-hover condition-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#IncapacitatedCondition\" data-tooltip-href=\"/conditions/7-tooltip\">incapacitated</a>.</p>\n<p>After either of these effects ends, the affected creature is no longer cursed. The curse can also be removed from a creature with a <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2229-remove-curse\" data-tooltip-href=\"/spells/2229-tooltip\">remove curse</a> spell or similar magic. All cases of the curse end if <a class=\"tooltip-hover magic-item-tooltip\" href=\"https://www.dndbeyond.com/magic-items/4239820-murgaxors-orb\" data-tooltip-href=\"/magic-items/4239820-tooltip\">Murgaxor’s orb</a> is destroyed.</p>\n<p><em><strong>Magical Signature.</strong></em> As a side effect of the orb’s curse, the spell <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2065-detect-magic\" data-tooltip-href=\"/spells/2065-tooltip\">detect magic</a> reveals an aura of enchantment surrounding creatures bearing the curse. This aura is distinctive, but in a way <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2065-detect-magic\" data-tooltip-href=\"/spells/2065-tooltip\">detect magic</a> offers no further details about.</p>\n<p><em><strong>Destroying the Orb.</strong></em> <a class=\"tooltip-hover magic-item-tooltip\" href=\"https://www.dndbeyond.com/magic-items/4239820-murgaxors-orb\" data-tooltip-href=\"/magic-items/4239820-tooltip\">Murgaxor’s orb</a> has AC 18; 20 hit points; immunity to necrotic, poison, and psychic damage; and resistance to all other types of damage. If reduced to 0 hit points, the orb shatters.</p>\n</aside>\n<h2 class=\"compendium-hr heading-anchor\" id=\"CordiallyInvited\">Cordially Invited</h2>\n<p>Once the characters have decided how they’ve spent their time away from school and chosen their courses for the year, read the following text:</p>\n<aside class=\"read-aloud-text\" id=\"session-read-aloud-1\">\n<p>Classes haven’t even started at Strixhaven yet, but excitement and magic are already in the air on campus. Amid the bustle of students reuniting after their time away and preparing for the new year, you find your new lodgings. Inside the small, clean room is a bed, a closet, and a desk, and on the desktop is a thick piece of vellum, carefully rolled, sealed, and bearing your name. Nestled next to it is a silver pin shaped like the Strixhaven star, the symbol of the university.</p>\n</aside>\n<p>Characters who examine the sealed message on their desk find it easy to open. Show players the Masquerade Invitation as characters open the letter.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"TheMagistersMasquerade1\">The Magister’s Masquerade</h3>\n<p>The Magister’s Masquerade is an elaborate dress ball and a major campus event. All third-year students are invited and expected to attend. Invitees may invite fourth-year companions to the event, but first- and second-year students aren’t permitted.</p>\n<p>A note provided along with the invitation explains the expectations for the event and the accompanying pin:</p>\n<figure class=\"compendium-image compendium-image-right\" id=\"imginvitation\">\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/05-002.invitation.png\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/05-002.invitation.png\" class=\"ddb-lightbox-inner\" style=\"width: 365px;\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a>\n</figure>\n<ul>\n<li>The Magister’s Masquerade dress code requires attendees to come in formal costumes with masks. Costumes can take a wide variety of forms, but they can’t suggest any specific college affiliation. Otherwise, style, creativity, and magical flair are encouraged.</li>\n<li>The pin is a magic item called a <a class=\"tooltip-hover magic-item-tooltip\" href=\"https://www.dndbeyond.com/magic-items/4239819-masque-charm\" data-tooltip-href=\"/magic-items/4239819-tooltip\">masque charm</a>. Its magic can help students dress for the Magister’s Masquerade.</li>\n<li>Masque charms are only for use during the Magister’s Masquerade. Students caught wearing a <em>masque charm</em> or using its magic outside the event are withdrawn from any Extracurriculars for the rest of the academic year.</li>\n<li>All third-year students must assist the event’s organizing committee.</li>\n<li>Students will learn more about the masquerade and the organizing committee tonight at a reception at Bow’s End Tavern.</li>\n</ul>\n<p>Characters who succeed on a DC 14 Intelligence (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/7-tooltip\">History</a>) check know more about the background of the Magister’s Masquerade, as described in the “Masquerade History” section.</p>\n<aside class=\"block-torn-paper\">\n<h4 class=\"compendium-hr heading-anchor\" id=\"MasqueCharm\"><a class=\"tooltip-hover magic-item-tooltip\" href=\"https://www.dndbeyond.com/magic-items/4239819-masque-charm\" data-tooltip-href=\"/magic-items/4239819-tooltip\">Masque Charm</a></h4>\n<p><em>Wondrous Item, Common</em></p>\n<p>A <a class=\"tooltip-hover magic-item-tooltip\" href=\"https://www.dndbeyond.com/magic-items/4239819-masque-charm\" data-tooltip-href=\"/magic-items/4239819-tooltip\">masque charm</a> is a small silver pin. While wearing this charm, you can use an action to cast the <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2069-disguise-self\" data-tooltip-href=\"/spells/2069-tooltip\">disguise self</a> spell (DC 13 to discern the disguise). Once the spell is cast, it can’t be cast from the charm again until the next sunset. When casting the spell, you can have the spell last for its normal 1 hour duration or for 6 hours. If you choose the 6-hour duration, the charm becomes nonmagical when the spell ends. In either case, the spell ends if the charm is removed from you.</p>\n</aside>\n<h4 class=\"compendium-hr heading-anchor\" id=\"MasqueradeHistory\">Masquerade History</h4>\n<p>The founding masters of Strixhaven University sought ways to mitigate the clashes common among students of different magical colleges. Magister Kollema of Lorehold College recognized that shared experiences and culture created more unity than merely attending the same classes. In light of this, he proposed the first Magister’s Masquerade, which would rely on students from all five colleges to prepare every aspect of the event and would require students to attend in costume, divesting themselves of any college loyalty. The first event was a grand success, and since then the Magister’s Masquerade has been an annual tradition at Strixhaven. It’s a night of magic and mystery that highlights what students can accomplish together and allows them to see one another in a different light.</p>\n<h2 class=\"compendium-hr heading-anchor\" id=\"ReceptionatBowsEnd\">Reception at Bow’s End</h2>\n<p>The night the characters return to Strixhaven, there’s a welcoming reception at Bow’s End Tavern. This event gives students the opportunity to socialize with friends and learn more about the Magister’s Masquerade. More information about Bow’s End Tavern and a map of the location appear in <a href=\"/chapters/strixhaven-work-hard-play-harder/#BowsEndTavern1\" title=\"chapter 3\">chapter 3</a>.</p>\n<p>After the characters have settled into their lodgings, they find their classmates drifting toward Bow’s End Tavern for the reception, including some of the characters’ Friends, Beloveds, or Rivals. When the characters arrive at Bow’s End, read or paraphrase the following text:</p>\n<aside class=\"read-aloud-text\" id=\"session-read-aloud-2\">\n<p>A crowd of boisterous third-year students fills Bow’s End Tavern, abuzz with conversations about the Magister’s Masquerade and dream outfits for the event. Among the crowds of chatting friends and mingling students are decorated tables; one is surrounded by the masquerade’s student organizers, and the others are covered in outlandish snacks. A wave of shouts rises from the back of the tavern, where high-energy games are underway.</p>\n</aside>\n<p>Besides students, several faculty members also attend the reception. Among them is one of Lorehold College’s deans, Augusta Tullus (lawful neutral human <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160311-lorehold-professor-of-order\" data-tooltip-href=\"/monsters/2160311-tooltip\">Lorehold professor of order</a>; see <a href=\"/chapters/strixhaven-friends-and-foes/#LoreholdProfessorofOrder\" title=\"chapter 7\">chapter 7</a>). Characters recognize her as the professor of their Advanced Arcane History course. If approached, the dean proves pleasant and professional. Her attendance at the reception is noteworthy, but its relevance won’t be clear until later in the adventure.</p>\n<figure id=\"imgaugustatullus\" class=\"compendium-image\">\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/05-003.dead-augusta-tullus.png\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/05-003.dead-augusta-tullus.png\" class=\"ddb-lightbox-inner compendium-center-banner-img\" style=\"width: 850px;\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a>\n<figcaption>Dean Augusta Tullus</figcaption>\n</figure>\n<p>At the reception, the characters can catch up with other students and enjoy magical snacks. The event concludes with a student getting ill (see “<a href=\"#OneTooMany\" title=\"One Too Many?\">One Too Many?</a>”)—foreshadowing events later in this adventure—and disgruntled students demanding the characters face them in a magical contest (see “<a href=\"#TheChallenge\" title=\"The Challenge\">The Challenge</a>”). This challenge works best if it comes from a character’s Rival.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"ActivitiesandRumors\">Activities and Rumors</h3>\n<p>Students the characters interact with during the reception might want to participate in any of the activities on the Reception Activities table. Roll an activity or choose one from this table to determine the characters’ interactions.</p>\n<table id=\"ReceptionActivities\" class=\"table-compendium table--generic-dice\">\n<caption class=\"compendium-hr heading-anchor\"><a href=\"#ReceptionActivities\"></a>Reception Activities</caption>\n<thead>\n<tr>\n<th>d6</th>\n<th>Activity</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1</td>\n<td><strong>Catching Up.</strong> The student wants to talk about their recent break, which they spent reading everything by a specific author, mastering an esoteric game, or traveling to an exciting location.</td>\n</tr>\n<tr>\n<td>2</td>\n<td><strong>Join the Committee.</strong> The student has big ideas and wants to join the masquerade organizing committee with the character.</td>\n</tr>\n<tr>\n<td>3</td>\n<td><strong>Bar Games.</strong> The student asks the character to play a friendly bar game, such as darts or cards. This is more an opportunity to chat than about winning.</td>\n</tr>\n<tr>\n<td>4</td>\n<td><strong>Eating Everything.</strong> The student wants to try every food available at the event (see “<a href=\"#SnackSampling\" title=\"Snack Sampling\">Snack Sampling</a>”). They ask the character to join them.</td>\n</tr>\n<tr>\n<td>5</td>\n<td><strong>Perfect Opportunity.</strong> The student has a crush on or rivalry with another student. They ask the character for help talking to or pranking this student.</td>\n</tr>\n<tr>\n<td>6</td>\n<td><strong>Drama.</strong> The student is anxious about something that happened during their break or about the impending academic year (perhaps the masquerade).</td>\n</tr>\n</tbody>\n</table>\n<p>Additionally, in the course of the reception, characters might hear any of the gossip on the Third-Year Rumor Mill table. Not all the rumors are true, as noted in the table, but some foreshadow events later in this adventure.</p>\n<table id=\"ThirdYearRumorMill\" class=\"table-compendium table--generic-dice table--left-last\">\n<caption class=\"compendium-hr heading-anchor\"><a href=\"#ThirdYearRumorMill\"></a>Third-Year Rumor Mill</caption>\n<thead>\n<tr>\n<th>d6</th>\n<th>Rumor</th>\n<th>Accuracy</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1</td>\n<td>Some professors seek to change Mage Tower for the sake of student safety. Many students oppose this.</td>\n<td>False</td>\n</tr>\n<tr>\n<td>2</td>\n<td>There’s a ailment going around campus. Several students say they haven’t been feeling well.</td>\n<td>True (Murgaxor’s influence)</td>\n</tr>\n<tr>\n<td>3</td>\n<td>Rumor has it that the Magister’s Masquerade is actually a secret test.</td>\n<td>False</td>\n</tr>\n<tr>\n<td>4</td>\n<td>People are still on edge after mage hunters crept onto campus last year.</td>\n<td>True</td>\n</tr>\n<tr>\n<td>5</td>\n<td>Supposedly one of the Founder Dragons will be a surprise guest of honor at the masquerade.</td>\n<td>False</td>\n</tr>\n<tr>\n<td>6</td>\n<td>Dean Tullus wants this year’s masquerade to focus on Strixhaven history—boring to many students.</td>\n<td>True</td>\n</tr>\n</tbody>\n</table>\n<h4 class=\"compendium-hr heading-anchor\" id=\"RelationshipEncounter\">Relationship Encounter</h4>\n<p>If there are students with whom the characters wish to earn Relationship Points, treat the reception as a Relationship encounter using the rules in <a href=\"/chapters/strixhaven-relationships/#UsingTheseRules\" title=\"chapter 3\">chapter 3</a>. Have players note the results of this encounter on their copies of the tracking sheet.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"MasqueradeCommittee\">Masquerade Committee</h3>\n<p>A student committee organizes the Magister’s Masquerade, and its leaders use the reception to get other students excited about the event. Characters who approach the committee table learn that, throughout the academic year, third-year students will periodically be assigned tasks to help prepare for the masquerade. The adventure assumes that committee leaders are in charge of much of the masquerade’s orchestration, but if your players are excited about contributing to the event’s decor, menu, entertainment, and so on, you can incorporate their suggestions into the descriptions of the preparation tasks and the masquerade itself.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"SnackSampling\">Snack Sampling</h3>\n<p>Characters who investigate any of the tavern tables laden with snacks find an array of magic-infused dishes. Roll or choose an option from Bow’s End Snacks table to see what’s available at any given table. All these dishes include magical ingredients meant to give the dishes a little extra flair. The first time a creature samples any of these dishes, it must succeed on a DC 12 Charisma (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/16-tooltip\">Deception</a>) check to avoid making an alarmed face, coughing loudly, or having another potentially embarrassing reaction.</p>\n<table id=\"BowsEndSnacks\" class=\"table-compendium table--generic-dice\">\n<caption class=\"compendium-hr heading-anchor\"><a href=\"#BowsEndSnacks\"></a>Bow’s End Snacks</caption>\n<thead>\n<tr>\n<th>d6</th>\n<th>Snack</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1</td>\n<td>Eel rolls with sticky rice, jalapeno-infusedhoney-ginger sauce, and wriggling eels</td>\n</tr>\n<tr>\n<td>2</td>\n<td>Exploding cheese puffs that pop in the mouth with cheesy flavor and illusory fireworks</td>\n</tr>\n<tr>\n<td>3</td>\n<td>Fire beetle paste, a scorchingly spicy dip limned in illusory flames, served with toasted crackers</td>\n</tr>\n<tr>\n<td>4</td>\n<td>Midnight mushroom caps with blinking, phosphorescent spots, stuffed with crumbled cheese</td>\n</tr>\n<tr>\n<td>5</td>\n<td>Pickled black lotus root that turns the tongue of anyone who eats it purple</td>\n</tr>\n<tr>\n<td>6</td>\n<td>Chilled vegetable rolls in glass-leaf wrappers that feel like they shatter when bitten</td>\n</tr>\n</tbody>\n</table>\n<h4 class=\"compendium-hr heading-anchor\" id=\"OneTooMany\">One Too Many?</h4>\n<p>After the characters catch up with other students and participate in any other activities that they please, read or paraphrase the following text:</p>\n<aside class=\"read-aloud-text\" id=\"session-read-aloud-3\">\n<p>Out of place amid the laughter and conversation comes an uncomfortable-sounding groan. Two students escort a third sick-looking student toward the tavern doors. As they pass, one of the escorts says, “One too many eel rolls, I guess.”</p>\n</aside>\n<p>The student being escorted out is suffering from the curse caused by <a class=\"tooltip-hover magic-item-tooltip\" href=\"https://www.dndbeyond.com/magic-items/4239820-murgaxors-orb\" data-tooltip-href=\"/magic-items/4239820-tooltip\">Murgaxor’s orb</a> (detailed at the beginning of this adventure). At the moment, characters have no way of learning this, and no one lets it dampen the reception’s atmosphere for long.</p>\n<p>If the characters follow the sick student or check up on them later, they learn the student was delivered to the infirmary, spent a night there with a bad headache, and recovered by the next morning. A character who succeeds on a DC 14 Intelligence (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/8-tooltip\">Investigation</a>) check also learns that the sick student was summoned to Dean Tullus’s office earlier in the day, shortly before the reception. During the meeting, Dean Tullus addressed the student’s chronic lateness to class; the student recalls that the conversation was brief and cordial.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"TheChallenge\">The Challenge</h3>\n<p>After the scene with the sick student, give the characters one last opportunity to do anything else they please at the reception. As they prepare to leave, one or more students approach and challenge them.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"WhoAretheRivals\">Who Are the Rivals?</h4>\n<p>Determine who issues the challenge. If one or more of the characters have Rivals, pick a Rival to be the challenger. The challenger leads a group the same size as the characters’ party, which could include other Rivals. If none of the characters have Rivals, students who were part of the opposing Mage Tower team in <a href=\"/chapters/strixhaven-dangerous-knowledge/#TheOpposingTeam\" title=\"chapter 4\">chapter 4</a> or from the “<a href=\"/chapters/strixhaven-relationships/#FellowStudents\" title=\"Fellow Students\">Fellow Students</a>” section in <a href=\"/chapters/strixhaven-relationships/\" title=\"chapter 3\">chapter 3</a> can issue this challenge.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"WhyaChallenge\">Why a Challenge?</h4>\n<p>Choose one of the following grudges as the reason for the challenge:</p>\n<p><strong>Dangerous.</strong> The Rival accuses the characters of causing the dangerous events that have occurred over the past two years. They can’t prove it, but they want to punish the characters anyway.</p>\n<p><strong>Love Polygon.</strong> The Rival blames a character for a relationship disappointment.</p>\n<p><strong>Mage Tower Affront.</strong> The characters beat the Rival at Mage Tower in chapter 4, or the characters’ efforts caused the Rival to lose a bet.</p>\n<p><strong>So Special.</strong> The Rival just can’t stand the characters. Now’s the time to take them down a notch.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"ChallengeDetails\">Challenge Details</h4>\n<p>The opposing students challenge the characters to meet the following midnight at the Furygale Repository on the Prismari College campus. The repository is a dumping ground for magical experiments and dangerous spell reagents. It’s empty at night and out of the way, so the duel isn’t likely to be discovered or disturbed.</p>\n<p>In the characters don’t want to participate in this challenge, the Rival tries to compel the character to participate. This could include any of the following coercions:</p>\n<ul>\n<li>Offering the characters something they desire or important information if they win</li>\n<li>Stealing a magic item or personal heirloom from a character’s lodgings</li>\n<li>Revealing embarrassing information, perhaps to the whole school, an instructor, or a Beloved</li>\n<li>Fabricating blackmail material that implicates a character in past dangerous events</li>\n</ul>\n<p>If one or more characters accept the challenge, the “<a href=\"#FateatFurygale\" title=\"Fate at Furygale\">Fate at Furygale</a>” encounter occurs at midnight of the following night. Allow characters to spend the intervening time as they please, likely with their first day of studies or other responsibilities. A character who spends time seeking information about Furygale easily learns the details in the “<a href=\"/chapters/strixhaven-life-at-strixhaven/#Furygale\" title=\"Furygale\">Furygale</a>” section of <a href=\"/chapters/strixhaven-life-at-strixhaven/\" title=\"chapter 1\">chapter 1</a>.</p>\n<p>The characters can arrive at the Furygale Repository whenever they please and find it empty—no one is using the storage site this early in the academic year. The students who challenged the characters arrive at midnight.</p>\n<p>If the characters refuse even in the face of the Rival’s coercion, the Rival leaves. The next day, the characters learn that the Rival has taken more extreme actions—potentially involving one of the characters’ Friends or Beloveds—to force the characters to come to Furygale.</p>\n<h2 class=\"compendium-hr heading-anchor\" id=\"FateatFurygale\">Fate at Furygale</h2>\n<p>The Furygale Repository, on the Prismari campus, is a storage facility where magical experiments are disposed of. Magic woven into the structure makes the interior a zone of wild magic. Over time, these unpredictable magical forces break down the failed or ill-conceived student projects disposed of within. Because of its air of danger and relative isolation, the Furygale Repository is a popular spot for Strixhaven students who want to meet without being observed by university staff.</p>\n<figure class=\"compendium-image\" id=\"imgfurygale\">\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/05-004.furygale.png\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/05-004.furygale.png\" class=\"ddb-lightbox-inner compendium-center-banner-img\" style=\"width: 850px;\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a>\n<figcaption>Students sometimes sneak off to the Furygale Repository, a<br>dangerous disposal site for failed magic, to duel away from prying eyes</figcaption>\n</figure>\n<h3 class=\"compendium-hr heading-anchor\" id=\"FurygaleRepository\">Furygale Repository</h3>\n<p>When the characters arrive at the Furygale Repository, they find a warehouse-like structure with walls that slowly change shape and color, as if melting and reforming. Floating warning signs around it read, “Danger: Elemental Forces.” A cavernous opening in the south wall provides access to the interior. When the characters enter, read or paraphrase the following text:</p>\n<aside class=\"read-aloud-text\" id=\"session-read-aloud-4\">\n<p>The space within the Furygale Repository is a vast, open area filled with discarded magical creations. Elemental forces infuse the structure’s walls and numerous alcoves, the surfaces of which slowly shift, glowing with discordant lights that shimmer, clash, consume one another, and then glow anew.</p>\n</aside>\n<p>Map 5.1 shows the layout of the repository.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"FurygaleRepositoryFeatures\">Furygale Repository Features</h4>\n<p>The following features apply throughout the Furygale Repository:</p>\n<figure id=\"Map51furygalerepository\" class=\"compendium-image\">\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/map-5.1-furygale-repository.jpg\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/map-5.1-furygale-repository.jpg\" class=\"ddb-lightbox-inner\" style=\"width: 800px;\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a>\n<figcaption>Map 5.1: furygale repository <a class=\"ddb-lightbox-outer\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/map-5.1-furygale-repository-player.jpg\" data-lightbox=\"1\" data-title=\"View Player Version\" id=\"session-player-map-1\">View Player Version</a></figcaption>\n</figure>\n<p><strong>Ceilings and Walls.</strong> The walls and ceilings are as hard and durable as stone. The structure’s ceiling rises 20 feet above the floor.</p>\n<p><strong>Illumination.</strong> The repository’s scintillating walls shed bright light out to a range of 20 feet and dim light for an additional 20 feet.</p>\n<p><strong>Magic Protections.</strong> The repository is designed to break down magic without damaging creatures. See “<a href=\"#DuelsintheRepository\" title=\"Duels in the Repository\">Duels in the Repository</a>” for details on the site’s protective magic. The site’s magic restores hit points to creatures within the structure, whether they’re dueling or not. After taking damage in the repository, a creature still in the building is healed to full hit points after not taking damage for 1 minute.</p>\n<p><strong>Wild Magic.</strong> Once per turn, when a creature expends a spell slot to cast a spell of 1st level or higher, an additional effect might occur. That creature must roll a d10. On a roll of 1, they must then roll on the <a href=\"https://www.dndbeyond.com/sources/phb/classes#WildMagicSurgeTable\" title=\"Wild Magic Surge\">Wild Magic Surge</a> table in the “<a href=\"https://www.dndbeyond.com/sources/phb/classes#Sorcerer\" title=\"Sorcerer\">Sorcerer</a>” section of the <a class=\"sourcebook\" href=\"https://www.dndbeyond.com/sources/phb\" title=\"Player’s Handbook\">Player’s Handbook</a> to determine which wild magic effect occurs.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"FurygaleRepositorySecrets\">Furygale Repository Secrets</h4>\n<p>If the heroes arrive at the Furygale Repository before the challenge, they have the opportunity to explore the site and potentially discover some of the structure’s secrets.</p>\n<p><em><strong>Animate Statues.</strong></em> The symbols that look like circles inscribed with stars represent statues of knights designed with flourishes evocative of the four elements. The statues have partially melted from longterm exposure to the Furygale Repository’s magic, but they have also gained magical mobility and limited sapience; use the <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/17159-helmed-horror\" data-tooltip-href=\"/monsters/17159-tooltip\">helmed horror</a> stat block to represent them. Each statue protects the site from intruders, animating and attacking any suspicious creature that comes within 10 feet of it. A statue fights until it is destroyed or its opponents leave the Furygale Repository.</p>\n<p><em><strong>Duelist Marks.</strong></em> Ten X marks mar the floor. A character who succeeds on a DC 14 Intelligence (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/6-tooltip\">Arcana</a>) check knows that these marks serve as stations for student duelists, and the scars between them were made by violent magic.</p>\n<p><em><strong>Secret Storage Chambers.</strong></em> Two secret doors are located in the northern wall of the structure. Finding either door requires a successful DC 14 Wisdom (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/14-tooltip\">Perception</a>) check. The chamber behind each secret door contains various leaking jars and boxes of used alchemical reagents. A character who spends 5 minutes searching either room and succeeds on a DC 12 Wisdom (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/14-tooltip\">Perception</a>) check discovers two <a class=\"tooltip-hover item-tooltip\" href=\"https://www.dndbeyond.com/equipment/71-potion-of-healing\" data-tooltip-href=\"/adventuring-gear/71-tooltip\">potions of healing</a> and a packet containing <a class=\"tooltip-hover magic-item-tooltip\" href=\"https://www.dndbeyond.com/magic-items/4625-dust-of-sneezing-and-choking\" data-tooltip-href=\"/magic-items/4625-tooltip\">dust of sneezing and choking</a> (the contents of both rooms are the same).</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"DuelsintheRepository\">Duels in the Repository</h3>\n<p>Strixhaven students have the following rules for duels at the Furygale Repository:</p>\n<ul>\n<li>Only two students duel at a time.</li>\n<li>Duelists must use magic to defeat their opponents.</li>\n<li>Weapons and magic items aren’t allowed.</li>\n<li>A duelist can’t receive aid from non-duelists.</li>\n<li>A duel is over when one duelist surrenders or is <a class=\"tooltip-hover condition-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#IncapacitatedCondition\" data-tooltip-href=\"/conditions/7-tooltip\">incapacitated</a>.</li>\n<li>A duelist may not kill another duelist.</li>\n</ul>\n<p>Any duelist who breaks these rules loses the duel. If a duelist kills an opponent, the killer, if discovered, is expelled from the university and forced to pay for <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2224-raise-dead\" data-tooltip-href=\"/spells/2224-tooltip\">raise dead</a> to be cast on the dead duelist.</p>\n<p>As mentioned in the “Magic Protections” portion of the “<a href=\"#FurygaleRepositoryFeatures\" title=\"Furygale Repository Features\">Furygale Repository Features</a>” section, creatures that take damage in this area are healed by Furygale’s magic.</p>\n<figure id=\"imgmagicoffurygale\" class=\"compendium-image\">\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/05-005.the-magic-of-furygale.png\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/05-005.the-magic-of-furygale.png\" class=\"ddb-lightbox-inner compendium-center-banner-img\" style=\"width: 850px;\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a>\n<figcaption>The magic of Furygale is erratic and dangerous.<br>Students dueling there often get in over their heads</figcaption>\n</figure>\n<h3 class=\"compendium-hr heading-anchor\" id=\"DuelingBegins\">Dueling Begins</h3>\n<p>If the characters go to the repository early, their opponents arrive at midnight. If the characters arrive on time, their opponents are already there waiting at the duelist marks in the center of the structure.</p>\n<p>Once both parties meet and banter, one-on-one duels commence following the rules outlined in the “<a href=\"#DuelsintheRepository\" title=\"Duels in the Repository\">Duels in the Repository</a>” section. The Rivals use the pledgemage stat blocks appropriate for their colleges (see <a href=\"/chapters/strixhaven-friends-and-foes/\" title=\"chapter 7\">chapter 7</a>). All their actions are considered permissible magic for the purposes of dueling.</p>\n<p>Run as many one-on-one duels as the characters want to participate in. During these duels, remember to account for the wild magic effect detailed in “<a href=\"#FurygaleRepositoryFeatures\" title=\"Furygale Repository Features.\">Furygale Repository Features.</a>” The challenge is complete when every character who wants to has dueled. The team with the most victors is deemed the winning team and earns bragging rights.</p>\n<p>Before the groups go their separate ways, though, things take an unexpected turn.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"FoulPlay\">Foul Play</h3>\n<p>At the conclusion of the duels but before the characters leave the Furygale Repository, one of their opponents collapses. A moment later, another opponent falls. In seconds, all the opponents but one have collapsed. Although there’s no way for the characters to know this yet, the collapsed opponents have been rendered <a class=\"tooltip-hover condition-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#UnconsciousCondition\" data-tooltip-href=\"/conditions/15-tooltip\">unconscious</a> by the curse from <a class=\"tooltip-hover magic-item-tooltip\" href=\"https://www.dndbeyond.com/magic-items/4239820-murgaxors-orb\" data-tooltip-href=\"/magic-items/4239820-tooltip\">Murgaxor’s orb</a> (detailed at the start of the <a href=\"/chapters/strixhaven-the-magisters-masquerade/#MurgaxorsOrb\" title=\"adventure\">adventure</a>). Dean Tullus spread the curse to several students during the recent reception, and Murgaxor is now testing his magic’s power.</p>\n<p>The one remaining opponent reacts as follows:</p>\n<aside class=\"read-aloud-text\" id=\"session-read-aloud-5\">\n<p>“What… what are you doing?” your opponent stammers, panicking as their friends sprawl across the floor. “Cut it out, cheaters! You can’t do this!”</p>\n</aside>\n<p>The last opponent standing blames the characters for what has happened and attacks. On their first turn, the opponent casts a spell. This proves to be a terrible mistake, as the wild magic of the Furygale Repository surges, summoning an <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/16971-oni\" data-tooltip-href=\"/monsters/16971-tooltip\">oni</a>. The oni appears near the entrance to the repository and does as it pleases. Without hesitating, it moves to attack the closest conscious student. After inadvertantly summoning the oni, the opponent tries to flee, leaving the characters to fight the oni by themselves.</p>\n<p>In the course of the ensuing battle, a character can try to convince the opponent that the characters weren’t responsible for rendering the other students <a class=\"tooltip-hover condition-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#UnconsciousCondition\" data-tooltip-href=\"/conditions/15-tooltip\">unconscious</a>, doing so with a successful DC 16 Charisma (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/19-tooltip\">Persuasion</a>) check. On a success, the opponent believes, albeit grudgingly, that the characters aren’t to blame for what happened. At that point, the opponent accepts blame for summoning the oni and helps the characters defeat it.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"Aftermath\">Aftermath</h4>\n<p>Once the danger is dealt with, the characters must decide what to do about the <a class=\"tooltip-hover condition-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#UnconsciousCondition\" data-tooltip-href=\"/conditions/15-tooltip\">unconscious</a> students.</p>\n<p>A character who casts <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2065-detect-magic\" data-tooltip-href=\"/spells/2065-tooltip\">detect magic</a> on the <a class=\"tooltip-hover condition-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#UnconsciousCondition\" data-tooltip-href=\"/conditions/15-tooltip\">unconscious</a> students discovers an aura of enchantment magic surrounding each of them, along with some strange element they can’t quite place. This is an oddity caused by <a class=\"tooltip-hover magic-item-tooltip\" href=\"https://www.dndbeyond.com/magic-items/4239820-murgaxors-orb\" data-tooltip-href=\"/magic-items/4239820-tooltip\">Murgaxor’s orb</a> (detailed at the start of <a href=\"#MurgaxorsOrb\" title=\"this adventure\">this adventure</a>). A character who detected similar magic in a previous Strixhaven adventure realizes this magic has the same unusual signature.</p>\n<p>Shaking or slapping the <a class=\"tooltip-hover condition-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#UnconsciousCondition\" data-tooltip-href=\"/conditions/15-tooltip\">unconscious</a> opponents rouses them. When they come to, the students all have terrible headaches and recall vague but dreadful nightmares. They don’t know what happened to them, but some are eager to go to the infirmary. They have no more desire to duel the characters and might even be visibly scared of them. They won’t publicly accuse the characters of a crime, though, as doing so would mean openly admitting that they snuck into the Furygale Repository.</p>\n<p>Should Strixhaven faculty members find out about the characters sneaking into the repository, the characters are warned that further rule-breaking will result in disciplinary consequences.</p>\n<h2 class=\"compendium-hr heading-anchor\" id=\"AdvancedArcaneHistoryExamRelics\">Advanced Arcane History Exam: Relics</h2>\n<p>During this year at Strixhaven, the characters are enrolled together in Advanced Arcane History. The course is held in a lecture hall in the Biblioplex (<a href=\"/chapters/strixhaven-campus-kerfuffle/#B7LectureHall\" title=\"area B7\">area B7</a> on <a href=\"/chapters/strixhaven-campus-kerfuffle/#Map31thebiblioplex\" title=\"map 3.1\">map 3.1</a> in <a href=\"/chapters/strixhaven-campus-kerfuffle/\" title=\"chapter 3\">chapter 3</a>) and taught by Dean Tullus. Several weeks after their encounter at the Furygale Repository, the characters have their first Exam for the course (see <a href=\"/chapters/strixhaven-school-is-in-session/#Exams\" title=\"chapter 3\">chapter 3</a> for details on Exams).</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"TheRelicLecture\">The Relic Lecture</h3>\n<p>During an early Advanced Arcane History course that all the characters are attending, Dean Tullus displays a relic she discovered during a recent expedition. Read or paraphrase the following text to describe part of her lecture:</p>\n<aside class=\"read-aloud-text\" id=\"session-read-aloud-6\">\n<p>“A historian interrogates the stories we tell ourselves about the past, learning how true they are—or otherwise,” lectures Dean Tullus. “Only by understanding the truth of the past might we learn lessons applicable to our magic in the present. Take this, for example.” The professor reveals a translucent orb. Within it a coil of green mist endlessly knots around itself. “I unearthed this in the Fortress Badlands during my most recent expedition. Its creator and use remain uncertain. But by investigating the reason for its creation, we stand to learn more about those who made it and how their lessons might teach us more about our own magic.”</p>\n</aside>\n<p>Dean Tullus eagerly takes questions on her lecture or the relic she exhibits, but she doesn’t know much about it yet. She suspects it was used as a magical focus by an ancient wizard she has yet to identify. A character who subtly casts <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2065-detect-magic\" data-tooltip-href=\"/spells/2065-tooltip\">detect magic</a> in class learns the object exudes an aura of enchantment.</p>\n<p>The class ends with a reminder that the first Exam is only a few days away and that it will test students on their knowledge of historical relics and the relics’ use in magic.</p>\n<figure id=\"imgprofessors\" class=\"compendium-image\">\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/05-006.lorehold-professors.png\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/05-006.lorehold-professors.png\" class=\"ddb-lightbox-inner compendium-center-banner-img\" style=\"width: 850px;\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a>\n<figcaption>Lorehold professors often use relics they’ve unearthed in their lectures about magical objects</figcaption>\n</figure>\n<h3 class=\"compendium-hr heading-anchor\" id=\"StudyingPhase\">Studying Phase</h3>\n<p>The day before the Exam, the characters can study the course material. A character can use any ability check and skill during the Studying phase.</p>\n<p>Once you’ve asked each player how their character is approaching the Studying phase, resolve that phase by having each character who studies make a DC 17 ability check. Make sure players keep track of their characters’ rerolls and apply them during the Testing phase.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"TestingPhase\">Testing Phase</h3>\n<p>On the day of the Exam, each character makes two ability checks related to parts of the test:</p>\n<p><strong>Commonly Used Magic Devices.</strong> Identifying types of magic devices, from battlefield magic items to objects useful as spell foci, requires a successful DC 17 Intelligence (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/6-tooltip\">Arcana</a>) check.</p>\n<p><strong>Historical Relics in Magic.</strong> Writing a short essay about historical relics and how they were famously used in ritual magic requires a successful DC 17 Intelligence (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/7-tooltip\">History</a>) check.</p>\n<p>Have each player note their character’s Exam results—how many Student Dice they gained and what skills they used during the test—on their copies of the tracking sheet.</p>"
+}

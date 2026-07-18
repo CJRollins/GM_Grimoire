@@ -1,0 +1,826 @@
+{
+  "title": "A Starlit Night",
+  "sourcebook": "Strixhaven: A Curriculum of Chaos",
+  "bookSlug": "strixhaven-a-curriculum-of-chaos",
+  "world": "Arcavios",
+  "edition": "2014 rules",
+  "chapter": "A Starlit Night",
+  "chapterNumber": 5,
+  "order": 14,
+  "navGroup": "Year Three",
+  "kind": "adventure",
+  "audience": "gm",
+  "slug": "strixhaven-a-starlit-night",
+  "chapterSlug": "a-starlit-night",
+  "summary": "The Magister’s Masquerade occurs in the final weeks of the academic year as students’ final exams conclude. The events of the ball precipitate the end of the adventure, so tie up any loose plots characters are involved in prior to starting this section or dur…",
+  "wordCount": 5343,
+  "originalPath": "Arcavios/Stixhaven/Chapter 14 - A Starlit Night.html",
+  "rawUrl": "/archive/strixhaven/Chapter%2014%20-%20A%20Starlit%20Night.html",
+  "originalAnchors": [
+    {
+      "id": "AStarlitNight",
+      "text": "A Starlit Night",
+      "element": "h1"
+    },
+    {
+      "id": "comp-next-nav",
+      "text": "",
+      "element": "div"
+    },
+    {
+      "id": "PreparingfortheMasquerade",
+      "text": "Preparing for the Masquerade",
+      "element": "h2"
+    },
+    {
+      "id": "PreparationAccidents",
+      "text": "Preparation Accidents d10 Accident 1–3 No accident. Preparations go smoothly. 4 The character learns another student is wearing the same costume as them. 5 Make",
+      "element": "table"
+    },
+    {
+      "id": "ArrivingattheMasquerade",
+      "text": "Arriving at the Masquerade",
+      "element": "h2"
+    },
+    {
+      "id": "MasqueradeGeneralFeatures",
+      "text": "Masquerade General Features",
+      "element": "h3"
+    },
+    {
+      "id": "MasqueradeEvents",
+      "text": "Masquerade Events",
+      "element": "h2"
+    },
+    {
+      "id": "imgspellmishaps",
+      "text": "From spell mishaps to pigment storms, plenty could go wrong the day of the Magister’s Masquerade",
+      "element": "figure"
+    },
+    {
+      "id": "GuessWho",
+      "text": "Guess Who?",
+      "element": "h3"
+    },
+    {
+      "id": "WelcomingAnnouncement",
+      "text": "Welcoming Announcement",
+      "element": "h3"
+    },
+    {
+      "id": "FurtherSuspicions",
+      "text": "Further Suspicions",
+      "element": "h3"
+    },
+    {
+      "id": "MasqueradeFestivities",
+      "text": "Masquerade Festivities",
+      "element": "h3"
+    },
+    {
+      "id": "MasqueradeDevelopments",
+      "text": "Masquerade Developments d8 Event 1 A student approaches the character and asks them to dance. The student reveals their feelings, those of another student, or s",
+      "element": "table"
+    },
+    {
+      "id": "KollemasWisdom",
+      "text": "Kollema’s Wisdom",
+      "element": "h3"
+    },
+    {
+      "id": "TheMasqueradesConclusion",
+      "text": "The Masquerade’s Conclusion",
+      "element": "h2"
+    },
+    {
+      "id": "MidnightatLorehold",
+      "text": "Midnight at Lorehold",
+      "element": "h2"
+    },
+    {
+      "id": "LoreholdDeansWing",
+      "text": "Lorehold Deans’ Wing",
+      "element": "h3"
+    },
+    {
+      "id": "LoreholdDeansWingFeatures",
+      "text": "Lorehold Deans’ Wing Features",
+      "element": "h4"
+    },
+    {
+      "id": "LoreholdDeansWingLocations",
+      "text": "Lorehold Deans’ Wing Locations",
+      "element": "h3"
+    },
+    {
+      "id": "Map53loreholddeanswing",
+      "text": "Map 5.3: lorehold deans wing View Player Version",
+      "element": "figure"
+    },
+    {
+      "id": "L1MainHall",
+      "text": "L1. Main Hall",
+      "element": "h4"
+    },
+    {
+      "id": "L2AdministrativeOffice",
+      "text": "L2. Administrative Office",
+      "element": "h4"
+    },
+    {
+      "id": "L3Porch",
+      "text": "L3. Porch",
+      "element": "h4"
+    },
+    {
+      "id": "L4RecordsRoom",
+      "text": "L4. Records Room",
+      "element": "h4"
+    },
+    {
+      "id": "L5RestrictedRecordsRoom",
+      "text": "L5. Restricted Records Room",
+      "element": "h4"
+    },
+    {
+      "id": "L6DeansReceptionRoom",
+      "text": "L6. Deans’ Reception Room",
+      "element": "h4"
+    },
+    {
+      "id": "L7DeanPlarggsOffice",
+      "text": "L7. Dean Plargg’s Office",
+      "element": "h4"
+    },
+    {
+      "id": "imgguardians",
+      "text": "Ancient guardians defend the Deans’ Wing from intruders",
+      "element": "figure"
+    },
+    {
+      "id": "L8DeanTullussOffice",
+      "text": "L8. Dean Tullus’s Office",
+      "element": "h4"
+    },
+    {
+      "id": "L9DeansRecordsRoom",
+      "text": "L9. Deans’ Records Room",
+      "element": "h4"
+    },
+    {
+      "id": "FacingtheDean",
+      "text": "Facing the Dean",
+      "element": "h3"
+    },
+    {
+      "id": "Map54deansrepository",
+      "text": "Map 5.4: deans repository View Player Version",
+      "element": "figure"
+    },
+    {
+      "id": "DeansRepository",
+      "text": "Deans’ Repository",
+      "element": "h4"
+    },
+    {
+      "id": "MurgaxorManifests",
+      "text": "Murgaxor Manifests",
+      "element": "h3"
+    },
+    {
+      "id": "MurgaxorAttacks",
+      "text": "Murgaxor Attacks",
+      "element": "h3"
+    },
+    {
+      "id": "Aftermath1",
+      "text": "Aftermath",
+      "element": "h2"
+    },
+    {
+      "id": "imgfromdifferentcolleges",
+      "text": "Students from different colleges working together are strongerthan they would be alone—a lesson often learned by year’s end",
+      "element": "figure"
+    },
+    {
+      "id": "AThreatReturns",
+      "text": "A Threat Returns",
+      "element": "h3"
+    },
+    {
+      "id": "TheYearsEnd",
+      "text": "The Year’s End",
+      "element": "h3"
+    },
+    {
+      "id": "Advanceto8thLevel",
+      "text": "Advance to 8th Level!",
+      "element": "h2"
+    }
+  ],
+  "sourceHash": "b96105abd1631dd00973ad6854ff9fb135e17165d23f96ab64861596770f39c2",
+  "extractionDate": "2026-07-13T07:40:57.647Z",
+  "extractionVersion": 3,
+  "headings": [
+    {
+      "depth": 1,
+      "id": "AStarlitNight",
+      "text": "A Starlit Night"
+    },
+    {
+      "depth": 2,
+      "id": "PreparingfortheMasquerade",
+      "text": "Preparing for the Masquerade"
+    },
+    {
+      "depth": 2,
+      "id": "ArrivingattheMasquerade",
+      "text": "Arriving at the Masquerade"
+    },
+    {
+      "depth": 3,
+      "id": "MasqueradeGeneralFeatures",
+      "text": "Masquerade General Features"
+    },
+    {
+      "depth": 2,
+      "id": "MasqueradeEvents",
+      "text": "Masquerade Events"
+    },
+    {
+      "depth": 3,
+      "id": "GuessWho",
+      "text": "Guess Who?"
+    },
+    {
+      "depth": 3,
+      "id": "WelcomingAnnouncement",
+      "text": "Welcoming Announcement"
+    },
+    {
+      "depth": 3,
+      "id": "FurtherSuspicions",
+      "text": "Further Suspicions"
+    },
+    {
+      "depth": 3,
+      "id": "MasqueradeFestivities",
+      "text": "Masquerade Festivities"
+    },
+    {
+      "depth": 3,
+      "id": "KollemasWisdom",
+      "text": "Kollema’s Wisdom"
+    },
+    {
+      "depth": 2,
+      "id": "TheMasqueradesConclusion",
+      "text": "The Masquerade’s Conclusion"
+    },
+    {
+      "depth": 2,
+      "id": "MidnightatLorehold",
+      "text": "Midnight at Lorehold"
+    },
+    {
+      "depth": 3,
+      "id": "LoreholdDeansWing",
+      "text": "Lorehold Deans’ Wing"
+    },
+    {
+      "depth": 4,
+      "id": "LoreholdDeansWingFeatures",
+      "text": "Lorehold Deans’ Wing Features"
+    },
+    {
+      "depth": 3,
+      "id": "LoreholdDeansWingLocations",
+      "text": "Lorehold Deans’ Wing Locations"
+    },
+    {
+      "depth": 4,
+      "id": "L1MainHall",
+      "text": "L1. Main Hall"
+    },
+    {
+      "depth": 4,
+      "id": "L2AdministrativeOffice",
+      "text": "L2. Administrative Office"
+    },
+    {
+      "depth": 4,
+      "id": "L3Porch",
+      "text": "L3. Porch"
+    },
+    {
+      "depth": 4,
+      "id": "L4RecordsRoom",
+      "text": "L4. Records Room"
+    },
+    {
+      "depth": 4,
+      "id": "L5RestrictedRecordsRoom",
+      "text": "L5. Restricted Records Room"
+    },
+    {
+      "depth": 4,
+      "id": "L6DeansReceptionRoom",
+      "text": "L6. Deans’ Reception Room"
+    },
+    {
+      "depth": 4,
+      "id": "L7DeanPlarggsOffice",
+      "text": "L7. Dean Plargg’s Office"
+    },
+    {
+      "depth": 4,
+      "id": "L8DeanTullussOffice",
+      "text": "L8. Dean Tullus’s Office"
+    },
+    {
+      "depth": 4,
+      "id": "L9DeansRecordsRoom",
+      "text": "L9. Deans’ Records Room"
+    },
+    {
+      "depth": 3,
+      "id": "FacingtheDean",
+      "text": "Facing the Dean"
+    },
+    {
+      "depth": 4,
+      "id": "DeansRepository",
+      "text": "Deans’ Repository"
+    },
+    {
+      "depth": 3,
+      "id": "MurgaxorManifests",
+      "text": "Murgaxor Manifests"
+    },
+    {
+      "depth": 3,
+      "id": "MurgaxorAttacks",
+      "text": "Murgaxor Attacks"
+    },
+    {
+      "depth": 2,
+      "id": "Aftermath1",
+      "text": "Aftermath"
+    },
+    {
+      "depth": 3,
+      "id": "AThreatReturns",
+      "text": "A Threat Returns"
+    },
+    {
+      "depth": 3,
+      "id": "TheYearsEnd",
+      "text": "The Year’s End"
+    },
+    {
+      "depth": 2,
+      "id": "Advanceto8thLevel",
+      "text": "Advance to 8th Level!"
+    }
+  ],
+  "tags": {
+    "creatures": [
+      "air elemental",
+      "cogwork archivists",
+      "invisible stalker",
+      "Lorehold apprentices",
+      "Lorehold professor of order",
+      "Murgaxor",
+      "spirit statue mascot",
+      "spirit statue mascots"
+    ],
+    "spells": [
+      "alarm",
+      "raise dead",
+      "Tasha’s hideous laughter",
+      "unseen servant"
+    ],
+    "items": [
+      "Lorehold primer",
+      "mace of smiting",
+      "masque charm",
+      "Murgaxor’s orb",
+      "Murgaxor’s Orb",
+      "wand of secrets"
+    ],
+    "locations": [
+      "Administrative Office",
+      "Biblioplex",
+      "Dean Plargg’s Office",
+      "Dean Tullus’s Office",
+      "Deans’ Reception Room",
+      "Deans’ Records Room",
+      "Kollema Hall",
+      "Lorehold",
+      "Main Hall",
+      "Porch",
+      "Prismari",
+      "Records Room",
+      "Restricted Records Room",
+      "Strixhaven"
+    ],
+    "npcs": [],
+    "topics": [
+      "adventure",
+      "campus-life",
+      "gm-tools",
+      "read-aloud",
+      "relationships",
+      "tables"
+    ]
+  },
+  "session": {
+    "readAloud": [
+      {
+        "id": "session-read-aloud-1",
+        "label": "Read aloud 1",
+        "excerpt": "Kollema Hall has been transformed. Music, color, and laughter fill the airy space as masked and impeccably dressed students and faculty mingle. Beyond a check-in stand attended by…"
+      },
+      {
+        "id": "session-read-aloud-2",
+        "label": "Read aloud 2",
+        "excerpt": "The music falls silent and a spotlight shines upon a second-floor balcony as Dean Tullus approaches the railing. The dean is unmasked and resplendent in a gown made of golden scro…"
+      },
+      {
+        "id": "session-read-aloud-3",
+        "label": "Read aloud 3",
+        "excerpt": "At the anticipated time, the music fades, dancers drift to the floor, and the hall falls silent as lights rise to illuminate the towering statue of Magister Kollema. After a momen…"
+      },
+      {
+        "id": "session-read-aloud-4",
+        "label": "Read aloud 4",
+        "excerpt": "Even considering the late hour, the walk across campus is unusually quiet. But as you round a corner, a flickering magical lantern illuminates several bewildered students standing…"
+      },
+      {
+        "id": "session-read-aloud-5",
+        "label": "Read aloud 5",
+        "excerpt": "A double door opens onto a stately, carpeted hall hung with unlit lamps and fine portraits. There are doors to either side of the entrance, a double door in each wall halfway alon…"
+      },
+      {
+        "id": "session-read-aloud-6",
+        "label": "Read aloud 6",
+        "excerpt": "A three-foot-high stone railing surrounds this broad, paved porch, separating the space from the Lorehold campus beyond."
+      },
+      {
+        "id": "session-read-aloud-7",
+        "label": "Read aloud 7",
+        "excerpt": "Bound volumes of Lorehold records cram this room’s tall bookshelves and round tables. A double door and numerous plain doors lead from the chamber."
+      },
+      {
+        "id": "session-read-aloud-8",
+        "label": "Read aloud 8",
+        "excerpt": "A simple desk faces a pair of uncomfortable-looking benches in this sparse, hexagonal reception room. Six polished wooden doors lead from the room, one in each wall."
+      },
+      {
+        "id": "session-read-aloud-9",
+        "label": "Read aloud 9",
+        "excerpt": "A clean desk and several stiff-looking chairs fill this austere office. Behind the desk, between various framed academic honors, hangs a mace with a spherical head."
+      },
+      {
+        "id": "session-read-aloud-10",
+        "label": "Read aloud 10",
+        "excerpt": "The desk in this office is barely visible beneath heaps of books, papers, and knick-knacks. Every shelf and one of the room’s three chairs have similar burdens."
+      },
+      {
+        "id": "session-read-aloud-11",
+        "label": "Read aloud 11",
+        "excerpt": "Ancient books and flaking scrolls fill the racks lining the walls of this musty records room. A large case stands along the wall opposite the door."
+      },
+      {
+        "id": "session-read-aloud-12",
+        "label": "Read aloud 12",
+        "excerpt": "The portal opens into a richly decorated library filled with floor-to-ceiling shelves packed with books and archaeological relics. Four long worktables occupy the room’s center, e…"
+      },
+      {
+        "id": "session-read-aloud-13",
+        "label": "Read aloud 13",
+        "excerpt": "Her face lit by the eerie green light of the glass orb she holds, Dean Tullus says, “You shouldn’t have come. Ancient ones, take them!” Four of the statues around the room respond…"
+      },
+      {
+        "id": "session-read-aloud-14",
+        "label": "Read aloud 14",
+        "excerpt": "A hazy image of a figure appears, hovering above the green, glowing orb. The ominous shape wears hooded black robes, which disguise all but the figure’s warty, green hands and bro…"
+      }
+    ],
+    "rules": [],
+    "tables": [
+      {
+        "id": "PreparationAccidents",
+        "label": "Preparation Accidents",
+        "excerpt": "Preparation Accidents d10 Accident 1–3 No accident. Preparations go smoothly. 4 The character learns another student is wearing the same costume as them. 5 Makeup, hair dye, or ma…"
+      },
+      {
+        "id": "MasqueradeDevelopments",
+        "label": "Masquerade Developments",
+        "excerpt": "Masquerade Developments d8 Event 1 A student approaches the character and asks them to dance. The student reveals their feelings, those of another student, or some secret to the c…"
+      }
+    ],
+    "statBlocks": [],
+    "maps": [
+      {
+        "id": "session-player-map-1",
+        "label": "Map 5.3: lorehold deans wing",
+        "dmUrl": "https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/map-5.3-lorehold-deans-wing.jpg",
+        "playerUrl": "https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/map-5.3-lorehold-deans-wing-player.jpg"
+      },
+      {
+        "id": "session-player-map-2",
+        "label": "Map 5.4: deans repository",
+        "dmUrl": "https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/map-5.4-deans-repository.jpg",
+        "playerUrl": "https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/map-5.4-deans-repository-player.jpg"
+      }
+    ],
+    "quickLinks": [
+      {
+        "depth": 2,
+        "id": "PreparingfortheMasquerade",
+        "text": "Preparing for the Masquerade",
+        "type": "scene"
+      },
+      {
+        "depth": 2,
+        "id": "ArrivingattheMasquerade",
+        "text": "Arriving at the Masquerade",
+        "type": "scene"
+      },
+      {
+        "depth": 3,
+        "id": "MasqueradeGeneralFeatures",
+        "text": "Masquerade General Features",
+        "type": "reference"
+      },
+      {
+        "depth": 2,
+        "id": "MasqueradeEvents",
+        "text": "Masquerade Events",
+        "type": "scene"
+      },
+      {
+        "depth": 3,
+        "id": "GuessWho",
+        "text": "Guess Who?",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "WelcomingAnnouncement",
+        "text": "Welcoming Announcement",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "FurtherSuspicions",
+        "text": "Further Suspicions",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "MasqueradeFestivities",
+        "text": "Masquerade Festivities",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "KollemasWisdom",
+        "text": "Kollema’s Wisdom",
+        "type": "reference"
+      },
+      {
+        "depth": 2,
+        "id": "TheMasqueradesConclusion",
+        "text": "The Masquerade’s Conclusion",
+        "type": "scene"
+      },
+      {
+        "depth": 2,
+        "id": "MidnightatLorehold",
+        "text": "Midnight at Lorehold",
+        "type": "scene"
+      },
+      {
+        "depth": 3,
+        "id": "LoreholdDeansWing",
+        "text": "Lorehold Deans’ Wing",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "LoreholdDeansWingFeatures",
+        "text": "Lorehold Deans’ Wing Features",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "LoreholdDeansWingLocations",
+        "text": "Lorehold Deans’ Wing Locations",
+        "type": "location"
+      },
+      {
+        "depth": 4,
+        "id": "L1MainHall",
+        "text": "L1. Main Hall",
+        "type": "location"
+      },
+      {
+        "depth": 4,
+        "id": "L2AdministrativeOffice",
+        "text": "L2. Administrative Office",
+        "type": "location"
+      },
+      {
+        "depth": 4,
+        "id": "L3Porch",
+        "text": "L3. Porch",
+        "type": "location"
+      },
+      {
+        "depth": 4,
+        "id": "L4RecordsRoom",
+        "text": "L4. Records Room",
+        "type": "location"
+      },
+      {
+        "depth": 4,
+        "id": "L5RestrictedRecordsRoom",
+        "text": "L5. Restricted Records Room",
+        "type": "location"
+      },
+      {
+        "depth": 4,
+        "id": "L6DeansReceptionRoom",
+        "text": "L6. Deans’ Reception Room",
+        "type": "location"
+      },
+      {
+        "depth": 4,
+        "id": "L7DeanPlarggsOffice",
+        "text": "L7. Dean Plargg’s Office",
+        "type": "location"
+      },
+      {
+        "depth": 4,
+        "id": "L8DeanTullussOffice",
+        "text": "L8. Dean Tullus’s Office",
+        "type": "location"
+      },
+      {
+        "depth": 4,
+        "id": "L9DeansRecordsRoom",
+        "text": "L9. Deans’ Records Room",
+        "type": "location"
+      },
+      {
+        "depth": 3,
+        "id": "FacingtheDean",
+        "text": "Facing the Dean",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "DeansRepository",
+        "text": "Deans’ Repository",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "MurgaxorManifests",
+        "text": "Murgaxor Manifests",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "MurgaxorAttacks",
+        "text": "Murgaxor Attacks",
+        "type": "encounter"
+      },
+      {
+        "depth": 2,
+        "id": "Aftermath1",
+        "text": "Aftermath",
+        "type": "scene"
+      },
+      {
+        "depth": 3,
+        "id": "AThreatReturns",
+        "text": "A Threat Returns",
+        "type": "encounter"
+      },
+      {
+        "depth": 3,
+        "id": "TheYearsEnd",
+        "text": "The Year’s End",
+        "type": "reference"
+      },
+      {
+        "depth": 2,
+        "id": "Advanceto8thLevel",
+        "text": "Advance to 8th Level!",
+        "type": "scene"
+      }
+    ]
+  },
+  "anomalyFlags": [
+    {
+      "type": "reader-address",
+      "passage": "Linger on opportunities to socialize as long as you and the players please, and adjust Relationship Points as necessary.",
+      "location": "Masquerade Events",
+      "anchor": "MasqueradeEvents",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "I know many of you have been looking forward to this night as much as I have, and I promise it will be a night to remember!",
+      "location": "Welcoming Announcement",
+      "anchor": "WelcomingAnnouncement",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "“Now, you’ve all been promised a starlit night, so one and all, come dance among the stars!",
+      "location": "Welcoming Announcement",
+      "anchor": "WelcomingAnnouncement",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "“Always remember the chain of which you are a part.",
+      "location": "Kollema’s Wisdom",
+      "anchor": "KollemasWisdom",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "You are bonded, students of Strixhaven, to one another and to those you’ll never know.",
+      "location": "Kollema’s Wisdom",
+      "anchor": "KollemasWisdom",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "Never doubt the wondrousness of what you’ve learned or the remarkable place you hold as the link between the past and the future.",
+      "location": "Kollema’s Wisdom",
+      "anchor": "KollemasWisdom",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "“There is a harsh lesson you have yet to learn.",
+      "location": "Kollema’s Wisdom",
+      "anchor": "KollemasWisdom",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "Beware, mages, of the shadow that reaches for you even now.",
+      "location": "Kollema’s Wisdom",
+      "anchor": "KollemasWisdom",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "But as you round a corner, a flickering magical lantern illuminates several bewildered students standing in the path.",
+      "location": "The Masquerade’s Conclusion",
+      "anchor": "TheMasqueradesConclusion",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "You can’t take me!",
+      "location": "The Masquerade’s Conclusion",
+      "anchor": "TheMasqueradesConclusion",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "hidden-actor",
+      "passage": "The double door leading into the Deans’ Wing from outside is locked, but it can be opened with a successful DC 25 Dexterity check using thieves’ tools.",
+      "location": "L1. Main Hall",
+      "anchor": "L1MainHall",
+      "confidence": 0.68,
+      "reason": "A passive construction may conceal who performs the action."
+    },
+    {
+      "type": "hidden-actor",
+      "passage": "If the orb is destroyed, any creature released from it vanishes.",
+      "location": "Murgaxor Attacks",
+      "anchor": "MurgaxorAttacks",
+      "confidence": 0.68,
+      "reason": "A passive construction may conceal who performs the action."
+    }
+  ],
+  "contentHtml": "<h1 class=\"compendium-hr\" id=\"AStarlitNight\">A Starlit Night</h1>\n\n<p>The Magister’s Masquerade occurs in the final weeks of the academic year as students’ final exams conclude. The events of the ball precipitate the end of the adventure, so tie up any loose plots characters are involved in prior to starting this section or during its more free-form parts.</p>\n<p>While the masquerade is the climax of the academic year, the adventure’s final challenges take place at Archaeo Memorial Hall as the characters’ investigation of Dean Tullus comes to a head. During the Masquerade, the dean uses the crowd to spread Murgaxor’s curse, sowing the seeds for the villain’s future magical plots. Use opportunities at the masquerade to fuel the characters’ suspicions and ultimately encourage them to investigate the dean’s office, as detailed in the “<a href=\"#MidnightatLorehold\" title=\"Midnight at Lorehold\">Midnight at Lorehold</a>” section.</p>\n<h2 class=\"compendium-hr heading-anchor\" id=\"PreparingfortheMasquerade\">Preparing for the Masquerade</h2>\n<p>Many students spend the day of the Magister’s Masquerade preparing for the event by relaxing, putting the finishing touches on their costumes, dressing, and meeting with friends so they can arrive at the event together. Nothing sinister happens to the characters during this time, but it’s still a stressful period, and tensions are apt to be high. The day of the masquerade, have each character roll on the Preparation Accidents table to see how the lead-up to the event goes.</p>\n<table id=\"PreparationAccidents\" class=\"table-compendium table--generic-dice\">\n<caption class=\"heading-anchor\"><a href=\"#PreparationAccidents\"></a>Preparation Accidents</caption>\n<thead>\n<tr>\n<th>d10</th>\n<th>Accident</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1–3</td>\n<td>No accident. Preparations go smoothly.</td>\n</tr>\n<tr>\n<td>4</td>\n<td>The character learns another student is wearing the same costume as them.</td>\n</tr>\n<tr>\n<td>5</td>\n<td>Makeup, hair dye, or magical accessories work incorrectly, causing part of the character’s appearance to have an unexpected color.</td>\n</tr>\n<tr>\n<td>6</td>\n<td>The character loses their <a class=\"tooltip-hover magic-item-tooltip\" href=\"https://www.dndbeyond.com/magic-items/4239819-masque-charm\" data-tooltip-href=\"/magic-items/4239819-tooltip\">masque charm</a>.</td>\n</tr>\n<tr>\n<td>7</td>\n<td>The character’s date backs out at the last moment, or they’re encouraged to have someone unexpected attend the ball with them.</td>\n</tr>\n<tr>\n<td>8</td>\n<td>An unexpected emergency at a Job or related to an Extracurricular takes up some of the character’s preparation time. This makes them 6d10 minutes late to the event.</td>\n</tr>\n<tr>\n<td>9</td>\n<td>The masquerade’s organizers require the character to show up to the event 1d4 hours early and work for a portion of the masquerade.</td>\n</tr>\n<tr>\n<td>10</td>\n<td>An accident—such as a chemical spill, animal damage, or a rain of magic pigment—ruins the character’s costume 1d4 hours before the event.</td>\n</tr>\n</tbody>\n</table>\n<h2 class=\"compendium-hr heading-anchor\" id=\"ArrivingattheMasquerade\">Arriving at the Masquerade</h2>\n<p>The Magister’s Masquerade starts at dusk. Once characters have completed their preparations (or time has run out), they should head to Kollema Hall. As they arrive at Kollema Hall and step inside, read or paraphrase the following text:</p>\n<aside class=\"read-aloud-text\" id=\"session-read-aloud-1\">\n<p>Kollema Hall has been transformed. Music, color, and laughter fill the airy space as masked and impeccably dressed students and faculty mingle. Beyond a check-in stand attended by student hosts, tables are arranged with whimsical ice sculptures and ornate refreshments. A band plays energetic music near the demonstration stage, which has been turned into a dance floor. Above it all, banners depicting Strixhaven heroes hang amid drifting lanterns glowing with soft light.</p>\n</aside>\n<p>Students don’t need to present their invitations to gain admittance to the masquerade, but they are expected to check in. All third-year students and their guests are admitted to the ball, so long as they’re wearing appropriate attire. If a student arrives without adequate attire, a helpful student working the desk takes them to a room upstairs with a wardrobe full of musty costumes from past Prismari theatrical events. The character can use these costumes to assemble an outfit, albeit an atrocious one.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"MasqueradeGeneralFeatures\">Masquerade General Features</h3>\n<p>The Magister’s Masquerade is held on the first floor of Kollema Hall, which is shown on <a href=\"/chapters/strixhaven-dressing-for-success/#KollemaHallLocations\" title=\"Map 5.2.\">map 5.2.</a> The tables have been moved from <a href=\"/chapters/strixhaven-dressing-for-success/#K1SerenityQuadrants\" title=\"area K1\">area K1</a> and replaced with a few long tables serving refreshments. During the masquerade, add the following features to those listed in the “<a href=\"/chapters/strixhaven-dressing-for-success/#KollemaHallFeatures\" title=\"Kollema Hall Features\">Kollema Hall Features</a>” section earlier in this chapter:</p>\n<p><strong>Crowded.</strong> During the masquerade, the first and second floors of the hall are crowded with people. These floors are <a class=\"tooltip-hover rule-tooltip\" href=\"https://www.dndbeyond.com/sources/basic-rules/adventuring#DifficultTerrain\" data-tooltip-href=\"/rules/86-tooltip\">difficult terrain</a>.</p>\n<p><strong>Distracting.</strong> The hall is filled with music and activity. Creatures on the first and second floors have disadvantage on Wisdom (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/14-tooltip\">Perception</a>) checks.</p>\n<h2 class=\"compendium-hr heading-anchor\" id=\"MasqueradeEvents\">Masquerade Events</h2>\n<p>The Magister’s Masquerade includes the events below; run them in the order shown. Between the events, allow opportunities for characters to socialize. Moments to mingle or dance can serve as the culmination of some Relationships or as turning points for others. Linger on opportunities to socialize as long as you and the players please, and adjust Relationship Points as necessary.</p>\n<figure id=\"imgspellmishaps\" class=\"compendium-image\">\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/05-010.from-spell-mishaps.png\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/05-010.from-spell-mishaps.png\" class=\"ddb-lightbox-inner compendium-center-banner-img\" style=\"width: 850px;\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a>\n<figcaption>From spell mishaps to pigment storms, plenty could go wrong the day of the Magister’s Masquerade</figcaption>\n</figure>\n<h3 class=\"compendium-hr heading-anchor\" id=\"GuessWho\">Guess Who?</h3>\n<p>When the characters arrive, they have time to socialize, take in other students’ costumes, and meet up with acquaintances they recognize. While characters easily recognize each other, nearly everyone at the masquerade is wearing a magical disguise. Correctly guessing another student’s identity requires a successful DC 13 Intelligence (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/8-tooltip\">Investigation</a>) check, regardless of whether the student wears a mundane or magical costume. A character has advantage on checks made to recognize any students they have a Relationship with.</p>\n<p>Some characters might look for Dean Tullus during the masquerade, but they don’t immediately see her. Anyone they ask about her believes the dean is present, but no one can readily point her out.</p>\n<p>During this initial period (and later in the event), mages using the <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2288-unseen-servant\" data-tooltip-href=\"/spells/2288-tooltip\">unseen servant</a> spell circulate trays of food and drink throughout the hall.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"WelcomingAnnouncement\">Welcoming Announcement</h3>\n<p>Once all the characters have arrived and had a chance to mingle, Dean Tullus welcomes the attendees to the annual Magister’s Masquerade. Read the following text to begin this event:</p>\n<aside class=\"read-aloud-text\" id=\"session-read-aloud-2\">\n<p>The music falls silent and a spotlight shines upon a second-floor balcony as Dean Tullus approaches the railing. The dean is unmasked and resplendent in a gown made of golden scrolls. Magic amplifies her voice, carrying it throughout the hall.</p>\n<p>“Students, faculty, honored guests of Strixhaven: welcome to the Magister’s Masquerade! I know many of you have been looking forward to this night as much as I have, and I promise it will be a night to remember!”</p>\n<p>She gestures toward the massive statue in the hall’s center. “Centuries ago, wise Kollema established this masquerade as a Strixhaven tradition to bring students of all our colleges together, to show the potential of our university’s mission, and to create a night of magic. Tonight, we are honored by the presence of his spirit and wisdom once again, for history lives here at Strixhaven, and nothing is ever truly forgotten.</p>\n<p>“Now, you’ve all been promised a starlit night, so one and all, come dance among the stars!”</p>\n</aside>\n<p>With Dean Tullus’s final words, the tube-like devices placed during the “<a href=\"/chapters/strixhaven-dressing-for-success/#PreparingtheHall\" title=\"Preparing the Hall\">Preparing the Hall</a>” event fire, scattering multicolored lights to the heights of the hall. These insubstantial magical motes hang in the air, shedding a gentle starry light.</p>\n<p><em><strong>Misfire.</strong></em> If a character failed to notice the faulty device in the “<a href=\"/chapters/strixhaven-dressing-for-success/#Firebreak\" title=\"Firebreak\">Firebreak</a>” event earlier in the chapter, or noticed it but did nothing about it, the device explodes when activated. The explosion happens in the quadrant of Kollema Hall’s first floor with the largest number of characters. Everyone in that quarter of the hall must succeed on a DC 14 Dexterity saving throw or have starry embers burn small holes into their attire. Creatures are otherwise unharmed. Guests are startled, and many are upset about what’s happened to their outfits, but within 10 minutes most attendees calm down.</p>\n<p><em><strong>Dance among the Stars.</strong></em> As the dean finishes her speech, the magic placed on the Kollema Hall demonstration stage activates. Anyone who enters a space on or above the stage gains a fly speed equal to their walking speed. This allows the guests to literally dance on air. Anyone who leaves the space above the dance floor in midair drifts gently to an unoccupied space in <a href=\"/chapters/strixhaven-dressing-for-success/#K1SerenityQuadrants\" title=\"area K1\">area K1</a>. This magic lasts until the end of the masquerade.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"FurtherSuspicions\">Further Suspicions</h3>\n<p>Use the Magister’s Masquerade as an opportunity to heighten the characters’ suspicions about Dean Tullus. After her welcome announcement, Dean Tullus grows distant. In the course of the evening, a character keeping an eye on the dean can make a DC 12 Wisdom (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/12-tooltip\">Insight</a>) check. On a success, the character notices the dean engaged in one of the following strange behaviors:</p>\n<ul>\n<li>Dean Tullus moves through the crowd, letting her hand drift across the backs of those she passes.</li>\n<li>The dean faces a bookshelf and momentarily examines something she’s holding. Green light from an unseen source illuminates her, then fades.</li>\n<li>Dean Tullus ignores and moves away from anyone who tries to engage her in conversation.</li>\n</ul>\n<h3 class=\"compendium-hr heading-anchor\" id=\"MasqueradeFestivities\">Masquerade Festivities</h3>\n<p>During the masquerade, characters can interact with every other student present. Roll on the Masquerade Developments table for each character to see which interactions occur.</p>\n<table id=\"MasqueradeDevelopments\" class=\"table-compendium table--generic-dice\">\n<caption class=\"heading-anchor\"><a href=\"#MasqueradeDevelopments\"></a>Masquerade Developments</caption>\n<thead>\n<tr>\n<th>d8</th>\n<th>Event</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1</td>\n<td>A student approaches the character and asks them to dance. The student reveals their feelings, those of another student, or some secret to the character during the dance.</td>\n</tr>\n<tr>\n<td>2</td>\n<td>A character overhears a group of students planning a mean-spirited prank on another student. The character can thwart the prank, but risks having a bucket of ink being spilled on them or being targeted by a <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2320-tashas-hideous-laughter\" data-tooltip-href=\"/spells/2320-tooltip\">Tasha’s hideous laughter</a> spell.</td>\n</tr>\n<tr>\n<td>3</td>\n<td>A Friend of the character is clearly experiencing an altered state, perhaps due to magic, an intense calming method, or a more mundane reason. The student needs someone to watch out for them lest they embarrass themself.</td>\n</tr>\n<tr>\n<td>4</td>\n<td>A Rival of the character challenges them to an aerial dance-off. Whoever has the highest Charisma (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/18-tooltip\">Performance</a>) check total wins.</td>\n</tr>\n<tr>\n<td>5</td>\n<td>The character finds a distraught student who’s had their costume ruined or suffered a messy rejection.</td>\n</tr>\n<tr>\n<td>6</td>\n<td>A magically gifted artist is capturing rapid portraits of masquerade attendees. The character is invited to have their portrait made to remember the night.</td>\n</tr>\n<tr>\n<td>7</td>\n<td>If the character put a lot of thought into their costume, multiple attendees compliment their outfit. If they didn’t, the comments are less flattering.</td>\n</tr>\n<tr>\n<td>8</td>\n<td>The character notices Dean Tullus watching them intently several times in the course of the evening.</td>\n</tr>\n</tbody>\n</table>\n<h3 class=\"compendium-hr heading-anchor\" id=\"KollemasWisdom\">Kollema’s Wisdom</h3>\n<p>Part of the tradition of the Magister’s Masquerade involves a speech made by the spirit of Magister Kollema. The statue of Kollema animates, offering wisdom to the gathered students of Strixhaven, in the final hour of the masquerade:</p>\n<aside class=\"read-aloud-text\" id=\"session-read-aloud-3\">\n<p>At the anticipated time, the music fades, dancers drift to the floor, and the hall falls silent as lights rise to illuminate the towering statue of Magister Kollema. After a moment’s stillness, the statue speaks.</p>\n<p>“Students of Strixhaven,” Wise Kollema says in a voice that booms through the hall, yet echoes as if coming from afar. “Always remember the chain of which you are a part. Wisdom is shared, learned, added to, and passed on. Links are added and lost, but the chain of tradition connects us all—those of us who were, who are, and who are yet to come. You are bonded, students of Strixhaven, to one another and to those you’ll never know. Never doubt the wondrousness of what you’ve learned or the remarkable place you hold as the link between the past and the future. This night, we are one community, knowing no boundaries of role, college, or time.”</p>\n<p>The hall bursts into applause.</p>\n<p>“But be warned!” the statue of Kollema unexpectedly continues. “There is a harsh lesson you have yet to learn. When the mistakes of the past are forgotten, that dire past will return to haunt the present. Beware, mages, of the shadow that reaches for you even now.”</p>\n</aside>\n<p>The hall falls into silence as the voice of Kollema fades, followed by muttering and the jarringly jaunty notes of the band playing anew. Questions about Kollema’s pronouncement run through the crowd. Some faculty members report that the magister’s spirit often offers cryptic advice at the event, but they’ve never heard of anything as ominous as this.</p>\n<h2 class=\"compendium-hr heading-anchor\" id=\"TheMasqueradesConclusion\">The Masquerade’s Conclusion</h2>\n<p>After Kollema’s pronouncement, students begin slipping away. Within the next couple of hours, half the guests funnel out, heading back to their lodgings or to clandestine after-parties. Dean Tullus soon leaves as well. A character who’s been watching the dean and who succeeds on a DC 12 Wisdom (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/14-tooltip\">Perception</a>) check notices her slip out, headed in the direction of Archaeo Memorial Hall.</p>\n<p>Whether the characters follow the dean or go about their business after the masquerade, they soon stumble across an unsettling sight. Read or paraphrase the following text:</p>\n<aside class=\"read-aloud-text\" id=\"session-read-aloud-4\">\n<p>Even considering the late hour, the walk across campus is unusually quiet. But as you round a corner, a flickering magical lantern illuminates several bewildered students standing in the path.</p>\n</aside>\n<p>These three students are <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160308-lorehold-apprentice\" data-tooltip-href=\"/monsters/2160308-tooltip\">Lorehold apprentices</a> (see <a href=\"/chapters/strixhaven-friends-and-foes/#LoreholdApprentice\" title=\"chapter 7\">chapter 7</a>) who were ambushed by Dean Tullus. The dean used <a class=\"tooltip-hover magic-item-tooltip\" href=\"https://www.dndbeyond.com/magic-items/4239820-murgaxors-orb\" data-tooltip-href=\"/magic-items/4239820-tooltip\">Murgaxor’s orb</a> to curse them with Visions of Terror (as detailed at the start of <a href=\"/chapters/strixhaven-the-magisters-masquerade/#MurgaxorsOrb\" title=\"the adventure\">the adventure</a>). Dean Tullus hopes to scare off the characters by placing the students in the characters’ path.</p>\n<p>The students begin panicking as the characters approach them. The scene should be familiar to anyone who faced the sick students at Kollema Hall. The students attack whichever non-cursed creature is closest to them, and they can’t be calmed. During the battle, the delirious students scream things like “No! You can’t take me!” but also more useful information like “This isn’t the way to Archaeo Hall! What are you doing?!” A student who is either <a class=\"tooltip-hover condition-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#IncapacitatedCondition\" data-tooltip-href=\"/conditions/7-tooltip\">incapacitated</a> or knocked <a class=\"tooltip-hover condition-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#UnconsciousCondition\" data-tooltip-href=\"/conditions/15-tooltip\">unconscious</a> comes to their senses when the condition ends on them.</p>\n<p><em><strong>Golden Scroll.</strong></em> After the battle, one of the students drops something: a piece of a golden scroll. A character who succeeds on a DC 12 Intelligence (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/8-tooltip\">Investigation</a>) check recognizes this as a ripped piece of Dean Tullus’s masquerade dress.</p>\n<p><em><strong>Further Investigation.</strong></em> Characters who go to Archaeo Memorial Hall find another scrap of dress outside the building. A successful DC 14 Wisdom (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/14-tooltip\">Perception</a>) check also allows a character to notice a light flickering within the hall and a silhouette moving within.</p>\n<p>Characters who wait for the panicked students to recover can question them. All three students say Dean Tullus requested they assist her with an errand at Archaeo Memorial Hall, but along the way a strange headache left them dazed. One of them reached out to the dean for help, snagging her dress, but she left them.</p>\n<p>If the characters investigate any of these clues, proceed with the “Midnight at Lorehold” section.</p>\n<h2 class=\"compendium-hr heading-anchor\" id=\"MidnightatLorehold\">Midnight at Lorehold</h2>\n<p>Following their suspicions about Dean Tullus, the characters visit Archaeo Memorial Hall, the primary administrative building on Lorehold’s campus. They know Tullus’s office is in the Deans’ Wing and find strangeness afoot there.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"LoreholdDeansWing\">Lorehold Deans’ Wing</h3>\n<p>The Deans’ Wing occupies a potion of the first floor of Archaeo Memorial Hall. The wing consists primarily of offices and portions of Lorehold’s extensive historical archives.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"LoreholdDeansWingFeatures\">Lorehold Deans’ Wing Features</h4>\n<p>The following are general features of the Lorehold Deans’ Wing:</p>\n<p><strong>Structure.</strong> The exterior walls of the Deans’ Wing are heavy stone construction, while the interior walls are wood and plaster, with heavy wooden doors, except as specified otherwise.</p>\n<p><strong>Ceilings.</strong> Most of the Deans’ Wing has 12-foot ceilings, while the records rooms (<a href=\"#L4RecordsRoom\" title=\"area L4\">area L4</a>) have 20-foot-high ceilings.</p>\n<p><strong>Illumination.</strong> Unless otherwise noted, when visited at night, areas of the Deans’ Wing are unlit.</p>\n<p><strong>Guardian.</strong> An <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/16934-invisible-stalker\" data-tooltip-href=\"/monsters/16934-tooltip\">invisible stalker</a> roams the halls of the Deans’ Wing after hours, serving as a guard. Until the invisible stalker is defeated, whenever the characters enter a room, roll a d20. On a roll of 18–20, the <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/16934-invisible-stalker\" data-tooltip-href=\"/monsters/16934-tooltip\">invisible stalker</a> is in that room. Otherwise, any significant noise the characters make attracts the invisible stalker. The creature attacks anyone they find who isn’t a member of the Lorehold faculty.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"LoreholdDeansWingLocations\">Lorehold Deans’ Wing Locations</h3>\n<p>The following locations are keyed to map 5.3. All descriptions assume the character explore this area at night, when the wing is largely abandoned.</p>\n<figure id=\"Map53loreholddeanswing\" class=\"compendium-image\">\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/map-5.3-lorehold-deans-wing.jpg\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/map-5.3-lorehold-deans-wing.jpg\" class=\"ddb-lightbox-inner compendium-center-banner-img\" style=\"width: 850px;\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a>\n<figcaption>Map 5.3: lorehold deans wing <a class=\"ddb-lightbox-outer\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/map-5.3-lorehold-deans-wing-player.jpg\" data-lightbox=\"1\" data-title=\"View Player Version\" id=\"session-player-map-1\">View Player Version</a></figcaption>\n</figure>\n<h4 class=\"compendium-hr heading-anchor\" id=\"L1MainHall\">L1. Main Hall</h4>\n<p>The double door leading into the Deans’ Wing from outside is locked, but it can be opened with a successful DC 25 Dexterity check using thieves’ tools.</p>\n<aside class=\"read-aloud-text\" id=\"session-read-aloud-5\">\n<p>A double door opens onto a stately, carpeted hall hung with unlit lamps and fine portraits. There are doors to either side of the entrance, a double door in each wall halfway along the hall, and a single door at the far end.</p>\n</aside>\n<p>The portraits here depict past deans of Lorehold and are invested with a measure of their spirits. Any visible creature not part of the Lorehold faculty that enters this hall after hours and proceeds more than 10 feet down the hall causes the portraits to watch the interloper and whisper.</p>\n<p>If a character proceeds more than 20 feet down the hall without addressing the portraits, the paintings target them with disconcerting magic. Each creature in the hall that can hear the whispers must make a DC 14 Wisdom saving throw. On a failed save, the creature takes 10 (3d6) psychic damage and must immediately use its reaction, if available, to move as far as its speed allows out of the Lorehold Deans’ Wing. If the creature succeeds, it takes half as much damage and doesn’t have to flee the area.</p>\n<p>If a character addresses any of the portraits, one or more of them reply and insist to know the characters’ business in the Deans’ Wing. The portraits all have the personalities of the deans they depict and are generally stodgy and pedantic. However, characters who succeed on a DC 16 Charisma (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/19-tooltip\">Persuasion</a>) check can convince the portraits that the party belongs there. The portraits won’t use their magic on the characters if so convinced.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"L2AdministrativeOffice\">L2. Administrative Office</h4>\n<p>Lorehold administrative personnel use these offices to handle the various day-to-day tasks of keeping the campus running. Each office contains at least one desk and chair, along with stacks of dull paperwork and some personal tchotchkes, like a paperweight bearing the Lorehold emblem or an overdue romance novel from the Biblioplex.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"L3Porch\">L3. Porch</h4>\n<aside class=\"read-aloud-text\" id=\"session-read-aloud-6\">\n<p>A three-foot-high stone railing surrounds this broad, paved porch, separating the space from the Lorehold campus beyond.</p>\n</aside>\n<p>These porches are used as sitting and meal areas on the rare occasion that social events are held at the Deans’ Wing. The characters can easily hop over the railings here and access the building through one of the side doors. These doors open easily from the inside, but from the outside they’re locked and require a successful DC 25 Dexterity check using thieves tools to open.</p>\n<p><em><strong>Spirit Statues.</strong></em> Two <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160334-spirit-statue-mascot\" data-tooltip-href=\"/monsters/2160334-tooltip\">spirit statue mascots</a> (see <a href=\"/chapters/strixhaven-friends-and-foes/#SpiritStatueMascot\" title=\"chapter 7\">chapter 7</a>) stand on each of these porches. They house the spirits of departed Lorehold faculty, and they politely ask anyone who hops the railing to use the main doors during working hours. If they’re ignored, the statues shout an alarm, calling the characters “trespassers” as they move to attack. This alerts the two <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160300-cogwork-archivist\" data-tooltip-href=\"/monsters/2160300-tooltip\">cogwork archivists</a> in the nearby Records Room (area L4), which remain in that area, and causes the <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/16934-invisible-stalker\" data-tooltip-href=\"/monsters/16934-tooltip\">invisible stalker</a> that guards the wing to arrive in 1d4 rounds.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"L4RecordsRoom\">L4. Records Room</h4>\n<aside class=\"read-aloud-text\" id=\"session-read-aloud-7\">\n<p>Bound volumes of Lorehold records cram this room’s tall bookshelves and round tables. A double door and numerous plain doors lead from the chamber.</p>\n</aside>\n<p>Two <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160300-cogwork-archivist\" data-tooltip-href=\"/monsters/2160300-tooltip\">cogwork archivists</a> (see <a href=\"/chapters/strixhaven-friends-and-foes/#CogworkArchivist\" title=\"chapter 7\">chapter 7</a>) work in each of these records rooms after hours, sorting and organizing. If they notice the characters, the archivists demand to know why they are in the Deans’ Wing after hours. If they aren’t convinced by the response, they try to grapple the intruders and eject them from the building.</p>\n<p><em><strong>Research.</strong></em> The bookshelves here contain detailed records of Lorehold’s staff, students, and curriculum going back centuries. A character who spends 10 minutes going through the records and succeeds on a DC 14 Intelligence (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/8-tooltip\">Investigation</a>) check discovers a map of the Deans’ Wing. This map clearly marks that there is a hidden space behind a wall of the Deans’ Records Room (<a href=\"#L9DeansRecordsRoom\" title=\"area L9\">area L9</a>).</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"L5RestrictedRecordsRoom\">L5. Restricted Records Room</h4>\n<p>The doors to these rooms are locked, and each requires a successful DC 25 Dexterity check using thieves’ tools to open. Each room contains shelves and cabinets of Lorehold records that detail the academic progress of current students. A character who spends 10 minutes searching the shelves and succeeds on a DC 16 Intelligence (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/8-tooltip\">Investigation</a>) check can find any students’ grades for courses they’re taking in the Biblioplex or on the Lorehold Campus, like Advanced Arcane History. Altering someone’s test results or final grades is a simple matter once their records are discovered. Even the sloppiest alterations aren’t questioned. This doesn’t, however, affect any benefits gained from Exams.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"L6DeansReceptionRoom\">L6. Deans’ Reception Room</h4>\n<aside class=\"read-aloud-text\" id=\"session-read-aloud-8\">\n<p>A simple desk faces a pair of uncomfortable-looking benches in this sparse, hexagonal reception room. Six polished wooden doors lead from the room, one in each wall.</p>\n</aside>\n<p>During the day, office staff mind this desk and keep track of the deans’ appointments. The desk is filled with unremarkable office supplies.</p>\n<p>If the party has not already encountered the <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/16934-invisible-stalker\" data-tooltip-href=\"/monsters/16934-tooltip\">invisible stalker</a> that serves as the wing’s guardian, it’s currently in this room. It waits until intruders move to leave the room, then attacks from behind.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"L7DeanPlarggsOffice\">L7. Dean Plargg’s Office</h4>\n<p>A bronze nameplate on the door to this room reads “Plargg, Dean of Chaos.”</p>\n<aside class=\"read-aloud-text\" id=\"session-read-aloud-9\">\n<p>A clean desk and several stiff-looking chairs fill this austere office. Behind the desk, between various framed academic honors, hangs a mace with a spherical head.</p>\n</aside>\n<p>Dean Plargg, the owner of this office, shares responsibilities as Lorehold’s dean with Dean Tullus. The gruff orc professor specializes in military history and is known for his perfect recall of countless battles and historic events. Beyond office supplies, books on military history (all scribed in the tactile lettering that Plargg invented), and Plargg’s awards, the only thing of interest in the room is one of the dean’s prized discoveries.</p>\n<p><em><strong>Treasure.</strong></em> Hanging behind Plargg’s desk is a <a class=\"tooltip-hover magic-item-tooltip\" href=\"https://www.dndbeyond.com/magic-items/4671-mace-of-smiting\" data-tooltip-href=\"/magic-items/4671-tooltip\">mace of smiting</a> with a round head and a grip wrapped in thick red rope. If a character takes this item and any Lorehold faculty member sees them using it, the faculty member confiscates it and returns it to this office.</p>\n<figure id=\"imgguardians\" class=\"compendium-image\">\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/05-011.ancient-guardians.png\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/05-011.ancient-guardians.png\" class=\"ddb-lightbox-inner compendium-center-banner-img\" style=\"width: 850px;\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a>\n<figcaption>Ancient guardians defend the Deans’ Wing from intruders</figcaption>\n</figure>\n<h4 class=\"compendium-hr heading-anchor\" id=\"L8DeanTullussOffice\">L8. Dean Tullus’s Office</h4>\n<p>A bronze nameplate on the door to this room reads “Augusta Tullus, Dean of Order.”</p>\n<aside class=\"read-aloud-text\" id=\"session-read-aloud-10\">\n<p>The desk in this office is barely visible beneath heaps of books, papers, and knick-knacks. Every shelf and one of the room’s three chairs have similar burdens.</p>\n</aside>\n<p>Dean Tullus’s office is messy and unoccupied. Characters who search her desk find little more than writing supplies and ungraded student essays.</p>\n<p><em><strong>Expedition Records.</strong></em> A character who spends 10 minutes sifting through the papers in the room and succeeds on a DC 12 Intelligence (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/8-tooltip\">Investigation</a>) check discovers log entries from Dean Tullus’s last expedition to the Fortress Badlands. The following notes stand out among them:</p>\n<ul>\n<li>“Discovered glass relic today. Construction unlike other badlands antiquities. Further study required.”</li>\n<li>“Little progress today. Headache making it difficult to focus.”</li>\n<li>“Found myself arguing with the team. Blaming headaches and lack of sleep.”</li>\n<li>“Convinced the glass orb doesn’t originate from the badlands inhabitants. More modern? Magic is strange.”</li>\n<li>“Departing expedition early. Frustrated with team. Eager to investigate orb at Strixhaven’s facilities.”</li>\n<li>“Home again, home again. Home again, home again. Home again, home again.”</li>\n</ul>\n<p>The final note is repeated dozens of times on the back of the log. The handwriting is also clearly not the same as Tullus’s cramped script, being a heavier scrawl.</p>\n<p>These notes provide a piecemeal record of Dean Tullus discovering <a class=\"tooltip-hover magic-item-tooltip\" href=\"https://www.dndbeyond.com/magic-items/4239820-murgaxors-orb\" data-tooltip-href=\"/magic-items/4239820-tooltip\">Murgaxor’s orb</a> and suggest something unusual with Tullus’s behavior.</p>\n<p><em><strong>Treasure.</strong></em> The curios decorating the room have historical significance but are of little value. Six of the dusty relics are worth 25 gp each, but the rest are of interest only to scholars. A character who succeeds on DC 18 Wisdom (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/14-tooltip\">Perception</a>) check finds a <a class=\"tooltip-hover magic-item-tooltip\" href=\"https://www.dndbeyond.com/magic-items/4797-wand-of-secrets\" data-tooltip-href=\"/magic-items/4797-tooltip\">wand of secrets</a> buried under papers on a shelf.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"L9DeansRecordsRoom\">L9. Deans’ Records Room</h4>\n<aside class=\"read-aloud-text\" id=\"session-read-aloud-11\">\n<p>Ancient books and flaking scrolls fill the racks lining the walls of this musty records room. A large case stands along the wall opposite the door.</p>\n</aside>\n<p>This room holds documents detailing the research of Lorehold’s deans, past and present. While some of the work here contains fascinating historical discoveries, there’s little of value to the characters.</p>\n<p><em><strong>Secret Door.</strong></em> A bookcase in the north wall disguises a secret door. Characters can find the door by examining the case and succeeding on a DC 18 Wisdom (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/14-tooltip\">Perception</a>) check. The door is under the effects of an <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/1991-alarm\" data-tooltip-href=\"/spells/1991-tooltip\">alarm</a> spell, which alerts Dean Tullus if anyone opens it.</p>\n<p><em><strong>Deans’ Repository.</strong></em> Anyone who opens the secret door finds a 6-foot-tall, 4-foot-wide, carved wooden frame hanging against the wall inside. Within the frame swirls dense gray fog. This frame is a portal that teleports anyone who enters to the extradimensional space called the Deans’ Repository (detailed in the <a href=\"#DeansRepository\" title=\"next section\">next section</a>).</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"FacingtheDean\">Facing the Dean</h3>\n<p>The final encounter with Dean Tullus and the forces manipulating her occurs in the Deans’ Repository, depicted on map 5.4.</p>\n<figure id=\"Map54deansrepository\" class=\"compendium-image\">\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/map-5.4-deans-repository.jpg\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/map-5.4-deans-repository.jpg\" class=\"ddb-lightbox-inner\" style=\"width: 650px;\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a>\n<figcaption>Map 5.4: deans repository <a class=\"ddb-lightbox-outer\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/map-5.4-deans-repository-player.jpg\" data-lightbox=\"1\" data-title=\"View Player Version\" id=\"session-player-map-2\">View Player Version</a></figcaption>\n</figure>\n<h4 class=\"compendium-hr heading-anchor\" id=\"DeansRepository\">Deans’ Repository</h4>\n<p>When the character enter the Deans’ Repository, read:</p>\n<aside class=\"read-aloud-text\" id=\"session-read-aloud-12\">\n<p>The portal opens into a richly decorated library filled with floor-to-ceiling shelves packed with books and archaeological relics. Four long worktables occupy the room’s center, each covered with papers and dirt-encrusted stonework. Stone statues of dragons stare from between the shelves, and at the room’s far end, wing-backed chairs face a crackling fireplace.</p>\n</aside>\n<p>The Deans’ Repository is a spacious extradimensional library. The only passage leading to or from it is the portal on the wall opposite the fireplace. This portal is the duplicate of the one in <a href=\"#L9DeansRecordsRoom\" title=\"area L9\">area L9</a> of the Deans’ Wing.</p>\n<p><em><strong>Confronting Dean Tullus.</strong></em> Dean Tullus is sitting in one of the chairs by the fireplace when the characters arrive. She’s gazing into <a class=\"tooltip-hover magic-item-tooltip\" href=\"https://www.dndbeyond.com/magic-items/4239820-murgaxors-orb\" data-tooltip-href=\"/magic-items/4239820-tooltip\">Murgaxor’s orb</a>, which she holds in her hands. If she notices the characters or if the characters attack her, she responds as follows:</p>\n<aside class=\"read-aloud-text\" id=\"session-read-aloud-13\">\n<p>Her face lit by the eerie green light of the glass orb she holds, Dean Tullus says, “You shouldn’t have come. Ancient ones, take them!” Four of the statues around the room respond, their eyes flaring with amber light.</p>\n</aside>\n<p>The four corner statues animate and attack (use the <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160334-spirit-statue-mascot\" data-tooltip-href=\"/monsters/2160334-tooltip\">spirit statue mascot</a> stat block in <a href=\"/chapters/strixhaven-friends-and-foes/#SpiritStatueMascot\" title=\"Chapter 7\">chapter 7</a> to represent them), obeying Dean Tullus’s commands. After activating them, Dean Tullus (lawful neutral human <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160311-lorehold-professor-of-order\" data-tooltip-href=\"/monsters/2160311-tooltip\">Lorehold professor of order</a>; see <a href=\"/chapters/strixhaven-friends-and-foes/#LoreholdProfessorofOrder\" title=\"chapter 7\">chapter 7</a>) joins the fray.</p>\n<p>In the course of the battle, Tullus speaks mechanically, making threatening declarations such as “You can’t stop what’s coming.” A character who succeeds on a DC 12 Wisdom (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/12-tooltip\">Insight</a>) check can tell the dean doesn’t seem like herself.</p>\n<p><em><strong>Reaching Tullus.</strong></em> A character who tries to reason with Dean Tullus and succeeds on a DC 14 Charisma (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/19-tooltip\">Persuasion</a>) check causes the dean to hesitate. This doesn’t affect her action on any given round, but if characters succeed on making these checks on three different rounds, Tullus clutches her head and screams “No!” She then falls <a class=\"tooltip-hover condition-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#UnconsciousCondition\" data-tooltip-href=\"/conditions/15-tooltip\">unconscious</a>.</p>\n<p><em><strong><a class=\"tooltip-hover magic-item-tooltip\" href=\"https://www.dndbeyond.com/magic-items/4239820-murgaxors-orb\" data-tooltip-href=\"/magic-items/4239820-tooltip\">Murgaxor’s Orb</a>.</strong></em> Throughout the battle, Tullus clutches the green orb. The wicked mage Murgaxor controls her through this device, but separating her from the orb doesn’t break Murgaxor’s control. When Tullus is defeated or rendered <a class=\"tooltip-hover condition-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#UnconsciousCondition\" data-tooltip-href=\"/conditions/15-tooltip\">unconscious</a>, the orb slips from her hand, precipitating Murgaxor’s appearance (see “Murgaxor Manifests”).</p>\n<p><em><strong>Treasure.</strong></em> On the worktables lie five nonmagical historical relics from Dean Tullus’s and Dean Plargg’s ongoing research. These dusty objects—mostly mundane stone or jade vessels—are each worth 100 gp.</p>\n<p>Additionally, a character who spends 10 minutes searching the library and succeeds on a DC 16 Intelligence (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/8-tooltip\">Investigation</a>) check discovers a <a class=\"tooltip-hover magic-item-tooltip\" href=\"https://www.dndbeyond.com/magic-items/4239818-lorehold-primer\" data-tooltip-href=\"/magic-items/4239818-tooltip\">Lorehold primer</a> (see <a href=\"/chapters/strixhaven-character-options/#LoreholdPrimer\" title=\"chapter 2\">chapter 2</a>).</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"MurgaxorManifests\">Murgaxor Manifests</h3>\n<p>When Dean Tullus is defeated, <a class=\"tooltip-hover magic-item-tooltip\" href=\"https://www.dndbeyond.com/magic-items/4239820-murgaxors-orb\" data-tooltip-href=\"/magic-items/4239820-tooltip\">Murgaxor’s orb</a> flares with sickly green light and emits a blast of noxious wind. All creatures within 10 feet of the orb must succeed on a DC 16 Strength saving throw or be pushed 10 feet away from the orb. Read or paraphrase the following text:</p>\n<aside class=\"read-aloud-text\" id=\"session-read-aloud-14\">\n<p>A hazy image of a figure appears, hovering above the green, glowing orb. The ominous shape wears hooded black robes, which disguise all but the figure’s warty, green hands and broad, frog-like mouth.</p>\n<p>“Worthless, pathetic meddlers!” the figure croaks. “I won’t have my plans thwarted again! I’ll have my vengeance on Strixhaven soon enough. You all will pay!”</p>\n</aside>\n<p>This is Murgaxor, a wizard long ago expelled from Strixhaven for practicing deadly magic. He’s been controlling Dean Tullus through the orb she discovered, using it to channel his magic from afar. Now that Tullus has been thwarted, Murgaxor seeks to carry out his revenge himself. Murgaxor is a bombastic foe, though. Should the characters insult or question him, he gloats about his schemes in the following ways:</p>\n<p><strong>Who are you?</strong> “You should already know the name Murgaxor Grenshel! It should be recorded as the name of the greatest mage Strixhaven has ever known. Instead those cowards blotted it out—struck it from the pages of history! But soon all the world will know my name!”</p>\n<p><strong>What do you want?</strong> “I have what I want for now. Dear Professor Tullus has served her purpose, my magic has spread across Strixhaven, and soon the rest of my plan will be a success.” If the characters ask more about this, Murgaxor ignores their question.</p>\n<p><strong>Why are you doing this?</strong> “Vengeance! Vengeance on a scale your feeble minds could never comprehend.”</p>\n<p><strong>So it was you controlling the dean and sickening the students?</strong> “Bah! Manipulating those pawns was only the beginning!”</p>\n<p><strong>Why are you targeting us?</strong> “You’ve confounded my plots—now for the last time!”</p>\n<p>After some banter—or if the characters get a good insult in on him—Murgaxor shouts in frustration. In response, the image of Murgaxor vanishes and the orb cracks, releasing a threat from within.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"MurgaxorAttacks\">Murgaxor Attacks</h3>\n<p>After Murgaxor’s image vanishes, the cracked orb releases a cloud of mist that transforms into an entity composed of equal parts noxious wind and crackling green energy. This creature uses the <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/16774-air-elemental\" data-tooltip-href=\"/monsters/16774-tooltip\">air elemental</a> stat block, except its Slam attack deals necrotic damage instead of bludgeoning damage. The creature fights until destroyed. When reduced to 0 hit points, the creature is drawn back into the cracked orb. The orb glows brightly for 1 minute, after which it releases another such creature with full hit points.</p>\n<p>The orb’s threat can be put to an end only by destroying the orb (see “<a href=\"/chapters/strixhaven-the-magisters-masquerade/#MurgaxorsOrb\" title=\"Murgaxor’s Orb\">Murgaxor’s Orb</a>” at the start of the adventure). If the orb is destroyed, any creature released from it vanishes.</p>\n<h2 class=\"compendium-hr heading-anchor\" id=\"Aftermath1\">Aftermath</h2>\n<p>If Dean Tullus survives her confrontation with the characters, she’s free of Murgaxor’s influence and grateful to these resourceful students. She covers for the characters when other faculty members ask about any strangeness (or missing possessions) in the Deans’ Wing.</p>\n<p>If Dean Tullus was killed, the masters of Strixhaven cast <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2224-raise-dead\" data-tooltip-href=\"/spells/2224-tooltip\">raise dead</a> to restore her to life. She quickly realizes what transpired and keeps the characters’ role in her death between her and the characters.</p>\n<figure id=\"imgfromdifferentcolleges\" class=\"compendium-image\">\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/05-012.students-from-different-colleges.png\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/05-012.students-from-different-colleges.png\" class=\"ddb-lightbox-inner compendium-center-banner-img\" style=\"width: 850px;\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a>\n<figcaption>Students from different colleges working together are stronger<br>than they would be alone—a lesson often learned by year’s end</figcaption>\n</figure>\n<h3 class=\"compendium-hr heading-anchor\" id=\"AThreatReturns\">A Threat Returns</h3>\n<p>After their encounter with Murgaxor, the characters likely realize that the evil mage has had a hand in numerous threats the characters have experienced, both during this academic year and before.</p>\n<p>Dean Tullus makes sure the rest of the faculty knows about Murgaxor’s threat to the university—a threat every professor takes seriously. Although the faculty is inclined to conceal this information from the student body for the time being (to avoid panic), the characters might learn through Dean Tullus or another professor what they couldn’t learn through research: that a Strixhaven student named <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160313-murgaxor\" data-tooltip-href=\"/monsters/2160313-tooltip\">Murgaxor</a> was expelled long ago for using life-draining magic on his fellow students. Murgaxor was thought defeated, but clearly, he has somehow returned. The university staff doesn’t have any more information than that, but they encourage the characters to remain wary.</p>\n<p>If this adventure marks the end of your Strixhaven campaign, the school’s administrators thank the characters for ending Murgaxor’s threat and promise to destroy any remnants of the evil mage’s magic.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"TheYearsEnd\">The Year’s End</h3>\n<p>The academic year soon draws to a peaceful close. Give the characters an opportunity to wrap up any remaining plans they still have, but in a scant few days classes end, the dormitories close, and the characters have a several-month-long break before the beginning of their fourth and final year at Strixhaven.</p>\n<h2 class=\"compendium-hr heading-anchor\" id=\"Advanceto8thLevel\">Advance to 8th Level!</h2>\n<p>With the adventure’s end, each character advances to 8th level.</p>"
+}

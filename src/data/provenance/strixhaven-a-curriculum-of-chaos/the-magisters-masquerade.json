@@ -1,0 +1,268 @@
+{
+  "title": "The Magister’s Masquerade",
+  "sourcebook": "Strixhaven: A Curriculum of Chaos",
+  "bookSlug": "strixhaven-a-curriculum-of-chaos",
+  "originalPath": "Arcavios/Stixhaven/Chapter 12 - The Magister's Masquerade.html",
+  "rawUrl": "/archive/strixhaven/Chapter%2012%20-%20The%20Magister's%20Masquerade.html",
+  "sourceHash": "f01acc3cc19e876d5a9a9d78c391de7a3b20abd39175f1582cab8392744ead4a",
+  "extractionDate": "2026-07-13T07:40:57.647Z",
+  "extractionVersion": 3,
+  "originalAnchors": [
+    {
+      "id": "TheMagistersMasquerade",
+      "text": "The Magister’s Masquerade",
+      "element": "h1"
+    },
+    {
+      "id": "comp-next-nav",
+      "text": "",
+      "element": "div"
+    },
+    {
+      "id": "imgsplash",
+      "text": "The annual Magister’s Masquerade is a night of magicand fun that third-year students will never forget",
+      "element": "figure"
+    },
+    {
+      "id": "RunningThisAdventure",
+      "text": "Running This Adventure",
+      "element": "h2"
+    },
+    {
+      "id": "AdventureOverview",
+      "text": "Adventure Overview",
+      "element": "h3"
+    },
+    {
+      "id": "AStandaloneAdventure",
+      "text": "A Standalone Adventure",
+      "element": "h4"
+    },
+    {
+      "id": "CharacterAdvancement",
+      "text": "Character Advancement",
+      "element": "h3"
+    },
+    {
+      "id": "ThirdYearLevelAdvancement",
+      "text": "Third-Year Level Advancement Level Reached When Characters… 7th Quell the panicked students as they prepare for the Magister’s Masquerade 8th Finish the adventu",
+      "element": "table"
+    },
+    {
+      "id": "RandomEncounters",
+      "text": "Random Encounters",
+      "element": "h3"
+    },
+    {
+      "id": "ThirdYearEncounters",
+      "text": "Third-Year Encounters d10 Encounter 1–3 2d4 pest mascots (see chapter 7) making off with a student’s ball gown 4–5 1d4 Lorehold apprentices (see chapter 7) affe",
+      "element": "table"
+    },
+    {
+      "id": "StudentSchedules",
+      "text": "Student Schedules",
+      "element": "h3"
+    },
+    {
+      "id": "ThirdYearCourses",
+      "text": "Third-Year Courses d10 Course Offered By 1 Advanced Abstraction Quandrix 2 Aquatic Cryptozoology Witherbloom 3 Ethics in Enchantment Silverquill 4 Extradimensio",
+      "element": "table"
+    },
+    {
+      "id": "MysteriousMagic",
+      "text": "Mysterious Magic",
+      "element": "h3"
+    },
+    {
+      "id": "MurgaxorsOrb",
+      "text": "Murgaxor’s Orb",
+      "element": "h4"
+    },
+    {
+      "id": "CordiallyInvited",
+      "text": "Cordially Invited",
+      "element": "h2"
+    },
+    {
+      "id": "TheMagistersMasquerade1",
+      "text": "The Magister’s Masquerade",
+      "element": "h3"
+    },
+    {
+      "id": "imginvitation",
+      "text": "",
+      "element": "figure"
+    },
+    {
+      "id": "MasqueCharm",
+      "text": "Masque Charm",
+      "element": "h4"
+    },
+    {
+      "id": "MasqueradeHistory",
+      "text": "Masquerade History",
+      "element": "h4"
+    },
+    {
+      "id": "ReceptionatBowsEnd",
+      "text": "Reception at Bow’s End",
+      "element": "h2"
+    },
+    {
+      "id": "imgaugustatullus",
+      "text": "Dean Augusta Tullus",
+      "element": "figure"
+    },
+    {
+      "id": "ActivitiesandRumors",
+      "text": "Activities and Rumors",
+      "element": "h3"
+    },
+    {
+      "id": "ReceptionActivities",
+      "text": "Reception Activities d6 Activity 1 Catching Up. The student wants to talk about their recent break, which they spent reading everything by a specific author, ma",
+      "element": "table"
+    },
+    {
+      "id": "ThirdYearRumorMill",
+      "text": "Third-Year Rumor Mill d6 Rumor Accuracy 1 Some professors seek to change Mage Tower for the sake of student safety. Many students oppose this. False 2 There’s a",
+      "element": "table"
+    },
+    {
+      "id": "RelationshipEncounter",
+      "text": "Relationship Encounter",
+      "element": "h4"
+    },
+    {
+      "id": "MasqueradeCommittee",
+      "text": "Masquerade Committee",
+      "element": "h3"
+    },
+    {
+      "id": "SnackSampling",
+      "text": "Snack Sampling",
+      "element": "h3"
+    },
+    {
+      "id": "BowsEndSnacks",
+      "text": "Bow’s End Snacks d6 Snack 1 Eel rolls with sticky rice, jalapeno-infusedhoney-ginger sauce, and wriggling eels 2 Exploding cheese puffs that pop in the mouth wi",
+      "element": "table"
+    },
+    {
+      "id": "OneTooMany",
+      "text": "One Too Many?",
+      "element": "h4"
+    },
+    {
+      "id": "TheChallenge",
+      "text": "The Challenge",
+      "element": "h3"
+    },
+    {
+      "id": "WhoAretheRivals",
+      "text": "Who Are the Rivals?",
+      "element": "h4"
+    },
+    {
+      "id": "WhyaChallenge",
+      "text": "Why a Challenge?",
+      "element": "h4"
+    },
+    {
+      "id": "ChallengeDetails",
+      "text": "Challenge Details",
+      "element": "h4"
+    },
+    {
+      "id": "FateatFurygale",
+      "text": "Fate at Furygale",
+      "element": "h2"
+    },
+    {
+      "id": "imgfurygale",
+      "text": "Students sometimes sneak off to the Furygale Repository, adangerous disposal site for failed magic, to duel away from prying eyes",
+      "element": "figure"
+    },
+    {
+      "id": "FurygaleRepository",
+      "text": "Furygale Repository",
+      "element": "h3"
+    },
+    {
+      "id": "FurygaleRepositoryFeatures",
+      "text": "Furygale Repository Features",
+      "element": "h4"
+    },
+    {
+      "id": "Map51furygalerepository",
+      "text": "Map 5.1: furygale repository View Player Version",
+      "element": "figure"
+    },
+    {
+      "id": "FurygaleRepositorySecrets",
+      "text": "Furygale Repository Secrets",
+      "element": "h4"
+    },
+    {
+      "id": "DuelsintheRepository",
+      "text": "Duels in the Repository",
+      "element": "h3"
+    },
+    {
+      "id": "imgmagicoffurygale",
+      "text": "The magic of Furygale is erratic and dangerous.Students dueling there often get in over their heads",
+      "element": "figure"
+    },
+    {
+      "id": "DuelingBegins",
+      "text": "Dueling Begins",
+      "element": "h3"
+    },
+    {
+      "id": "FoulPlay",
+      "text": "Foul Play",
+      "element": "h3"
+    },
+    {
+      "id": "Aftermath",
+      "text": "Aftermath",
+      "element": "h4"
+    },
+    {
+      "id": "AdvancedArcaneHistoryExamRelics",
+      "text": "Advanced Arcane History Exam: Relics",
+      "element": "h2"
+    },
+    {
+      "id": "TheRelicLecture",
+      "text": "The Relic Lecture",
+      "element": "h3"
+    },
+    {
+      "id": "imgprofessors",
+      "text": "Lorehold professors often use relics they’ve unearthed in their lectures about magical objects",
+      "element": "figure"
+    },
+    {
+      "id": "StudyingPhase",
+      "text": "Studying Phase",
+      "element": "h3"
+    },
+    {
+      "id": "TestingPhase",
+      "text": "Testing Phase",
+      "element": "h3"
+    }
+  ],
+  "transformations": [
+    "Selected the first .p-article-content element.",
+    "Removed scripts, styles, forms, iframes, hidden duplicate labels, and source navigation.",
+    "Removed event handlers and D&D Beyond content-chunk identifiers.",
+    "Rewrote archived sourcebook links to generated reader routes when a local target exists.",
+    "Added lazy image loading and asynchronous decoding hints.",
+    "Added derived IDs to read-aloud, rules, table, and stat-block elements for session navigation.",
+    "Indexed player-version map links as derived session metadata.",
+    "Preserved source wording and original heading IDs; derived metadata remains separate."
+  ],
+  "repairs": []
+}

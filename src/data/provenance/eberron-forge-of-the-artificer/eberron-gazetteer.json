@@ -1,0 +1,323 @@
+{
+  "title": "Sharn Inquisitives",
+  "sourcebook": "Eberron: Forge of the Artificer",
+  "bookSlug": "eberron-forge-of-the-artificer",
+  "originalPath": "Eberron/Chapter 4.html",
+  "rawUrl": "/archive/eberron/Chapter%204.html",
+  "sourceHash": "c30e780417b2a951b67f87b2455435977ae2c82861c1fd5d989342c54da0990d",
+  "extractionDate": "2026-07-13T07:40:57.647Z",
+  "extractionVersion": 3,
+  "originalAnchors": [
+    {
+      "id": "Chapter4SharnInquisitives",
+      "text": "Sharn Inquisitives",
+      "element": "h1"
+    },
+    {
+      "id": "comp-next-nav",
+      "text": "Previous ← Chapter 3: Bastions in Khorvaire Book Contents Next Chapter 5: Dragonmarked Intrigue →",
+      "element": "div"
+    },
+    {
+      "id": "AdventureIntro",
+      "text": "Adventure Genre: Film Noir Pop Culture: Philip Marlowe, Sam Spade, Mike Hammer, Dick Tracy",
+      "element": "aside"
+    },
+    {
+      "id": "imgSharnInquisitivesOpenerIllo",
+      "text": "Kuno A Battle Smith inquisitive trails his quarry through the streets and towers of Sharn",
+      "element": "figure"
+    },
+    {
+      "id": "InquisitiveCharacters",
+      "text": "Inquisitive Characters",
+      "element": "h2"
+    },
+    {
+      "id": "InquisitiveAgenciesofSharn",
+      "text": "Inquisitive Agencies of Sharn",
+      "element": "h3"
+    },
+    {
+      "id": "imginInquisitivesKeepingWatch",
+      "text": "Kuno Inquisitives in Sharn keep constant watch over criminal activity in the city, no matter where it occurs",
+      "element": "figure"
+    },
+    {
+      "id": "AgencyLocation",
+      "text": "Agency Location",
+      "element": "h4"
+    },
+    {
+      "id": "FindersGuildWarning",
+      "text": "Finders Guild and Warning Guild Four Tharashk inquisitives with the Mark of Finding each lead a Finders Guild agency in a different part of the city. The dragon",
+      "element": "aside"
+    },
+    {
+      "id": "GuildAffiliation",
+      "text": "Guild Affiliation",
+      "element": "h4"
+    },
+    {
+      "id": "OtherDetails",
+      "text": "Other Details",
+      "element": "h4"
+    },
+    {
+      "id": "SharnInquisitivesConflicts",
+      "text": "Sharn Inquisitives Conflicts",
+      "element": "h2"
+    },
+    {
+      "id": "TheBoromarClan",
+      "text": "The Boromar Clan",
+      "element": "h3"
+    },
+    {
+      "id": "imgCriminalsOfSharn",
+      "text": "Jordan Kerbow The criminals of Sharn come in different shapes, in different sizes, and from different planes of existence",
+      "element": "figure"
+    },
+    {
+      "id": "GoalsoftheBoromarClan",
+      "text": "Goals of the Boromar Clan",
+      "element": "h4"
+    },
+    {
+      "id": "ABoromarClanArc",
+      "text": "A Boromar Clan Arc",
+      "element": "h4"
+    },
+    {
+      "id": "BoromarOperatives",
+      "text": "Boromar Operatives",
+      "element": "h4"
+    },
+    {
+      "id": "BoromarSmuggler",
+      "text": "Boromar Smuggler",
+      "element": "h4"
+    },
+    {
+      "id": "BoromarUnderboss",
+      "text": "Boromar Underboss",
+      "element": "h4"
+    },
+    {
+      "id": "Daask",
+      "text": "Daask",
+      "element": "h3"
+    },
+    {
+      "id": "GoalsofDaask",
+      "text": "Goals of Daask",
+      "element": "h4"
+    },
+    {
+      "id": "ADaaskArc",
+      "text": "A Daask Arc",
+      "element": "h4"
+    },
+    {
+      "id": "DaaskEnforcers",
+      "text": "Daask Enforcers",
+      "element": "h4"
+    },
+    {
+      "id": "DaaskBruiser",
+      "text": "Daask Bruiser",
+      "element": "h4"
+    },
+    {
+      "id": "DaaskRaider",
+      "text": "Daask Raider",
+      "element": "h4"
+    },
+    {
+      "id": "TheDreamingDark",
+      "text": "The Dreaming Dark",
+      "element": "h3"
+    },
+    {
+      "id": "GoalsoftheDreamingDark",
+      "text": "Goals of the Dreaming Dark",
+      "element": "h4"
+    },
+    {
+      "id": "ADreamingDarkArc",
+      "text": "A Dreaming Dark Arc",
+      "element": "h4"
+    },
+    {
+      "id": "DreamingDarkAgents",
+      "text": "Dreaming Dark Agents",
+      "element": "h4"
+    },
+    {
+      "id": "DreamingDarkInfiltrator",
+      "text": "Dreaming Dark Infiltrator",
+      "element": "h4"
+    },
+    {
+      "id": "DreamingDarkMindkiller",
+      "text": "Dreaming Dark Mindkiller",
+      "element": "h4"
+    },
+    {
+      "id": "SharnNeighborhoods",
+      "text": "Sharn Neighborhoods",
+      "element": "h2"
+    },
+    {
+      "id": "imgCityOfTowers",
+      "text": "Kuno Something is always happening in the shadows of the City of Towers",
+      "element": "figure"
+    },
+    {
+      "id": "UpperCentral",
+      "text": "Upper Central",
+      "element": "h3"
+    },
+    {
+      "id": "MiddleCentral",
+      "text": "Middle Central",
+      "element": "h3"
+    },
+    {
+      "id": "GlobeInformationAgency",
+      "text": "Globe Information Agency",
+      "element": "h4"
+    },
+    {
+      "id": "LowerCentral",
+      "text": "Lower Central",
+      "element": "h3"
+    },
+    {
+      "id": "CityoftheDead",
+      "text": "City of the Dead",
+      "element": "h3"
+    },
+    {
+      "id": "Cliffside",
+      "text": "Cliffside",
+      "element": "h3"
+    },
+    {
+      "id": "TheCogs",
+      "text": "The Cogs",
+      "element": "h3"
+    },
+    {
+      "id": "UpperDura",
+      "text": "Upper Dura",
+      "element": "h3"
+    },
+    {
+      "id": "MiddleDura",
+      "text": "Middle Dura",
+      "element": "h3"
+    },
+    {
+      "id": "InformationAcquisition",
+      "text": "Information Acquisition",
+      "element": "h4"
+    },
+    {
+      "id": "LowerDura",
+      "text": "Lower Dura",
+      "element": "h3"
+    },
+    {
+      "id": "UpperMenthis",
+      "text": "Upper Menthis",
+      "element": "h3"
+    },
+    {
+      "id": "MiddleMenthis",
+      "text": "Middle Menthis",
+      "element": "h3"
+    },
+    {
+      "id": "ThurannedVelderansInvestigativeServices",
+      "text": "Thuranne d’Velderan’s Investigative Services",
+      "element": "h4"
+    },
+    {
+      "id": "LowerMenthis",
+      "text": "Lower Menthis",
+      "element": "h3"
+    },
+    {
+      "id": "UpperNorthedge",
+      "text": "Upper Northedge",
+      "element": "h3"
+    },
+    {
+      "id": "MiddleNorthedge",
+      "text": "Middle Northedge",
+      "element": "h3"
+    },
+    {
+      "id": "LowerNorthedge",
+      "text": "Lower Northedge",
+      "element": "h3"
+    },
+    {
+      "id": "Skyway",
+      "text": "Skyway",
+      "element": "h3"
+    },
+    {
+      "id": "UpperTavicksLanding",
+      "text": "Upper Tavick’s Landing",
+      "element": "h3"
+    },
+    {
+      "id": "MiddleTavicksLanding",
+      "text": "Middle Tavick’s Landing",
+      "element": "h3"
+    },
+    {
+      "id": "KarrAashtasInvestigations",
+      "text": "Karr’Aashta’s Investigations",
+      "element": "h4"
+    },
+    {
+      "id": "LowerTavicksLanding",
+      "text": "Lower Tavick’s Landing",
+      "element": "h3"
+    },
+    {
+      "id": "InquisitiveAdventure",
+      "text": "Inquisitive Adventure",
+      "element": "h3"
+    },
+    {
+      "id": "TheEnemyofMyEnemy",
+      "text": "The Enemy of My Enemy",
+      "element": "h2"
+    },
+    {
+      "id": "EnemyOfMyEnemyQuote",
+      "text": "THESHARN INQUISITIVE Gold Dragon Burns! THE PEACEFUL GOLD DRAGON INN NESTLED IN THE LOWER TOWERS OF TERMINUS IS ABLAZE, AND VICIOUS MARAUDERS ARE ATTACKING PATR",
+      "element": "aside"
+    },
+    {
+      "id": "Encounters",
+      "text": "Encounters",
+      "element": "h3"
+    }
+  ],
+  "transformations": [
+    "Selected the first .p-article-content element.",
+    "Removed scripts, styles, forms, iframes, hidden duplicate labels, and source navigation.",
+    "Removed event handlers and D&D Beyond content-chunk identifiers.",
+    "Rewrote archived sourcebook links to generated reader routes when a local target exists.",
+    "Added lazy image loading and asynchronous decoding hints.",
+    "Added derived IDs to read-aloud, rules, table, and stat-block elements for session navigation.",
+    "Indexed player-version map links as derived session metadata.",
+    "Preserved source wording and original heading IDs; derived metadata remains separate."
+  ],
+  "repairs": []
+}

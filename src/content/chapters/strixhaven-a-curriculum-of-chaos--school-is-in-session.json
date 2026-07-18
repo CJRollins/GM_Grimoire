@@ -1,0 +1,1211 @@
+{
+  "title": "School Is in Session",
+  "sourcebook": "Strixhaven: A Curriculum of Chaos",
+  "bookSlug": "strixhaven-a-curriculum-of-chaos",
+  "world": "Arcavios",
+  "edition": "2014 rules",
+  "chapter": "School Is in Session",
+  "chapterNumber": 3,
+  "order": 4,
+  "navGroup": "Reference",
+  "kind": "rules",
+  "audience": "both",
+  "slug": "strixhaven-school-is-in-session",
+  "chapterSlug": "school-is-in-session",
+  "summary": "The following four chapters present a series of Dungeons & Dragons adventures optimized for four to six characters. Each adventure takes place on and around the Strixhaven campus. In these adventures, the player characters are students attending the universit…",
+  "wordCount": 3676,
+  "originalPath": "Arcavios/Stixhaven/Chapter 4 - School Is In Session",
+  "rawUrl": "/archive/strixhaven/Chapter%204%20-%20School%20Is%20In%20Session",
+  "originalAnchors": [
+    {
+      "id": "SchoolIsinSession",
+      "text": "School Is in Session",
+      "element": "h1"
+    },
+    {
+      "id": "comp-next-nav",
+      "text": "",
+      "element": "div"
+    },
+    {
+      "id": "imgsplash",
+      "text": "Strixhaven students are often in awe of theirsurroundings at the famed university of magic",
+      "element": "figure"
+    },
+    {
+      "id": "RunningtheAdventures",
+      "text": "Running the Adventures",
+      "element": "h2"
+    },
+    {
+      "id": "AStrixhavenCampaign",
+      "text": "A Strixhaven Campaign",
+      "element": "h3"
+    },
+    {
+      "id": "CharacterCreation",
+      "text": "Character Creation",
+      "element": "h3"
+    },
+    {
+      "id": "CharacterAdvancement",
+      "text": "Character Advancement",
+      "element": "h3"
+    },
+    {
+      "id": "StandaloneAdventures",
+      "text": "Standalone Adventures",
+      "element": "h3"
+    },
+    {
+      "id": "AdventureLevels",
+      "text": "Adventure Levels Adventure Starting Level Chapter Campus Kerfuffle 1st 3 Hunt for Mage Tower 4th 4 The Magister’s Masquerade 6th 5 A Reckoning in Ruins 8th 6",
+      "element": "table"
+    },
+    {
+      "id": "Relationships",
+      "text": "Relationships",
+      "element": "h4"
+    },
+    {
+      "id": "StartingRelationshipPoints",
+      "text": "Starting Relationship Points Person Relationship Points Friend 2 Beloved 3 Rival −2",
+      "element": "table"
+    },
+    {
+      "id": "imgyearstudents",
+      "text": "First-year students rush to class carrying armloads of books—and all their excitement for the start of a new academic year",
+      "element": "figure"
+    },
+    {
+      "id": "UsingtheMaps",
+      "text": "Using the Maps",
+      "element": "h3"
+    },
+    {
+      "id": "InteriorMaps",
+      "text": "Interior Maps",
+      "element": "h4"
+    },
+    {
+      "id": "PosterMap",
+      "text": "Poster Map",
+      "element": "h4"
+    },
+    {
+      "id": "ThePassageofTime",
+      "text": "The Passage of Time",
+      "element": "h3"
+    },
+    {
+      "id": "StrixhavenTrackingSheet",
+      "text": "Strixhaven Tracking Sheet",
+      "element": "h2"
+    },
+    {
+      "id": "imgmemories",
+      "text": "",
+      "element": "figure"
+    },
+    {
+      "id": "OptingOutofTheseRules",
+      "text": "OPTING OUT OF THESE RULES The rules for Extracurriculars, Jobs, Exams, and Relationships combine with the adventures in this book to enhance the flavor of life ",
+      "element": "aside"
+    },
+    {
+      "id": "Extracurriculars",
+      "text": "Extracurriculars",
+      "element": "h2"
+    },
+    {
+      "id": "JoininganExtracurricular",
+      "text": "Joining an Extracurricular",
+      "element": "h3"
+    },
+    {
+      "id": "ExtracurricularBenefits",
+      "text": "Extracurricular Benefits",
+      "element": "h3"
+    },
+    {
+      "id": "imgcelebrate",
+      "text": "Students find many magical waysto celebrate their achievements",
+      "element": "figure"
+    },
+    {
+      "id": "StudentDice",
+      "text": "Student Dice",
+      "element": "h4"
+    },
+    {
+      "id": "RelationshipPoint",
+      "text": "Relationship Point",
+      "element": "h4"
+    },
+    {
+      "id": "QuittinganExtracurricular",
+      "text": "Quitting an Extracurricular",
+      "element": "h3"
+    },
+    {
+      "id": "ExtracurricularOptionsAF",
+      "text": "Extracurricular Options (A-H)",
+      "element": "h3"
+    },
+    {
+      "id": "DeadLanguagesSociety",
+      "text": "Dead Languages Society",
+      "element": "h4"
+    },
+    {
+      "id": "DistinguishedSocietyofFineArtists",
+      "text": "Distinguished Society of Fine Artists",
+      "element": "h4"
+    },
+    {
+      "id": "DragonchessClub",
+      "text": "Dragonchess Club",
+      "element": "h4"
+    },
+    {
+      "id": "DragonsguardHistoricalSociety",
+      "text": "Dragonsguard Historical Society",
+      "element": "h4"
+    },
+    {
+      "id": "FantasticalHorticultureClub",
+      "text": "Fantastical Horticulture Club",
+      "element": "h4"
+    },
+    {
+      "id": "FutureEntrepreneursofStrixhaven",
+      "text": "Future Entrepreneurs of Strixhaven",
+      "element": "h4"
+    },
+    {
+      "id": "ExtracurricularOptionsIZ",
+      "text": "Extracurricular Options (I-Z)",
+      "element": "h3"
+    },
+    {
+      "id": "IntramuralGymnasticsClub",
+      "text": "Intramural Gymnastics Club",
+      "element": "h4"
+    },
+    {
+      "id": "IntramuralSilkballClub",
+      "text": "Intramural Silkball Club",
+      "element": "h4"
+    },
+    {
+      "id": "IntramuralWaterDancingClub",
+      "text": "Intramural Water-Dancing Club",
+      "element": "h4"
+    },
+    {
+      "id": "LiveActionRoleplayingGuild",
+      "text": "Live-Action Roleplaying Guild",
+      "element": "h4"
+    },
+    {
+      "id": "MageTowerCheerSquad",
+      "text": "Mage Tower Cheer Squad",
+      "element": "h4"
+    },
+    {
+      "id": "PlayactorsDramaGuild",
+      "text": "Playactors Drama Guild",
+      "element": "h4"
+    },
+    {
+      "id": "StrixhavenIronLiftersSociety",
+      "text": "Strixhaven Iron-Lifters Society",
+      "element": "h4"
+    },
+    {
+      "id": "StrixhavenShowBandAssociation",
+      "text": "Strixhaven Show Band Association",
+      "element": "h4"
+    },
+    {
+      "id": "StrixhavenStar",
+      "text": "Strixhaven Star",
+      "element": "h4"
+    },
+    {
+      "id": "StudentMagesofFaith",
+      "text": "Student-Mages of Faith",
+      "element": "h4"
+    },
+    {
+      "id": "Jobs",
+      "text": "Jobs",
+      "element": "h2"
+    },
+    {
+      "id": "GettingorLosingaJob",
+      "text": "Getting or Losing a Job",
+      "element": "h3"
+    },
+    {
+      "id": "JobBenefits",
+      "text": "Job Benefits",
+      "element": "h3"
+    },
+    {
+      "id": "Wage",
+      "text": "Wage",
+      "element": "h4"
+    },
+    {
+      "id": "imgstrixhavenemployees",
+      "text": "Strixhaven student employees workbeside staff members to fill themany jobs available on campus",
+      "element": "figure"
+    },
+    {
+      "id": "RelationshipPoint1",
+      "text": "Relationship Point",
+      "element": "h4"
+    },
+    {
+      "id": "JobOptions",
+      "text": "Job Options",
+      "element": "h3"
+    },
+    {
+      "id": "Biblioplex",
+      "text": "Biblioplex",
+      "element": "h4"
+    },
+    {
+      "id": "BowsEndTavern",
+      "text": "Bow’s End Tavern",
+      "element": "h4"
+    },
+    {
+      "id": "CampusGrounds",
+      "text": "Campus Grounds",
+      "element": "h4"
+    },
+    {
+      "id": "CampusMagicLabs",
+      "text": "Campus Magic Labs",
+      "element": "h4"
+    },
+    {
+      "id": "Dormitories",
+      "text": "Dormitories",
+      "element": "h4"
+    },
+    {
+      "id": "FirejoltCaf",
+      "text": "Firejolt Café",
+      "element": "h4"
+    },
+    {
+      "id": "IntramuralFields",
+      "text": "Intramural Fields",
+      "element": "h4"
+    },
+    {
+      "id": "StrixhavenPerformingArtsSociety",
+      "text": "Strixhaven Performing Arts Society",
+      "element": "h4"
+    },
+    {
+      "id": "StrixhavenStadium",
+      "text": "Strixhaven Stadium",
+      "element": "h4"
+    },
+    {
+      "id": "Exams",
+      "text": "Exams",
+      "element": "h2"
+    },
+    {
+      "id": "UsingTheseRules",
+      "text": "Using These Rules",
+      "element": "h3"
+    },
+    {
+      "id": "StudyingPhase",
+      "text": "Studying Phase",
+      "element": "h3"
+    },
+    {
+      "id": "PullinganAllNighter",
+      "text": "Pulling an All-Nighter",
+      "element": "h4"
+    },
+    {
+      "id": "StudyingTogether",
+      "text": "Studying Together",
+      "element": "h4"
+    },
+    {
+      "id": "SkippingStudying",
+      "text": "Skipping Studying",
+      "element": "h4"
+    },
+    {
+      "id": "TestingPhase",
+      "text": "Testing Phase",
+      "element": "h3"
+    },
+    {
+      "id": "AbilityChecks",
+      "text": "Ability Checks",
+      "element": "h4"
+    },
+    {
+      "id": "Cheating",
+      "text": "Cheating",
+      "element": "h4"
+    },
+    {
+      "id": "FailedExam",
+      "text": "Failed Exam",
+      "element": "h4"
+    },
+    {
+      "id": "StudentDice1",
+      "text": "Student Dice",
+      "element": "h4"
+    }
+  ],
+  "sourceHash": "d9445a55e408574b1f5b29121420c0011b01d85cb0bac2f4980b42ad4a133505",
+  "extractionDate": "2026-07-13T07:40:57.647Z",
+  "extractionVersion": 3,
+  "headings": [
+    {
+      "depth": 1,
+      "id": "SchoolIsinSession",
+      "text": "School Is in Session"
+    },
+    {
+      "depth": 2,
+      "id": "RunningtheAdventures",
+      "text": "Running the Adventures"
+    },
+    {
+      "depth": 3,
+      "id": "AStrixhavenCampaign",
+      "text": "A Strixhaven Campaign"
+    },
+    {
+      "depth": 3,
+      "id": "CharacterCreation",
+      "text": "Character Creation"
+    },
+    {
+      "depth": 3,
+      "id": "CharacterAdvancement",
+      "text": "Character Advancement"
+    },
+    {
+      "depth": 3,
+      "id": "StandaloneAdventures",
+      "text": "Standalone Adventures"
+    },
+    {
+      "depth": 4,
+      "id": "Relationships",
+      "text": "Relationships"
+    },
+    {
+      "depth": 3,
+      "id": "UsingtheMaps",
+      "text": "Using the Maps"
+    },
+    {
+      "depth": 4,
+      "id": "InteriorMaps",
+      "text": "Interior Maps"
+    },
+    {
+      "depth": 4,
+      "id": "PosterMap",
+      "text": "Poster Map"
+    },
+    {
+      "depth": 3,
+      "id": "ThePassageofTime",
+      "text": "The Passage of Time"
+    },
+    {
+      "depth": 2,
+      "id": "StrixhavenTrackingSheet",
+      "text": "Strixhaven Tracking Sheet"
+    },
+    {
+      "depth": 2,
+      "id": "Extracurriculars",
+      "text": "Extracurriculars"
+    },
+    {
+      "depth": 3,
+      "id": "JoininganExtracurricular",
+      "text": "Joining an Extracurricular"
+    },
+    {
+      "depth": 3,
+      "id": "ExtracurricularBenefits",
+      "text": "Extracurricular Benefits"
+    },
+    {
+      "depth": 4,
+      "id": "StudentDice",
+      "text": "Student Dice"
+    },
+    {
+      "depth": 4,
+      "id": "RelationshipPoint",
+      "text": "Relationship Point"
+    },
+    {
+      "depth": 3,
+      "id": "QuittinganExtracurricular",
+      "text": "Quitting an Extracurricular"
+    },
+    {
+      "depth": 3,
+      "id": "ExtracurricularOptionsAF",
+      "text": "Extracurricular Options (A-H)"
+    },
+    {
+      "depth": 4,
+      "id": "DeadLanguagesSociety",
+      "text": "Dead Languages Society"
+    },
+    {
+      "depth": 4,
+      "id": "DistinguishedSocietyofFineArtists",
+      "text": "Distinguished Society of Fine Artists"
+    },
+    {
+      "depth": 4,
+      "id": "DragonchessClub",
+      "text": "Dragonchess Club"
+    },
+    {
+      "depth": 4,
+      "id": "DragonsguardHistoricalSociety",
+      "text": "Dragonsguard Historical Society"
+    },
+    {
+      "depth": 4,
+      "id": "FantasticalHorticultureClub",
+      "text": "Fantastical Horticulture Club"
+    },
+    {
+      "depth": 4,
+      "id": "FutureEntrepreneursofStrixhaven",
+      "text": "Future Entrepreneurs of Strixhaven"
+    },
+    {
+      "depth": 3,
+      "id": "ExtracurricularOptionsIZ",
+      "text": "Extracurricular Options (I-Z)"
+    },
+    {
+      "depth": 4,
+      "id": "IntramuralGymnasticsClub",
+      "text": "Intramural Gymnastics Club"
+    },
+    {
+      "depth": 4,
+      "id": "IntramuralSilkballClub",
+      "text": "Intramural Silkball Club"
+    },
+    {
+      "depth": 4,
+      "id": "IntramuralWaterDancingClub",
+      "text": "Intramural Water-Dancing Club"
+    },
+    {
+      "depth": 4,
+      "id": "LiveActionRoleplayingGuild",
+      "text": "Live-Action Roleplaying Guild"
+    },
+    {
+      "depth": 4,
+      "id": "MageTowerCheerSquad",
+      "text": "Mage Tower Cheer Squad"
+    },
+    {
+      "depth": 4,
+      "id": "PlayactorsDramaGuild",
+      "text": "Playactors Drama Guild"
+    },
+    {
+      "depth": 4,
+      "id": "StrixhavenIronLiftersSociety",
+      "text": "Strixhaven Iron-Lifters Society"
+    },
+    {
+      "depth": 4,
+      "id": "StrixhavenShowBandAssociation",
+      "text": "Strixhaven Show Band Association"
+    },
+    {
+      "depth": 4,
+      "id": "StrixhavenStar",
+      "text": "Strixhaven Star"
+    },
+    {
+      "depth": 4,
+      "id": "StudentMagesofFaith",
+      "text": "Student-Mages of Faith"
+    },
+    {
+      "depth": 2,
+      "id": "Jobs",
+      "text": "Jobs"
+    },
+    {
+      "depth": 3,
+      "id": "GettingorLosingaJob",
+      "text": "Getting or Losing a Job"
+    },
+    {
+      "depth": 3,
+      "id": "JobBenefits",
+      "text": "Job Benefits"
+    },
+    {
+      "depth": 4,
+      "id": "Wage",
+      "text": "Wage"
+    },
+    {
+      "depth": 4,
+      "id": "RelationshipPoint1",
+      "text": "Relationship Point"
+    },
+    {
+      "depth": 3,
+      "id": "JobOptions",
+      "text": "Job Options"
+    },
+    {
+      "depth": 4,
+      "id": "Biblioplex",
+      "text": "Biblioplex"
+    },
+    {
+      "depth": 4,
+      "id": "BowsEndTavern",
+      "text": "Bow’s End Tavern"
+    },
+    {
+      "depth": 4,
+      "id": "CampusGrounds",
+      "text": "Campus Grounds"
+    },
+    {
+      "depth": 4,
+      "id": "CampusMagicLabs",
+      "text": "Campus Magic Labs"
+    },
+    {
+      "depth": 4,
+      "id": "Dormitories",
+      "text": "Dormitories"
+    },
+    {
+      "depth": 4,
+      "id": "FirejoltCaf",
+      "text": "Firejolt Café"
+    },
+    {
+      "depth": 4,
+      "id": "IntramuralFields",
+      "text": "Intramural Fields"
+    },
+    {
+      "depth": 4,
+      "id": "StrixhavenPerformingArtsSociety",
+      "text": "Strixhaven Performing Arts Society"
+    },
+    {
+      "depth": 4,
+      "id": "StrixhavenStadium",
+      "text": "Strixhaven Stadium"
+    },
+    {
+      "depth": 2,
+      "id": "Exams",
+      "text": "Exams"
+    },
+    {
+      "depth": 3,
+      "id": "UsingTheseRules",
+      "text": "Using These Rules"
+    },
+    {
+      "depth": 3,
+      "id": "StudyingPhase",
+      "text": "Studying Phase"
+    },
+    {
+      "depth": 4,
+      "id": "PullinganAllNighter",
+      "text": "Pulling an All-Nighter"
+    },
+    {
+      "depth": 4,
+      "id": "StudyingTogether",
+      "text": "Studying Together"
+    },
+    {
+      "depth": 4,
+      "id": "SkippingStudying",
+      "text": "Skipping Studying"
+    },
+    {
+      "depth": 3,
+      "id": "TestingPhase",
+      "text": "Testing Phase"
+    },
+    {
+      "depth": 4,
+      "id": "AbilityChecks",
+      "text": "Ability Checks"
+    },
+    {
+      "depth": 4,
+      "id": "Cheating",
+      "text": "Cheating"
+    },
+    {
+      "depth": 4,
+      "id": "FailedExam",
+      "text": "Failed Exam"
+    },
+    {
+      "depth": 4,
+      "id": "StudentDice1",
+      "text": "Student Dice"
+    }
+  ],
+  "tags": {
+    "creatures": [
+      "Murgaxor"
+    ],
+    "spells": [],
+    "items": [],
+    "locations": [
+      "Biblioplex",
+      "Bow’s End Tavern",
+      "Firejolt Café",
+      "Strixhaven",
+      "Strixhaven Stadium"
+    ],
+    "npcs": [],
+    "topics": [
+      "campus-life",
+      "exams",
+      "read-aloud",
+      "relationships",
+      "rules",
+      "tables"
+    ]
+  },
+  "session": {
+    "readAloud": [
+      {
+        "id": "session-read-aloud-1",
+        "label": "Read aloud 1",
+        "excerpt": "Text that appears in a box like this is meant to be read aloud or paraphrased for the players when their characters first arrive at a location or under a specific circumstance, as…"
+      }
+    ],
+    "rules": [
+      {
+        "id": "OptingOutofTheseRules",
+        "label": "Rule box 1",
+        "excerpt": "OPTING OUT OF THESE RULES The rules for Extracurriculars, Jobs, Exams, and Relationships combine with the adventures in this book to enhance the flavor of life at a university of …"
+      }
+    ],
+    "tables": [
+      {
+        "id": "AdventureLevels",
+        "label": "Adventure Levels",
+        "excerpt": "Adventure Levels Adventure Starting Level Chapter Campus Kerfuffle 1st 3 Hunt for Mage Tower 4th 4 The Magister’s Masquerade 6th 5 A Reckoning in Ruins 8th 6"
+      },
+      {
+        "id": "StartingRelationshipPoints",
+        "label": "Starting Relationship Points",
+        "excerpt": "Starting Relationship Points Person Relationship Points Friend 2 Beloved 3 Rival −2"
+      }
+    ],
+    "statBlocks": [],
+    "maps": [],
+    "quickLinks": [
+      {
+        "depth": 2,
+        "id": "RunningtheAdventures",
+        "text": "Running the Adventures",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "AStrixhavenCampaign",
+        "text": "A Strixhaven Campaign",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "CharacterCreation",
+        "text": "Character Creation",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "CharacterAdvancement",
+        "text": "Character Advancement",
+        "type": "rule"
+      },
+      {
+        "depth": 3,
+        "id": "StandaloneAdventures",
+        "text": "Standalone Adventures",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "Relationships",
+        "text": "Relationships",
+        "type": "relationship"
+      },
+      {
+        "depth": 3,
+        "id": "UsingtheMaps",
+        "text": "Using the Maps",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "InteriorMaps",
+        "text": "Interior Maps",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "PosterMap",
+        "text": "Poster Map",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "ThePassageofTime",
+        "text": "The Passage of Time",
+        "type": "reference"
+      },
+      {
+        "depth": 2,
+        "id": "StrixhavenTrackingSheet",
+        "text": "Strixhaven Tracking Sheet",
+        "type": "rule"
+      },
+      {
+        "depth": 2,
+        "id": "Extracurriculars",
+        "text": "Extracurriculars",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "JoininganExtracurricular",
+        "text": "Joining an Extracurricular",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "ExtracurricularBenefits",
+        "text": "Extracurricular Benefits",
+        "type": "rule"
+      },
+      {
+        "depth": 4,
+        "id": "StudentDice",
+        "text": "Student Dice",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "RelationshipPoint",
+        "text": "Relationship Point",
+        "type": "relationship"
+      },
+      {
+        "depth": 3,
+        "id": "QuittinganExtracurricular",
+        "text": "Quitting an Extracurricular",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "ExtracurricularOptionsAF",
+        "text": "Extracurricular Options (A-H)",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "DeadLanguagesSociety",
+        "text": "Dead Languages Society",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "DistinguishedSocietyofFineArtists",
+        "text": "Distinguished Society of Fine Artists",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "DragonchessClub",
+        "text": "Dragonchess Club",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "DragonsguardHistoricalSociety",
+        "text": "Dragonsguard Historical Society",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "FantasticalHorticultureClub",
+        "text": "Fantastical Horticulture Club",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "FutureEntrepreneursofStrixhaven",
+        "text": "Future Entrepreneurs of Strixhaven",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "ExtracurricularOptionsIZ",
+        "text": "Extracurricular Options (I-Z)",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "IntramuralGymnasticsClub",
+        "text": "Intramural Gymnastics Club",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "IntramuralSilkballClub",
+        "text": "Intramural Silkball Club",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "IntramuralWaterDancingClub",
+        "text": "Intramural Water-Dancing Club",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "LiveActionRoleplayingGuild",
+        "text": "Live-Action Roleplaying Guild",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "MageTowerCheerSquad",
+        "text": "Mage Tower Cheer Squad",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "PlayactorsDramaGuild",
+        "text": "Playactors Drama Guild",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "StrixhavenIronLiftersSociety",
+        "text": "Strixhaven Iron-Lifters Society",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "StrixhavenShowBandAssociation",
+        "text": "Strixhaven Show Band Association",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "StrixhavenStar",
+        "text": "Strixhaven Star",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "StudentMagesofFaith",
+        "text": "Student-Mages of Faith",
+        "type": "reference"
+      },
+      {
+        "depth": 2,
+        "id": "Jobs",
+        "text": "Jobs",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "GettingorLosingaJob",
+        "text": "Getting or Losing a Job",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "JobBenefits",
+        "text": "Job Benefits",
+        "type": "rule"
+      },
+      {
+        "depth": 4,
+        "id": "Wage",
+        "text": "Wage",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "RelationshipPoint1",
+        "text": "Relationship Point",
+        "type": "relationship"
+      },
+      {
+        "depth": 3,
+        "id": "JobOptions",
+        "text": "Job Options",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "Biblioplex",
+        "text": "Biblioplex",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "BowsEndTavern",
+        "text": "Bow’s End Tavern",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "CampusGrounds",
+        "text": "Campus Grounds",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "CampusMagicLabs",
+        "text": "Campus Magic Labs",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "Dormitories",
+        "text": "Dormitories",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "FirejoltCaf",
+        "text": "Firejolt Café",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "IntramuralFields",
+        "text": "Intramural Fields",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "StrixhavenPerformingArtsSociety",
+        "text": "Strixhaven Performing Arts Society",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "StrixhavenStadium",
+        "text": "Strixhaven Stadium",
+        "type": "reference"
+      },
+      {
+        "depth": 2,
+        "id": "Exams",
+        "text": "Exams",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "UsingTheseRules",
+        "text": "Using These Rules",
+        "type": "rule"
+      },
+      {
+        "depth": 3,
+        "id": "StudyingPhase",
+        "text": "Studying Phase",
+        "type": "exam"
+      },
+      {
+        "depth": 4,
+        "id": "PullinganAllNighter",
+        "text": "Pulling an All-Nighter",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "StudyingTogether",
+        "text": "Studying Together",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "SkippingStudying",
+        "text": "Skipping Studying",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "TestingPhase",
+        "text": "Testing Phase",
+        "type": "exam"
+      },
+      {
+        "depth": 4,
+        "id": "AbilityChecks",
+        "text": "Ability Checks",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "Cheating",
+        "text": "Cheating",
+        "type": "exam"
+      },
+      {
+        "depth": 4,
+        "id": "FailedExam",
+        "text": "Failed Exam",
+        "type": "exam"
+      },
+      {
+        "depth": 4,
+        "id": "StudentDice1",
+        "text": "Student Dice",
+        "type": "reference"
+      }
+    ]
+  },
+  "anomalyFlags": [
+    {
+      "type": "reader-address",
+      "passage": "To run these adventures, you need the fifth edition core rulebooks: the Player’s Handbook, the Dungeon Master’s Guide, and the Monster Manual.",
+      "location": "Running the Adventures",
+      "anchor": "RunningtheAdventures",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "When a creature’s name appears in bold type, that’s a visual cue pointing you to its stat block.",
+      "location": "Running the Adventures",
+      "anchor": "RunningtheAdventures",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "In other words, when you see a name in bold type, you should get the creature’s stat block ready because you’re going to need it soon.",
+      "location": "Running the Adventures",
+      "anchor": "RunningtheAdventures",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "If the stat block appears in chapter 7, the text tells you.",
+      "location": "Running the Adventures",
+      "anchor": "RunningtheAdventures",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "Otherwise, you can find the stat block in the Monster Manual.",
+      "location": "Running the Adventures",
+      "anchor": "RunningtheAdventures",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "If an adventure doesn’t describe a magic item, you can find the magic item’s description in the Dungeon Master’s Guide.",
+      "location": "Running the Adventures",
+      "anchor": "RunningtheAdventures",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "If you run these adventures as a campaign, one villain is behind the chaos on campus: the bullywug Murgaxor Grenshel, a disgruntled former student who attended Strixhaven centuries ago.",
+      "location": "A Strixhaven Campaign",
+      "anchor": "AStrixhavenCampaign",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "The adventures assume you’re playing a Strixhaven campaign, and each adventure provides information about how Murgaxor’s influence corrupts and warps creatures and places on campus.",
+      "location": "A Strixhaven Campaign",
+      "anchor": "AStrixhavenCampaign",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "Each adventure tells you when the characters advance to the next level.",
+      "location": "Character Advancement",
+      "anchor": "CharacterAdvancement",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "Rather than playing the four adventures as a campaign, you can run them as standalone adventures.",
+      "location": "Standalone Adventures",
+      "anchor": "StandaloneAdventures",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "hidden-actor",
+      "passage": "No more than one Student Die can be rolled per check.",
+      "location": "Student Dice",
+      "anchor": "StudentDice",
+      "confidence": 0.68,
+      "reason": "A passive construction may conceal who performs the action."
+    },
+    {
+      "type": "hidden-actor",
+      "passage": "This level of exhaustion can’t be removed until after the Exam.",
+      "location": "Pulling an All-Nighter",
+      "anchor": "PullinganAllNighter",
+      "confidence": 0.68,
+      "reason": "A passive construction may conceal who performs the action."
+    }
+  ],
+  "contentHtml": "<h1 class=\"compendium-hr\" id=\"SchoolIsinSession\">School Is in Session</h1>\n\n<p>The following four chapters present a series of Dungeons &amp; Dragons adventures optimized for four to six characters. Each adventure takes place on and around the Strixhaven campus. In these adventures, the player characters are students attending the university, and they become heroes in their own right as they navigate plots, overcome monsters, and thwart dangers that arise in each adventure.</p>\n<p><a href=\"/chapters/strixhaven-life-at-strixhaven/\" title=\"Chapters 1\">Chapters 1</a> and <a href=\"/chapters/strixhaven-character-options/\" title=\"2\">2</a> contain all the information the players need to play Strixhaven students. Each adventure takes place over the course of one academic year. For instance, “<a href=\"/chapters/strixhaven-campus-kerfuffle/\" title=\"Campus Kerfuffle\">Campus Kerfuffle</a>,” the adventure in this chapter, takes place during the characters’ first year at the university. “<a href=\"/chapters/strixhaven-hunt-for-mage-tower/\" title=\"Hunt for Mage Tower\">Hunt for Mage Tower</a>,” in chapter 4, takes place during the characters’ second year at the university, and so on. The adventures can be run consecutively as a campaign or individually, as described below.</p>\n<figure id=\"imgsplash\" class=\"compendium-image\">\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/03-001.chapter-splash.jpg\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/03-001.chapter-splash.jpg\" class=\"ddb-lightbox-inner\" style=\"width: 650px;\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a>\n<figcaption>Strixhaven students are often in awe of their<br>surroundings at the famed university of magic</figcaption>\n</figure>\n<h2 class=\"compendium-hr heading-anchor\" id=\"RunningtheAdventures\">Running the Adventures</h2>\n<p>To run these adventures, you need the fifth edition core rulebooks: the <a class=\"sourcebook\" href=\"https://www.dndbeyond.com/sources/phb\" title=\"Player’s Handbook\">Player’s Handbook</a>, the <a class=\"sourcebook\" href=\"https://www.dndbeyond.com/sources/dmg\" title=\"Dungeon Master’s Guide\">Dungeon Master’s Guide</a>, and the <a class=\"sourcebook\" href=\"https://www.dndbeyond.com/sources/mm\" title=\"Monster Manual\">Monster Manual</a>.</p>\n<aside class=\"read-aloud-text\" id=\"session-read-aloud-1\">\n<p>Text that appears in a box like this is meant to be read aloud or paraphrased for the players when their characters first arrive at a location or under a specific circumstance, as described in the text.</p>\n</aside>\n<p>When a creature’s name appears in <strong>bold</strong> type, that’s a visual cue pointing you to its stat block. In other words, when you see a name in bold type, you should get the creature’s stat block ready because you’re going to need it soon. If the stat block appears in <a href=\"/chapters/strixhaven-friends-and-foes/\" title=\"chapter 7\">chapter 7</a>, the text tells you. Otherwise, you can find the stat block in the <a class=\"sourcebook\" href=\"https://www.dndbeyond.com/sources/mm\" title=\"Monster Manual\">Monster Manual</a>.</p>\n<p>Spells and equipment mentioned in these adventures are described in the <a class=\"sourcebook\" href=\"https://www.dndbeyond.com/sources/phb\" title=\"Player’s Handbook\">Player’s Handbook</a>. If an adventure doesn’t describe a magic item, you can find the magic item’s description in the <a class=\"sourcebook\" href=\"https://www.dndbeyond.com/sources/dmg\" title=\"Dungeon Master’s Guide\">Dungeon Master’s Guide</a>.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"AStrixhavenCampaign\">A Strixhaven Campaign</h3>\n<p>If you run these adventures as a campaign, one villain is behind the chaos on campus: the bullywug Murgaxor Grenshel, a disgruntled former student who attended Strixhaven centuries ago. <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160313-murgaxor\" data-tooltip-href=\"/monsters/2160313-tooltip\">Murgaxor</a>—who uses evil magic to sustain his life force—focuses his all-consuming desire for revenge on destroying Strixhaven University.</p>\n<p>The adventures assume you’re playing a Strixhaven campaign, and each adventure provides information about how Murgaxor’s influence corrupts and warps creatures and places on campus. The end of each adventure provides information that foreshadows or sets up the events of the next adventure. The characters ultimately confront Murgaxor in <a href=\"/chapters/strixhaven-confronting-murgaxor/\" title=\"chapter 6\">chapter 6</a>, where the villain is described in detail.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"CharacterCreation\">Character Creation</h3>\n<p>Before starting any of this book’s adventures, consult <a href=\"/chapters/strixhaven-character-options/\" title=\"chapter 2\">chapter 2</a> for guidance on making Strixhaven characters and uniting those characters in a group.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"CharacterAdvancement\">Character Advancement</h3>\n<p>In these adventures, the characters receive experience points for achieving story milestones, rather than for defeating monsters. Each adventure tells you when the characters advance to the next level.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"StandaloneAdventures\">Standalone Adventures</h3>\n<p>Rather than playing the four adventures as a campaign, you can run them as standalone adventures. A section near the start of each adventure tells you how to use the adventure in this way.</p>\n<p>If you run any of these adventures separately, you should ask the players to create characters of the appropriate starting level for the adventure, as shown in the Adventure Levels table.</p>\n<table id=\"AdventureLevels\" class=\"table-compendium table--left-first\">\n<caption class=\"heading-anchor\"><a href=\"#AdventureLevels\"></a>Adventure Levels</caption>\n<thead>\n<tr>\n<th>Adventure</th>\n<th>Starting Level</th>\n<th>Chapter</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Campus Kerfuffle</td>\n<td>1st</td>\n<td><a href=\"/chapters/strixhaven-campus-kerfuffle/\" title=\"3\">3</a></td>\n</tr>\n<tr>\n<td>Hunt for Mage Tower</td>\n<td>4th</td>\n<td><a href=\"/chapters/strixhaven-hunt-for-mage-tower/\" title=\"4\">4</a></td>\n</tr>\n<tr>\n<td>The Magister’s Masquerade</td>\n<td>6th</td>\n<td><a href=\"/chapters/strixhaven-the-magisters-masquerade/\" title=\"5\">5</a></td>\n</tr>\n<tr>\n<td>A Reckoning in Ruins</td>\n<td>8th</td>\n<td><a href=\"/chapters/strixhaven-a-reckoning-in-ruins/\" title=\"6\">6</a></td>\n</tr>\n</tbody>\n</table>\n<h4 class=\"compendium-hr heading-anchor\" id=\"Relationships\">Relationships</h4>\n<p>If you run chapter 4, 5, or 6 as a standalone adventure, you should ask each player to choose at least one student to be a Friend, a Beloved, or a Rival, as described in the <a href=\"/chapters/strixhaven-relationships/\" title=\"Relationship rules\">Relationship rules</a> later in this chapter. The Starting Relationship Points table lists the number of points a character has at the start with the chosen Friend, Beloved, or Rival.</p>\n<table id=\"StartingRelationshipPoints\" class=\"table-compendium table--left-first\">\n<caption class=\"heading-anchor\"><a href=\"#StartingRelationshipPoints\"></a>Starting Relationship Points</caption>\n<thead>\n<tr>\n<th>Person</th>\n<th>Relationship Points</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Friend</td>\n<td>2</td>\n</tr>\n<tr>\n<td>Beloved</td>\n<td>3</td>\n</tr>\n<tr>\n<td>Rival</td>\n<td>−2</td>\n</tr>\n</tbody>\n</table>\n<figure id=\"imgyearstudents\" class=\"compendium-image\">\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/03-002.first-year-students.png\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/03-002.first-year-students.png\" class=\"ddb-lightbox-inner compendium-center-banner-img\" style=\"width: 850px;\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a>\n<figcaption>First-year students rush to class carrying armloads of books—<br>and all their excitement for the start of a new academic year</figcaption>\n</figure>\n<h3 class=\"compendium-hr heading-anchor\" id=\"UsingtheMaps\">Using the Maps</h3>\n<p>This book contains a number of interior maps and is accompanied by a poster map, all of which will aid you as you run these adventures.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"InteriorMaps\">Interior Maps</h4>\n<p>Maps in the book primarily depict areas for the characters to explore or areas where combat is likely to occur. These maps are designed to be easily reproduced on graph paper, a wet-erase mat, or some other surface to help the players visualize locations and devise combat strategies. You can alter a map’s features as you see fit.</p>\n<p>On interior maps, an arrow on a slope or staircase points in the ascending direction. When elevation numbers appear on a map, a plus sign indicates a rise of the indicated number of feet, while a minus sign indicates a depression.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"PosterMap\">Poster Map</h4>\n<p>The poster map is meant to be shared with the players. One side shows the Strixhaven University campus, with a focus on the central campus and the five surrounding colleges. The other side of the poster shows detailed maps of key campus locations, some of which the characters visit in multiple adventures.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"ThePassageofTime\">The Passage of Time</h3>\n<p>Each adventure in this book takes place over the course of an academic year, which is no longer than a calendar year. The adventures include events, but those events aren’t the entire extent of the characters’ experience on campus that year. Unless explicitly stated, assume that anywhere from a few days to a few weeks passes between the events of an adventure. You can decide how quickly the year passes and work with your players to decide what else they get up to. You can conduct roleplaying scenes with the characters’ fellow students, taking into account their Friends, Rivals, and Beloveds. You might also narratively describe developments in their courses to help the academic year feel varied and robust.</p>\n<p>Finally, as the characters are completing tasks together for their courses or hanging out with their fellow students, consider challenging them with random monster encounters that crop up on campus. These encounters might be truly random, or they could be unexpected side-effects of the more significant events unfolding in the adventure. Each chapter includes a table tailored for that adventure.</p>\n<h2 class=\"compendium-hr heading-anchor\" id=\"StrixhavenTrackingSheet\">Strixhaven Tracking Sheet</h2>\n<p>The sections on the following pages give special rules for certain aspects of university life. Players can use the sheet below to keep track of the effects of those rules on their characters. Each player should have a copy to use during the course of the adventures. The tracking sheet includes the following parts:</p>\n<figure id=\"imgmemories\" class=\"compendium-image\">\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/03-003.strixhaven-memories.jpg\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/03-003.strixhaven-memories.jpg\" class=\"ddb-lightbox-inner compendium-center-banner-img\" style=\"width: 850px;\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a>\n<figcaption><br></figcaption>\n</figure>\n<p><strong>Relationships.</strong> The player notes here the names of each student NPC with whom their character has a Relationship. The player should track how many Relationship Points their character has with each NPC; whether that NPC is a Friend, a Rival, or a Beloved; whether that NPC confers Beloved Inspiration; and that NPC’s Bond Boon or Bond Bane, whichever is applicable.</p>\n<p><strong>Report Cards.</strong> This section includes places to track the results of each Exam.</p>\n<p><strong>Extracurriculars.</strong> The player notes the Extracurriculars in which their character is participating. The player should also note each Extracurricular’s NPC member. Remind players that while their character participates in an Extracurricular, they gain a positive or negative Relationship Point with its associated student NPC.</p>\n<p><strong>Job.</strong> The player should note their character’s job, if any. Remind the player that while their character holds a job, the character gains a positive or negative Relationship Point with its associated student coworker, whom they should also note on this sheet.</p>\n<p><strong>Student Dice.</strong> The player should track the Student Dice their character has from passing Exams and from Extracurriculars. They should also note the skills their character can expend the Student Dice on. They should check the “d4” box whenever they gain a Student Die, and they should erase the check mark when they expend the die.</p>\n<aside class=\"rules-text\" id=\"OptingOutofTheseRules\">\n<p>OPTING OUT OF THESE RULES</p>\n<p>The rules for <a href=\"#Extracurriculars\" title=\"Extracurriculars\">Extracurriculars</a>, <a href=\"#Jobs\" title=\"Jobs\">Jobs</a>, <a href=\"#Exams\" title=\"Exams\">Exams</a>, and <a href=\"/chapters/strixhaven-relationships/\" title=\"Relationships\">Relationships</a> combine with the adventures in this book to enhance the flavor of life at a university of magic.</p>\n<p>If you find these rules aren’t the best fit for your group, you can run this book’s adventures without those rules, simply narrating the effects of related encounters without using rules to resolve them.</p>\n</aside>\n<h2 class=\"compendium-hr heading-anchor\" id=\"Extracurriculars\">Extracurriculars</h2>\n<p>Extracurriculars—the campus clubs and societies students can join—are a key part of student life at Strixhaven. Using the rules that follow, characters can join Extracurriculars to add flavor to the book’s adventures, gain minor rules benefits, and perhaps more easily befriend—or irritate—their classmates.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"JoininganExtracurricular\">Joining an Extracurricular</h3>\n<p>At any point during the book’s adventures, a character can gain the benefit of two of the Extracurriculars noted below, as described later in this section. If a student character also works on campus using the Job rules, the character can benefit from only one Extracurricular.</p>\n<p>Characters can gain the benefit from a new Extracurricular only by joining it at the start of an academic year, which corresponds to the beginning of a new adventure. Typically, joining an Extracurricular in between academic years isn’t eventful. Players should note the changes on their tracking sheet.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"ExtracurricularBenefits\">Extracurricular Benefits</h3>\n<div class=\"flexible-double-column\">\n<div class=\"flexible-double-column__column-width-35pct\">\n<figure class=\"compendium-image compendium-image-center\" id=\"imgcelebrate\">\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/03-004.png\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/03-004.png\" class=\"ddb-lightbox-inner\" style=\"width: 365px;\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a>\n<figcaption>Students find many magical ways<br>to celebrate their achievements</figcaption>\n</figure>\n</div>\n<div>\n<p>While a student participates in an Extracurricular, they gain a Student Die and a Relationship Point, as explained below.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"StudentDice\">Student Dice</h4>\n<p>Each character gains one Student Die for each Extracurricular they are participating in. A Student Die is a d4 the player can roll and add to an ability check that the character makes, provided the check uses one of the skills listed in the Extracurricular’s description. The player can wait until after rolling the d20 before rolling the Student Die, but must do so before you say whether the check succeeds or fails. No more than one Student Die can be rolled per check. After rolling a Student Die, a player can’t roll it again until the character finishes a long rest.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"RelationshipPoint\">Relationship Point</h4>\n<p>While a student participates in an Extracurricular, the student gains either a positive or a negative Relationship Point (the player’s choice) with one student NPC who is also a member of the Extracurricular (see the <a href=\"/chapters/strixhaven-relationships/\" title=\"Relationship rules\">Relationship rules</a> later in this chapter).</p>\n</div>\n</div>\n<h3 class=\"compendium-hr heading-anchor\" id=\"QuittinganExtracurricular\">Quitting an Extracurricular</h3>\n<p>Characters can quit an Extracurricular at any time, updating their tracking sheet accordingly. When a student quits an Extracurricular, they immediately lose its benefits. If a character quits during an adventure, you might want to roleplay the situation, since NPCs are likely to take an interest in why the student is leaving.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"ExtracurricularOptionsAF\">Extracurricular Options (A-H)</h3>\n<p>Student characters can join any of the following Extracurriculars.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"DeadLanguagesSociety\">Dead Languages Society</h4>\n<p><strong>Skills:</strong> <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/2-tooltip\">Athletics</a>, <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/7-tooltip\">History</a></p>\n<p><strong>Member:</strong> Drazhomir Yarnask, Quentillius A. Melentor III</p>\n<p>These linguistics lovers take advantage of Strixhaven’s deep repository of tomes written in ancient and near-extinct languages, teaching themselves these tongues and often translating their favorite works.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"DistinguishedSocietyofFineArtists\">Distinguished Society of Fine Artists</h4>\n<p><strong>Skills:</strong> <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/18-tooltip\">Performance</a> or <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/4-tooltip\">Sleight of Hand</a></p>\n<p><strong>Member:</strong> Cadoras Damellawar, Nora Ann Wu</p>\n<p>These painters, sculptors, printmakers, and mosaic artists gather to create fine works and to discuss the latest techniques and trends in the world of art.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"DragonchessClub\">Dragonchess Club</h4>\n<p><strong>Skills:</strong> <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/16-tooltip\">Deception</a>, <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/8-tooltip\">Investigation</a></p>\n<p><strong>Member:</strong> Bhedum “Rampart” Sooviij, Tilana Kapule</p>\n<p>These experts in the game of dragonchess discuss the latest in strategy, compete against one another, and test out homemade variations of game rules.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"DragonsguardHistoricalSociety\">Dragonsguard Historical Society</h4>\n<p><strong>Skills:</strong> <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/6-tooltip\">Arcana</a>, <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/7-tooltip\">History</a></p>\n<p><strong>Member:</strong> Bhedum “Rampart” Sooviij</p>\n<p>These historians are fascinated by all time periods, and they regularly meet to discuss, debate, and deep dive into members’ favorite topics.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"FantasticalHorticultureClub\">Fantastical Horticulture Club</h4>\n<p><strong>Skills:</strong> <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/9-tooltip\">Nature</a>, <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/15-tooltip\">Survival</a></p>\n<p><strong>Member:</strong> Urzmaktok Grojsh</p>\n<p>These green-thumbed experts love mixing magic and gardening to create new strains of vegetation, many of which they cultivate on campus.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"FutureEntrepreneursofStrixhaven\">Future Entrepreneurs of Strixhaven</h4>\n<p><strong>Skills:</strong> <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/12-tooltip\">Insight</a>, <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/19-tooltip\">Persuasion</a></p>\n<p><strong>Member:</strong> Grayson Wildemere</p>\n<p>These enterprising students discuss business theories. They often create small start-ups to sell wares and services appealing to students. The funds they generate fuel the club’s activities.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"ExtracurricularOptionsIZ\">Extracurricular Options (I-Z)</h3>\n<h4 class=\"compendium-hr heading-anchor\" id=\"IntramuralGymnasticsClub\">Intramural Gymnastics Club</h4>\n<p><strong>Skills:</strong> <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/3-tooltip\">Acrobatics</a>, <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/18-tooltip\">Performance</a></p>\n<p><strong>Member:</strong> Zanther Bowen</p>\n<p>These graceful gymnasts work to hone their craft, and they compete against each other in dazzling floor routines.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"IntramuralSilkballClub\">Intramural Silkball Club</h4>\n<p><strong>Skills:</strong> <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/2-tooltip\">Athletics</a>, <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/17-tooltip\">Intimidation</a></p>\n<p><strong>Member:</strong> Javenesh Stoutclaw, Melwythorne, Tilana Kapule</p>\n<p>These hardy athletes train together and compete in the rough-and-tumble Strixhaven game of silkball, which is played in muddy fields with balls made of spider silk.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"IntramuralWaterDancingClub\">Intramural Water-Dancing Club</h4>\n<p><strong>Skills:</strong> <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/2-tooltip\">Athletics</a>, <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/18-tooltip\">Performance</a></p>\n<p><strong>Member:</strong> Larine Arneza</p>\n<p>These swimming enthusiasts combine their athletic skills with the finesse of artists as they choreograph water dances to the latest popular songs.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"LiveActionRoleplayingGuild\">Live-Action Roleplaying Guild</h4>\n<p><strong>Skills:</strong> <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/11-tooltip\">Animal Handling</a>, <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/18-tooltip\">Performance</a></p>\n<p><strong>Member:</strong> Cadoras Damellawar, Rosimyffenbip “Rosie” Wuzfeddlims</p>\n<p>These storytelling enthusiasts engage in a mix of strategy and playacting—often involving mascots—when they enact fantastical narratives that they resolve with special rules.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"MageTowerCheerSquad\">Mage Tower Cheer Squad</h4>\n<p><strong>Skills:</strong> <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/14-tooltip\">Perception</a>, <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/19-tooltip\">Persuasion</a></p>\n<p><strong>Member:</strong> Zanther Bowen</p>\n<p>With their coordinated cheers, outfits, and school spirit, these cheerleaders inspire pride in the official Strixhaven University Mage Tower teams.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"PlayactorsDramaGuild\">Playactors Drama Guild</h4>\n<p><strong>Skills:</strong> <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/6-tooltip\">Arcana</a>, <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/16-tooltip\">Deception</a></p>\n<p><strong>Member:</strong> Quentillius A. Melentor III, Rubina Larkingdale</p>\n<p>These actors work together to create productions of brilliant stagecraft, often involving new spins on old classics as well as displays of magic and music.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"StrixhavenIronLiftersSociety\">Strixhaven Iron-Lifters Society</h4>\n<p><strong>Skills:</strong> <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/2-tooltip\">Athletics</a>, <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/13-tooltip\">Medicine</a></p>\n<p><strong>Member:</strong> Greta Gorunn</p>\n<p>These bodybuilders support each other in developing strong muscles and even stronger friendships.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"StrixhavenShowBandAssociation\">Strixhaven Show Band Association</h4>\n<p><strong>Skills:</strong> <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/4-tooltip\">Sleight of Hand</a>, <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/18-tooltip\">Performance</a></p>\n<p><strong>Member:</strong> Aurora Luna Wynterstarr, Rubina Larkingdale</p>\n<p>These music enthusiasts play instruments such as hurdy-gurdies, bagpipes, flutes, and drums, and they regularly perform rousing concerts.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"StrixhavenStar\">Strixhaven Star</h4>\n<p><strong>Skills:</strong> <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/8-tooltip\">Investigation</a>, <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/12-tooltip\">Insight</a></p>\n<p><strong>Member:</strong> Grayson Wildemere, Mina Lee</p>\n<p>These truth seekers and wordsmiths report on campus news, regularly interviewing important figures and producing the monthly <em>Strixhaven Star</em> newspaper, which is distributed across the campus.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"StudentMagesofFaith\">Student-Mages of Faith</h4>\n<p><strong>Skills:</strong> <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/12-tooltip\">Insight</a>, <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/10-tooltip\">Religion</a></p>\n<p><strong>Member:</strong> Melwythorne, Shuvadri Glintmantle</p>\n<p>These pious students of many faiths gather to share prayers and theological debates and to celebrate one another’s high holidays.</p>\n<h2 class=\"compendium-hr heading-anchor\" id=\"Jobs\">Jobs</h2>\n<div class=\"flexible-double-column\">\n<div>\n<p>Working in gainful employment while at school can provide a character with a modicum of cash and help forge connections with student coworkers.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"GettingorLosingaJob\">Getting or Losing a Job</h3>\n<p>A character can hold one Job at a time, and they can participate in only one Extracurricular while they have a Job. A student can switch Jobs whenever they wish, even in the middle of the academic year, as long as they don’t work more than one Job at a time. At your discretion, switching Jobs in the middle of the year might lead to a roleplaying scenario.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"JobBenefits\">Job Benefits</h3>\n<p>While a student has a Job, they earn a wage and a Relationship Point, as explained below.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"Wage\">Wage</h4>\n<p>A student who works a Job gains 5 gp at the start of each week that they hold the Job. If a student quits during the academic year, they stop earning this money at the end of the week in which they quit.</p>\n</div>\n<div>\n<figure class=\"compendium-image compendium-image-center\" id=\"imgstrixhavenemployees\">\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/03-005.png\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/03-005.png\" class=\"ddb-lightbox-inner\" style=\"width: 415px;\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a>\n<figcaption>Strixhaven student employees work<br>beside staff members to fill the<br>many jobs available on campus</figcaption>\n</figure>\n</div>\n</div>\n<h4 class=\"compendium-hr heading-anchor\" id=\"RelationshipPoint1\">Relationship Point</h4>\n<p>While a character works a Job, they gain a positive or negative Relationship Point (the player’s choice) with one student NPC at that Job. This represents a coworker with whom the character is often scheduled and with whom they can easily form a connection (see the <a href=\"/chapters/strixhaven-relationships/\" title=\"Relationship rules\">Relationship rules</a> later in this chapter).</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"JobOptions\">Job Options</h3>\n<p>Student characters can find work at the places below. A number of possible positions are noted for each place, along with NPC coworkers.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"Biblioplex\">Biblioplex</h4>\n<p><strong>Jobs:</strong> Book clerk, book shelver, café worker, cleanup crew member, garden tender, store worker</p>\n<p><strong>Coworker:</strong> Drazhomir Yarnask</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"BowsEndTavern\">Bow’s End Tavern</h4>\n<p><strong>Jobs:</strong> Assistant manager, cleanup crew member, cook, host, server</p>\n<p><strong>Coworker:</strong> Javenesh Stoutclaw</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"CampusGrounds\">Campus Grounds</h4>\n<p><strong>Jobs:</strong> Graffiti eraser, lawn manicurist, litter retriever, sidewalk sweeper, statuary repairer, trash collector</p>\n<p><strong>Coworker:</strong> Shuvadri Glintmantle</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"CampusMagicLabs\">Campus Magic Labs</h4>\n<p><strong>Jobs:</strong> Cleanup crew member, specimen preparer, volunteer lab partner</p>\n<p><strong>Coworker:</strong> Urzmaktok Grojsh</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"Dormitories\">Dormitories</h4>\n<p><strong>Jobs:</strong> Cleanup crew member, events assistant, front-desk worker, resident assistant</p>\n<p><strong>Coworker:</strong> Nora Ann Wu</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"FirejoltCaf\">Firejolt Café</h4>\n<p><strong>Jobs:</strong> Barista, cashier, cleanup crew member, server</p>\n<p><strong>Coworker:</strong> Mina Lee</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"IntramuralFields\">Intramural Fields</h4>\n<p><strong>Jobs:</strong> Cleanup crew member, crowd manager, equipment assistant, groundskeeper, referee</p>\n<p><strong>Coworker:</strong> Rosimyffenbip “Rosie” Wuzfeddlims</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"StrixhavenPerformingArtsSociety\">Strixhaven Performing Arts Society</h4>\n<p><strong>Jobs:</strong> Cleanup crew member, general assistant, refreshments expert, stagehand, ticket taker, usher</p>\n<p><strong>Coworker:</strong> Larine Arneza</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"StrixhavenStadium\">Strixhaven Stadium</h4>\n<p><strong>Jobs:</strong> Cleanup crew member, entertainment assistant, equipment assistant, groundskeeper, refreshments expert, ticket taker, usher</p>\n<p><strong>Coworker:</strong> Aurora Luna Wynterstarr, Greta Gorunn</p>\n<h2 class=\"compendium-hr heading-anchor\" id=\"Exams\">Exams</h2>\n<p>The characters’ years at Strixhaven are covered by each of this book’s adventures, which focus on the notable and even shocking events that take place at the university. Even though the characters’ studies include the trappings of academic life—attending lectures, participating in labs, reading textbooks—those everyday academic activities mostly take place in the background. The exam rules presented here are thus designed to help the players keep their characters’ studies part of the game.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"UsingTheseRules\">Using These Rules</h3>\n<p>Each of the book’s adventures includes Exams. Though each character might be a member of a different college at Strixhaven, the adventures assume that the characters take at least one general education or interdisciplinary course together each year. It is this course that the Exam rules represent.</p>\n<p>Each Exam encounter has a Studying phase followed by a Testing phase. In general, a character can approach Studying in any way they desire, with that phase then culminating in a single ability check of their choice. In contrast, Testing requires ability checks using specific skills.</p>\n<p>In each phase, resolve the outcome of one character’s ability checks before moving on to another character. (If any characters are studying together, however, resolve their ability checks at the same time. See below for more information.)</p>\n<p>Don’t forget to have each player mark the results of an Exam on their tracking sheet!</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"StudyingPhase\">Studying Phase</h3>\n<p>The Studying phase of an Exam represents the characters brushing up on their coursework, prompting sparks of insight when faced with difficult questions, or using mnemonics or other memorization techniques to absorb academic material.</p>\n<p>During the Studying phase, each character must succeed on an ability check against a DC noted in the encounter. They can use any ability and skill they wish when making this check, but they can make it only once.</p>\n<p>For example, one student might make an Intelligence (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/7-tooltip\">History</a>) check to pore over their books, while another student makes a Charisma (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/18-tooltip\">Performance</a>) check to create a series of spoken mnemonic devices. A third student might make a Dexterity (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/4-tooltip\">Sleight of Hand</a>) check to create reminding gestures or practice any physical components that are part of a course, such as the somatic gestures involved in spellcasting.</p>\n<p>On a successful check, the character gains one reroll to use during the character’s next Testing phase.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"PullinganAllNighter\">Pulling an All-Nighter</h4>\n<p>After pulling an all-nighter, a character gains two rerolls to use during the next Testing phase if the character succeeds on the ability check. Doing so imposes a cost: the character gains 1 level of <a class=\"tooltip-hover condition-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#ExhaustionCondition\" data-tooltip-href=\"/conditions/4-tooltip\">exhaustion</a> that takes effect at the start of the day of the Exam. This level of <a class=\"tooltip-hover condition-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#ExhaustionCondition\" data-tooltip-href=\"/conditions/4-tooltip\">exhaustion</a> can’t be removed until after the Exam.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"StudyingTogether\">Studying Together</h4>\n<p>If two or more characters engage in a group study session, each participating character has advantage on their ability check during the Studying phase.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"SkippingStudying\">Skipping Studying</h4>\n<p>A character can skip the Studying phase if they wish, forgoing the chance of gaining these rerolls.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"TestingPhase\">Testing Phase</h3>\n<p>Once the Studying phase of an Exam is over, have the players record any rerolls their characters receive, then begin the Testing phase.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"AbilityChecks\">Ability Checks</h4>\n<p>Each Exam’s Testing phase consists of two ability checks, with specifics (including the DC) noted in the encounter. If a character gained any rerolls during the Studying phase, the character can use one reroll when making a Testing ability check, rerolling the check’s d20 and using the new roll.</p>\n<p>Each character’s Testing phase has three possible results:</p>\n<p><strong>Failed.</strong> No successful ability checks means a character failed, having gotten fewer than half the questions correct.</p>\n<p><strong>Passed.</strong> One successful ability check means a character passed, having gotten half or more of the questions correct, but not all the questions. The character gains one Student Die, explained below.</p>\n<p><strong>Aced.</strong> Two successful ability checks mean the character aced the Exam, having gotten all the questions correct. The character gains two Student Dice, explained below.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"Cheating\">Cheating</h4>\n<p>An unscrupulous character can cheat on an Exam. Doing so requires a successful Charisma (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/16-tooltip\">Deception</a>) check and a successful Dexterity (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/4-tooltip\">Sleight of Hand</a>) check, both using the DC set for the Exam. If a character cheats, they can’t use any rerolls from their Studying phase.</p>\n<p>If the character fails either of these checks, a proctor or other authority figure notices the cheating, and the student fails the exam.</p>\n<p>If the Charisma (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/16-tooltip\">Deception</a>) and Dexterity (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/4-tooltip\">Sleight of Hand</a>) checks are both successful, the character successfully cheats and aces the Exam.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"FailedExam\">Failed Exam</h4>\n<p>If a character fails an Exam, Strixhaven’s bylaws require them to attend tutoring with a junior faculty member until they achieve at least a passed Exam in a different Exams encounter. This tutoring can be narrated through roleplaying, or you might simply inform the player of this result.</p>\n<p>A student who must attend tutoring can’t take part in any Extracurriculars or Jobs until they achieve at least a passed Exam during one of that academic year’s Exam encounters. The character thus loses any benefits from Extracurriculars or Jobs, and their player should indicate this suspension on their tracking sheet.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"StudentDice1\">Student Dice</h4>\n<p>A Student Die gained from an Exam is a d4 the player can roll and add to an ability check that the character makes, provided the check uses one of the two skills featured in the Exam. The player can wait until after rolling the d20 before rolling the Student Die, but must do so before you say whether the check succeeds or fails. No more than one Student Die can be rolled per check. After rolling a Student Die, a player can’t roll it again until the character finishes a long rest.</p>\n<p>Players should note any Student Dice they gain and the skills those dice can apply to on their tracking sheet.</p>\n<p>At the end of each academic year, players lose any Student Dice their characters have earned from an Exam.</p>"
+}

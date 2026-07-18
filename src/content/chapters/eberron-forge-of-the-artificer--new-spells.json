@@ -1,0 +1,304 @@
+{
+  "title": "Magic Items",
+  "sourcebook": "Eberron: Forge of the Artificer",
+  "bookSlug": "eberron-forge-of-the-artificer",
+  "world": "Eberron",
+  "edition": "2024 rules",
+  "chapter": "Appendix: Magic Items",
+  "chapterNumber": 8,
+  "order": 10,
+  "navGroup": "Appendix",
+  "kind": "items",
+  "audience": "both",
+  "slug": "new-spells",
+  "chapterSlug": "new-spells",
+  "summary": "While wearing these boots, you can take a Bonus Action to teleport up to 15 feet to an unoccupied space you can see. You must have occupied that space at some point during the current turn.",
+  "wordCount": 572,
+  "originalPath": "Eberron/Chapter 8.html",
+  "rawUrl": "/archive/eberron/Chapter%208.html",
+  "originalAnchors": [
+    {
+      "id": "AppendixMagicItems",
+      "text": "Magic Items",
+      "element": "h1"
+    },
+    {
+      "id": "comp-next-nav",
+      "text": "Previous ← Chapter 7: Elemental Airships Book Contents Next Appendix: Art of Eberron →",
+      "element": "div"
+    },
+    {
+      "id": "img",
+      "text": "Leroy Steinmann",
+      "element": "figure"
+    },
+    {
+      "id": "BootsoftheWindingPath",
+      "text": "Boots of the Winding Path",
+      "element": "h2"
+    },
+    {
+      "id": "DazzlingWeapon",
+      "text": "Dazzling Weapon",
+      "element": "h2"
+    },
+    {
+      "id": "HelmofAwareness",
+      "text": "Helm of Awareness",
+      "element": "h2"
+    },
+    {
+      "id": "ManifoldTool",
+      "text": "Manifold Tool",
+      "element": "h2"
+    },
+    {
+      "id": "MindSharpener",
+      "text": "Mind Sharpener",
+      "element": "h2"
+    },
+    {
+      "id": "RepeatingShot",
+      "text": "Repeating Shot",
+      "element": "h2"
+    },
+    {
+      "id": "RepulsionShield",
+      "text": "Repulsion Shield",
+      "element": "h2"
+    },
+    {
+      "id": "ReturningWeapon",
+      "text": "Returning Weapon",
+      "element": "h2"
+    },
+    {
+      "id": "SpellRefuelingRing",
+      "text": "Spell-Refueling Ring",
+      "element": "h2"
+    }
+  ],
+  "sourceHash": "0a0fdf64a57d68e21cb243ca5181e0f085cf5b640614fd12382a06f5f9c900b8",
+  "extractionDate": "2026-07-13T07:40:57.647Z",
+  "extractionVersion": 3,
+  "headings": [
+    {
+      "depth": 1,
+      "id": "AppendixMagicItems",
+      "text": "Magic Items"
+    },
+    {
+      "depth": 2,
+      "id": "BootsoftheWindingPath",
+      "text": "Boots of the Winding Path"
+    },
+    {
+      "depth": 2,
+      "id": "DazzlingWeapon",
+      "text": "Dazzling Weapon"
+    },
+    {
+      "depth": 2,
+      "id": "HelmofAwareness",
+      "text": "Helm of Awareness"
+    },
+    {
+      "depth": 2,
+      "id": "ManifoldTool",
+      "text": "Manifold Tool"
+    },
+    {
+      "depth": 2,
+      "id": "MindSharpener",
+      "text": "Mind Sharpener"
+    },
+    {
+      "depth": 2,
+      "id": "RepeatingShot",
+      "text": "Repeating Shot"
+    },
+    {
+      "depth": 2,
+      "id": "RepulsionShield",
+      "text": "Repulsion Shield"
+    },
+    {
+      "depth": 2,
+      "id": "ReturningWeapon",
+      "text": "Returning Weapon"
+    },
+    {
+      "depth": 2,
+      "id": "SpellRefuelingRing",
+      "text": "Spell-Refueling Ring"
+    }
+  ],
+  "tags": {
+    "creatures": [],
+    "spells": [],
+    "items": [
+      "Boots of the Winding Path",
+      "Dazzling Weapon",
+      "Helm of Awareness",
+      "Manifold Tool",
+      "Mind Sharpener",
+      "Repeating Shot",
+      "Repulsion Shield",
+      "Returning Weapon",
+      "Spell-Refueling Ring"
+    ],
+    "locations": [
+      "Eberron"
+    ],
+    "npcs": [],
+    "topics": [
+      "items"
+    ]
+  },
+  "session": {
+    "readAloud": [],
+    "rules": [],
+    "tables": [],
+    "statBlocks": [],
+    "maps": [],
+    "quickLinks": [
+      {
+        "depth": 2,
+        "id": "BootsoftheWindingPath",
+        "text": "Boots of the Winding Path",
+        "type": "reference"
+      },
+      {
+        "depth": 2,
+        "id": "DazzlingWeapon",
+        "text": "Dazzling Weapon",
+        "type": "reference"
+      },
+      {
+        "depth": 2,
+        "id": "HelmofAwareness",
+        "text": "Helm of Awareness",
+        "type": "reference"
+      },
+      {
+        "depth": 2,
+        "id": "ManifoldTool",
+        "text": "Manifold Tool",
+        "type": "reference"
+      },
+      {
+        "depth": 2,
+        "id": "MindSharpener",
+        "text": "Mind Sharpener",
+        "type": "reference"
+      },
+      {
+        "depth": 2,
+        "id": "RepeatingShot",
+        "text": "Repeating Shot",
+        "type": "reference"
+      },
+      {
+        "depth": 2,
+        "id": "RepulsionShield",
+        "text": "Repulsion Shield",
+        "type": "reference"
+      },
+      {
+        "depth": 2,
+        "id": "ReturningWeapon",
+        "text": "Returning Weapon",
+        "type": "reference"
+      },
+      {
+        "depth": 2,
+        "id": "SpellRefuelingRing",
+        "text": "Spell-Refueling Ring",
+        "type": "reference"
+      }
+    ]
+  },
+  "anomalyFlags": [
+    {
+      "type": "reader-address",
+      "passage": "While wearing these boots, you can take a Bonus Action to teleport up to 15 feet to an unoccupied space you can see.",
+      "location": "Boots of the Winding Path",
+      "anchor": "BootsoftheWindingPath",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "You must have occupied that space at some point during the current turn.",
+      "location": "Boots of the Winding Path",
+      "anchor": "BootsoftheWindingPath",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "While holding it, you can take a Bonus Action to cause it to shed Bright Light in a 30-foot radius and Dim Light for an additional 30 feet.",
+      "location": "Dazzling Weapon",
+      "anchor": "DazzlingWeapon",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "You can extinguish the light as a Bonus Action.",
+      "location": "Dazzling Weapon",
+      "anchor": "DazzlingWeapon",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "You can take a Reaction immediately after being hit by an attack roll to expend 1 of the weapon’s charges and force the attacker to make a DC 15 Constitution saving throw.",
+      "location": "Dazzling Weapon",
+      "anchor": "DazzlingWeapon",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "While wearing this helmet, you have Advantage on Initiative rolls.",
+      "location": "Helm of Awareness",
+      "anchor": "HelmofAwareness",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "As a Magic action, you can touch the item and transform it into a type of Artisan’s Tools of your choice.",
+      "location": "Manifold Tool",
+      "anchor": "ManifoldTool",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "Whatever form the tool takes, you have proficiency with it when you use it.",
+      "location": "Manifold Tool",
+      "anchor": "ManifoldTool",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "When you fail a Constitution saving throw to maintain Concentration, you can take a Reaction and expend 1 of the item’s charges to succeed instead.",
+      "location": "Mind Sharpener",
+      "anchor": "MindSharpener",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "You gain a +1 bonus to Armor Class while wielding this shield.",
+      "location": "Repulsion Shield",
+      "anchor": "RepulsionShield",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    }
+  ],
+  "contentHtml": "<div class=\"efota-title efota-title-intro\">\n    <div class=\"efota-title-text\">\n        <p><span>Appendix</span> <span></span></p>\n        <h1 class=\"compendium-hr with-metadata\" id=\"AppendixMagicItems\">Magic Items</h1>\n    </div>\n    <p><span class=\"efota-intro-title\">Appendix</span> <span></span></p>\n</div>\n\n<figure class=\"compendium-art compendium-art-center Misc--Dropshadow\" id=\"img\">\n<span class=\"artist-credit-right\">Leroy Steinmann</span>\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/efota/Jae5SyNcfFGjapTb/08-001.magic-items-in-case.png\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/efota/Jae5SyNcfFGjapTb/08-001.magic-items-in-case.png\" class=\"ddb-lightbox-inner\" style=\"width: 845px;\" alt=\"Items in Display Case\" loading=\"lazy\" decoding=\"async\"></a>\n</figure>\n<p>Magic items are presented in alphabetical order.</p>\n<hr class=\"separator\">\n<h2 class=\"compendium-hr compendium--magic-item heading-anchor\" id=\"BootsoftheWindingPath\"><a class=\"tooltip-hover magic-item-tooltip\" href=\"https://www.dndbeyond.com/magic-items/10886002-boots-of-the-winding-path\" data-tooltip-href=\"/magic-items/10886002-tooltip\">Boots of the Winding Path</a></h2>\n<p><em>Wondrous Item, Uncommon (Requires Attunement)</em></p>\n<p>While wearing these boots, you can take a Bonus Action to teleport up to 15 feet to an unoccupied space you can see. You must have occupied that space at some point during the current turn.</p>\n<hr class=\"separator\">\n<h2 class=\"compendium-hr compendium--magic-item heading-anchor\" id=\"DazzlingWeapon\"><a class=\"tooltip-hover magic-item-tooltip\" href=\"https://www.dndbeyond.com/magic-items/10886041-dazzling-weapon\" data-tooltip-href=\"/magic-items/10886041-tooltip\">Dazzling Weapon</a></h2>\n<p><em>Weapon (Any Simple or Martial), Rare (Requires Attunement)</em></p>\n<p>This magic weapon grants a +1 bonus to attack and damage rolls made with it. While holding it, you can take a Bonus Action to cause it to shed <a class=\"tooltip-hover rule-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#BrightLight\" data-tooltip-href=\"/rules-glossary/21-tooltip\">Bright Light</a> in a 30-foot radius and <a class=\"tooltip-hover rule-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#DimLight\" data-tooltip-href=\"/rules-glossary/52-tooltip\">Dim Light</a> for an additional 30 feet. You can extinguish the light as a Bonus Action.</p>\n<p>The weapon has 4 charges. You can take a Reaction immediately after being hit by an attack roll to expend 1 of the weapon’s charges and force the attacker to make a DC 15 Constitution saving throw. On a failed save, the attacker has the <a class=\"tooltip-hover condition-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#BlindedCondition\" data-tooltip-href=\"/conditions/1-tooltip\">Blinded</a> condition until the end of its next turn. The weapon regains 1d4 expended charges daily at dawn.</p>\n<hr class=\"separator\">\n<h2 class=\"compendium-hr compendium--magic-item heading-anchor\" id=\"HelmofAwareness\"><a class=\"tooltip-hover magic-item-tooltip\" href=\"https://www.dndbeyond.com/magic-items/10886043-helm-of-awareness\" data-tooltip-href=\"/magic-items/10886043-tooltip\">Helm of Awareness</a></h2>\n<p><em>Wondrous Item, Uncommon</em></p>\n<p>While wearing this helmet, you have Advantage on Initiative rolls.</p>\n<hr class=\"separator\">\n<h2 class=\"compendium-hr compendium--magic-item heading-anchor\" id=\"ManifoldTool\"><a class=\"tooltip-hover magic-item-tooltip\" href=\"https://www.dndbeyond.com/magic-items/10886044-manifold-tool\" data-tooltip-href=\"/magic-items/10886044-tooltip\">Manifold Tool</a></h2>\n<p><em>Wondrous Item, Common (Requires Attunement)</em></p>\n<p>This tool takes the form of a wrench, a screwdriver, or another basic tool. As a Magic action, you can touch the item and transform it into a type of Artisan’s Tools of your choice. Whatever form the tool takes, you have proficiency with it when you use it.</p>\n<hr class=\"separator\">\n<h2 class=\"compendium-hr compendium--magic-item heading-anchor\" id=\"MindSharpener\"><a class=\"tooltip-hover magic-item-tooltip\" href=\"https://www.dndbeyond.com/magic-items/10886045-mind-sharpener\" data-tooltip-href=\"/magic-items/10886045-tooltip\">Mind Sharpener</a></h2>\n<p><em>Ring, Uncommon (Requires Attunement)</em></p>\n<p>The item has 4 charges. When you fail a Constitution saving throw to maintain <a class=\"tooltip-hover rule-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#Concentration\" data-tooltip-href=\"/rules-glossary/31-tooltip\">Concentration</a>, you can take a Reaction and expend 1 of the item’s charges to succeed instead. The item regains 1d4 expended charges daily at dawn.</p>\n<hr class=\"separator\">\n<h2 class=\"compendium-hr compendium--magic-item heading-anchor\" id=\"RepeatingShot\"><a class=\"tooltip-hover magic-item-tooltip\" href=\"https://www.dndbeyond.com/magic-items/10886055-repeating-shot\" data-tooltip-href=\"/magic-items/10886055-tooltip\">Repeating Shot</a></h2>\n<p><em>Weapon (Any Simple or Martial with the Ammunition Property), Uncommon (Requires Attunement)</em></p>\n<p>This magic weapon grants a +1 bonus to attack and damage rolls made with it when it’s used to make a ranged attack, and it ignores the <a class=\"tooltip-hover weapon-properties-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/equipment#Loading\" data-tooltip-href=\"/weapon-properties/5-tooltip\">Loading</a> property if it has that property.</p>\n<p>If the weapon lacks ammunition, it produces its own, automatically creating one piece of magic ammunition when the wielder makes a ranged attack roll with it. The ammunition created by the weapon vanishes the instant after it hits or misses a target.</p>\n<hr class=\"separator\">\n<h2 class=\"compendium-hr compendium--magic-item heading-anchor\" id=\"RepulsionShield\"><a class=\"tooltip-hover magic-item-tooltip\" href=\"https://www.dndbeyond.com/magic-items/10886056-repulsion-shield\" data-tooltip-href=\"/magic-items/10886056-tooltip\">Repulsion Shield</a></h2>\n<p><em>Armor (Shield), Uncommon</em></p>\n<p>You gain a +1 bonus to Armor Class while wielding this shield.</p>\n<p>The shield has 4 charges. While holding it, when a Large or smaller creature within 5 feet of you hits you with a melee attack roll, you can take a Reaction to expend 1 of the shield’s charges and push the attacker up to 15 feet straight away. The shield regains 1d4 expended charges daily at dawn.</p>\n<hr class=\"separator\">\n<h2 class=\"compendium-hr compendium--magic-item heading-anchor\" id=\"ReturningWeapon\"><a class=\"tooltip-hover magic-item-tooltip\" href=\"https://www.dndbeyond.com/magic-items/10886064-returning-weapon\" data-tooltip-href=\"/magic-items/10886064-tooltip\">Returning Weapon</a></h2>\n<p><em>Weapon (Any Simple or Martial with the Thrown Property), Uncommon</em></p>\n<p>This magic weapon grants a +1 bonus to attack and damage rolls made with it, and it returns to your hand immediately after you use it to make a ranged attack roll.</p>\n<hr class=\"separator\">\n<h2 class=\"compendium-hr compendium--magic-item heading-anchor\" id=\"SpellRefuelingRing\"><a class=\"tooltip-hover magic-item-tooltip\" href=\"https://www.dndbeyond.com/magic-items/10886065-spell-refueling-ring\" data-tooltip-href=\"/magic-items/10886065-tooltip\">Spell-Refueling Ring</a></h2>\n<p><em>Ring, Uncommon (Requires Attunement by a Spellcaster)</em></p>\n<p>While wearing this ring, you can recover one expended spell slot as a Bonus Action. The recovered slot can be of level 3 or lower. Once used, the ring can’t be used again until the next dawn.</p>"
+}

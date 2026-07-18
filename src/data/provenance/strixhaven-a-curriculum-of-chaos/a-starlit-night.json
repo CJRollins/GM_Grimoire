@@ -1,0 +1,223 @@
+{
+  "title": "A Starlit Night",
+  "sourcebook": "Strixhaven: A Curriculum of Chaos",
+  "bookSlug": "strixhaven-a-curriculum-of-chaos",
+  "originalPath": "Arcavios/Stixhaven/Chapter 14 - A Starlit Night.html",
+  "rawUrl": "/archive/strixhaven/Chapter%2014%20-%20A%20Starlit%20Night.html",
+  "sourceHash": "b96105abd1631dd00973ad6854ff9fb135e17165d23f96ab64861596770f39c2",
+  "extractionDate": "2026-07-13T07:40:57.647Z",
+  "extractionVersion": 3,
+  "originalAnchors": [
+    {
+      "id": "AStarlitNight",
+      "text": "A Starlit Night",
+      "element": "h1"
+    },
+    {
+      "id": "comp-next-nav",
+      "text": "",
+      "element": "div"
+    },
+    {
+      "id": "PreparingfortheMasquerade",
+      "text": "Preparing for the Masquerade",
+      "element": "h2"
+    },
+    {
+      "id": "PreparationAccidents",
+      "text": "Preparation Accidents d10 Accident 1–3 No accident. Preparations go smoothly. 4 The character learns another student is wearing the same costume as them. 5 Make",
+      "element": "table"
+    },
+    {
+      "id": "ArrivingattheMasquerade",
+      "text": "Arriving at the Masquerade",
+      "element": "h2"
+    },
+    {
+      "id": "MasqueradeGeneralFeatures",
+      "text": "Masquerade General Features",
+      "element": "h3"
+    },
+    {
+      "id": "MasqueradeEvents",
+      "text": "Masquerade Events",
+      "element": "h2"
+    },
+    {
+      "id": "imgspellmishaps",
+      "text": "From spell mishaps to pigment storms, plenty could go wrong the day of the Magister’s Masquerade",
+      "element": "figure"
+    },
+    {
+      "id": "GuessWho",
+      "text": "Guess Who?",
+      "element": "h3"
+    },
+    {
+      "id": "WelcomingAnnouncement",
+      "text": "Welcoming Announcement",
+      "element": "h3"
+    },
+    {
+      "id": "FurtherSuspicions",
+      "text": "Further Suspicions",
+      "element": "h3"
+    },
+    {
+      "id": "MasqueradeFestivities",
+      "text": "Masquerade Festivities",
+      "element": "h3"
+    },
+    {
+      "id": "MasqueradeDevelopments",
+      "text": "Masquerade Developments d8 Event 1 A student approaches the character and asks them to dance. The student reveals their feelings, those of another student, or s",
+      "element": "table"
+    },
+    {
+      "id": "KollemasWisdom",
+      "text": "Kollema’s Wisdom",
+      "element": "h3"
+    },
+    {
+      "id": "TheMasqueradesConclusion",
+      "text": "The Masquerade’s Conclusion",
+      "element": "h2"
+    },
+    {
+      "id": "MidnightatLorehold",
+      "text": "Midnight at Lorehold",
+      "element": "h2"
+    },
+    {
+      "id": "LoreholdDeansWing",
+      "text": "Lorehold Deans’ Wing",
+      "element": "h3"
+    },
+    {
+      "id": "LoreholdDeansWingFeatures",
+      "text": "Lorehold Deans’ Wing Features",
+      "element": "h4"
+    },
+    {
+      "id": "LoreholdDeansWingLocations",
+      "text": "Lorehold Deans’ Wing Locations",
+      "element": "h3"
+    },
+    {
+      "id": "Map53loreholddeanswing",
+      "text": "Map 5.3: lorehold deans wing View Player Version",
+      "element": "figure"
+    },
+    {
+      "id": "L1MainHall",
+      "text": "L1. Main Hall",
+      "element": "h4"
+    },
+    {
+      "id": "L2AdministrativeOffice",
+      "text": "L2. Administrative Office",
+      "element": "h4"
+    },
+    {
+      "id": "L3Porch",
+      "text": "L3. Porch",
+      "element": "h4"
+    },
+    {
+      "id": "L4RecordsRoom",
+      "text": "L4. Records Room",
+      "element": "h4"
+    },
+    {
+      "id": "L5RestrictedRecordsRoom",
+      "text": "L5. Restricted Records Room",
+      "element": "h4"
+    },
+    {
+      "id": "L6DeansReceptionRoom",
+      "text": "L6. Deans’ Reception Room",
+      "element": "h4"
+    },
+    {
+      "id": "L7DeanPlarggsOffice",
+      "text": "L7. Dean Plargg’s Office",
+      "element": "h4"
+    },
+    {
+      "id": "imgguardians",
+      "text": "Ancient guardians defend the Deans’ Wing from intruders",
+      "element": "figure"
+    },
+    {
+      "id": "L8DeanTullussOffice",
+      "text": "L8. Dean Tullus’s Office",
+      "element": "h4"
+    },
+    {
+      "id": "L9DeansRecordsRoom",
+      "text": "L9. Deans’ Records Room",
+      "element": "h4"
+    },
+    {
+      "id": "FacingtheDean",
+      "text": "Facing the Dean",
+      "element": "h3"
+    },
+    {
+      "id": "Map54deansrepository",
+      "text": "Map 5.4: deans repository View Player Version",
+      "element": "figure"
+    },
+    {
+      "id": "DeansRepository",
+      "text": "Deans’ Repository",
+      "element": "h4"
+    },
+    {
+      "id": "MurgaxorManifests",
+      "text": "Murgaxor Manifests",
+      "element": "h3"
+    },
+    {
+      "id": "MurgaxorAttacks",
+      "text": "Murgaxor Attacks",
+      "element": "h3"
+    },
+    {
+      "id": "Aftermath1",
+      "text": "Aftermath",
+      "element": "h2"
+    },
+    {
+      "id": "imgfromdifferentcolleges",
+      "text": "Students from different colleges working together are strongerthan they would be alone—a lesson often learned by year’s end",
+      "element": "figure"
+    },
+    {
+      "id": "AThreatReturns",
+      "text": "A Threat Returns",
+      "element": "h3"
+    },
+    {
+      "id": "TheYearsEnd",
+      "text": "The Year’s End",
+      "element": "h3"
+    },
+    {
+      "id": "Advanceto8thLevel",
+      "text": "Advance to 8th Level!",
+      "element": "h2"
+    }
+  ],
+  "transformations": [
+    "Selected the first .p-article-content element.",
+    "Removed scripts, styles, forms, iframes, hidden duplicate labels, and source navigation.",
+    "Removed event handlers and D&D Beyond content-chunk identifiers.",
+    "Rewrote archived sourcebook links to generated reader routes when a local target exists.",
+    "Added lazy image loading and asynchronous decoding hints.",
+    "Added derived IDs to read-aloud, rules, table, and stat-block elements for session navigation.",
+    "Indexed player-version map links as derived session metadata.",
+    "Preserved source wording and original heading IDs; derived metadata remains separate."
+  ],
+  "repairs": []
+}

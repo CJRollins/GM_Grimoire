@@ -1,0 +1,67 @@
+{
+  "title": "Campus Map",
+  "sourcebook": "Strixhaven: A Curriculum of Chaos",
+  "bookSlug": "strixhaven-a-curriculum-of-chaos",
+  "world": "Arcavios",
+  "edition": "2014 rules",
+  "chapter": "Campus Map",
+  "chapterNumber": null,
+  "order": 0,
+  "navGroup": "Reference",
+  "kind": "map",
+  "audience": "both",
+  "slug": "strixhaven-campus-map",
+  "chapterSlug": "campus-map",
+  "summary": "",
+  "wordCount": 2,
+  "originalPath": "Arcavios/Stixhaven/Campus Map.html",
+  "rawUrl": "/archive/strixhaven/Campus%20Map.html",
+  "originalAnchors": [
+    {
+      "id": "CampusMap",
+      "text": "Campus Map",
+      "element": "h1"
+    },
+    {
+      "id": "comp-next-nav",
+      "text": "",
+      "element": "div"
+    },
+    {
+      "id": "Mapcampusmap",
+      "text": "",
+      "element": "figure"
+    }
+  ],
+  "sourceHash": "5f5447f27bca8250d0117823e4dc76cef0891f998acf6587c75442e91f6e744f",
+  "extractionDate": "2026-07-13T07:40:57.647Z",
+  "extractionVersion": 3,
+  "headings": [
+    {
+      "depth": 1,
+      "id": "CampusMap",
+      "text": "Campus Map"
+    }
+  ],
+  "tags": {
+    "creatures": [],
+    "spells": [],
+    "items": [],
+    "locations": [],
+    "npcs": [],
+    "topics": [
+      "campus-life",
+      "map"
+    ]
+  },
+  "session": {
+    "readAloud": [],
+    "rules": [],
+    "tables": [],
+    "statBlocks": [],
+    "maps": [],
+    "quickLinks": []
+  },
+  "anomalyFlags": [],
+  "contentHtml": "<h1 class=\"compendium-hr\" id=\"CampusMap\">Campus Map</h1>\n\n<figure id=\"Mapcampusmap\" class=\"compendium-image Misc--Dropshadow\">\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/strixhaven-campus-map.jpg\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/strixhaven-campus-map.jpg\" class=\"ddb-lightbox-inner\" style=\"width: 650px;\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a></figure>"
+}

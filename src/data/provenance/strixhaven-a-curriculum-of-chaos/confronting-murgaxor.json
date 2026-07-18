@@ -1,0 +1,108 @@
+{
+  "title": "Confronting Murgaxor",
+  "sourcebook": "Strixhaven: A Curriculum of Chaos",
+  "bookSlug": "strixhaven-a-curriculum-of-chaos",
+  "originalPath": "Arcavios/Stixhaven/Chapter 17 - Confronting Murgaxor.html",
+  "rawUrl": "/archive/strixhaven/Chapter%2017%20-%20Confronting%20Murgaxor.html",
+  "sourceHash": "0e255d0bf341130ace26e8bd20ae4a5f550411f4bb0b386f762461e9a7be0edc",
+  "extractionDate": "2026-07-13T07:40:57.647Z",
+  "extractionVersion": 3,
+  "originalAnchors": [
+    {
+      "id": "ConfrontingMurgaxor",
+      "text": "Confronting Murgaxor",
+      "element": "h1"
+    },
+    {
+      "id": "comp-next-nav",
+      "text": "",
+      "element": "div"
+    },
+    {
+      "id": "RitualStones",
+      "text": "Ritual Stones",
+      "element": "h2"
+    },
+    {
+      "id": "imgruinsofcaerdoonhold",
+      "text": "The Ruins of Caerdoon hold many remnants of ancient warfare",
+      "element": "figure"
+    },
+    {
+      "id": "BasementFeatures",
+      "text": "Basement Features",
+      "element": "h2"
+    },
+    {
+      "id": "LocationsintheBasement",
+      "text": "Locations in the Basement",
+      "element": "h2"
+    },
+    {
+      "id": "Map65fortressofcaerdoonbasement",
+      "text": "Map 6.5: fortress of caerdoon basement View Player Version",
+      "element": "figure"
+    },
+    {
+      "id": "M1CentralChamber",
+      "text": "M1. Central Chamber",
+      "element": "h3"
+    },
+    {
+      "id": "M2MunitionStorage",
+      "text": "M2. Munition Storage",
+      "element": "h3"
+    },
+    {
+      "id": "M3BrokenElevator",
+      "text": "M3. Broken Elevator",
+      "element": "h3"
+    },
+    {
+      "id": "M4RuinedStorage",
+      "text": "M4. Ruined Storage",
+      "element": "h3"
+    },
+    {
+      "id": "M5Armory",
+      "text": "M5. Armory",
+      "element": "h3"
+    },
+    {
+      "id": "M6ImmortalityRitual",
+      "text": "M6. Immortality Ritual",
+      "element": "h3"
+    },
+    {
+      "id": "StoppingtheRitual",
+      "text": "Stopping the Ritual",
+      "element": "h3"
+    },
+    {
+      "id": "HeroesofStrixhaven",
+      "text": "Heroes of Strixhaven",
+      "element": "h2"
+    },
+    {
+      "id": "imgmembers",
+      "text": "Strixhaven’s faculty members celebrate the characters’ victory over Murgaxor",
+      "element": "figure"
+    },
+    {
+      "id": "FailingtoStoptheRitual",
+      "text": "Failing to Stop the Ritual",
+      "element": "h2"
+    }
+  ],
+  "transformations": [
+    "Selected the first .p-article-content element.",
+    "Removed scripts, styles, forms, iframes, hidden duplicate labels, and source navigation.",
+    "Removed event handlers and D&D Beyond content-chunk identifiers.",
+    "Rewrote archived sourcebook links to generated reader routes when a local target exists.",
+    "Added lazy image loading and asynchronous decoding hints.",
+    "Added derived IDs to read-aloud, rules, table, and stat-block elements for session navigation.",
+    "Indexed player-version map links as derived session metadata.",
+    "Preserved source wording and original heading IDs; derived metadata remains separate."
+  ],
+  "repairs": []
+}

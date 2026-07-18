@@ -1,0 +1,228 @@
+{
+  "title": "Dangerous Knowledge",
+  "sourcebook": "Strixhaven: A Curriculum of Chaos",
+  "bookSlug": "strixhaven-a-curriculum-of-chaos",
+  "originalPath": "Arcavios/Stixhaven/Chapter 11 - Dangerous Knowledge.html",
+  "rawUrl": "/archive/strixhaven/Chapter%2011%20-%20Dangerous%20Knowledge.html",
+  "sourceHash": "5dae60f0aebb6ccb88da2c7d2c6c28e5f8eeb7f0bb7208e9112c71d3ab2eb496",
+  "extractionDate": "2026-07-13T07:40:57.647Z",
+  "extractionVersion": 3,
+  "originalAnchors": [
+    {
+      "id": "DangerousKnowledge",
+      "text": "Dangerous Knowledge",
+      "element": "h1"
+    },
+    {
+      "id": "comp-next-nav",
+      "text": "",
+      "element": "div"
+    },
+    {
+      "id": "imgprecision",
+      "text": "Precision is key. Saying “books on mage hunters” isn’t the same as saying “books about mage hunters”",
+      "element": "figure"
+    },
+    {
+      "id": "ScriptoriaCollections",
+      "text": "Scriptoria Collections",
+      "element": "h2"
+    },
+    {
+      "id": "ScriptoriaCollectionsFeatures",
+      "text": "Scriptoria Collections Features",
+      "element": "h3"
+    },
+    {
+      "id": "Map43scriptoriacollections",
+      "text": "Map 4.3: scriptoria collections View Player Version",
+      "element": "figure"
+    },
+    {
+      "id": "SeekingtheProfessorsTome",
+      "text": "Seeking the Professor’s Tome",
+      "element": "h3"
+    },
+    {
+      "id": "MageHunters",
+      "text": "Mage Hunters",
+      "element": "h4"
+    },
+    {
+      "id": "QuenthornesHistory",
+      "text": "Quenthorne’s History",
+      "element": "h4"
+    },
+    {
+      "id": "IsThatAstrolabeBreathing",
+      "text": "Is That Astrolabe Breathing?",
+      "element": "h3"
+    },
+    {
+      "id": "ExaminingtheScene1",
+      "text": "Examining the Scene",
+      "element": "h4"
+    },
+    {
+      "id": "DeliveringtheProfessorsTome",
+      "text": "Delivering the Professor’s Tome",
+      "element": "h3"
+    },
+    {
+      "id": "ScriveningandSymbologyExamAugury",
+      "text": "Scrivening and Symbology Exam: Augury",
+      "element": "h2"
+    },
+    {
+      "id": "StudyingPhase2",
+      "text": "Studying Phase",
+      "element": "h3"
+    },
+    {
+      "id": "TestingPhase2",
+      "text": "Testing Phase",
+      "element": "h3"
+    },
+    {
+      "id": "TellUsInSong",
+      "text": "Tell Us In Song!",
+      "element": "h2"
+    },
+    {
+      "id": "imgsong",
+      "text": "Some students live for performing and burst into song",
+      "element": "figure"
+    },
+    {
+      "id": "TheOpposingTeam",
+      "text": "The Opposing Team",
+      "element": "h3"
+    },
+    {
+      "id": "ItsaSingoff",
+      "text": "It’s a Sing-off!",
+      "element": "h3"
+    },
+    {
+      "id": "TheSingOff",
+      "text": "The Sing-Off",
+      "element": "h4"
+    },
+    {
+      "id": "DeterminingtheWinner",
+      "text": "Determining the Winner",
+      "element": "h4"
+    },
+    {
+      "id": "TheCrowdScatters",
+      "text": "The Crowd Scatters",
+      "element": "h4"
+    },
+    {
+      "id": "RelationshipEncounter2",
+      "text": "Relationship Encounter",
+      "element": "h4"
+    },
+    {
+      "id": "BattleofStrixhaven",
+      "text": "Battle of Strixhaven",
+      "element": "h2"
+    },
+    {
+      "id": "StrixhavenStadiumLocations",
+      "text": "Strixhaven Stadium Locations",
+      "element": "h3"
+    },
+    {
+      "id": "Map44strixhavenstadium",
+      "text": "Map 4.4: strixhaven stadium View Player Version",
+      "element": "figure"
+    },
+    {
+      "id": "X1StrixhavenField",
+      "text": "X1. Strixhaven Field",
+      "element": "h4"
+    },
+    {
+      "id": "X2LockerRoom",
+      "text": "X2. Locker Room",
+      "element": "h4"
+    },
+    {
+      "id": "BeforetheBattle",
+      "text": "Before the Battle",
+      "element": "h3"
+    },
+    {
+      "id": "TheBattleBegins",
+      "text": "The Battle Begins",
+      "element": "h3"
+    },
+    {
+      "id": "ResolvingtheBattle",
+      "text": "Resolving the Battle",
+      "element": "h3"
+    },
+    {
+      "id": "battleofstrixhaven",
+      "text": "The Battle of Strixhaven is among the most storied events on campus.Games are often talked about for years after they’re played",
+      "element": "figure"
+    },
+    {
+      "id": "Phase1",
+      "text": "Phase 1",
+      "element": "h4"
+    },
+    {
+      "id": "Phase2",
+      "text": "Phase 2",
+      "element": "h4"
+    },
+    {
+      "id": "Phase3",
+      "text": "Phase 3",
+      "element": "h4"
+    },
+    {
+      "id": "UsingMagic",
+      "text": "Using Magic",
+      "element": "h4"
+    },
+    {
+      "id": "DecidingtheWinner",
+      "text": "Deciding the Winner",
+      "element": "h4"
+    },
+    {
+      "id": "ReturningtotheLockerRoom",
+      "text": "Returning to the Locker Room",
+      "element": "h3"
+    },
+    {
+      "id": "ExaminingtheMageHunters",
+      "text": "Examining the Mage Hunters",
+      "element": "h4"
+    },
+    {
+      "id": "EndoftheYear",
+      "text": "End of the Year",
+      "element": "h3"
+    },
+    {
+      "id": "Advanceto6thLevel",
+      "text": "Advance to 6th Level!",
+      "element": "h2"
+    }
+  ],
+  "transformations": [
+    "Selected the first .p-article-content element.",
+    "Removed scripts, styles, forms, iframes, hidden duplicate labels, and source navigation.",
+    "Removed event handlers and D&D Beyond content-chunk identifiers.",
+    "Rewrote archived sourcebook links to generated reader routes when a local target exists.",
+    "Added lazy image loading and asynchronous decoding hints.",
+    "Added derived IDs to read-aloud, rules, table, and stat-block elements for session navigation.",
+    "Indexed player-version map links as derived session metadata.",
+    "Preserved source wording and original heading IDs; derived metadata remains separate."
+  ],
+  "repairs": []
+}

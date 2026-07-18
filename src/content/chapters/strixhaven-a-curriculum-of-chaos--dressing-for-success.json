@@ -1,0 +1,1133 @@
+{
+  "title": "Dressing for Success",
+  "sourcebook": "Strixhaven: A Curriculum of Chaos",
+  "bookSlug": "strixhaven-a-curriculum-of-chaos",
+  "world": "Arcavios",
+  "edition": "2014 rules",
+  "chapter": "Dressing for Success",
+  "chapterNumber": 5,
+  "order": 13,
+  "navGroup": "Year Three",
+  "kind": "adventure",
+  "audience": "gm",
+  "slug": "strixhaven-dressing-for-success",
+  "chapterSlug": "dressing-for-success",
+  "summary": "Although the Magister’s Masquerade takes place late in the Strixhaven academic year, it occupies a significant place in the mind of many third-year students. To help students decide what to wear, the administration announces a theme for the masquerade and hos…",
+  "wordCount": 6048,
+  "originalPath": "Arcavios/Stixhaven/Chapter 13 - Dressing For Success.html",
+  "rawUrl": "/archive/strixhaven/Chapter%2013%20-%20Dressing%20For%20Success.html",
+  "originalAnchors": [
+    {
+      "id": "DressingforSuccess",
+      "text": "Dressing for Success",
+      "element": "h1"
+    },
+    {
+      "id": "comp-next-nav",
+      "text": "",
+      "element": "div"
+    },
+    {
+      "id": "TheMasqueradesTheme",
+      "text": "The Masquerade’s Theme",
+      "element": "h2"
+    },
+    {
+      "id": "HistoricalResearch",
+      "text": "Historical Research",
+      "element": "h3"
+    },
+    {
+      "id": "RecordsGap",
+      "text": "Records Gap",
+      "element": "h3"
+    },
+    {
+      "id": "FashionShowPreparations",
+      "text": "Fashion Show Preparations",
+      "element": "h3"
+    },
+    {
+      "id": "FashionShowTiming",
+      "text": "Fashion Show Timing",
+      "element": "h4"
+    },
+    {
+      "id": "FashionDesign",
+      "text": "Fashion Design",
+      "element": "h4"
+    },
+    {
+      "id": "imgandstyle",
+      "text": "Magic and style are on full displayat a Strixhaven fashion show",
+      "element": "figure"
+    },
+    {
+      "id": "FashionModeling",
+      "text": "Fashion Modeling",
+      "element": "h4"
+    },
+    {
+      "id": "TheFashionShow",
+      "text": "The Fashion Show",
+      "element": "h3"
+    },
+    {
+      "id": "FashionShowRumors",
+      "text": "Fashion Show Rumors",
+      "element": "h4"
+    },
+    {
+      "id": "FashionShowRumorsTable",
+      "text": "Fashion Show Rumors d6 Rumor 1 Another designer stole the student’s design and is trying to pass it off as their own work! 2 An alumni designer is here to watch",
+      "element": "table"
+    },
+    {
+      "id": "OntheRunway",
+      "text": "On the Runway",
+      "element": "h4"
+    },
+    {
+      "id": "FashionAuction",
+      "text": "Fashion Auction",
+      "element": "h4"
+    },
+    {
+      "id": "FashionatAuction",
+      "text": "Fashion at Auction Check Total Value Comparable Outfit 10–12 15 gp Leather suit with a self-tying tie 13–16 30 gp Violet ballgown with puffy sleeves 17–19 60 gp",
+      "element": "table"
+    },
+    {
+      "id": "RelationshipEncounter1",
+      "text": "Relationship Encounter",
+      "element": "h4"
+    },
+    {
+      "id": "FashionMontage",
+      "text": "Fashion Montage",
+      "element": "h3"
+    },
+    {
+      "id": "PartyPreparations",
+      "text": "Party Preparations",
+      "element": "h2"
+    },
+    {
+      "id": "SedgemoorHarvest",
+      "text": "Sedgemoor Harvest",
+      "element": "h3"
+    },
+    {
+      "id": "RandomEncountersintheBayou",
+      "text": "Random Encounters in the Bayou",
+      "element": "h4"
+    },
+    {
+      "id": "BayouEncounters",
+      "text": "Bayou Encounters d20 Encounter 1–4 No encounter 5–6 1 giant crocodile and 2 crocodiles 7–8 A rare tourmaline-coiffed woodpecker, which a student insists on stud",
+      "element": "table"
+    },
+    {
+      "id": "imgwhovisitsedgemoor",
+      "text": "Those who visit Sedgemoor are bound to discover its wondrous inhabitants and hidden mysteries",
+      "element": "figure"
+    },
+    {
+      "id": "BiblioplexSupplies",
+      "text": "Biblioplex Supplies",
+      "element": "h3"
+    },
+    {
+      "id": "TransportingtheSupplies",
+      "text": "Transporting the Supplies",
+      "element": "h4"
+    },
+    {
+      "id": "AdvancedArcaneHistoryExamDevices",
+      "text": "Advanced Arcane History Exam: Devices",
+      "element": "h2"
+    },
+    {
+      "id": "StudyingPhase1",
+      "text": "Studying Phase",
+      "element": "h3"
+    },
+    {
+      "id": "TestingPhase1",
+      "text": "Testing Phase",
+      "element": "h3"
+    },
+    {
+      "id": "Cheating",
+      "text": "Cheating",
+      "element": "h4"
+    },
+    {
+      "id": "CostumeDesigns",
+      "text": "Costume Designs",
+      "element": "h4"
+    },
+    {
+      "id": "FollowingUpontheDean",
+      "text": "Following Up on the Dean",
+      "element": "h3"
+    },
+    {
+      "id": "Suspicions",
+      "text": "Suspicions",
+      "element": "h2"
+    },
+    {
+      "id": "DeanTullusRumors",
+      "text": "Dean Tullus Rumors d4 Rumor 1 It seems like Dean Tullus is always working—she rarely leaves her office. 2 The dean is rarely seen without a relic from her recen",
+      "element": "table"
+    },
+    {
+      "id": "FancyingUpFootwork",
+      "text": "Fancying Up Footwork",
+      "element": "h2"
+    },
+    {
+      "id": "imgordance",
+      "text": "Whether learning magic or dance,Strixhaven students throw themselvesinto their studies with zeal",
+      "element": "figure"
+    },
+    {
+      "id": "DancewithMe",
+      "text": "Dance with Me?",
+      "element": "h3"
+    },
+    {
+      "id": "DancePartnerQuirks",
+      "text": "Dance Partner Quirks d6 The Character’s Partner… 1 Is already a fantastic dancer. 2 Treats a dance like a competitive, full-contact sport. 3 Is shy or embarrass",
+      "element": "table"
+    },
+    {
+      "id": "RelationshipEncounter2",
+      "text": "Relationship Encounter",
+      "element": "h4"
+    },
+    {
+      "id": "PreparingtheHall",
+      "text": "Preparing the Hall",
+      "element": "h2"
+    },
+    {
+      "id": "KollemaHallFeatures",
+      "text": "Kollema Hall Features",
+      "element": "h3"
+    },
+    {
+      "id": "KollemaHallLocations",
+      "text": "Kollema Hall Locations",
+      "element": "h3"
+    },
+    {
+      "id": "Map52kollemahall",
+      "text": "Map 5.2: kollema hall View Player Version",
+      "element": "figure"
+    },
+    {
+      "id": "K1SerenityQuadrants",
+      "text": "K1. Serenity Quadrants",
+      "element": "h4"
+    },
+    {
+      "id": "K2WiseKollema",
+      "text": "K2. Wise Kollema",
+      "element": "h4"
+    },
+    {
+      "id": "K3DemonstrationStage",
+      "text": "K3. Demonstration Stage",
+      "element": "h4"
+    },
+    {
+      "id": "K4SecondFloorStudy",
+      "text": "K4. Second-Floor Study",
+      "element": "h4"
+    },
+    {
+      "id": "K5InfirmaryIntake",
+      "text": "K5. Infirmary Intake",
+      "element": "h4"
+    },
+    {
+      "id": "K6InfirmaryHall",
+      "text": "K6. Infirmary Hall",
+      "element": "h4"
+    },
+    {
+      "id": "K7Sickroom",
+      "text": "K7. Sickroom",
+      "element": "h4"
+    },
+    {
+      "id": "MasqueradePreparations",
+      "text": "Masquerade Preparations",
+      "element": "h3"
+    },
+    {
+      "id": "KollemaHallAccidents",
+      "text": "Kollema Hall Accidents d10 Event 1–4 No Event 5 Archivist Attack 6 Firebreak 7 Get Me Down 8 Look Out 9–10 Sick Leave",
+      "element": "table"
+    },
+    {
+      "id": "ArchivistAttack",
+      "text": "Archivist Attack",
+      "element": "h4"
+    },
+    {
+      "id": "Firebreak",
+      "text": "Firebreak",
+      "element": "h4"
+    },
+    {
+      "id": "GetMeDown",
+      "text": "Get Me Down",
+      "element": "h4"
+    },
+    {
+      "id": "LookOut",
+      "text": "Look Out",
+      "element": "h4"
+    },
+    {
+      "id": "SickLeave",
+      "text": "Sick Leave",
+      "element": "h4"
+    },
+    {
+      "id": "WakingNightmares",
+      "text": "Waking Nightmares",
+      "element": "h3"
+    },
+    {
+      "id": "EndingthePanic",
+      "text": "Ending the Panic",
+      "element": "h4"
+    },
+    {
+      "id": "InvestigatingthePanic",
+      "text": "Investigating the Panic",
+      "element": "h3"
+    },
+    {
+      "id": "InvestigatingBowsEnd",
+      "text": "Investigating Bow’s End",
+      "element": "h4"
+    },
+    {
+      "id": "TalkingtotheDean",
+      "text": "Talking to the Dean",
+      "element": "h4"
+    },
+    {
+      "id": "Advanceto7thLevel",
+      "text": "Advance to 7th Level!",
+      "element": "h2"
+    },
+    {
+      "id": "AdvancedArcaneHistoryExamUnearthedArcana",
+      "text": "Advanced Arcane History Exam: Unearthed Arcana",
+      "element": "h2"
+    },
+    {
+      "id": "StudyingPhase2",
+      "text": "Studying Phase",
+      "element": "h3"
+    },
+    {
+      "id": "TestingPhase2",
+      "text": "Testing Phase",
+      "element": "h3"
+    },
+    {
+      "id": "Cheating1",
+      "text": "Cheating",
+      "element": "h4"
+    }
+  ],
+  "sourceHash": "9b17b561865e7b0438c78e02b6a4e8ef93f74a941d5cc4c1a2d960009d3b6375",
+  "extractionDate": "2026-07-13T07:40:57.647Z",
+  "extractionVersion": 3,
+  "headings": [
+    {
+      "depth": 1,
+      "id": "DressingforSuccess",
+      "text": "Dressing for Success"
+    },
+    {
+      "depth": 2,
+      "id": "TheMasqueradesTheme",
+      "text": "The Masquerade’s Theme"
+    },
+    {
+      "depth": 3,
+      "id": "HistoricalResearch",
+      "text": "Historical Research"
+    },
+    {
+      "depth": 3,
+      "id": "RecordsGap",
+      "text": "Records Gap"
+    },
+    {
+      "depth": 3,
+      "id": "FashionShowPreparations",
+      "text": "Fashion Show Preparations"
+    },
+    {
+      "depth": 4,
+      "id": "FashionShowTiming",
+      "text": "Fashion Show Timing"
+    },
+    {
+      "depth": 4,
+      "id": "FashionDesign",
+      "text": "Fashion Design"
+    },
+    {
+      "depth": 4,
+      "id": "FashionModeling",
+      "text": "Fashion Modeling"
+    },
+    {
+      "depth": 3,
+      "id": "TheFashionShow",
+      "text": "The Fashion Show"
+    },
+    {
+      "depth": 4,
+      "id": "FashionShowRumors",
+      "text": "Fashion Show Rumors"
+    },
+    {
+      "depth": 4,
+      "id": "OntheRunway",
+      "text": "On the Runway"
+    },
+    {
+      "depth": 4,
+      "id": "FashionAuction",
+      "text": "Fashion Auction"
+    },
+    {
+      "depth": 4,
+      "id": "RelationshipEncounter1",
+      "text": "Relationship Encounter"
+    },
+    {
+      "depth": 3,
+      "id": "FashionMontage",
+      "text": "Fashion Montage"
+    },
+    {
+      "depth": 2,
+      "id": "PartyPreparations",
+      "text": "Party Preparations"
+    },
+    {
+      "depth": 3,
+      "id": "SedgemoorHarvest",
+      "text": "Sedgemoor Harvest"
+    },
+    {
+      "depth": 4,
+      "id": "RandomEncountersintheBayou",
+      "text": "Random Encounters in the Bayou"
+    },
+    {
+      "depth": 3,
+      "id": "BiblioplexSupplies",
+      "text": "Biblioplex Supplies"
+    },
+    {
+      "depth": 4,
+      "id": "TransportingtheSupplies",
+      "text": "Transporting the Supplies"
+    },
+    {
+      "depth": 2,
+      "id": "AdvancedArcaneHistoryExamDevices",
+      "text": "Advanced Arcane History Exam: Devices"
+    },
+    {
+      "depth": 3,
+      "id": "StudyingPhase1",
+      "text": "Studying Phase"
+    },
+    {
+      "depth": 3,
+      "id": "TestingPhase1",
+      "text": "Testing Phase"
+    },
+    {
+      "depth": 4,
+      "id": "Cheating",
+      "text": "Cheating"
+    },
+    {
+      "depth": 4,
+      "id": "CostumeDesigns",
+      "text": "Costume Designs"
+    },
+    {
+      "depth": 3,
+      "id": "FollowingUpontheDean",
+      "text": "Following Up on the Dean"
+    },
+    {
+      "depth": 2,
+      "id": "Suspicions",
+      "text": "Suspicions"
+    },
+    {
+      "depth": 2,
+      "id": "FancyingUpFootwork",
+      "text": "Fancying Up Footwork"
+    },
+    {
+      "depth": 3,
+      "id": "DancewithMe",
+      "text": "Dance with Me?"
+    },
+    {
+      "depth": 4,
+      "id": "RelationshipEncounter2",
+      "text": "Relationship Encounter"
+    },
+    {
+      "depth": 2,
+      "id": "PreparingtheHall",
+      "text": "Preparing the Hall"
+    },
+    {
+      "depth": 3,
+      "id": "KollemaHallFeatures",
+      "text": "Kollema Hall Features"
+    },
+    {
+      "depth": 3,
+      "id": "KollemaHallLocations",
+      "text": "Kollema Hall Locations"
+    },
+    {
+      "depth": 4,
+      "id": "K1SerenityQuadrants",
+      "text": "K1. Serenity Quadrants"
+    },
+    {
+      "depth": 4,
+      "id": "K2WiseKollema",
+      "text": "K2. Wise Kollema"
+    },
+    {
+      "depth": 4,
+      "id": "K3DemonstrationStage",
+      "text": "K3. Demonstration Stage"
+    },
+    {
+      "depth": 4,
+      "id": "K4SecondFloorStudy",
+      "text": "K4. Second-Floor Study"
+    },
+    {
+      "depth": 4,
+      "id": "K5InfirmaryIntake",
+      "text": "K5. Infirmary Intake"
+    },
+    {
+      "depth": 4,
+      "id": "K6InfirmaryHall",
+      "text": "K6. Infirmary Hall"
+    },
+    {
+      "depth": 4,
+      "id": "K7Sickroom",
+      "text": "K7. Sickroom"
+    },
+    {
+      "depth": 3,
+      "id": "MasqueradePreparations",
+      "text": "Masquerade Preparations"
+    },
+    {
+      "depth": 4,
+      "id": "ArchivistAttack",
+      "text": "Archivist Attack"
+    },
+    {
+      "depth": 4,
+      "id": "Firebreak",
+      "text": "Firebreak"
+    },
+    {
+      "depth": 4,
+      "id": "GetMeDown",
+      "text": "Get Me Down"
+    },
+    {
+      "depth": 4,
+      "id": "LookOut",
+      "text": "Look Out"
+    },
+    {
+      "depth": 4,
+      "id": "SickLeave",
+      "text": "Sick Leave"
+    },
+    {
+      "depth": 3,
+      "id": "WakingNightmares",
+      "text": "Waking Nightmares"
+    },
+    {
+      "depth": 4,
+      "id": "EndingthePanic",
+      "text": "Ending the Panic"
+    },
+    {
+      "depth": 3,
+      "id": "InvestigatingthePanic",
+      "text": "Investigating the Panic"
+    },
+    {
+      "depth": 4,
+      "id": "InvestigatingBowsEnd",
+      "text": "Investigating Bow’s End"
+    },
+    {
+      "depth": 4,
+      "id": "TalkingtotheDean",
+      "text": "Talking to the Dean"
+    },
+    {
+      "depth": 2,
+      "id": "Advanceto7thLevel",
+      "text": "Advance to 7th Level!"
+    },
+    {
+      "depth": 2,
+      "id": "AdvancedArcaneHistoryExamUnearthedArcana",
+      "text": "Advanced Arcane History Exam: Unearthed Arcana"
+    },
+    {
+      "depth": 3,
+      "id": "StudyingPhase2",
+      "text": "Studying Phase"
+    },
+    {
+      "depth": 3,
+      "id": "TestingPhase2",
+      "text": "Testing Phase"
+    },
+    {
+      "depth": 4,
+      "id": "Cheating1",
+      "text": "Cheating"
+    }
+  ],
+  "tags": {
+    "creatures": [
+      "blue slaad",
+      "cogwork archivists",
+      "commoner",
+      "crocodiles",
+      "djinni",
+      "giant crocodile",
+      "green hag",
+      "lizardfolk shamans",
+      "Lorehold pledgemages",
+      "Lorehold professor of chaos",
+      "Lorehold professor of order",
+      "shambling mounds",
+      "troll"
+    ],
+    "spells": [
+      "arcane lock",
+      "continual flame"
+    ],
+    "items": [
+      "Masque charms",
+      "Murgaxor’s orb"
+    ],
+    "locations": [
+      "Biblioplex",
+      "Bow’s End Tavern",
+      "Demonstration Stage",
+      "Infirmary Hall",
+      "Infirmary Intake",
+      "Kollema Hall",
+      "Lorehold",
+      "Rose Stage",
+      "Second-Floor Study",
+      "Sedgemoor",
+      "Serenity Quadrants",
+      "Sickroom",
+      "Silverquill",
+      "Strixhaven",
+      "Wise Kollema",
+      "Witherbloom"
+    ],
+    "npcs": [],
+    "topics": [
+      "adventure",
+      "campus-life",
+      "exams",
+      "gm-tools",
+      "read-aloud",
+      "relationships",
+      "tables"
+    ]
+  },
+  "session": {
+    "readAloud": [
+      {
+        "id": "session-read-aloud-1",
+        "label": "Read aloud 1",
+        "excerpt": "Shimmering lights and soft music drift across the Rose Stage and the surrounding seating as well-dressed students, professors, and alumni guests mingle. Behind the runway, student…"
+      },
+      {
+        "id": "session-read-aloud-2",
+        "label": "Read aloud 2",
+        "excerpt": "The hum of conversation, awkward laughter, and the sound of shuffling feet meet you as you approach the Rose Stage on Silverquill’s campus. Upon the polished stage mill dozens of …"
+      }
+    ],
+    "rules": [],
+    "tables": [
+      {
+        "id": "FashionShowRumorsTable",
+        "label": "Fashion Show Rumors",
+        "excerpt": "Fashion Show Rumors d6 Rumor 1 Another designer stole the student’s design and is trying to pass it off as their own work! 2 An alumni designer is here to watch and recruit models…"
+      },
+      {
+        "id": "FashionatAuction",
+        "label": "Fashion at Auction",
+        "excerpt": "Fashion at Auction Check Total Value Comparable Outfit 10–12 15 gp Leather suit with a self-tying tie 13–16 30 gp Violet ballgown with puffy sleeves 17–19 60 gp Sleek tailcoat wit…"
+      },
+      {
+        "id": "BayouEncounters",
+        "label": "Bayou Encounters",
+        "excerpt": "Bayou Encounters d20 Encounter 1–4 No encounter 5–6 1 giant crocodile and 2 crocodiles 7–8 A rare tourmaline-coiffed woodpecker, which a student insists on studying, adding 1 hour…"
+      },
+      {
+        "id": "DeanTullusRumors",
+        "label": "Dean Tullus Rumors",
+        "excerpt": "Dean Tullus Rumors d4 Rumor 1 It seems like Dean Tullus is always working—she rarely leaves her office. 2 The dean is rarely seen without a relic from her recent expedition to the…"
+      },
+      {
+        "id": "DancePartnerQuirks",
+        "label": "Dance Partner Quirks",
+        "excerpt": "Dance Partner Quirks d6 The Character’s Partner… 1 Is already a fantastic dancer. 2 Treats a dance like a competitive, full-contact sport. 3 Is shy or embarrassed, giggling uncont…"
+      },
+      {
+        "id": "KollemaHallAccidents",
+        "label": "Kollema Hall Accidents",
+        "excerpt": "Kollema Hall Accidents d10 Event 1–4 No Event 5 Archivist Attack 6 Firebreak 7 Get Me Down 8 Look Out 9–10 Sick Leave"
+      }
+    ],
+    "statBlocks": [],
+    "maps": [
+      {
+        "id": "session-player-map-1",
+        "label": "Map 5.2: kollema hall",
+        "dmUrl": "https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/map-5.2-kollema-hall.jpg",
+        "playerUrl": "https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/map-5.2-kollema-hall-player.jpg"
+      }
+    ],
+    "quickLinks": [
+      {
+        "depth": 2,
+        "id": "TheMasqueradesTheme",
+        "text": "The Masquerade’s Theme",
+        "type": "scene"
+      },
+      {
+        "depth": 3,
+        "id": "HistoricalResearch",
+        "text": "Historical Research",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "RecordsGap",
+        "text": "Records Gap",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "FashionShowPreparations",
+        "text": "Fashion Show Preparations",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "FashionShowTiming",
+        "text": "Fashion Show Timing",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "FashionDesign",
+        "text": "Fashion Design",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "FashionModeling",
+        "text": "Fashion Modeling",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "TheFashionShow",
+        "text": "The Fashion Show",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "FashionShowRumors",
+        "text": "Fashion Show Rumors",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "OntheRunway",
+        "text": "On the Runway",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "FashionAuction",
+        "text": "Fashion Auction",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "RelationshipEncounter1",
+        "text": "Relationship Encounter",
+        "type": "relationship"
+      },
+      {
+        "depth": 3,
+        "id": "FashionMontage",
+        "text": "Fashion Montage",
+        "type": "reference"
+      },
+      {
+        "depth": 2,
+        "id": "PartyPreparations",
+        "text": "Party Preparations",
+        "type": "scene"
+      },
+      {
+        "depth": 3,
+        "id": "SedgemoorHarvest",
+        "text": "Sedgemoor Harvest",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "RandomEncountersintheBayou",
+        "text": "Random Encounters in the Bayou",
+        "type": "encounter"
+      },
+      {
+        "depth": 3,
+        "id": "BiblioplexSupplies",
+        "text": "Biblioplex Supplies",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "TransportingtheSupplies",
+        "text": "Transporting the Supplies",
+        "type": "reference"
+      },
+      {
+        "depth": 2,
+        "id": "AdvancedArcaneHistoryExamDevices",
+        "text": "Advanced Arcane History Exam: Devices",
+        "type": "exam"
+      },
+      {
+        "depth": 3,
+        "id": "StudyingPhase1",
+        "text": "Studying Phase",
+        "type": "exam"
+      },
+      {
+        "depth": 3,
+        "id": "TestingPhase1",
+        "text": "Testing Phase",
+        "type": "exam"
+      },
+      {
+        "depth": 4,
+        "id": "Cheating",
+        "text": "Cheating",
+        "type": "exam"
+      },
+      {
+        "depth": 4,
+        "id": "CostumeDesigns",
+        "text": "Costume Designs",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "FollowingUpontheDean",
+        "text": "Following Up on the Dean",
+        "type": "reference"
+      },
+      {
+        "depth": 2,
+        "id": "Suspicions",
+        "text": "Suspicions",
+        "type": "scene"
+      },
+      {
+        "depth": 2,
+        "id": "FancyingUpFootwork",
+        "text": "Fancying Up Footwork",
+        "type": "scene"
+      },
+      {
+        "depth": 3,
+        "id": "DancewithMe",
+        "text": "Dance with Me?",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "RelationshipEncounter2",
+        "text": "Relationship Encounter",
+        "type": "relationship"
+      },
+      {
+        "depth": 2,
+        "id": "PreparingtheHall",
+        "text": "Preparing the Hall",
+        "type": "scene"
+      },
+      {
+        "depth": 3,
+        "id": "KollemaHallFeatures",
+        "text": "Kollema Hall Features",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "KollemaHallLocations",
+        "text": "Kollema Hall Locations",
+        "type": "location"
+      },
+      {
+        "depth": 4,
+        "id": "K1SerenityQuadrants",
+        "text": "K1. Serenity Quadrants",
+        "type": "location"
+      },
+      {
+        "depth": 4,
+        "id": "K2WiseKollema",
+        "text": "K2. Wise Kollema",
+        "type": "location"
+      },
+      {
+        "depth": 4,
+        "id": "K3DemonstrationStage",
+        "text": "K3. Demonstration Stage",
+        "type": "location"
+      },
+      {
+        "depth": 4,
+        "id": "K4SecondFloorStudy",
+        "text": "K4. Second-Floor Study",
+        "type": "location"
+      },
+      {
+        "depth": 4,
+        "id": "K5InfirmaryIntake",
+        "text": "K5. Infirmary Intake",
+        "type": "location"
+      },
+      {
+        "depth": 4,
+        "id": "K6InfirmaryHall",
+        "text": "K6. Infirmary Hall",
+        "type": "location"
+      },
+      {
+        "depth": 4,
+        "id": "K7Sickroom",
+        "text": "K7. Sickroom",
+        "type": "location"
+      },
+      {
+        "depth": 3,
+        "id": "MasqueradePreparations",
+        "text": "Masquerade Preparations",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "ArchivistAttack",
+        "text": "Archivist Attack",
+        "type": "encounter"
+      },
+      {
+        "depth": 4,
+        "id": "Firebreak",
+        "text": "Firebreak",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "GetMeDown",
+        "text": "Get Me Down",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "LookOut",
+        "text": "Look Out",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "SickLeave",
+        "text": "Sick Leave",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "WakingNightmares",
+        "text": "Waking Nightmares",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "EndingthePanic",
+        "text": "Ending the Panic",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "InvestigatingthePanic",
+        "text": "Investigating the Panic",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "InvestigatingBowsEnd",
+        "text": "Investigating Bow’s End",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "TalkingtotheDean",
+        "text": "Talking to the Dean",
+        "type": "reference"
+      },
+      {
+        "depth": 2,
+        "id": "Advanceto7thLevel",
+        "text": "Advance to 7th Level!",
+        "type": "scene"
+      },
+      {
+        "depth": 2,
+        "id": "AdvancedArcaneHistoryExamUnearthedArcana",
+        "text": "Advanced Arcane History Exam: Unearthed Arcana",
+        "type": "exam"
+      },
+      {
+        "depth": 3,
+        "id": "StudyingPhase2",
+        "text": "Studying Phase",
+        "type": "exam"
+      },
+      {
+        "depth": 3,
+        "id": "TestingPhase2",
+        "text": "Testing Phase",
+        "type": "exam"
+      },
+      {
+        "depth": 4,
+        "id": "Cheating1",
+        "text": "Cheating",
+        "type": "exam"
+      }
+    ]
+  },
+  "anomalyFlags": [
+    {
+      "type": "reader-address",
+      "passage": "Let the players know the ways in which their characters can participate in the fashion show, and allow them to do so as much as they’re interested, building toward the event at a date you set.",
+      "location": "Fashion Show Timing",
+      "anchor": "FashionShowTiming",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "If the check succeeds, the modeling goes well, and you should note the total of the check, which will help determine the outfit’s value for the fashion auction.",
+      "location": "Fashion Modeling",
+      "anchor": "FashionModeling",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "The veracity of these rumors is up to you; use them to add additional drama to the event.",
+      "location": "Fashion Show Rumors",
+      "anchor": "FashionShowRumors",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "If you want to play out the bidding, the opening bid for each design is half of its value.",
+      "location": "Fashion Auction",
+      "anchor": "FashionAuction",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "If you want to make bidding particularly intense, a rival bidder might drive up an outfit’s price to 50 percent more than its listed value before relenting.",
+      "location": "Fashion Auction",
+      "anchor": "FashionAuction",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "Once you’ve asked each player how their character is approaching the Studying phase, resolve that phase by having each character who studies make a DC 18 ability check.",
+      "location": "Studying Phase",
+      "anchor": "StudyingPhase1",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "The hum of conversation, awkward laughter, and the sound of shuffling feet meet you as you approach the Rose Stage on Silverquill’s campus.",
+      "location": "Fancying Up Footwork",
+      "anchor": "FancyingUpFootwork",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "Once you’ve asked each player how their character is approaching the Studying phase, resolve that phase by having each character who studies make a DC 17 ability check.",
+      "location": "Studying Phase",
+      "anchor": "StudyingPhase2",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    }
+  ],
+  "contentHtml": "<h1 class=\"compendium-hr\" id=\"DressingforSuccess\">Dressing for Success</h1>\n\n<p>Although the Magister’s Masquerade takes place late in the Strixhaven academic year, it occupies a significant place in the mind of many third-year students. To help students decide what to wear, the administration announces a theme for the masquerade and hosts a fashion show early in the year.</p>\n<p>The theme announcement and fashion show take place in the weeks following the Advanced Arcane History Exam.</p>\n<h2 class=\"compendium-hr heading-anchor\" id=\"TheMasqueradesTheme\">The Masquerade’s Theme</h2>\n<p>This year, the Strixhaven faculty has chosen to honor the school’s storied history in the theme for the Magister’s Masquerade.</p>\n<p>During one of her Advanced Arcane History classes, Dean Tullus explains that the theme for the masquerade is “<a href=\"/chapters/strixhaven-a-starlit-night/\" title=\"A Starlit Evening\">A Starlit Evening</a>.” Just as the light from stars is visible for thousands of years, so too does the professor want to see the students’ attire shine with the same wondrous history. She then offers extra credit in her course to students who show her costume designs evocative of some aspect of Strixhaven’s history ahead of the ball.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"HistoricalResearch\">Historical Research</h3>\n<p>To meet Dean Tullus’s demand for historical authenticity, a character must research Strixhaven fashion through the centuries. This requires spending 6 hours studying at the Biblioplex and succeeding on a DC 14 Intelligence (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/7-tooltip\">History</a>) check. Characters who exceed DC 18 on this check also learn the information in the “Records Gap” section.</p>\n<p>After successfully conducting their research, a character can show their notes to Dean Tullus and receive extra credit on their second Advanced Arcane History Exam, as noted in the “<a href=\"#CostumeDesigns\" title=\"Exam Results\">Exam Results</a>” section for that Exam.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"RecordsGap\">Records Gap</h3>\n<p>A character who excels at their fashion research notices a gap in the Biblioplex’s records approximately 200 years ago. All information about that year’s masquerade is missing. If a character pursues the missing information, cross-checking other university records reveals an unusually high number of student deaths that same year. While Strixhaven experiences the occasional rare fatality among the student body, that year dozens of students perished. No available record notes how the students died. Characters who, in <a href=\"/chapters/strixhaven-dangerous-knowledge/#QuenthornesHistory\" title=\"chapter 4\">chapter 4</a>, learned about the student expelled for practicing forbidden magic realize that these deaths occurred in the same year that student was expelled. Beyond this, no other information on the topic is currently available.</p>\n<p>If the characters mention the records gap to one or more faculty members, it sparks very little interest, since the missing records are so old. These faculty members have neither the time nor the recollection to shed light on the mystery.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"FashionShowPreparations\">Fashion Show Preparations</h3>\n<p>As part of the preparations for the Magister’s Masquerade, many Strixhaven students participate in a fashion show on the Silverquill College campus at the Rose Stage (detailed in <a href=\"/chapters/strixhaven-all-the-worlds-a-stage/#TheRoseStage\" title=\"chapter 3\">chapter 3</a>). During this event, student and alumni designers present fashions meant to inspire masquerade attendees and help them prepare for the ball. After the show, some of the outfits are auctioned off to help fund the masquerade. Characters might learn about the event by hearing about it from other students or spotting flyers posted around campus.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"FashionShowTiming\">Fashion Show Timing</h4>\n<p>Events related to the fashion show play out over the course of several weeks. Characters might decide to design their own fashions, model designs at the show, or sell their works at the auction. Other students might get involved in the fashion show as well, coaxing characters into the event.</p>\n<p>Let the players know the ways in which their characters can participate in the fashion show, and allow them to do so as much as they’re interested, building toward the event at a date you set. These activities can happen in the background as characters focus on other goals or as the events in the “<a href=\"/chapters/strixhaven-dressing-for-success/#PartyPreparations\" title=\"Party Preparations\">Party Preparations</a>” section take place.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"FashionDesign\">Fashion Design</h4>\n<p>Characters with an eye for design might create an outfit and enter it in the fashion show.</p>\n<p><em><strong>Creating an Outfit.</strong></em> To create an outfit, a character must describe the look they’re after, spend 24 hours crafting the outfit, then make a successful DC 10 Dexterity check using leatherworker’s tools, weaver’s tools, or similarly appropriate artisan’s tools. If the check fails, no wearable outfit is produced. If the character is successful, the character creates an outfit that is accepted into the show. Note the total of this check, which will help determine the outfit’s value at the fashion auction later.</p>\n<p>If a character is Friends with Zanther Bowen or Aurora Luna Wynterstarr (see the “<a href=\"/chapters/strixhaven-relationships/#FellowStudents\" title=\"Fellow Students\">Fellow Students</a>” section in <a href=\"/chapters/strixhaven-relationships/\" title=\"chapter 3\">chapter 3</a>), these students eagerly help the character with the outfit, providing advantage on the Dexterity check.</p>\n<p><em><strong>Choosing a Model.</strong></em> A character who designs their own outfit can model the design or have someone else do so. This model takes part in the activities detailed in the “Fashion Modeling” section.</p>\n<figure id=\"imgandstyle\" class=\"compendium-image compendium-image-left\">\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/05-007.magic-and-style.png\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/05-007.magic-and-style.png\" class=\"ddb-lightbox-inner\" style=\"width: 360px;\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a>\n<figcaption>Magic and style are on full display<br>at a Strixhaven fashion show</figcaption>\n</figure>\n<p><em><strong>Rival Designers.</strong></em> Characters’ Rivals might submit their own outfits to the fashion show. Aside from competing against a character, they might invite other characters or friendly students to model their fashions‚ leading to backstage drama.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"FashionModeling\">Fashion Modeling</h4>\n<p>A character might be invited by a fashion designer to model the designer’s outfit.</p>\n<p><em><strong>Preparation.</strong></em> A character intending to model an outfit must spend the hour before the show preparing by dressing, making final adjustments, and adding magical flourishes.</p>\n<p><em><strong>Walking the Runway.</strong></em> When the time comes for a character to model an outfit by walking the runway, the character must make a DC 10 Dexterity (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/3-tooltip\">Acrobatics</a>) or Charisma (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/18-tooltip\">Performance</a>) check. If the check fails, the character suffers some mishap, and their modeling doesn’t help sell that outfit. If the check succeeds, the modeling goes well, and you should note the total of the check, which will help determine the outfit’s value for the fashion auction.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"TheFashionShow\">The Fashion Show</h3>\n<p>When the characters arrive at the Rose Stage the night of the fashion show, read or paraphrase the following text:</p>\n<aside class=\"read-aloud-text\" id=\"session-read-aloud-1\">\n<p>Shimmering lights and soft music drift across the Rose Stage and the surrounding seating as well-dressed students, professors, and alumni guests mingle. Behind the runway, student fashion designers, models, and their assistants buzz to and from backstage dressing rooms, making finishing touches before the show begins.</p>\n</aside>\n<p>For the fashion show, the Rose Stage is divided into the external seating and open areas for audience mingling, the backstage for dressing, and the stage itself. See <a href=\"/chapters/strixhaven-all-the-worlds-a-stage/#Map35therosestage\" title=\"map 3.5\">map 3.5</a> in <a href=\"/chapters/strixhaven-all-the-worlds-a-stage/\" title=\"chapter 3\">chapter 3</a> for a map of the Rose Stage.</p>\n<p>The event includes a preshow period for mingling and light refreshment, the show itself, the fashion auction, and a brief closing reception. Characters can engage in any portion of the event, though models and designers typically spend the period prior to the show preparing in the hectic backstage dressing rooms.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"FashionShowRumors\">Fashion Show Rumors</h4>\n<p>Roll on the Fashion Show Rumors table to determine what students chitchat with characters about during the event. The veracity of these rumors is up to you; use them to add additional drama to the event.</p>\n<table id=\"FashionShowRumorsTable\" class=\"table-compendium table--generic-dice\">\n<caption class=\"heading-anchor\"><a href=\"#FashionShowRumorsTable\"></a>Fashion Show Rumors</caption>\n<thead>\n<tr>\n<th>d6</th>\n<th>Rumor</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1</td>\n<td>Another designer stole the student’s design and is trying to pass it off as their own work!</td>\n</tr>\n<tr>\n<td>2</td>\n<td>An alumni designer is here to watch and recruit models for professional work.</td>\n</tr>\n<tr>\n<td>3</td>\n<td>One of the outfits is actually alive.</td>\n</tr>\n<tr>\n<td>4</td>\n<td>A student activist group plans to crash the event in protest of wasteful magical decadences.</td>\n</tr>\n<tr>\n<td>5</td>\n<td>One of the colleges’ deans wants to buy an outfit and has sent a proxy to bid on it.</td>\n</tr>\n<tr>\n<td>6</td>\n<td>A plot is underway to animate an outfit while it’s being worn down the runway, embarrassing the model and designer.</td>\n</tr>\n</tbody>\n</table>\n<h4 class=\"compendium-hr heading-anchor\" id=\"OntheRunway\">On the Runway</h4>\n<p>After the guests take their seats, one by one an announcer introduces each model and whose outfit they’re wearing, then proceeds to describe the outfit. All the while, the model walks the perimeter of the Rose Stage, doing their best to highlight the virtues of the outfit. The fashion show lasts 1 hour.</p>\n<p>Besides the characters, numerous students and Strixhaven alumni participate in the fashion show, and all the outfits on the Fashion at Auction table are modeled.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"FashionAuction\">Fashion Auction</h4>\n<p>Following the fashion show, designers can auction their work to help fund the Magister’s Masquerade. The auction takes place at the Rose Stage immediately following the fashion show. Dozens of students attend the show and the auction, including all the students in the “<a href=\"/chapters/strixhaven-relationships/#FellowStudents\" title=\"Fellow Students\">Fellow Students</a>” section in <a href=\"/chapters/strixhaven-relationships/\" title=\"chapter 3\">chapter 3</a>. Three of these students—Urzmaktok Grojsh, Rubina Larkingdale, and Melwythorne—submitted designs and auction them off.</p>\n<p><em><strong>Determining a Design’s Value.</strong></em> To determine how much a character’s outfit sells for at auction, add the number the designer recorded when creating the outfit and the number the model recorded when modeling the outfit (if any). Look up this total in the Check Total column of the Fashion Auction table to determine the outfit’s value, along with some comparable outfits also being sold at the auction.</p>\n<p><em><strong>Buying Fashions.</strong></em> A character can bid on a design being auctioned off, ultimately winning it for the price listed in the Value column of the Fashion at Auction table. If you want to play out the bidding, the opening bid for each design is half of its value. Other students might bid against characters, driving up the outfit’s value to its listed price. If you want to make bidding particularly intense, a rival bidder might drive up an outfit’s price to 50 percent more than its listed value before relenting.</p>\n<table id=\"FashionatAuction\" class=\"table-compendium table--generic-dice table--left-col2 table--left-col3\">\n<caption class=\"heading-anchor\"><a href=\"#FashionatAuction\"></a>Fashion at Auction</caption>\n<thead>\n<tr>\n<th>Check Total</th>\n<th>Value</th>\n<th>Comparable Outfit</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>10–12</td>\n<td>15 gp</td>\n<td>Leather suit with a self-tying tie</td>\n</tr>\n<tr>\n<td>13–16</td>\n<td>30 gp</td>\n<td>Violet ballgown with puffy sleeves</td>\n</tr>\n<tr>\n<td>17–19</td>\n<td>60 gp</td>\n<td>Sleek tailcoat with levitating tails</td>\n</tr>\n<tr>\n<td>20–23</td>\n<td>120 gp</td>\n<td>Black sheath dress studded with animated crimson eyes</td>\n</tr>\n<tr>\n<td>24–27</td>\n<td>240 gp</td>\n<td>Kurta embroidered with magically orbiting constellations</td>\n</tr>\n<tr>\n<td>28–31</td>\n<td>360 gp</td>\n<td>Mermaid dress with illusory jellyfish bobbing around it</td>\n</tr>\n<tr>\n<td>32–35</td>\n<td>540 gp</td>\n<td>Kaleidoscopic agbada shifting with geometric patterns</td>\n</tr>\n<tr>\n<td>36–39</td>\n<td>720 gp</td>\n<td>Daring assemblage of hovering ink splotches</td>\n</tr>\n<tr>\n<td>40+</td>\n<td>1,000 gp</td>\n<td>Gloves that grow to cover the wearer in regal draconic scales</td>\n</tr>\n</tbody>\n</table>\n<h4 class=\"compendium-hr heading-anchor\" id=\"RelationshipEncounter1\">Relationship Encounter</h4>\n<p>If there are students with whom the characters wish to earn Relationship Points, treat the fashion show as a Relationship encounter using the rules in <a href=\"/chapters/strixhaven-relationships/#UsingTheseRules\" title=\"chapter 3\">chapter 3</a>. Have players note the results of this encounter on their copies of the tracking sheet.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"FashionMontage\">Fashion Montage</h3>\n<p>Following the fashion show, characters might still be undecided on what they’re going to wear to the Magister’s Masquerade. If they want ideas, it’s time for a fashion montage.</p>\n<p>Have each player write two or three ideas for wild magical outfits on pieces of paper and collect them. Then, during an outing with friends or privately using their <a class=\"tooltip-hover magic-item-tooltip\" href=\"https://www.dndbeyond.com/magic-items/4239819-masque-charm\" data-tooltip-href=\"/magic-items/4239819-tooltip\">Masque charms</a>, the characters can try out the proposed outfits. Have players select from the collected ideas at random, then describe their characters trying on the outfit. Allow characters to try out as many outfits as they please. Other students might also be present to offer their advice, support, or criticism.</p>\n<h2 class=\"compendium-hr heading-anchor\" id=\"PartyPreparations\">Party Preparations</h2>\n<p>Either after the fashion show or while preparations for that event are underway, the characters each receive a request from the masquerade organizing committee asking for their help. Two tasks need to be undertaken:</p>\n<ul>\n<li>A trip to Witherbloom’s bayou to harvest marshwicks (see “Sedgemoor Harvest” below)</li>\n<li>A day of gathering supplies stored at the Biblioplex (see “<a href=\"#BiblioplexSupplies\" title=\"Biblioplex Supplies\">Biblioplex Supplies</a>” below)</li>\n</ul>\n<h3 class=\"compendium-hr heading-anchor\" id=\"SedgemoorHarvest\">Sedgemoor Harvest</h3>\n<p>In Sedgemoor grow phosphorescent marshwicks. The masquerade organizing committee has determined that these plants would be perfect for creating starry decorations for the ball’s “A Starlit Evening” theme. A considerable number of marshwicks are needed, and they must be harvested by hand. The characters are part of a group that includes ten other students (apprentices from all five colleges; see <a href=\"/chapters/strixhaven-friends-and-foes/\" title=\"chapter 7\">chapter 7</a> for their stat blocks).</p>\n<p>Harvesting the required number of marshwicks from Sedgemoor takes 8 hours. A character who succeeds on a DC 16 Intelligence (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/9-tooltip\">Nature</a>) or Wisdom (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/15-tooltip\">Survival</a>) check can reduce this time for everyone by 1 hour (to a minimum of 4 hours).</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"RandomEncountersintheBayou\">Random Encounters in the Bayou</h4>\n<p>Sedgemoor’s bayou is full of dangerous creatures. For every hour the characters’ group spends there, roll on the Bayou Encounters table to see what they discover. Use <a href=\"/chapters/strixhaven-all-the-worlds-a-stage/#Map36sedgemoor\" title=\"map 3.6\">map 3.6</a> of Sedgemoor, found in <a href=\"/chapters/strixhaven-all-the-worlds-a-stage/#Sedgemoor\" title=\"chapter 3\">chapter 3</a>, for any encounters where a map would be useful.</p>\n<p>Assume the characters are off by themselves when an encounter occurs; however, the other students aren’t far away and can frighten away a monster or two if the characters get into serious trouble.</p>\n<table id=\"BayouEncounters\" class=\"table-compendium table--generic-dice\">\n<caption class=\"heading-anchor\"><a href=\"#BayouEncounters\"></a>Bayou Encounters</caption>\n<thead>\n<tr>\n<th>d20</th>\n<th>Encounter</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1–4</td>\n<td>No encounter</td>\n</tr>\n<tr>\n<td>5–6</td>\n<td>1 <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/16880-giant-crocodile\" data-tooltip-href=\"/monsters/16880-tooltip\">giant crocodile</a> and 2 <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/16834-crocodile\" data-tooltip-href=\"/monsters/16834-tooltip\">crocodiles</a></td>\n</tr>\n<tr>\n<td>7–8</td>\n<td>A rare tourmaline-coiffed woodpecker, which a student insists on studying, adding 1 hour to the expedition</td>\n</tr>\n<tr>\n<td>9–10</td>\n<td>1 <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/17040-troll\" data-tooltip-href=\"/monsters/17040-tooltip\">troll</a> who insists she’s a magically transformed Strixhaven student</td>\n</tr>\n<tr>\n<td>11–12</td>\n<td>4 <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/17171-lizardfolk-shaman\" data-tooltip-href=\"/monsters/17171-tooltip\">lizardfolk shamans</a> also looking for marshwicks</td>\n</tr>\n<tr>\n<td>13–14</td>\n<td>2 <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/17011-shambling-mound\" data-tooltip-href=\"/monsters/17011-tooltip\">shambling mounds</a> covered in flowers</td>\n</tr>\n<tr>\n<td>15–16</td>\n<td>An archaic university emblem worth 50 gp</td>\n</tr>\n<tr>\n<td>17–18</td>\n<td>1 <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/17112-blue-slaad\" data-tooltip-href=\"/monsters/17112-tooltip\">blue slaad</a>, which is lost</td>\n</tr>\n<tr>\n<td>19</td>\n<td>A <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/16911-green-hag\" data-tooltip-href=\"/monsters/16911-tooltip\">green hag</a> who will give the group all the marshwicks they need if one of them invites her to the Magister’s Masquerade</td>\n</tr>\n<tr>\n<td>20</td>\n<td>A dense stand of marshwicks that shaves 1 hour off the expedition if harvested</td>\n</tr>\n</tbody>\n</table>\n<figure id=\"imgwhovisitsedgemoor\" class=\"compendium-image\">\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/05-008.those-who-visit-sedgemoor.png\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/05-008.those-who-visit-sedgemoor.png\" class=\"ddb-lightbox-inner compendium-center-banner-img\" style=\"width: 850px;\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a>\n<figcaption>Those who visit Sedgemoor are bound to discover its wondrous inhabitants and hidden mysteries</figcaption>\n</figure>\n<h3 class=\"compendium-hr heading-anchor\" id=\"BiblioplexSupplies\">Biblioplex Supplies</h3>\n<p>The Magister’s Masquerade is such a Strixhaven institution that an entire section of the Biblioplex’s archives is devoted to it. Along with records about the event, these archives serve as storage for masquerade supplies needed annually. The characters are among those students the masquerade organizing committee tasks with retrieving the hundreds of storage boxes conveying them to Kollema Hall. Ten other students (apprentices from all five colleges; see <a href=\"/chapters/strixhaven-friends-and-foes/\" title=\"chapter 7\">chapter 7</a> for their stat blocks) are sent along with the characters.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"TransportingtheSupplies\">Transporting the Supplies</h4>\n<p>Finding all the supplies related to the Magister’s Masquerade, moving them out of the archives, and then transporting them to Kollema Hall should take the characters and their group 6 hours to complete. That assumes everyone in the group helps the entire time and someone arranges for transportation of the supplies. If one or more characters refuse to help or slip away for part of the time, add 1 hour to the task’s duration. If the characters don’t arrange transportation in advance, the task stalls until they make arrangements.</p>\n<p><em><strong>Masquerade Research.</strong></em> The records in the Biblioplex archives weren’t available to the characters when they were doing their historical research earlier in the academic year (see “<a href=\"#RecordsGap\" title=\"Records Gap\">Records Gap</a>” earlier in the chapter). A character who ignores their manual labor duties for an hour and investigates the archive records can make a DC 14 Intelligence (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/7-tooltip\">History</a>) check. If they succeed, they discover a firsthand report from 200 years ago involving a mysterious illness striking campus. Dozens of students fell victim to it, experiencing fatigue and headaches; many of them died, wasting away in a matter of days despite all efforts to cure them.</p>\n<h2 class=\"compendium-hr heading-anchor\" id=\"AdvancedArcaneHistoryExamDevices\">Advanced Arcane History Exam: Devices</h2>\n<p>The characters’ second Exam in Advanced Arcane History takes place a short while after they complete the errands in preparation for the masquerade. It tests students’ knowledge of famous magical relics and the history behind their creation and use. However, this test is unusual because the characters’ professor, Dean Tullus, doesn’t show up to administer it.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"StudyingPhase1\">Studying Phase</h3>\n<p>The day before the Exam, the characters can study the course material. A character can use any ability check and skill during the Studying phase.</p>\n<p>Once you’ve asked each player how their character is approaching the Studying phase, resolve that phase by having each character who studies make a DC 18 ability check. Make sure players keep track of their characters’ rerolls and apply them during the Testing phase.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"TestingPhase1\">Testing Phase</h3>\n<p>On the day of the Exam, Dean Tullus doesn’t show up for class. After 10 minutes of uncertainty, one of the dean’s teaching assistants steps in to administer the Exam. Each character makes two ability checks related to parts of the test:</p>\n<p><strong>Magical Devices and Their Functions.</strong> Matching a list of magical devices with their functions requires a successful DC 18 Intelligence (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/7-tooltip\">History</a>) check.</p>\n<p><strong>History of Magical Devices.</strong> Writing short essays about the origins of different magical devices requires a successful DC 18 Wisdom (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/12-tooltip\">Insight</a>) check.</p>\n<p>Have each player note their character’s Exam results—how many Student Dice they gained and what skills they used during the test—on their copies of the tracking sheet.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"Cheating\">Cheating</h4>\n<p>Due to Dean Tullus’s absence and the lax attention of the teaching assistant administering the test, cheating on this Exam is a relatively easy matter; the DCs of the two checks is only 12.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"CostumeDesigns\">Costume Designs</h4>\n<p>A character who showed Dean Tullus their plans for a historical masquerade costume adjusts their Exam results as follows:</p>\n<ul>\n<li>If the character failed the Exam, they pass instead.</li>\n<li>If the character passed the Exam, they ace it instead.</li>\n<li>If the character aced the Exam, they receive three Student Dice, instead of two.</li>\n</ul>\n<h3 class=\"compendium-hr heading-anchor\" id=\"FollowingUpontheDean\">Following Up on the Dean</h3>\n<p>After the Exam, a character who seeks to learn what happened to Dean Tullus can make a DC 14 Intelligence (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/8-tooltip\">Investigation</a>) check. If the check succeeds, the character learns that Dean Tullus just didn’t show up for class, offering no explanation to her teaching assistants. Apparently, the normally fastidious dean was in her office at Archaeo Memorial Hall the whole time.</p>\n<h2 class=\"compendium-hr heading-anchor\" id=\"Suspicions\">Suspicions</h2>\n<p>After Dean Tullus’s unexpected absence, characters might suspect that there’s something off about the dean. A character who spends a day investigating Dean Tullus further and succeeds on a DC 12 Intelligence (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/8-tooltip\">Investigation</a>) check learns one of the rumors on the Dean Tullus Rumors table.</p>\n<p>Even if the characters choose not to investigate the dean, have some of these rumors come to the characters’ attention to increase their suspicion. Characters who bring their misgivings to other faculty members are dismissed, as most professors are inured to students grousing about their teachers.</p>\n<p>Should the characters try to investigate Dean Tullus’s office, there’s rarely a time she or other faculty aren’t working in the Deans’ Wing of Archaeo Memorial Hall. However, everyone knows the dean will be attending the Magister’s Masquerade. It might serve as a perfect chance to slip into her office while she’s otherwise occupied.</p>\n<p>Ultimately, fuel the characters’ suspicions, but they shouldn’t have a chance to act until the night of the Magister’s Masquerade.</p>\n<table id=\"DeanTullusRumors\" class=\"table-compendium table--generic-dice\">\n<caption class=\"heading-anchor\"><a href=\"#DeanTullusRumors\"></a>Dean Tullus Rumors</caption>\n<thead>\n<tr>\n<th>d4</th>\n<th>Rumor</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1</td>\n<td>It seems like Dean Tullus is always working—she rarely leaves her office.</td>\n</tr>\n<tr>\n<td>2</td>\n<td>The dean is rarely seen without a relic from her recent expedition to the Fortress Badlands: a misty green orb.</td>\n</tr>\n<tr>\n<td>3</td>\n<td>Dean Tullus seems to be suffering from some malady. She has been uncharacteristically short with her students and seems to have frequent headaches.</td>\n</tr>\n<tr>\n<td>4</td>\n<td>The dean has relied on teaching assistants to cover several of her lessons, sometimes missing class without warning or explanation.</td>\n</tr>\n</tbody>\n</table>\n<h2 class=\"compendium-hr heading-anchor\" id=\"FancyingUpFootwork\">Fancying Up Footwork</h2>\n<p>In preparation for the Magister’s Masquerade, the Strixhaven faculty sponsors a day of free, professional dance lessons for third-year students.</p>\n<p>Dance lessons are offered about a week after the characters’ second Advanced Arcane History Exam and are held on the Rose Stage on Silverquill College. <a href=\"/chapters/strixhaven-all-the-worlds-a-stage/#Map35therosestage\" title=\"Map 3.5\">Map 3.5</a> shows the layout of the Rose Stage, and a full description of it can be found in <a href=\"/chapters/strixhaven-all-the-worlds-a-stage/#TheRoseStage\" title=\"chapter 3\">chapter 3</a>.</p>\n<p>Numerous students attend the dance classes, including several of the characters’ Friends, Beloveds, and Rivals, as well as other students from the “<a href=\"/chapters/strixhaven-relationships/#FellowStudents\" title=\"Fellow Students\">Fellow Students</a>” section in <a href=\"/chapters/strixhaven-relationships/\" title=\"chapter 3\">chapter 3</a>.</p>\n<figure id=\"imgordance\" class=\"compendium-image compendium-image-right\">\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/05-009.magic-or-dance.png\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/05-009.magic-or-dance.png\" class=\"ddb-lightbox-inner\" style=\"width: 420px;\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a>\n<figcaption>Whether learning magic or dance,<br>Strixhaven students throw themselves<br>into their studies with zeal</figcaption>\n</figure>\n<p>The day of the dance classes, when the characters show up at the Rose Stage, read or paraphrase the following text:</p>\n<aside class=\"read-aloud-text\" id=\"session-read-aloud-2\">\n<p>The hum of conversation, awkward laughter, and the sound of shuffling feet meet you as you approach the Rose Stage on Silverquill’s campus. Upon the polished stage mill dozens of students, waiting nervously or trying out their best approximations of dance moves.</p>\n</aside>\n<p>Several dozen students are already present at the Rose Stage, waiting for the dance lessons to begin. As soon as the characters arrive, a familiar student approaches one of them and points out a large, graceful, blue-skinned individual amid the crowd. “I think that’s Nivall!” the student says, urging the characters to follow. “They’re the greatest dancer ever to graduate from Strixhaven. Come on—I bet they’ll teach us amazing moves!”</p>\n<p>Dance instructor Nivall (chaotic good <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/16842-djinni\" data-tooltip-href=\"/monsters/16842-tooltip\">djinni</a>) is a graceful individual who moves as naturally as a cloud. A recent Strixhaven graduate, Nivall leads the students through 4 hours of dance lessons. First, though, Nivall asks everyone to choose their first dance partner or allow Nivall to pair them off.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"DancewithMe\">Dance with Me?</h3>\n<p>Nivall walks students through a dance routine, then asks dancers to repeat it on their own. After each dance, Nivall encourages students to switch partners. During the dance lesson, at least one student each character dances with stands out. Roll on the Dance Partner Quirks table to determine how.</p>\n<table id=\"DancePartnerQuirks\" class=\"table-compendium table--generic-dice\">\n<caption class=\"heading-anchor\"><a href=\"#DancePartnerQuirks\"></a>Dance Partner Quirks</caption>\n<thead>\n<tr>\n<th>d6</th>\n<th>The Character’s Partner…</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1</td>\n<td>Is already a fantastic dancer.</td>\n</tr>\n<tr>\n<td>2</td>\n<td>Treats a dance like a competitive, full-contact sport.</td>\n</tr>\n<tr>\n<td>3</td>\n<td>Is shy or embarrassed, giggling uncontrollably and never making eye contact.</td>\n</tr>\n<tr>\n<td>4</td>\n<td>Is fantastically clumsy or gets dizzy easily.</td>\n</tr>\n<tr>\n<td>5</td>\n<td>Tries to mask their discomfort by complaining about how stupid this all is.</td>\n</tr>\n<tr>\n<td>6</td>\n<td>Talks tirelessly about their incredible outfit for the masquerade.</td>\n</tr>\n</tbody>\n</table>\n<h4 class=\"compendium-hr heading-anchor\" id=\"RelationshipEncounter2\">Relationship Encounter</h4>\n<p>If there are students with whom the characters wish to earn Relationship Points, treat the dance lesson as a Relationship encounter using the rules in <a href=\"/chapters/strixhaven-relationships/#UsingTheseRules\" title=\"chapter 3\">chapter 3</a>. Have players note the results of this encounter on their copies of the tracking sheet.</p>\n<h2 class=\"compendium-hr heading-anchor\" id=\"PreparingtheHall\">Preparing the Hall</h2>\n<p>After the dance lessons, characters have time to focus on classes or other activities, but the date of the Magister’s Masquerade is getting close. A week before the ball, each character receives a request from the masquerade organizing committee. They’re asked to collaborate with other students to help prepare Kollema Hall for the masquerade. Unknown to the characters, though, Murgaxor uses this gathering to test his curse on a larger, more dangerous scale.</p>\n<p>The following sections detail the parts of Kollema Hall where students set up for the Magister’s Masquerade, along with several incidents that plague their work.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"KollemaHallFeatures\">Kollema Hall Features</h3>\n<p>Kollema Hall is a historic structure dedicated to the respected Strixhaven professor, Magister Kollema—an innovator in the magical study of history. After his death, the university renamed this hall in his honor and built an enormous statue of him at its center. Details about the hall are summarized here:</p>\n<p><strong>Ceilings.</strong> The center of the hall rises 200 feet above the floor to a domed ceiling. The ceiling above each balcony is 20 feet high.</p>\n<p><strong>Doors.</strong> At night, all exterior doors to the hall are locked and sealed with <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2003-arcane-lock\" data-tooltip-href=\"/spells/2003-tooltip\">arcane lock</a> spells. Only Lorehold College faculty members, including Dean Tullus, know the password to bypass these spells. Opening a lock requires thieves’ tools and a successful DC 25 Dexterity check (DC 35 while the <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2003-arcane-lock\" data-tooltip-href=\"/spells/2003-tooltip\">arcane lock</a> spell is active).</p>\n<p><strong>Illumination.</strong> Light from the domed skylight and <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2048-continual-flame\" data-tooltip-href=\"/spells/2048-tooltip\">continual flame</a> spells cast on hanging lanterns provide bright illumination throughout the hall.</p>\n<p><strong>Magic Steps.</strong> All steps, including the hall’s grand staircase, shift up or down like escalators, or flatten out completely before raising or lowering like lifts to accommodate larger creatures and mobility devices, depending on users’ needs.</p>\n<p><strong>Transport Glyphs.</strong> Runic glyphs (marked as starbursts on map 5.2) are etched on the floor near the hall’s main staircase. Any creature that stands on a glyph and says “up” or “down” is teleported to the transport glyph one floor higher or lower in the hall (depending on the direction spoken), along with anything the creature is wearing or carrying. If the destination glyph is occupied or the command doesn’t make sense (such as saying “down” while on the hall’s lowest floor), the transport glyph doesn’t function.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"KollemaHallLocations\">Kollema Hall Locations</h3>\n<p>The following locations are keyed to map 5.2. This map depicts only the building’s first floor, part of its symmetrical second floor, and the infirmary on its third floor. The full building consists of ten floors, but these locations are the most relevant to the characters’ activities.</p>\n<figure id=\"Map52kollemahall\" class=\"compendium-image\">\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/map-5.2-kollema-hall.jpg\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/map-5.2-kollema-hall.jpg\" class=\"ddb-lightbox-inner compendium-center-banner-img\" style=\"width: 850px;\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a>\n<figcaption>Map 5.2: kollema hall <a class=\"ddb-lightbox-outer\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/map-5.2-kollema-hall-player.jpg\" data-lightbox=\"1\" data-title=\"View Player Version\" id=\"session-player-map-1\">View Player Version</a></figcaption>\n</figure>\n<h4 class=\"compendium-hr heading-anchor\" id=\"K1SerenityQuadrants\">K1. Serenity Quadrants</h4>\n<p>Study areas under the hall’s tiered balconies hold an impressive collection of history books. Sorting the book collection day and night are 1d4 <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160300-cogwork-archivist\" data-tooltip-href=\"/monsters/2160300-tooltip\">cogwork archivists</a> (see <a href=\"/chapters/strixhaven-friends-and-foes/#CogworkArchivist\" title=\"chapter 7\">chapter 7</a>).</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"K2WiseKollema\">K2. Wise Kollema</h4>\n<p>The towering statue of Kollema holds an open book in one hand and a staff in the other and is visible from each of the hall’s floors.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"K3DemonstrationStage\">K3. Demonstration Stage</h4>\n<p>This stage rises 5 feet to be flush with the base of Kollema’s statue. Here, Lorehold professors perform demonstrations of their college’s more physically demanding subjects, such as conjuring the spirits of past scholars and historians. On any given weekday, there is a 50 percent chance that one <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160310-lorehold-professor-of-chaos\" data-tooltip-href=\"/monsters/2160310-tooltip\">Lorehold professor of chaos</a> and twelve <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160309-lorehold-pledgemage\" data-tooltip-href=\"/monsters/2160309-tooltip\">Lorehold pledgemages</a> (see <a href=\"/chapters/strixhaven-friends-and-foes/#LoreholdScholars\" title=\"chapter 7\">chapter 7</a> for both) are taking part in a class here.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"K4SecondFloorStudy\">K4. Second-Floor Study</h4>\n<p>The collection of books upon the second floor focuses on historical accounts of mage-explorers and archaeomancers. Attending this collection day and night are 1d4 <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160300-cogwork-archivist\" data-tooltip-href=\"/monsters/2160300-tooltip\">cogwork archivists</a> (see <a href=\"/chapters/strixhaven-friends-and-foes/#CogworkArchivist\" title=\"chapter 7\">chapter 7</a>).</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"K5InfirmaryIntake\">K5. Infirmary Intake</h4>\n<p>This infirmary is staffed by Zertha DeSantos (lawful good human <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160311-lorehold-professor-of-order\" data-tooltip-href=\"/monsters/2160311-tooltip\">Lorehold professor of order</a>; see <a href=\"/chapters/strixhaven-friends-and-foes/#LoreholdProfessorofOrder\" title=\"chapter 7\">chapter 7</a>). Colorful, framed art bears the messages “Keep eating habits healthy!” and “Never practice dangerous magic without a buddy!”</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"K6InfirmaryHall\">K6. Infirmary Hall</h4>\n<p>This featureless hall connects the infirmary and the sickroom.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"K7Sickroom\">K7. Sickroom</h4>\n<p>The six stiff-sheeted beds in this rarely used sickroom provide places for ill or injured students to rest.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"MasqueradePreparations\">Masquerade Preparations</h3>\n<p>The following tasks must be completed to transform Kollema Hall:</p>\n<ul>\n<li>Remove all the tables from the first floor.</li>\n<li>Unpack the supplies delivered from the Biblioplex.</li>\n<li>Hang banners from the second floor.</li>\n<li>Hang colorful lanterns.</li>\n<li>Ready the stage for magic that will allow dancers to levitate.</li>\n<li>Prepare magical decorations for later deployment.</li>\n<li>Set up mundane decorations.</li>\n</ul>\n<p>The characters are sent to complete these tasks along with twenty other students. These students include individuals the characters know and classmates they’re less familiar with. Even for this number of helpers, the work takes at least 8 hours to complete—longer if students get distracted.</p>\n<p>The work of preparing the hall might be plagued by accidents. Student recklessness isn’t entirely to blame for these dangers—unknown to the characters, some more sinister force is at work. For every two hours the characters spend working in Kollema Hall, roll on the Kollema Hall Accidents table to determine whether an event occurs, then run the corresponding event, which is described below the table. Events can occur more than once. At the end of this time, continue with the “<a href=\"#WakingNightmares\" title=\"Waking Nightmares\">Waking Nightmares</a>” section.</p>\n<table id=\"KollemaHallAccidents\" class=\"table-compendium table--generic-dice\">\n<caption class=\"heading-anchor\"><a href=\"#KollemaHallAccidents\"></a>Kollema Hall Accidents</caption>\n<thead>\n<tr>\n<th>d10</th>\n<th>Event</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1–4</td>\n<td>No Event</td>\n</tr>\n<tr>\n<td><a href=\"#ArchivistAttack\" title=\"5\">5</a></td>\n<td>Archivist Attack</td>\n</tr>\n<tr>\n<td><a href=\"#Firebreak\" title=\"6\">6</a></td>\n<td>Firebreak</td>\n</tr>\n<tr>\n<td><a href=\"#GetMeDown\" title=\"7\">7</a></td>\n<td>Get Me Down</td>\n</tr>\n<tr>\n<td><a href=\"#LookOut\" title=\"8\">8</a></td>\n<td>Look Out</td>\n</tr>\n<tr>\n<td><a href=\"#SickLeave\" title=\"9–10\">9–10</a></td>\n<td>Sick Leave</td>\n</tr>\n</tbody>\n</table>\n<h4 class=\"compendium-hr heading-anchor\" id=\"ArchivistAttack\">Archivist Attack</h4>\n<p>In response to a dropped table or minor damage to the library shelves, two <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160300-cogwork-archivist\" data-tooltip-href=\"/monsters/2160300-tooltip\">cogwork archivists</a> (see <a href=\"/chapters/strixhaven-friends-and-foes/#CogworkArchivist\" title=\"chapter 7\">chapter 7</a>) move to attack the offending students. It’s unclear why the archivists react so aggressively.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"Firebreak\">Firebreak</h4>\n<p>On the night of the masquerade, the hall will be lit with dozens of magical floating lights that emanate from magical firework-like devices that will be set off soon after the event begins. These tube-like devices are among the decorations being set up during the day’s preparations. Choose a character and have them make a DC 16 Intelligence (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/8-tooltip\">Investigation</a>) check. On a successful check, they notice that one of the devices is faulty. On a failed check, the character doesn’t spot anything amiss.</p>\n<p>If the character fails to notice the damaged device, or notices the problem but elects to do nothing about it, a misfire occurs in the “<a href=\"/chapters/strixhaven-a-starlit-night/#WelcomingAnnouncement\" title=\"Welcoming Announcement\">Welcoming Announcement</a>” section later in this chapter.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"GetMeDown\">Get Me Down</h4>\n<p>The demonstration stage (<a href=\"#K3DemonstrationStage\" title=\"area K3\">area K3</a> on <a href=\"#Map52kollemahall\" title=\"map 5.2\">map 5.2</a>) has been enchanted with magic that will allow dancers to fly above it on the night of the masquerade. However, this magic has somehow activated early, causing a student the characters know to levitate unexpectedly, stranding them 50 feet in the air, out of reach of any solid objects. The student can’t move from their position while out of reach, but if they come in contact with an anchored object, they can move along it as if climbing. The student levitates for 5 minutes before the magic ends and they fall.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"LookOut\">Look Out</h4>\n<p>Someone shouts a warning as a box of heavy decorations drops from a balcony several floors up. A random character must succeed on a DC 14 Dexterity saving throw or take 10 (3d6) bludgeoning damage.</p>\n<p>If no character is in a place where something could fall on them, choose a character and let them notice the box about to fall on a student on the first floor. The character has an instant to try to mitigate the danger—perhaps by casting a spell or using a class feature. If they can’t, the box hits the student and deals damage as described above.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"SickLeave\">Sick Leave</h4>\n<p>During the hall’s preparation, a student complains of having a headache that’s suddenly gotten worse, and they head to the third-floor infirmary. Although the characters have no way of knowing it, this student is cursed by <a class=\"tooltip-hover magic-item-tooltip\" href=\"https://www.dndbeyond.com/magic-items/4239820-murgaxors-orb\" data-tooltip-href=\"/magic-items/4239820-tooltip\">Murgaxor’s orb</a> (detailed at the beginning of <a href=\"/chapters/strixhaven-the-magisters-masquerade/#MurgaxorsOrb\" title=\"this adventure\">this adventure</a>). When this happens, increase the number of sick students in the “Waking Nightmares” section by one. If a character escorts the student to the infirmary, Professor DeSantos doesn’t find anything wrong with the student and encourages them to lie down in the sickroom (<a href=\"#K7Sickroom\" title=\"area K7\">area K7</a> on <a href=\"#Map52kollemahall\" title=\"map 5.2\">map 5.2</a>) until they feel better.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"WakingNightmares\">Waking Nightmares</h3>\n<p>As the work of preparing Kollema Hall winds down, six students complain about headaches and go to the infirmary. All these students are feeling the effects of the curse caused by <a class=\"tooltip-hover magic-item-tooltip\" href=\"https://www.dndbeyond.com/magic-items/4239820-murgaxors-orb\" data-tooltip-href=\"/magic-items/4239820-tooltip\">Murgaxor’s orb</a> (detailed at the beginning of <a href=\"/chapters/strixhaven-the-magisters-masquerade/#MurgaxorsOrb\" title=\"this adventure\">this adventure</a>). These students should be a mix of students the characters know and don’t know.</p>\n<p>If a character goes to the infirmary with the sick students, Professor DeSantos is concerned by the sudden influx of patients but can’t find anything wrong with them. She insists they rest in the sickroom until they feel better.</p>\n<p>Ten minutes later, these six students—along with any others who came to the infirmary during the “Sick Leave” event—are back on their feet, though something is clearly wrong. The afflicted students are all suffering from the Visions of Terror effect of <a class=\"tooltip-hover magic-item-tooltip\" href=\"https://www.dndbeyond.com/magic-items/4239820-murgaxors-orb\" data-tooltip-href=\"/magic-items/4239820-tooltip\">Murgaxor’s orb</a>. They’re delirious and hallucinating, shouting things like “No! Stop!” and “Keep away!” Reacting violently to whatever they’re seeing, they attack anyone near them as they try to escape Kollema Hall; use one or more of the college apprentice stat blocks in <a href=\"/chapters/strixhaven-friends-and-foes/\" title=\"chapter 7\">chapter 7</a> to represent them.</p>\n<p>Any characters in the infirmary are among the first people the delirious students turn against. Characters on the hall’s first and second floors who succeed on a DC 14 Wisdom (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/14-tooltip\">Perception</a>) check hear shouting and breaking glass on the third floor. Soon after, the panicking students rush onto the second floor and seek to escape, attacking anyone who comes close, while yelling things like “Stay back, monster!” and “Help, they’re trying to kill me!” The resulting scene descends into chaos as the other students either try to help or scatter in terror.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"EndingthePanic\">Ending the Panic</h4>\n<p>A character can use an action to try to calm a delirious student, doing so with a successful DC 14 Charisma (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/19-tooltip\">Persuasion</a>) check. A character who is a Friend or Beloved of the delirious student has advantage on the check. If the check fails, the student continues to panic. If the check succeeds, the student becomes docile and returns to normal after 10 minutes; the same thing happens if the student is <a class=\"tooltip-hover condition-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#IncapacitatedCondition\" data-tooltip-href=\"/conditions/7-tooltip\">incapacitated</a>. Sick students who escape from Kollema Hall rampage across campus for 10 minutes before being taken into custody by university staff.</p>\n<p>After this incident, most of the afflicted students are too scared to attend the Magister’s Masquerade.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"InvestigatingthePanic\">Investigating the Panic</h3>\n<p>A character who investigates what led to the students’ mysterious behavior can make a DC 14 Intelligence (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/8-tooltip\">Investigation</a>) check. A successful check reveals that the sick students all recently visited <a href=\"/chapters/strixhaven-work-hard-play-harder/#BowsEndTavern1\" title=\"Bow’s End Tavern\">Bow’s End Tavern</a>—they met for breakfast before the day’s work started. If the characters miss this clue, a student whom a character is acquainted with shares this observation a day later.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"InvestigatingBowsEnd\">Investigating Bow’s End</h4>\n<p>A character who visits Bow’s End Tavern can ask around about the students. None of the staff remembers anything remarkable, but one of the tavern’s chefs, Curtie Axechucker, was working when the students originally came in. She’s also there when the characters come to investigate.</p>\n<p>Regardless of the characters’ line of questioning, the anxious Chef Curtie (chaotic neutral dwarf <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/16829-commoner\" data-tooltip-href=\"/monsters/16829-tooltip\">commoner</a>) jumps to the conclusion that her food might have sickened the students. A character must succeed on a DC 12 Charisma (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/17-tooltip\">Intimidation</a> or <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/19-tooltip\">Persuasion</a>) check to get useful information out of Curtie, as she works herself into a flustered state. For each successful check, Curtie offers one of the following pieces of information:</p>\n<ul>\n<li>She was the only chef on duty when the students in question came in.</li>\n<li>The morning meal was nothing remarkable, with waffles drizzled in Sedgemoor mushroom syrup being popular.</li>\n<li>Student pranksters have tried to slip psychoactive ingredients into meals in years past.</li>\n<li>Dean Tullus was at the tavern and spoke with the students. The dean seemed uncharacteristically friendly, chatting and shaking hands as they parted.</li>\n</ul>\n<p>Curtie couldn’t hear what the dean said to the students and doesn’t remember anything useful beyond this. She begs the characters not to spread rumors about the tavern until it’s clear what happened.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"TalkingtotheDean\">Talking to the Dean</h4>\n<p>If the characters wish to ask Dean Tullus about why she was at Bow’s End Tavern, meeting with her immediately proves impossible, as the professor is busy with her classes and personal research. However, a teaching assistant can make an appointment for the characters to talk to the dean during her office hours three days after the chaos at Kollema Hall. This meeting takes place in Tullus’s office in the Deans’ Wing of Archaeo Memorial Hall.</p>\n<p>Should the characters meet with Dean Tullus, they find her polite but cold. She admits she was at the tavern, but only to ensure preparations for the Magister’s Masquerade were on track. She remembers seeing some of her students at the tavern but doesn’t remember what they spoke about. She claims to be cordial with all her students. Characters who succeed on a DC 12 Wisdom (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/12-tooltip\">Insight</a>) check suspect Tullus isn’t being entirely truthful, but aren’t sure what about. Those who succeed on a DC 12 Wisdom (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/14-tooltip\">Perception</a>) check also notice the green orb the dean showcased during class occupying a prominent space behind her desk.</p>\n<p>If the characters persist in their questioning, Dean Tullus brushes off any implication of impropriety and mentions that the Strixhaven administration is making its own investigation into the events at Kollema Hall—one that will scrutinize everyone who was there. She ends the meeting by telling the characters to focus on studying for their upcoming exams.</p>\n<h2 class=\"compendium-hr heading-anchor\" id=\"Advanceto7thLevel\">Advance to 7th Level!</h2>\n<p>Once the characters have dealt with the incident at Kollema Hall, they advance to 7th level.</p>\n<h2 class=\"compendium-hr heading-anchor\" id=\"AdvancedArcaneHistoryExamUnearthedArcana\">Advanced Arcane History Exam: Unearthed Arcana</h2>\n<p>The characters’ final Exam in Advanced Arcane History takes place just two days before the masquerade and tests students’ knowledge of theories about lost magical relics and devices.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"StudyingPhase2\">Studying Phase</h3>\n<p>The day before the Exam, the characters can study the course material. A character can use any ability check and skill during the Studying phase.</p>\n<p>Once you’ve asked each player how their character is approaching the Studying phase, resolve that phase by having each character who studies make a DC 17 ability check. Make sure players keep track of their characters’ rerolls and apply them during the Testing phase.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"TestingPhase2\">Testing Phase</h3>\n<p>Once again, Dean Tullus doesn’t appear to administer this Exam, but her assistants are prepared and run the Exam smoothly. On the day of the Exam, each character makes two ability checks related to parts of the test:</p>\n<p><strong>Lost Magic Relics.</strong> Identifying famous missing magical relics requires a successful DC 19 Intelligence (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/6-tooltip\">Arcana</a>) or Intelligence (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/7-tooltip\">History</a>) check.</p>\n<p><strong>Discovery Hypotheses.</strong> Writing short essays theorizing what magic items scholars have yet to discover requires a successful DC 19 Charisma (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/19-tooltip\">Persuasion</a>) check.</p>\n<p>Have each player note their character’s Exam results—how many Student Dice they gained and what skills they used during the test—on their copies of the tracking sheet.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"Cheating1\">Cheating</h4>\n<p>Dean Tullus’s teaching assistants aren’t as alert for cheaters as true Strixhaven professors; the DCs of the two checks is only 14.</p>"
+}

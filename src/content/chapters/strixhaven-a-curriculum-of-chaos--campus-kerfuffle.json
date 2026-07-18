@@ -1,0 +1,1412 @@
+{
+  "title": "Campus Kerfuffle",
+  "sourcebook": "Strixhaven: A Curriculum of Chaos",
+  "bookSlug": "strixhaven-a-curriculum-of-chaos",
+  "world": "Arcavios",
+  "edition": "2014 rules",
+  "chapter": "Campus Kerfuffle",
+  "chapterNumber": 3,
+  "order": 6,
+  "navGroup": "Year One",
+  "kind": "adventure",
+  "audience": "gm",
+  "slug": "strixhaven-campus-kerfuffle",
+  "chapterSlug": "campus-kerfuffle",
+  "summary": "The day has finally arrived! Your players’ characters have moved to campus, have picked up their tomes and uniforms, and are about to embark on their academic careers at Strixhaven University.",
+  "wordCount": 7029,
+  "originalPath": "Arcavios/Stixhaven/Chapter 6 - Campus Kerfuffle",
+  "rawUrl": "/archive/strixhaven/Chapter%206%20-%20Campus%20Kerfuffle",
+  "originalAnchors": [
+    {
+      "id": "CampusKerfuffle",
+      "text": "Campus Kerfuffle",
+      "element": "h1"
+    },
+    {
+      "id": "comp-next-nav",
+      "text": "",
+      "element": "div"
+    },
+    {
+      "id": "RunningThisAdventure",
+      "text": "Running This Adventure",
+      "element": "h2"
+    },
+    {
+      "id": "CharacterAdvancement",
+      "text": "Character Advancement",
+      "element": "h3"
+    },
+    {
+      "id": "FirstYearLevelAdvancement",
+      "text": "First-Year Level Advancement Level Reached When Characters… 2nd Complete the first Magical Physiologies Exam 3rd Complete the “Campus Daredevils” section and ex",
+      "element": "table"
+    },
+    {
+      "id": "AdventureOverview",
+      "text": "Adventure Overview",
+      "element": "h3"
+    },
+    {
+      "id": "AStandaloneAdventure",
+      "text": "A Standalone Adventure",
+      "element": "h4"
+    },
+    {
+      "id": "RandomEncounters",
+      "text": "Random Encounters",
+      "element": "h3"
+    },
+    {
+      "id": "FirstYearEncounters",
+      "text": "First-Year Encounters d10 Encounter 1–4 2 stirges and 1 giant rat, both of which were attracted to a nearby sickly scent and are hostile 5–6 2 suits of animated",
+      "element": "table"
+    },
+    {
+      "id": "StudentSchedules",
+      "text": "Student Schedules",
+      "element": "h3"
+    },
+    {
+      "id": "FirstYearCourses",
+      "text": "First-Year Courses d6 Course Offered By 1 Arcano-botany for Beginners Witherbloom 2 Basic Magical Auras General Studies 3 Beginning Computational Magic Quandrix",
+      "element": "table"
+    },
+    {
+      "id": "FirstDayonCampus",
+      "text": "First Day on Campus",
+      "element": "h2"
+    },
+    {
+      "id": "imgbiblioplex",
+      "text": "Some Strixhaven students take studying very seriously. Others would rather play with magic in the Biblioplex",
+      "element": "figure"
+    },
+    {
+      "id": "Orientation",
+      "text": "Orientation",
+      "element": "h3"
+    },
+    {
+      "id": "StrixhavenKnowledge",
+      "text": "Strixhaven Knowledge",
+      "element": "h3"
+    },
+    {
+      "id": "Biblioplex",
+      "text": "Biblioplex",
+      "element": "h3"
+    },
+    {
+      "id": "BiblioplexFeatures",
+      "text": "Biblioplex Features",
+      "element": "h4"
+    },
+    {
+      "id": "imgdeepconcentration",
+      "text": "Many students employ deep concentrationtechniques to help them tackletheir rigorous class schedules",
+      "element": "figure"
+    },
+    {
+      "id": "StrixhavenAccessibility",
+      "text": "STRIXHAVEN ACCESSIBILITY The buildings on campus feature magic steps and staircases that respond to the needs of those who use them. The steps might shift up or",
+      "element": "aside"
+    },
+    {
+      "id": "BiblioplexLocationsB1B9",
+      "text": "Biblioplex Locations (B1-B9)",
+      "element": "h3"
+    },
+    {
+      "id": "Map31thebiblioplex",
+      "text": "Map 3.1: the biblioplex View Player Version",
+      "element": "figure"
+    },
+    {
+      "id": "B1MainEntrance",
+      "text": "B1. Main Entrance",
+      "element": "h4"
+    },
+    {
+      "id": "B2BiblioplexLounge",
+      "text": "B2. Biblioplex Lounge",
+      "element": "h4"
+    },
+    {
+      "id": "B3StudentCafSeating",
+      "text": "B3. Student Café Seating",
+      "element": "h4"
+    },
+    {
+      "id": "B4InformationDesk",
+      "text": "B4. Information Desk",
+      "element": "h4"
+    },
+    {
+      "id": "B5StudentStore",
+      "text": "B5. Student Store",
+      "element": "h4"
+    },
+    {
+      "id": "B6BiblioplexCafe",
+      "text": "B6. Biblioplex Café",
+      "element": "h4"
+    },
+    {
+      "id": "CafSandwichOfTheDay",
+      "text": "Café Sandwich of the Day d6 Sandwich 1 Grilled halloumi with morels on wheat 2 Toasted cockatrice gizzards on rye 3 Open-faced radish chips, deep-fried with dij",
+      "element": "table"
+    },
+    {
+      "id": "B7LectureHall",
+      "text": "B7. Lecture Hall",
+      "element": "h4"
+    },
+    {
+      "id": "B8StudyArea",
+      "text": "B8. Study Area",
+      "element": "h4"
+    },
+    {
+      "id": "B9BookGarden",
+      "text": "B9. Book Garden",
+      "element": "h4"
+    },
+    {
+      "id": "imgbiblioplexhall",
+      "text": "The Biblioplex is a storied hall of learning on campus as well as a meeting place for friends of all stripes",
+      "element": "figure"
+    },
+    {
+      "id": "BiblioplexLocationsB10B19",
+      "text": "Biblioplex Locations (B10-B19)",
+      "element": "h3"
+    },
+    {
+      "id": "B10MainStacks",
+      "text": "B10. Main Stacks",
+      "element": "h4"
+    },
+    {
+      "id": "B11HallofOracles",
+      "text": "B11. Hall of Oracles",
+      "element": "h4"
+    },
+    {
+      "id": "B12StudentandAlumniArtGallery",
+      "text": "B12. Student and Alumni Art Gallery",
+      "element": "h4"
+    },
+    {
+      "id": "B13Amphitheater",
+      "text": "B13. Amphitheater",
+      "element": "h4"
+    },
+    {
+      "id": "B14StudentActivitiesCenter",
+      "text": "B14. Student Activities Center",
+      "element": "h4"
+    },
+    {
+      "id": "B15StudentCouncilHall",
+      "text": "B15. Student Council Hall",
+      "element": "h4"
+    },
+    {
+      "id": "B16AdvancedStudentStacks",
+      "text": "B16. Advanced Student Stacks",
+      "element": "h4"
+    },
+    {
+      "id": "B17AdvancedStudentOffice",
+      "text": "B17. Advanced Student Office",
+      "element": "h4"
+    },
+    {
+      "id": "B18AdvancedStudentLounge",
+      "text": "B18. Advanced Student Lounge",
+      "element": "h4"
+    },
+    {
+      "id": "B19TheCompendium",
+      "text": "B19. The Compendium",
+      "element": "h4"
+    },
+    {
+      "id": "imgcleaning",
+      "text": "Cleaning up after students is often a harried undertaking.Luckily, the many Biblioplex assistants are up to the task",
+      "element": "figure"
+    },
+    {
+      "id": "OrientationChallenge",
+      "text": "Orientation Challenge",
+      "element": "h2"
+    },
+    {
+      "id": "ScavengerHuntClues",
+      "text": "Scavenger Hunt Clues",
+      "element": "h3"
+    },
+    {
+      "id": "RunningtheHunt",
+      "text": "Running the Hunt",
+      "element": "h3"
+    },
+    {
+      "id": "Clue1HallofOracles",
+      "text": "Clue 1: Hall of Oracles",
+      "element": "h3"
+    },
+    {
+      "id": "imgsnarl",
+      "text": "The magic snarl at the heart of the Hall of Oracles shines through the Biblioplex like a miniature sun",
+      "element": "figure"
+    },
+    {
+      "id": "Clue2StudentArtGallery",
+      "text": "Clue 2: Student Art Gallery",
+      "element": "h3"
+    },
+    {
+      "id": "Clue3BiblioplexCaf",
+      "text": "Clue 3: Biblioplex Café",
+      "element": "h3"
+    },
+    {
+      "id": "Clue4BookGarden",
+      "text": "Clue 4: Book Garden",
+      "element": "h3"
+    },
+    {
+      "id": "Clue5Amphitheater",
+      "text": "Clue 5: Amphitheater",
+      "element": "h3"
+    },
+    {
+      "id": "ThatTrunkHasTeeth",
+      "text": "That Trunk Has Teeth!",
+      "element": "h3"
+    },
+    {
+      "id": "EndingtheThreat",
+      "text": "Ending the Threat",
+      "element": "h4"
+    },
+    {
+      "id": "ExaminingtheTrunk",
+      "text": "Examining the Trunk",
+      "element": "h3"
+    },
+    {
+      "id": "FrogstheWord",
+      "text": "Frog’s the Word",
+      "element": "h2"
+    },
+    {
+      "id": "FirejoltCafe",
+      "text": "Firejolt Café",
+      "element": "h3"
+    },
+    {
+      "id": "FirejoltCafeFeatures",
+      "text": "Firejolt Café Features",
+      "element": "h4"
+    },
+    {
+      "id": "FirejoltCafeLocations",
+      "text": "Firejolt Café Locations",
+      "element": "h3"
+    },
+    {
+      "id": "Map32firejoltcafe",
+      "text": "Map 3.2: firejolt cafe View Player Version",
+      "element": "figure"
+    },
+    {
+      "id": "F1StudyTables",
+      "text": "F1. Study Tables",
+      "element": "h4"
+    },
+    {
+      "id": "F2SeatingArea",
+      "text": "F2. Seating Area",
+      "element": "h4"
+    },
+    {
+      "id": "F3BaristaStation",
+      "text": "F3. Barista Station",
+      "element": "h4"
+    },
+    {
+      "id": "F4Newsstand",
+      "text": "F4. Newsstand",
+      "element": "h4"
+    },
+    {
+      "id": "F5FiresideLounge",
+      "text": "F5. Fireside Lounge",
+      "element": "h4"
+    },
+    {
+      "id": "F6QuietRoom",
+      "text": "F6. Quiet Room",
+      "element": "h4"
+    },
+    {
+      "id": "AGreatFrogRace",
+      "text": "A Great Frog Race",
+      "element": "h3"
+    },
+    {
+      "id": "ParticipatingintheRace",
+      "text": "Participating in the Race",
+      "element": "h4"
+    },
+    {
+      "id": "RelationshipEncounter",
+      "text": "Relationship Encounter",
+      "element": "h4"
+    },
+    {
+      "id": "TheyveGoneBerserk",
+      "text": "They’ve Gone Berserk!",
+      "element": "h3"
+    },
+    {
+      "id": "EndingtheThreat1",
+      "text": "Ending the Threat",
+      "element": "h4"
+    },
+    {
+      "id": "ExaminingtheFrogs",
+      "text": "Examining the Frogs",
+      "element": "h3"
+    },
+    {
+      "id": "MagicalPhysiologiesExamSlaadi",
+      "text": "Magical Physiologies Exam: Slaadi",
+      "element": "h2"
+    },
+    {
+      "id": "StudyingPhase1",
+      "text": "Studying Phase",
+      "element": "h3"
+    },
+    {
+      "id": "TestingPhase1",
+      "text": "Testing Phase",
+      "element": "h3"
+    },
+    {
+      "id": "AllaboutSlaadi",
+      "text": "ALL ABOUT SLAADI To give this Exam more flavor, describe some of the facts the characters are trying to memorize, such as the following: Slaadi are Aberrations ",
+      "element": "aside"
+    },
+    {
+      "id": "imgfrogs",
+      "text": "Frogs are common on campus and are often kept as pets",
+      "element": "figure"
+    },
+    {
+      "id": "Advanceto2ndLevel",
+      "text": "Advance to 2nd Level!",
+      "element": "h2"
+    }
+  ],
+  "sourceHash": "08272802c6d845d0307154108da20c5b71bb11d86ed0939f9ff74fa8dc325c8f",
+  "extractionDate": "2026-07-13T07:40:57.647Z",
+  "extractionVersion": 3,
+  "headings": [
+    {
+      "depth": 1,
+      "id": "CampusKerfuffle",
+      "text": "Campus Kerfuffle"
+    },
+    {
+      "depth": 2,
+      "id": "RunningThisAdventure",
+      "text": "Running This Adventure"
+    },
+    {
+      "depth": 3,
+      "id": "CharacterAdvancement",
+      "text": "Character Advancement"
+    },
+    {
+      "depth": 3,
+      "id": "AdventureOverview",
+      "text": "Adventure Overview"
+    },
+    {
+      "depth": 4,
+      "id": "AStandaloneAdventure",
+      "text": "A Standalone Adventure"
+    },
+    {
+      "depth": 3,
+      "id": "RandomEncounters",
+      "text": "Random Encounters"
+    },
+    {
+      "depth": 3,
+      "id": "StudentSchedules",
+      "text": "Student Schedules"
+    },
+    {
+      "depth": 2,
+      "id": "FirstDayonCampus",
+      "text": "First Day on Campus"
+    },
+    {
+      "depth": 3,
+      "id": "Orientation",
+      "text": "Orientation"
+    },
+    {
+      "depth": 3,
+      "id": "StrixhavenKnowledge",
+      "text": "Strixhaven Knowledge"
+    },
+    {
+      "depth": 3,
+      "id": "Biblioplex",
+      "text": "Biblioplex"
+    },
+    {
+      "depth": 4,
+      "id": "BiblioplexFeatures",
+      "text": "Biblioplex Features"
+    },
+    {
+      "depth": 3,
+      "id": "BiblioplexLocationsB1B9",
+      "text": "Biblioplex Locations (B1-B9)"
+    },
+    {
+      "depth": 4,
+      "id": "B1MainEntrance",
+      "text": "B1. Main Entrance"
+    },
+    {
+      "depth": 4,
+      "id": "B2BiblioplexLounge",
+      "text": "B2. Biblioplex Lounge"
+    },
+    {
+      "depth": 4,
+      "id": "B3StudentCafSeating",
+      "text": "B3. Student Café Seating"
+    },
+    {
+      "depth": 4,
+      "id": "B4InformationDesk",
+      "text": "B4. Information Desk"
+    },
+    {
+      "depth": 4,
+      "id": "B5StudentStore",
+      "text": "B5. Student Store"
+    },
+    {
+      "depth": 4,
+      "id": "B6BiblioplexCafe",
+      "text": "B6. Biblioplex Café"
+    },
+    {
+      "depth": 4,
+      "id": "B7LectureHall",
+      "text": "B7. Lecture Hall"
+    },
+    {
+      "depth": 4,
+      "id": "B8StudyArea",
+      "text": "B8. Study Area"
+    },
+    {
+      "depth": 4,
+      "id": "B9BookGarden",
+      "text": "B9. Book Garden"
+    },
+    {
+      "depth": 3,
+      "id": "BiblioplexLocationsB10B19",
+      "text": "Biblioplex Locations (B10-B19)"
+    },
+    {
+      "depth": 4,
+      "id": "B10MainStacks",
+      "text": "B10. Main Stacks"
+    },
+    {
+      "depth": 4,
+      "id": "B11HallofOracles",
+      "text": "B11. Hall of Oracles"
+    },
+    {
+      "depth": 4,
+      "id": "B12StudentandAlumniArtGallery",
+      "text": "B12. Student and Alumni Art Gallery"
+    },
+    {
+      "depth": 4,
+      "id": "B13Amphitheater",
+      "text": "B13. Amphitheater"
+    },
+    {
+      "depth": 4,
+      "id": "B14StudentActivitiesCenter",
+      "text": "B14. Student Activities Center"
+    },
+    {
+      "depth": 4,
+      "id": "B15StudentCouncilHall",
+      "text": "B15. Student Council Hall"
+    },
+    {
+      "depth": 4,
+      "id": "B16AdvancedStudentStacks",
+      "text": "B16. Advanced Student Stacks"
+    },
+    {
+      "depth": 4,
+      "id": "B17AdvancedStudentOffice",
+      "text": "B17. Advanced Student Office"
+    },
+    {
+      "depth": 4,
+      "id": "B18AdvancedStudentLounge",
+      "text": "B18. Advanced Student Lounge"
+    },
+    {
+      "depth": 4,
+      "id": "B19TheCompendium",
+      "text": "B19. The Compendium"
+    },
+    {
+      "depth": 2,
+      "id": "OrientationChallenge",
+      "text": "Orientation Challenge"
+    },
+    {
+      "depth": 3,
+      "id": "ScavengerHuntClues",
+      "text": "Scavenger Hunt Clues"
+    },
+    {
+      "depth": 3,
+      "id": "RunningtheHunt",
+      "text": "Running the Hunt"
+    },
+    {
+      "depth": 3,
+      "id": "Clue1HallofOracles",
+      "text": "Clue 1: Hall of Oracles"
+    },
+    {
+      "depth": 3,
+      "id": "Clue2StudentArtGallery",
+      "text": "Clue 2: Student Art Gallery"
+    },
+    {
+      "depth": 3,
+      "id": "Clue3BiblioplexCaf",
+      "text": "Clue 3: Biblioplex Café"
+    },
+    {
+      "depth": 3,
+      "id": "Clue4BookGarden",
+      "text": "Clue 4: Book Garden"
+    },
+    {
+      "depth": 3,
+      "id": "Clue5Amphitheater",
+      "text": "Clue 5: Amphitheater"
+    },
+    {
+      "depth": 3,
+      "id": "ThatTrunkHasTeeth",
+      "text": "That Trunk Has Teeth!"
+    },
+    {
+      "depth": 4,
+      "id": "EndingtheThreat",
+      "text": "Ending the Threat"
+    },
+    {
+      "depth": 3,
+      "id": "ExaminingtheTrunk",
+      "text": "Examining the Trunk"
+    },
+    {
+      "depth": 2,
+      "id": "FrogstheWord",
+      "text": "Frog’s the Word"
+    },
+    {
+      "depth": 3,
+      "id": "FirejoltCafe",
+      "text": "Firejolt Café"
+    },
+    {
+      "depth": 4,
+      "id": "FirejoltCafeFeatures",
+      "text": "Firejolt Café Features"
+    },
+    {
+      "depth": 3,
+      "id": "FirejoltCafeLocations",
+      "text": "Firejolt Café Locations"
+    },
+    {
+      "depth": 4,
+      "id": "F1StudyTables",
+      "text": "F1. Study Tables"
+    },
+    {
+      "depth": 4,
+      "id": "F2SeatingArea",
+      "text": "F2. Seating Area"
+    },
+    {
+      "depth": 4,
+      "id": "F3BaristaStation",
+      "text": "F3. Barista Station"
+    },
+    {
+      "depth": 4,
+      "id": "F4Newsstand",
+      "text": "F4. Newsstand"
+    },
+    {
+      "depth": 4,
+      "id": "F5FiresideLounge",
+      "text": "F5. Fireside Lounge"
+    },
+    {
+      "depth": 4,
+      "id": "F6QuietRoom",
+      "text": "F6. Quiet Room"
+    },
+    {
+      "depth": 3,
+      "id": "AGreatFrogRace",
+      "text": "A Great Frog Race"
+    },
+    {
+      "depth": 4,
+      "id": "ParticipatingintheRace",
+      "text": "Participating in the Race"
+    },
+    {
+      "depth": 4,
+      "id": "RelationshipEncounter",
+      "text": "Relationship Encounter"
+    },
+    {
+      "depth": 3,
+      "id": "TheyveGoneBerserk",
+      "text": "They’ve Gone Berserk!"
+    },
+    {
+      "depth": 4,
+      "id": "EndingtheThreat1",
+      "text": "Ending the Threat"
+    },
+    {
+      "depth": 3,
+      "id": "ExaminingtheFrogs",
+      "text": "Examining the Frogs"
+    },
+    {
+      "depth": 2,
+      "id": "MagicalPhysiologiesExamSlaadi",
+      "text": "Magical Physiologies Exam: Slaadi"
+    },
+    {
+      "depth": 3,
+      "id": "StudyingPhase1",
+      "text": "Studying Phase"
+    },
+    {
+      "depth": 3,
+      "id": "TestingPhase1",
+      "text": "Testing Phase"
+    },
+    {
+      "depth": 2,
+      "id": "Advanceto2ndLevel",
+      "text": "Advance to 2nd Level!"
+    }
+  ],
+  "tags": {
+    "creatures": [
+      "animated armor",
+      "awakened shrubs",
+      "basilisk",
+      "blue",
+      "blue slaad",
+      "blue slaadi",
+      "cogwork archivists",
+      "commoner",
+      "death",
+      "Death slaadi",
+      "dryad",
+      "first-year student",
+      "first-year students",
+      "frogs",
+      "giant frogs",
+      "giant rat",
+      "gray",
+      "green",
+      "Green",
+      "green slaad",
+      "mage",
+      "mimic",
+      "ochre jelly",
+      "Prismari pledgemages",
+      "red",
+      "red slaadi",
+      "Red slaadi",
+      "shield guardians",
+      "Silverquill professor of radiance",
+      "stirges",
+      "Witherbloom apprentice",
+      "Witherbloom pledgemages"
+    ],
+    "spells": [
+      "arcane lock",
+      "cloudkill",
+      "continual flame",
+      "fireballs",
+      "sleep"
+    ],
+    "items": [
+      "cuddly Strixhaven mascot",
+      "Heward’s handy haversacks",
+      "hooded lantern",
+      "potion of healing",
+      "potions of healing",
+      "Strixhaven pennant"
+    ],
+    "locations": [
+      "Advanced Student Lounge",
+      "Advanced Student Office",
+      "Advanced Student Stacks",
+      "Amphitheater",
+      "Barista Station",
+      "Biblioplex",
+      "Biblioplex Café",
+      "Biblioplex Lounge",
+      "Book Garden",
+      "Bow’s End Tavern",
+      "Firejolt Café",
+      "Fireside Lounge",
+      "Hall of Oracles",
+      "Information Desk",
+      "Lecture Hall",
+      "Lorehold",
+      "Main Entrance",
+      "Main Stacks",
+      "Newsstand",
+      "Prismari",
+      "Quandrix",
+      "Quiet Room",
+      "Rose Stage",
+      "Seating Area",
+      "Sedgemoor",
+      "Silverquill",
+      "Strixhaven",
+      "Student Activities Center",
+      "Student and Alumni Art Gallery",
+      "Student Café Seating",
+      "Student Council Hall",
+      "Student Store",
+      "Study Area",
+      "Study Tables",
+      "The Compendium",
+      "Witherbloom"
+    ],
+    "npcs": [],
+    "topics": [
+      "adventure",
+      "campus-life",
+      "exams",
+      "gm-tools",
+      "read-aloud",
+      "relationships",
+      "tables"
+    ]
+  },
+  "session": {
+    "readAloud": [
+      {
+        "id": "session-read-aloud-1",
+        "label": "Read aloud 1",
+        "excerpt": "Majestic marble archways, tomes seemingly stacked for miles, and the infectious energy of hundreds of young adults fill the Biblioplex, the grand library at the heart of Strixhave…"
+      },
+      {
+        "id": "session-read-aloud-2",
+        "label": "Read aloud 2",
+        "excerpt": "An almost sacrosanct sense of calm descends as you step into the Hall of Oracles. “Brilliant scholars,” says a rich, soothing voice radiating from the hall’s central snarl of glow…"
+      },
+      {
+        "id": "session-read-aloud-3",
+        "label": "Read aloud 3",
+        "excerpt": "“The rules are simple,” the voice says. “Each clue on this list will lead you to a different location in the Biblioplex. Simply travel to the area each clue references and perform…"
+      },
+      {
+        "id": "session-read-aloud-4",
+        "label": "Read aloud 4",
+        "excerpt": "The joyous and energetic atmosphere of the first floor is shattered by panicked shouting. “That trunk!” a young elf screams, pointing toward the stacks as she runs by. “That trunk…"
+      },
+      {
+        "id": "session-read-aloud-5",
+        "label": "Read aloud 5",
+        "excerpt": "“Students, well done!” Professor Sharpbeak exclaims, ruffling her feathers with pride. “Such bravery in this incoming class! And what a bizarre occurrence. I can’t remember any of…"
+      },
+      {
+        "id": "session-read-aloud-6",
+        "label": "Read aloud 6",
+        "excerpt": "Murmurs of excited curiosity ripple through the clusters of students around you, and another student suddenly barrels toward you, laughing uproariously."
+      },
+      {
+        "id": "session-read-aloud-7",
+        "label": "Read aloud 7",
+        "excerpt": "“You’ve all got to see this!” the student chortles. “We found these weird frogs and snuck them into the Fireside Lounge at Firejolt Café, and now we’re going to race the little ho…"
+      },
+      {
+        "id": "session-read-aloud-8",
+        "label": "Read aloud 8",
+        "excerpt": "The air buzzes with excitement—and the smell of coffee—as you make your way toward the back of Firejolt Café and duck into the lounge to witness the scene. Hidden from the view of…"
+      }
+    ],
+    "rules": [
+      {
+        "id": "StrixhavenAccessibility",
+        "label": "Rule box 1",
+        "excerpt": "STRIXHAVEN ACCESSIBILITY The buildings on campus feature magic steps and staircases that respond to the needs of those who use them. The steps might shift up or down like escalato…"
+      },
+      {
+        "id": "AllaboutSlaadi",
+        "label": "Rule box 2",
+        "excerpt": "ALL ABOUT SLAADI To give this Exam more flavor, describe some of the facts the characters are trying to memorize, such as the following: Slaadi are Aberrations known for their reg…"
+      }
+    ],
+    "tables": [
+      {
+        "id": "FirstYearLevelAdvancement",
+        "label": "First-Year Level Advancement",
+        "excerpt": "First-Year Level Advancement Level Reached When Characters… 2nd Complete the first Magical Physiologies Exam 3rd Complete the “Campus Daredevils” section and explore Captain Dappl…"
+      },
+      {
+        "id": "FirstYearEncounters",
+        "label": "First-Year Encounters",
+        "excerpt": "First-Year Encounters d10 Encounter 1–4 2 stirges and 1 giant rat, both of which were attracted to a nearby sickly scent and are hostile 5–6 2 suits of animated armor that look li…"
+      },
+      {
+        "id": "FirstYearCourses",
+        "label": "First-Year Courses",
+        "excerpt": "First-Year Courses d6 Course Offered By 1 Arcano-botany for Beginners Witherbloom 2 Basic Magical Auras General Studies 3 Beginning Computational Magic Quandrix 4 Beginning Inkoma…"
+      },
+      {
+        "id": "CafSandwichOfTheDay",
+        "label": "Café Sandwich of the Day",
+        "excerpt": "Café Sandwich of the Day d6 Sandwich 1 Grilled halloumi with morels on wheat 2 Toasted cockatrice gizzards on rye 3 Open-faced radish chips, deep-fried with dijon 4 Crunchy frog l…"
+      }
+    ],
+    "statBlocks": [],
+    "maps": [
+      {
+        "id": "session-player-map-1",
+        "label": "Map 3.1: the biblioplex",
+        "dmUrl": "https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/map-3.1-the-biblioplex.jpg",
+        "playerUrl": "https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/map-3.1-the-biblioplex-player.jpg"
+      },
+      {
+        "id": "session-player-map-2",
+        "label": "Map 3.2: firejolt cafe",
+        "dmUrl": "https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/map-3.2-firejolt-cafe.jpg",
+        "playerUrl": "https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/map-3.2-firejolt-cafe-player.jpg"
+      }
+    ],
+    "quickLinks": [
+      {
+        "depth": 2,
+        "id": "RunningThisAdventure",
+        "text": "Running This Adventure",
+        "type": "rule"
+      },
+      {
+        "depth": 3,
+        "id": "CharacterAdvancement",
+        "text": "Character Advancement",
+        "type": "rule"
+      },
+      {
+        "depth": 3,
+        "id": "AdventureOverview",
+        "text": "Adventure Overview",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "AStandaloneAdventure",
+        "text": "A Standalone Adventure",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "RandomEncounters",
+        "text": "Random Encounters",
+        "type": "encounter"
+      },
+      {
+        "depth": 3,
+        "id": "StudentSchedules",
+        "text": "Student Schedules",
+        "type": "reference"
+      },
+      {
+        "depth": 2,
+        "id": "FirstDayonCampus",
+        "text": "First Day on Campus",
+        "type": "scene"
+      },
+      {
+        "depth": 3,
+        "id": "Orientation",
+        "text": "Orientation",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "StrixhavenKnowledge",
+        "text": "Strixhaven Knowledge",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "Biblioplex",
+        "text": "Biblioplex",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "BiblioplexFeatures",
+        "text": "Biblioplex Features",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "BiblioplexLocationsB1B9",
+        "text": "Biblioplex Locations (B1-B9)",
+        "type": "location"
+      },
+      {
+        "depth": 4,
+        "id": "B1MainEntrance",
+        "text": "B1. Main Entrance",
+        "type": "location"
+      },
+      {
+        "depth": 4,
+        "id": "B2BiblioplexLounge",
+        "text": "B2. Biblioplex Lounge",
+        "type": "location"
+      },
+      {
+        "depth": 4,
+        "id": "B3StudentCafSeating",
+        "text": "B3. Student Café Seating",
+        "type": "location"
+      },
+      {
+        "depth": 4,
+        "id": "B4InformationDesk",
+        "text": "B4. Information Desk",
+        "type": "location"
+      },
+      {
+        "depth": 4,
+        "id": "B5StudentStore",
+        "text": "B5. Student Store",
+        "type": "location"
+      },
+      {
+        "depth": 4,
+        "id": "B6BiblioplexCafe",
+        "text": "B6. Biblioplex Café",
+        "type": "location"
+      },
+      {
+        "depth": 4,
+        "id": "B7LectureHall",
+        "text": "B7. Lecture Hall",
+        "type": "location"
+      },
+      {
+        "depth": 4,
+        "id": "B8StudyArea",
+        "text": "B8. Study Area",
+        "type": "location"
+      },
+      {
+        "depth": 4,
+        "id": "B9BookGarden",
+        "text": "B9. Book Garden",
+        "type": "location"
+      },
+      {
+        "depth": 3,
+        "id": "BiblioplexLocationsB10B19",
+        "text": "Biblioplex Locations (B10-B19)",
+        "type": "location"
+      },
+      {
+        "depth": 4,
+        "id": "B10MainStacks",
+        "text": "B10. Main Stacks",
+        "type": "location"
+      },
+      {
+        "depth": 4,
+        "id": "B11HallofOracles",
+        "text": "B11. Hall of Oracles",
+        "type": "location"
+      },
+      {
+        "depth": 4,
+        "id": "B12StudentandAlumniArtGallery",
+        "text": "B12. Student and Alumni Art Gallery",
+        "type": "location"
+      },
+      {
+        "depth": 4,
+        "id": "B13Amphitheater",
+        "text": "B13. Amphitheater",
+        "type": "location"
+      },
+      {
+        "depth": 4,
+        "id": "B14StudentActivitiesCenter",
+        "text": "B14. Student Activities Center",
+        "type": "location"
+      },
+      {
+        "depth": 4,
+        "id": "B15StudentCouncilHall",
+        "text": "B15. Student Council Hall",
+        "type": "location"
+      },
+      {
+        "depth": 4,
+        "id": "B16AdvancedStudentStacks",
+        "text": "B16. Advanced Student Stacks",
+        "type": "location"
+      },
+      {
+        "depth": 4,
+        "id": "B17AdvancedStudentOffice",
+        "text": "B17. Advanced Student Office",
+        "type": "location"
+      },
+      {
+        "depth": 4,
+        "id": "B18AdvancedStudentLounge",
+        "text": "B18. Advanced Student Lounge",
+        "type": "location"
+      },
+      {
+        "depth": 4,
+        "id": "B19TheCompendium",
+        "text": "B19. The Compendium",
+        "type": "location"
+      },
+      {
+        "depth": 2,
+        "id": "OrientationChallenge",
+        "text": "Orientation Challenge",
+        "type": "encounter"
+      },
+      {
+        "depth": 3,
+        "id": "ScavengerHuntClues",
+        "text": "Scavenger Hunt Clues",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "RunningtheHunt",
+        "text": "Running the Hunt",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "Clue1HallofOracles",
+        "text": "Clue 1: Hall of Oracles",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "Clue2StudentArtGallery",
+        "text": "Clue 2: Student Art Gallery",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "Clue3BiblioplexCaf",
+        "text": "Clue 3: Biblioplex Café",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "Clue4BookGarden",
+        "text": "Clue 4: Book Garden",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "Clue5Amphitheater",
+        "text": "Clue 5: Amphitheater",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "ThatTrunkHasTeeth",
+        "text": "That Trunk Has Teeth!",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "EndingtheThreat",
+        "text": "Ending the Threat",
+        "type": "encounter"
+      },
+      {
+        "depth": 3,
+        "id": "ExaminingtheTrunk",
+        "text": "Examining the Trunk",
+        "type": "reference"
+      },
+      {
+        "depth": 2,
+        "id": "FrogstheWord",
+        "text": "Frog’s the Word",
+        "type": "scene"
+      },
+      {
+        "depth": 3,
+        "id": "FirejoltCafe",
+        "text": "Firejolt Café",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "FirejoltCafeFeatures",
+        "text": "Firejolt Café Features",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "FirejoltCafeLocations",
+        "text": "Firejolt Café Locations",
+        "type": "location"
+      },
+      {
+        "depth": 4,
+        "id": "F1StudyTables",
+        "text": "F1. Study Tables",
+        "type": "location"
+      },
+      {
+        "depth": 4,
+        "id": "F2SeatingArea",
+        "text": "F2. Seating Area",
+        "type": "location"
+      },
+      {
+        "depth": 4,
+        "id": "F3BaristaStation",
+        "text": "F3. Barista Station",
+        "type": "location"
+      },
+      {
+        "depth": 4,
+        "id": "F4Newsstand",
+        "text": "F4. Newsstand",
+        "type": "location"
+      },
+      {
+        "depth": 4,
+        "id": "F5FiresideLounge",
+        "text": "F5. Fireside Lounge",
+        "type": "location"
+      },
+      {
+        "depth": 4,
+        "id": "F6QuietRoom",
+        "text": "F6. Quiet Room",
+        "type": "location"
+      },
+      {
+        "depth": 3,
+        "id": "AGreatFrogRace",
+        "text": "A Great Frog Race",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "ParticipatingintheRace",
+        "text": "Participating in the Race",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "RelationshipEncounter",
+        "text": "Relationship Encounter",
+        "type": "relationship"
+      },
+      {
+        "depth": 3,
+        "id": "TheyveGoneBerserk",
+        "text": "They’ve Gone Berserk!",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "EndingtheThreat1",
+        "text": "Ending the Threat",
+        "type": "encounter"
+      },
+      {
+        "depth": 3,
+        "id": "ExaminingtheFrogs",
+        "text": "Examining the Frogs",
+        "type": "reference"
+      },
+      {
+        "depth": 2,
+        "id": "MagicalPhysiologiesExamSlaadi",
+        "text": "Magical Physiologies Exam: Slaadi",
+        "type": "exam"
+      },
+      {
+        "depth": 3,
+        "id": "StudyingPhase1",
+        "text": "Studying Phase",
+        "type": "exam"
+      },
+      {
+        "depth": 3,
+        "id": "TestingPhase1",
+        "text": "Testing Phase",
+        "type": "exam"
+      },
+      {
+        "depth": 2,
+        "id": "Advanceto2ndLevel",
+        "text": "Advance to 2nd Level!",
+        "type": "scene"
+      }
+    ]
+  },
+  "anomalyFlags": [
+    {
+      "type": "reader-address",
+      "passage": "Your players’ characters have moved to campus, have picked up their tomes and uniforms, and are about to embark on their academic careers at Strixhaven University.",
+      "location": "Campus Kerfuffle",
+      "anchor": "CampusKerfuffle",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "Here’s what you need to know to run the adventure in this chapter, whether you’re running it as part of an ongoing campaign or as a standalone adventure.",
+      "location": "Running This Adventure",
+      "anchor": "RunningThisAdventure",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "If you’re running this chapter’s adventure as a standalone, the corruption of Sedgemoor’s waters is not the result of a sinister plot.",
+      "location": "A Standalone Adventure",
+      "anchor": "AStandaloneAdventure",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "Before you begin play, show the players the Strixhaven poster map that accompanies this book so they have an understanding of how the university is laid out.",
+      "location": "Orientation",
+      "anchor": "Orientation",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "Your acceptance letter stated that you must report to the Biblioplex’s Hall of Oracles to receive instructions on new-student orientation.",
+      "location": "Orientation",
+      "anchor": "Orientation",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "The hall sits at the center of the Biblioplex’s first floor, and you can already see students gathering there.",
+      "location": "Orientation",
+      "anchor": "Orientation",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "hidden-actor",
+      "passage": "Orientation instructions are given in the Hall of Oracles every few minutes, so let the players know that their characters can explore the Biblioplex further before heading over.",
+      "location": "Orientation",
+      "anchor": "Orientation",
+      "confidence": 0.68,
+      "reason": "A passive construction may conceal who performs the action."
+    },
+    {
+      "type": "reader-address",
+      "passage": "Costs range from 5 cp to 5 gp or more, at your discretion.",
+      "location": "B5. Student Store",
+      "anchor": "B5StudentStore",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "hidden-actor",
+      "passage": "Students with permission to work here are given passwords by which the Constructs recognize them as friends.",
+      "location": "B16. Advanced Student Stacks",
+      "anchor": "B16AdvancedStudentStacks",
+      "confidence": 0.68,
+      "reason": "A passive construction may conceal who performs the action."
+    },
+    {
+      "type": "reader-address",
+      "passage": "An almost sacrosanct sense of calm descends as you step into the Hall of Oracles.",
+      "location": "Orientation Challenge",
+      "anchor": "OrientationChallenge",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "“Your attention, please.",
+      "location": "Orientation Challenge",
+      "anchor": "OrientationChallenge",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "“As you are now Strixhaven University students, this storied Biblioplex will be your second home for research, studies, and even leisure.",
+      "location": "Orientation Challenge",
+      "anchor": "OrientationChallenge",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    }
+  ],
+  "contentHtml": "<h1 class=\"compendium-hr\" id=\"CampusKerfuffle\">Campus Kerfuffle</h1>\n\n<p>The day has finally arrived! Your players’ characters have moved to campus, have picked up their tomes and uniforms, and are about to embark on their academic careers at Strixhaven University.</p>\n<p>In this adventure, the characters explore campus as first-year students. They’ll navigate orientation at the Biblioplex and settle into social life in rowdy gathering spots. They’ll get roped into a thrilling dare. They’ll watch—and maybe even take part in—an outdoor play and discover something jarring in a marsh adjacent to the campus. And along the way, hints of something sinister emerge. Danger crops up in the most unassuming places, and the characters must rise to the occasion. Will they become campus heroes? Or will these kerfuffles explode into something that threatens all of Strixhaven?</p>\n<h2 class=\"compendium-hr heading-anchor\" id=\"RunningThisAdventure\">Running This Adventure</h2>\n<p>Here’s what you need to know to run the adventure in this chapter, whether you’re running it as part of an ongoing campaign or as a standalone adventure.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"CharacterAdvancement\">Character Advancement</h3>\n<p>This adventure assumes the characters are 1st level when it begins. The First-Year Level Advancement table summarizes when the characters gain levels during the adventure.</p>\n<table id=\"FirstYearLevelAdvancement\" class=\"table-compendium table--left-col2\">\n<caption class=\"heading-anchor\"><a href=\"#FirstYearLevelAdvancement\"></a>First-Year Level Advancement</caption>\n<thead>\n<tr>\n<th>Level</th>\n<th>Reached When Characters…</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>2nd</td>\n<td>Complete the first Magical Physiologies Exam</td>\n</tr>\n<tr>\n<td>3rd</td>\n<td>Complete the “Campus Daredevils” section and explore Captain Dapplewing’s Manor</td>\n</tr>\n<tr>\n<td>4th</td>\n<td>Finish the adventure</td>\n</tr>\n</tbody>\n</table>\n<h3 class=\"compendium-hr heading-anchor\" id=\"AdventureOverview\">Adventure Overview</h3>\n<p>The strange happenings on campus in this adventure are caused by a corrupted substance known as eldritch balm. Used at Strixhaven for decades, eldritch balm is an alchemical salve made from the sludgy, acidic waters of Sedgemoor, the bayou that encompasses the Witherbloom College campus. Once these waters undergo an alchemical process in Witherbloom’s faculty laboratories, the resulting eldritch balm is used to magically treat and strengthen objects, from storage trunks to cooking vats to stage props and more. The balm’s effects differ depending on the objects treated, but it typically provides resistance to certain types of damage or other protections useful on a campus where magic often goes awry.</p>\n<p>Unknown to anyone on campus, Sedgemoor’s waters were recently corrupted by the foul magic practiced by Murgaxor Grenshel, the villain the characters ultimately confront in <a href=\"/chapters/strixhaven-confronting-murgaxor/\" title=\"chapter 6\">chapter 6</a>. Murgaxor intended the eldritch balm to be affected by his sinister experiments and hoped the resulting chaos would disrupt life at Strixhaven.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"AStandaloneAdventure\">A Standalone Adventure</h4>\n<p>If you’re running this chapter’s adventure as a standalone, the corruption of Sedgemoor’s waters is not the result of a sinister plot. Rather, a surge of wild magic caused the corruption, but the outcome is the same.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"RandomEncounters\">Random Encounters</h3>\n<p>Use the First-Year Encounters table for random encounters on campus during this adventure.</p>\n<table id=\"FirstYearEncounters\" class=\"table-compendium table--generic-dice\">\n<caption class=\"heading-anchor\"><a href=\"#FirstYearEncounters\"></a>First-Year Encounters</caption>\n<thead>\n<tr>\n<th>d10</th>\n<th>Encounter</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1–4</td>\n<td>2 <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/17023-stirge\" data-tooltip-href=\"/monsters/17023-tooltip\">stirges</a> and 1 <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/16891-giant-rat\" data-tooltip-href=\"/monsters/16891-tooltip\">giant rat</a>, both of which were attracted to a nearby sickly scent and are hostile</td>\n</tr>\n<tr>\n<td>5–6</td>\n<td>2 suits of <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/16786-animated-armor\" data-tooltip-href=\"/monsters/16786-tooltip\">animated armor</a> that look like dusty, armored wizard robes</td>\n</tr>\n<tr>\n<td>7–8</td>\n<td>1 <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/16967-ochre-jelly\" data-tooltip-href=\"/monsters/16967-tooltip\">ochre jelly</a> that has bits of chewed scrolls and shards of potion bottles in its oozy mass</td>\n</tr>\n<tr>\n<td>9–10</td>\n<td>1 <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/16801-basilisk\" data-tooltip-href=\"/monsters/16801-tooltip\">basilisk</a> wearing a monocle and top hat that has escaped and is aggressive, although a student tried to keep it as a pet</td>\n</tr>\n</tbody>\n</table>\n<h3 class=\"compendium-hr heading-anchor\" id=\"StudentSchedules\">Student Schedules</h3>\n<p>Before starting this adventure, have the players choose at least three courses their characters are taking this year, either by coming up with the courses themselves or by rolling on the First-Year Courses table. Inform them that the characters are also enrolled in a required course, Magical Physiologies.</p>\n<table id=\"FirstYearCourses\" class=\"table-compendium table--generic-dice table--left-col3\">\n<caption class=\"heading-anchor\"><a href=\"#FirstYearCourses\"></a>First-Year Courses</caption>\n<thead>\n<tr>\n<th>d6</th>\n<th>Course</th>\n<th>Offered By</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1</td>\n<td>Arcano-botany for Beginners</td>\n<td>Witherbloom</td>\n</tr>\n<tr>\n<td>2</td>\n<td>Basic Magical Auras</td>\n<td>General Studies</td>\n</tr>\n<tr>\n<td>3</td>\n<td>Beginning Computational Magic</td>\n<td>Quandrix</td>\n</tr>\n<tr>\n<td>4</td>\n<td>Beginning Inkomancy</td>\n<td>Silverquill</td>\n</tr>\n<tr>\n<td>5</td>\n<td>History of Magic and Art</td>\n<td>Prismari</td>\n</tr>\n<tr>\n<td>6</td>\n<td>Introduction to Archaeomancy</td>\n<td>Lorehold</td>\n</tr>\n</tbody>\n</table>\n<h2 class=\"compendium-hr heading-anchor\" id=\"FirstDayonCampus\">First Day on Campus</h2>\n<p>This adventure begins when students have arrived on Strixhaven’s campus and the term’s classes are about to start. For the characters, the first order of business is to complete the orientation required of first-year students. Orientation takes place in the Biblioplex, the university’s grand library. A full description of the Biblioplex follows this section.</p>\n<figure class=\"compendium-image\" id=\"imgbiblioplex\">\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/03-026.biblioplex.png\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/03-026.biblioplex.png\" class=\"ddb-lightbox-inner compendium-center-banner-img\" style=\"width: 850px;\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a>\n<figcaption>Some Strixhaven students take studying very seriously. Others would rather play with magic in the Biblioplex</figcaption>\n</figure>\n<h3 class=\"compendium-hr heading-anchor\" id=\"Orientation\">Orientation</h3>\n<p>Before you begin play, show the players the Strixhaven poster map that accompanies this book so they have an understanding of how the university is laid out.</p>\n<p>With the characters arrive at the Biblioplex, read or paraphrase the following:</p>\n<aside class=\"read-aloud-text\" id=\"session-read-aloud-1\">\n<p>Majestic marble archways, tomes seemingly stacked for miles, and the infectious energy of hundreds of young adults fill the Biblioplex, the grand library at the heart of Strixhaven University. The sights, sounds, and sparks of magic in the air are wondrous.</p>\n<p>Your acceptance letter stated that you must report to the Biblioplex’s Hall of Oracles to receive instructions on new-student orientation. The hall sits at the center of the Biblioplex’s first floor, and you can already see students gathering there.</p>\n</aside>\n<p>Orientation instructions are given in the Hall of Oracles every few minutes, so let the players know that their characters can explore the Biblioplex further before heading over. If the characters choose to explore before orientation, make sure they see other new students engaging in their own versions of the scavenger hunt, each unique to that set of students (see “<a href=\"#OrientationChallenge\" title=\"Orientation Challenge\">Orientation Challenge</a>” later in this chapter).</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"StrixhavenKnowledge\">Strixhaven Knowledge</h3>\n<p>The characters know the basics about the Strixhaven campus, as well as the following information:</p>\n<p><strong>Central Campus.</strong> The Biblioplex isn’t the only building on the central campus, where students spend a lot of time. Two other popular locations are <a href=\"#FirejoltCafe\" title=\"Firejolt Café\">Firejolt Café</a> and <a href=\"/chapters/strixhaven-work-hard-play-harder/#BowsEndTavern1\" title=\"Bow’s End Tavern\">Bow’s End Tavern</a>, whose maps are found later in this chapter.</p>\n<p><strong>Colleges.</strong> Characters know the overall details presented in <a href=\"/chapters/strixhaven-life-at-strixhaven/\" title=\"chapter 1\">chapter 1</a> about the five colleges that make up Strixhaven. They also know that each Strixhaven student chooses membership in a specific college at the start of their second year.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"Biblioplex\">Biblioplex</h3>\n<p>The Biblioplex library acts as a hub for learning and gathering for students across Strixhaven. Before the characters begin the “<a href=\"#OrientationChallenge\" title=\"Orientation Challenge\">Orientation Challenge</a>” event described later, they might wish to explore the library, shown on map 3.1.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"BiblioplexFeatures\">Biblioplex Features</h4>\n<p>The Biblioplex has the following features:</p>\n<p><strong>Ceilings.</strong> The ceilings throughout the first floor of the Biblioplex are 50 feet high. The second- and third-floor ceilings are 30 feet high.</p>\n<figure class=\"compendium-image compendium-image-left\" id=\"imgdeepconcentration\">\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/03-027.concentration.png\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/03-027.concentration.png\" class=\"ddb-lightbox-inner\" style=\"width: 355px;\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a>\n<figcaption>Many students employ deep concentration<br>techniques to help them tackle<br>their rigorous class schedules</figcaption>\n</figure>\n<p><strong>Magic Stairs.</strong> As in all Strixhaven buildings, the stairs and steps leading into and within the Biblioplex are enchanted to move and reshape for full accessibility. See the “Strixhaven Accessibility” sidebar.</p>\n<p><strong>Transport Circles.</strong> A runic circle is painted on the floor near each staircase in the Biblioplex, as well as at the top and bottom of the steps leading to the main entrance in <a href=\"#B1MainEntrance\" title=\"area B1\">area B1</a>. These circles are permanent, customized teleportation circles. When a user moves onto a circle and mentally focuses on the floor to which they wish to travel, they are transported to the destination floor, arriving at that floor’s runic circle for that staircase. (Students are all aware that entering the second floor is forbidden without permission from a faculty member.) The circle at the bottom of the front steps transports users to the circle at the top of the steps and vice versa.</p>\n<p><strong>Students and Professors.</strong> Students of all years and colleges can be found in the Biblioplex, as can professors from all the colleges. See <a href=\"/chapters/strixhaven-friends-and-foes/\" title=\"chapter 7\">chapter 7</a> for stat blocks for <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160303-first-year-student\" data-tooltip-href=\"/monsters/2160303-tooltip\">first-year students</a>, and for apprentices, pledgemages, and professors from the different colleges.</p>\n<aside class=\"rules-text\" id=\"StrixhavenAccessibility\">\n<p>STRIXHAVEN ACCESSIBILITY</p>\n<p>The buildings on campus feature magic steps and staircases that respond to the needs of those who use them. The steps might shift up or down like escalators, or they might flatten out completely before raising or lowering like lifts to accommodate larger creatures and mobility devices, depending on users’ needs.</p>\n<p>In certain multistory buildings (including the Biblioplex and Captain Dapplewing’s Manor), magic transport circles also allow characters quick access between different levels.</p>\n</aside>\n<h3 class=\"compendium-hr heading-anchor\" id=\"BiblioplexLocationsB1B9\">Biblioplex Locations (B1-B9)</h3>\n<p>The following locations are keyed to map 3.1. All descriptions assume the characters are wandering the Biblioplex during the day. At night, the library is locked and devoid of other students or staff.</p>\n<figure id=\"Map31thebiblioplex\" class=\"compendium-image\">\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/map-3.1-the-biblioplex.jpg\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/map-3.1-the-biblioplex.jpg\" class=\"ddb-lightbox-inner compendium-center-banner-img\" style=\"width: 850px;\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a>\n<figcaption>Map 3.1: the biblioplex <a class=\"ddb-lightbox-outer\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/map-3.1-the-biblioplex-player.jpg\" data-lightbox=\"1\" data-title=\"View Player Version\" id=\"session-player-map-1\">View Player Version</a></figcaption>\n</figure>\n<h4 class=\"compendium-hr heading-anchor\" id=\"B1MainEntrance\">B1. Main Entrance</h4>\n<p>Enchanted marble steps lead up 5 feet to a small plaza at the Biblioplex’s entrance. The double door’s vertical handles are each carved in the likeness of a robed scholar. During the day, the doors stand open. At night, the doors are closed, locked, and sealed with an <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2003-arcane-lock\" data-tooltip-href=\"/spells/2003-tooltip\">arcane lock</a> spell. A successful DC 25 Dexterity check using thieves’ tools opens the lock (DC 35 while the <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2003-arcane-lock\" data-tooltip-href=\"/spells/2003-tooltip\">arcane lock</a> is in effect). Only the Biblioplex’s reference librarians and certain faculty members know the <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2003-arcane-lock\" data-tooltip-href=\"/spells/2003-tooltip\">arcane lock</a>’s password.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"B2BiblioplexLounge\">B2. Biblioplex Lounge</h4>\n<p>Luxurious couches and sturdy tables furnish this spacious area. Students, employees, and staff members often use this lounge to relax between shifts in the student store (<a href=\"#B5StudentStore\" title=\"area B5\">area B5</a>), the Biblioplex café (<a href=\"#B6BiblioplexCafe\" title=\"area B6\">area B6</a>), or elsewhere in the library. Each table holds piles of magazines, newsletters, flyers, and nonmagical scrolls from around campus. A character who examines these materials finds recruitment flyers from 1d3 Extracurriculars. They also find “Help Wanted” ads for the Jobs at the Biblioplex. <a href=\"/chapters/strixhaven-school-is-in-session/#Extracurriculars\" title=\"Extracurriculars\">Extracurriculars</a> and <a href=\"/chapters/strixhaven-school-is-in-session/#Jobs\" title=\"Jobs\">Jobs</a> are detailed earlier in the chapter.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"B3StudentCafSeating\">B3. Student Café Seating</h4>\n<p>This area typically holds 21 (6d6) students, all of them studying, eating, chatting, or even sleeping. Many enjoy food and drinks from the café (<a href=\"#B6BiblioplexCafe\" title=\"area B6\">area B6</a>).</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"B4InformationDesk\">B4. Information Desk</h4>\n<p>Three faculty-appointed reference librarians work at each of these circular desks (use any of the professor stat blocks found in <a href=\"/chapters/strixhaven-friends-and-foes/\" title=\"chapter 7\">chapter 7</a> if needed). All are expert scholars and powerful mages. They can provide helpful instructions for where to find any public location or collection in the Biblioplex.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"B5StudentStore\">B5. Student Store</h4>\n<p>This small shop is stocked with books, equipment, and gear useful as academic supplies. The store’s manager is Groff Lundquist (neutral good human <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/16829-commoner\" data-tooltip-href=\"/monsters/16829-tooltip\">commoner</a>), a friendly Strixhaven staff member known for his ability to fashionably mix and match items of university apparel. Students can buy hats, scarves, tunics, robes, gloves, and other apparel embroidered with the Strixhaven star or with the sigil of any of Strixhaven’s colleges. Costs range from 5 cp to 5 gp or more, at your discretion.</p>\n<p>Once a character chooses a college at the start of second year, they receive a set of college robes, a knit hat, a scarf, a tunic, and gloves free of charge. (This set normally costs 5 gp.)</p>\n<p>In addition to nonmagical gear and clothing, the store also contains the magic items from the “<a href=\"/chapters/strixhaven-character-options/#MagicItems\" title=\"Magic Items\">Magic Items</a>” section of <a href=\"/chapters/strixhaven-character-options/\" title=\"chapter 2\">chapter 2</a>.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"B6BiblioplexCafe\">B6. Biblioplex Café</h4>\n<p>One wall of this area is covered with a mural made from a living tree’s roots, which move occasionally and make the entire place feel alive. The ceiling is covered in painted leaves, which change colors depending on the season thanks to a permanent illusion effect. The magic also prompts painted squirrels to run up and down the mural’s roots, and painted birds to chirp among the leaves.</p>\n<p>Up to ten students are typically present here during the day. Ordinarily, three more students work here, but during orientation, the café’s manager, Aisla Fitzbottom (chaotic good gnome <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/16829-commoner\" data-tooltip-href=\"/monsters/16829-tooltip\">commoner</a>), is working alone. She is charmingly perky and has a mind like a steel trap when it comes to recognizing students. However, her organizational skills are somewhat lackadaisical.</p>\n<p>The café always serves coffee and tea, which costs 1 cp per cup. The sandwich of the day varies. Roll below to determine which sandwich is available on any given day in the café.</p>\n<table id=\"CafSandwichOfTheDay\" class=\"table-compendium table--generic-dice\">\n<caption class=\"heading-anchor\"><a href=\"#CafSandwichOfTheDay\"></a>Café Sandwich of the Day</caption>\n<thead>\n<tr>\n<th>d6</th>\n<th>Sandwich</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1</td>\n<td>Grilled halloumi with morels on wheat</td>\n</tr>\n<tr>\n<td>2</td>\n<td>Toasted cockatrice gizzards on rye</td>\n</tr>\n<tr>\n<td>3</td>\n<td>Open-faced radish chips, deep-fried with dijon</td>\n</tr>\n<tr>\n<td>4</td>\n<td>Crunchy frog legs on toast</td>\n</tr>\n<tr>\n<td>5</td>\n<td>Rainbow carrots and watercress chestnuts on white</td>\n</tr>\n<tr>\n<td>6</td>\n<td>Dragonbreath peppers and salami on a bagel</td>\n</tr>\n</tbody>\n</table>\n<h4 class=\"compendium-hr heading-anchor\" id=\"B7LectureHall\">B7. Lecture Hall</h4>\n<p>Each of these halls hosts interdisciplinary lectures for Strixhaven students. The seats magically grow or shrink to comfortably accommodate students of any size or body type. The halls’ acoustics are magically enhanced to amplify the professor’s lecture and minimize the disruption of side conversations. While a class is in session, each hall holds a professor and up to thirty students.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"B8StudyArea\">B8. Study Area</h4>\n<p>These open study areas feature simple wooden tables and chairs. During the day, up to thirty students can typically be found here.</p>\n<p>If the characters pass by the western study area before orientation, members of the Live-Action Roleplaying Guild are pulling costumes and props from a half dozen old trunks. The guild is preparing for an event later on the Biblioplex’s lawn: a game they call Beholders versus Behirs. Rosie Wuzfeddlims (chaotic good gnome <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160303-first-year-student\" data-tooltip-href=\"/monsters/2160303-tooltip\">first-year student</a>; see the “<a href=\"/chapters/strixhaven-relationships/#RosimyffenbipRosieWuzfeddlims\" title=\"Fellow Students\">Fellow Students</a>” section) is directing students as they cobble together beholder and behir costumes, as well as visual effects made from sheets, blankets, wooden frames, tin plates, and illusion magic. (This preparation erupts into chaos during “<a href=\"#ThatTrunkHasTeeth\" title=\"That Trunk Has Teeth!\">That Trunk Has Teeth!</a>” later in this chapter.)</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"B9BookGarden\">B9. Book Garden</h4>\n<p>In these quiet areas, students sit on the grass and study among lush foliage. Sometime last year, three <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/16791-awakened-shrub\" data-tooltip-href=\"/monsters/16791-tooltip\">awakened shrubs</a> wandered in here and settled in each garden, and the university has welcomed them to stay. Members of Witherbloom College typically tend this space, and three <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160339-witherbloom-pledgemage\" data-tooltip-href=\"/monsters/2160339-tooltip\">Witherbloom pledgemages</a> (see <a href=\"/chapters/strixhaven-friends-and-foes/#WitherbloomPledgemage\" title=\"chapter 7\">chapter 7</a>) can be found here most days.</p>\n<p>Members of the Fantastical Horticulture Club often relax in this area and hold meetings here from time to time. If the characters explore this area before or after orientation, Urzmaktok Grojsh (neutral orc <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160338-witherbloom-apprentice\" data-tooltip-href=\"/monsters/2160338-tooltip\">Witherbloom apprentice</a>; see the “<a href=\"/chapters/strixhaven-relationships/#UrzmaktokGrojsh\" title=\"Fellow Students\">Fellow Students</a>” section) is here, recruiting first-year students to the club.</p>\n<figure class=\"compendium-image\" id=\"imgbiblioplexhall\">\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/03-028.biblioplex.png\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/03-028.biblioplex.png\" class=\"ddb-lightbox-inner compendium-center-banner-img\" style=\"width: 850px;\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a>\n<figcaption>The Biblioplex is a storied hall of learning on campus as well as a meeting place for friends of all stripes</figcaption>\n</figure>\n<h3 class=\"compendium-hr heading-anchor\" id=\"BiblioplexLocationsB10B19\">Biblioplex Locations (B10-B19)</h3>\n<h4 class=\"compendium-hr heading-anchor\" id=\"B10MainStacks\">B10. Main Stacks</h4>\n<p>Floor-to-ceiling bookshelves fill the center and the east end of the library’s first floor, with the denser east stacks under a magic effect that shifts them when students approach, creating space to stand single-file between them. These books are mostly introductory texts, and first-year students are often directed here by their instructors. In each of these areas, two <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160300-cogwork-archivist\" data-tooltip-href=\"/monsters/2160300-tooltip\">cogwork archivists</a> (see <a href=\"/chapters/strixhaven-friends-and-foes/#CogworkArchivist\" title=\"chapter 7\">chapter 7</a>) busily shelve returned or misfiled books.</p>\n<p>Characters who browse these shelves unaided stumble on what they need with a successful DC 15 Wisdom (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/14-tooltip\">Perception</a>) check. However, it’s always easier to ask a reference librarian (<a href=\"#B4InformationDesk\" title=\"area B4\">area B4</a>).</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"B11HallofOracles\">B11. Hall of Oracles</h4>\n<p>This hallowed hall is filled with statues of the university’s past Oracles. At the center of the hall, a pulsing ball of magical energy—the Strixhaven Snarl—fills the area with bright light. See the book’s <a href=\"/chapters/strixhaven-welcome-to-strixhaven/#StrixhavensWorld\" title=\"introduction\">introduction</a> for information about snarls and the Oracle.</p>\n<p>The “<a href=\"#OrientationChallenge\" title=\"Orientation Challenge\">Orientation Challenge</a>” event later in this chapter starts here.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"B12StudentandAlumniArtGallery\">B12. Student and Alumni Art Gallery</h4>\n<p>This crisp-looking room features white walls and columns that stretch from floor to ceiling. Displayed on or within these are art pieces representative of various media. Students from Prismari College typically tend this space, and three <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160319-prismari-pledgemage\" data-tooltip-href=\"/monsters/2160319-tooltip\">Prismari pledgemages</a> (see <a href=\"/chapters/strixhaven-friends-and-foes/#PrismariPledgemage\" title=\"chapter 7\">chapter 7</a>) can be found here most days, either cleaning the gallery or studying the techniques used in the displayed pieces. A storage area at the back holds supplies and artwork waiting to go on display.</p>\n<p>The Distinguished Society of Fine Artists often meets and holds discussions here. If the characters explore this area before or after orientation, Cadoras Damellawar (chaotic good elf <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160303-first-year-student\" data-tooltip-href=\"/monsters/2160303-tooltip\">first-year student</a>; see the “<a href=\"/chapters/strixhaven-relationships/#CadorasDamellawar\" title=\"Fellow Students\">Fellow Students</a>” section) is here recruiting first-year students to the society.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"B13Amphitheater\">B13. Amphitheater</h4>\n<p>This impressive stage is used for lectures, for assemblies, and as a gathering place in case of emergencies. Magic steps lead up to the stage from the floor of the library. Members of the Playactors Drama Guild often use this stage to meet and rehearse when the Rose Stage on Silverquill’s campus is unavailable. If the characters pass by this area before or after orientation, Quentillius Antiphiun Melentor III (neutral human <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160303-first-year-student\" data-tooltip-href=\"/monsters/2160303-tooltip\">first-year student</a>; see the “<a href=\"/chapters/strixhaven-relationships/#QuentilliusAntiphiunMelentorIII\" title=\"Fellow Students\">Fellow Students</a>” section) is here recruiting new students to the Playactors Drama Guild.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"B14StudentActivitiesCenter\">B14. Student Activities Center</h4>\n<p>This room is filled with tables and chairs and is available to any student organization registered with Strixhaven for use as a meeting place, rehearsal facility, or crafting site, or for other approved purposes.</p>\n<p>If the characters explore this area before or after orientation, it is set up to promote Extracurriculars, the rules of which appear earlier in the chapter. The tables are covered with flyers from the Dead Languages Society, the Dragonchess Club, the Dragonsguard Historical Society, Future Entrepreneurs of Strixhaven, the Intramural Gymnastics Club, the Intramural Silkball Club, the Intramural Water-Dancing Club, the Mage Tower Cheer Squad, the Strixhaven Iron-Lifters Society, the Strixhaven Show Band Association, the <em>Strixhaven Star</em>, and Student-Mages of Faith, and are staffed by the students listed in “<a href=\"/chapters/strixhaven-school-is-in-session/#Extracurriculars\" title=\"Extracurriculars\">Extracurriculars</a>” as being associated with them.</p>\n<p>Extracurricular groups not here can be found elsewhere in the Biblioplex, along with their student NPCs—the Live-Action Roleplaying Guild (<a href=\"#B8StudyArea\" title=\"area B8\">area B8</a>), the Fantastical Horticulture Club (<a href=\"#B9BookGarden\" title=\"area B9\">area B9</a>), the Distinguished Society of Fine Artists (area B12), and the Playactors Drama Guild (area B13).</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"B15StudentCouncilHall\">B15. Student Council Hall</h4>\n<p>Filled with wooden tables and benches, this room has a flag displaying the Strixhaven star symbol hanging on its back wall. Here, a student council publicly debates Strixhaven policies that most affect the student body. The leaders of the school’s Extracurriculars come to the council to conduct matters of business, and the council usually meets on the first day of every month. Outside those meeting days, the room is used for other official university business or stands empty.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"B16AdvancedStudentStacks\">B16. Advanced Student Stacks</h4>\n<p>Rooms on the Biblioplex’s second floor can be accessed only with keys held by faculty members, or that the reference librarians in <a href=\"#B4InformationDesk\" title=\"area B4\">area B4</a> grant students on a case-by-case basis. Typically, students don’t receive keys to these stacks until they’re studying for their final thesis during their fourth year at Strixhaven. The arcane knowledge in the books here is not public—and is sometimes dangerous.</p>\n<p>To prevent overly ambitious mages and Strixhaven’s enemies from teleporting into and accessing this area, two <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/17012-shield-guardian\" data-tooltip-href=\"/monsters/17012-tooltip\">shield guardians</a> patrol at all times. Both the guardians have <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2254-sleep\" data-tooltip-href=\"/spells/2254-tooltip\">sleep</a> as their stored spell, and their control amulets are in the possession of two of the librarians on duty in the Biblioplex. Students with permission to work here are given passwords by which the Constructs recognize them as friends.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"B17AdvancedStudentOffice\">B17. Advanced Student Office</h4>\n<p>These private offices are for students working on their theses, accessed using the same keys that allow access to area B16.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"B18AdvancedStudentLounge\">B18. Advanced Student Lounge</h4>\n<p>This rest area is designed to help stressed-out senior students unwind. Large tables are set up for gaming and shelves are filled with recreational reading material. The area can be accessed only through the advanced student stacks (area B17).</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"B19TheCompendium\">B19. The Compendium</h4>\n<p>This area on the library’s third floor holds copies of most of the mundane, widely available written works in the multiverse. The books are inscrutably cataloged, so it’s almost impossible to find anything without requesting information from a reference librarian (<a href=\"#B4InformationDesk\" title=\"area B4\">area B4</a>). Characters who look for information without obtaining help discover what they’re looking for only with a successful DC 20 Wisdom (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/14-tooltip\">Perception</a>) check.</p>\n<p>At the center of this area stands a statue depicting a mighty, benevolent dragon. The magical statue reads aloud the contents of most books placed in front of it if a character makes that request verbally or mentally. (The magic of the statue can assess text such as verbal curses that present a danger if read aloud, and the statue ignores requests to read such text.)</p>\n<figure class=\"compendium-image\" id=\"imgcleaning\">\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/03-029.cleaning.png\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/03-029.cleaning.png\" class=\"ddb-lightbox-inner compendium-center-banner-img\" style=\"width: 850px;\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a>\n<figcaption>Cleaning up after students is often a harried undertaking.<br>Luckily, the many Biblioplex assistants are up to the task</figcaption>\n</figure>\n<h2 class=\"compendium-hr heading-anchor\" id=\"OrientationChallenge\">Orientation Challenge</h2>\n<p>When the characters enter the Hall of Oracles to begin orientation, read or paraphrase the following:</p>\n<aside class=\"read-aloud-text\" id=\"session-read-aloud-2\">\n<p>An almost sacrosanct sense of calm descends as you step into the Hall of Oracles. “Brilliant scholars,” says a rich, soothing voice radiating from the hall’s central snarl of glowing energy. “Your attention, please.</p>\n<p>“As you are now Strixhaven University students, this storied Biblioplex will be your second home for research, studies, and even leisure. There is just one task to accomplish before you officially embark on your academic journey—a scavenger hunt!”</p>\n</aside>\n<p>A small parchment materializes in front of the characters. It presents a list of clues.</p>\n<aside class=\"read-aloud-text\" id=\"session-read-aloud-3\">\n<p>“The rules are simple,” the voice says. “Each clue on this list will lead you to a different location in the Biblioplex. Simply travel to the area each clue references and perform the action the clue suggests. Time is of the essence. You have only until the end of the day to finish your hunt.</p>\n<p>“Solve as many clues as you can, because at each location, you may win a prize! Now then, off you go!”</p>\n</aside>\n<h3 class=\"compendium-hr heading-anchor\" id=\"ScavengerHuntClues\">Scavenger Hunt Clues</h3>\n<p>A character can win a prize for each clue they solve but can receive only one item in each place. If a character tries to redo a clue to receive a second item, the magic that reveals the item doesn’t work again. Here are the clues:</p>\n<p><strong>Clue 1.</strong> You’ll forget all about any trouble or plight when you step forward and are ensnarled in light.</p>\n<p><strong>Clue 2.</strong> Alumni commission works when they retire, seeking promising mages to inspire.</p>\n<p><strong>Clue 3.</strong> Each group deserves a free treat for their investment. Serve up this list and enjoy your refreshment.</p>\n<p><strong>Clue 4.</strong> These leafy beds aren’t always what they seem. Give them a pat and see what you glean.</p>\n<p><strong>Clue 5.</strong> Some stars are ancient, enduring, and bright. But others—maybe you!—are born on opening night.</p>\n<p>Each clue can be unraveled either by deduction, or with a successful DC 10 Intelligence (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/8-tooltip\">Investigation</a>) check. A decoded clue points the characters toward one of the areas of the Biblioplex as well as the action they must take to receive a prize in that area.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"RunningtheHunt\">Running the Hunt</h3>\n<p>Explain the Biblioplex’s areas in detail before the characters begin this scavenger hunt, so they have an idea of which areas the clues point to. Have the characters begin the scavenger hunt with the first clue, since it points to the room they’re already standing in. The players can then complete the other clues in any order they wish.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"Clue1HallofOracles\">Clue 1: Hall of Oracles</h3>\n<p>This clue refers the characters to the room they start the orientation in (<a href=\"#B11HallofOracles\" title=\"area B11\">area B11</a>).</p>\n<p>If a character touches the pooled energy below the snarl, they momentarily lose track of their body, overwhelmed by the snarl’s magical power. The character automatically disengages from the snarl and discovers that they are holding a <a class=\"tooltip-hover item-tooltip\" href=\"https://www.dndbeyond.com/equipment/71-potion-of-healing\" data-tooltip-href=\"/adventuring-gear/71-tooltip\">potion of healing</a>.</p>\n<figure class=\"compendium-image\" id=\"imgsnarl\">\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/03-030.snarl.png\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/03-030.snarl.png\" class=\"ddb-lightbox-inner compendium-center-banner-img\" style=\"width: 850px;\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a>\n<figcaption>The magic snarl at the heart of the Hall of Oracles shines through the Biblioplex like a miniature sun</figcaption>\n</figure>\n<h3 class=\"compendium-hr heading-anchor\" id=\"Clue2StudentArtGallery\">Clue 2: Student Art Gallery</h3>\n<p>This clue refers to the Student and Alumni Art Gallery in <a href=\"#B12StudentandAlumniArtGallery\" title=\"area B12\">area B12</a>.</p>\n<p>When the characters wander through the gallery, they see a portrait of several older alumni wearing Prismari College robes. If a character examines the portrait, they find a plaque that reads: “At Strixhaven we were all inspired.” Below the plaque is a small lever. If a character uses an action to pull the lever, a box pops out of the wall containing a <a class=\"tooltip-hover magic-item-tooltip\" href=\"https://www.dndbeyond.com/magic-items/4239824-strixhaven-pennant\" data-tooltip-href=\"/magic-items/4239824-tooltip\">Strixhaven pennant</a> (see <a href=\"/chapters/strixhaven-character-options/#StrixhavenPennant\" title=\"chapter 2\">chapter 2</a>) for each character in the party. Once it dispenses the pennants, the box disappears back into the wall and doesn’t work for the characters again.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"Clue3BiblioplexCaf\">Clue 3: Biblioplex Café</h3>\n<p>This clue refers to the Biblioplex Café in <a href=\"#B6BiblioplexCafe\" title=\"area B6\">area B6</a>.</p>\n<p>When the characters enter the café, they see several students enjoying drinks and snacks. Aisla Fitzbottom (chaotic good gnome <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/16829-commoner\" data-tooltip-href=\"/monsters/16829-tooltip\">commoner</a>), the café manager, is a Strixhaven staff member and the only worker behind the counter at present. The characters must present their scavenger hunt list to Aisla. When they do, she tells them to come behind the counter and help her quickly restock the café’s sandwiches and baked goods from several modified <a class=\"tooltip-hover magic-item-tooltip\" href=\"https://www.dndbeyond.com/magic-items/5353-hewards-handy-haversack\" data-tooltip-href=\"/magic-items/5353-tooltip\">Heward’s handy haversacks</a>.</p>\n<p>If a character goes above and beyond in their assistance with a successful DC 15 Dexterity check, Aisla gives that character a random trinket from <a href=\"/chapters/strixhaven-character-options/\" title=\"chapter 2\">chapter 2</a>. Many students have ignored her requests for help during the orientation, she says, so she decides to make an exception with a gift from her own pockets. Plus, she likes the new students’ ambition.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"Clue4BookGarden\">Clue 4: Book Garden</h3>\n<p>This clue refers to the book gardens of <a href=\"#B9BookGarden\" title=\"area B9\">area B9</a>.</p>\n<p>When the characters enter a book garden, they see a lush arboretum. A successful DC 10 Intelligence (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/8-tooltip\">Investigation</a>) check reveals that three of the shrubs are not ordinary greenery, but are instead <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/16791-awakened-shrub\" data-tooltip-href=\"/monsters/16791-tooltip\">awakened shrubs</a>, each with a glistening crown of leaves. If a character uses an action to pat the shrubs on these leaves, the branches part to reveal a <a class=\"tooltip-hover magic-item-tooltip\" href=\"https://www.dndbeyond.com/magic-items/4239817-cuddly-strixhaven-mascot\" data-tooltip-href=\"/magic-items/4239817-tooltip\">cuddly Strixhaven mascot</a> (see <a href=\"/chapters/strixhaven-character-options/#CuddlyStrixhavenMascot\" title=\"chapter 2\">chapter 2</a>), representing a random mascot. This magic works only once per character.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"Clue5Amphitheater\">Clue 5: Amphitheater</h3>\n<p>This clue refers to the amphitheater in <a href=\"#B13Amphitheater\" title=\"area B13\">area B13</a>.</p>\n<p>When the characters reach the amphitheater, they see an impressively lavish stage, with the curtains drawn back as if to reveal performers on the opening night of a major production. If a character recites, sings, hums, belches, or otherwise emits any line or tune while standing on the stage, bright floodlights snap on around the stage’s perimeter—a number of lights equal to the number of characters in the group. Approaching any of the lights reveals a recess in which lies a <a class=\"tooltip-hover item-tooltip\" href=\"https://www.dndbeyond.com/equipment/57-lantern-hooded\" data-tooltip-href=\"/adventuring-gear/57-tooltip\">hooded lantern</a> filled with oil.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"ThatTrunkHasTeeth\">That Trunk Has Teeth!</h3>\n<p>Once the characters have completed as much of the scavenger hunt as they wish, they hear a commotion coming from the west shelves of the main stacks in <a href=\"#B10MainStacks\" title=\"area B10\">area B10</a>. Read or paraphrase the following:</p>\n<aside class=\"read-aloud-text\" id=\"session-read-aloud-4\">\n<p>The joyous and energetic atmosphere of the first floor is shattered by panicked shouting.</p>\n<p>“That trunk!” a young elf screams, pointing toward the stacks as she runs by. “That trunk has teeth! Please, anyone, stop it!”</p>\n<p>Chaos erupts in the library as students stream in all directions, their books and papers flying as they shout in fear. The only faculty mages in sight are trying to deal with panicked students. You can’t just let some monster ruin the first day of classes. Time to step up!</p>\n</aside>\n<p>In the western part of <a href=\"#B8StudyArea\" title=\"area B8\">area B8</a>, the characters see a half dozen old trunks strewn about. Sheets, blankets, large wooden frames, and half-painted wooden props are scattered haphazardly around the tables where members of the Live-Action Roleplaying Guild were setting up for a show. Rampaging throughout the mess is a trunk that has been transformed into a <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/16957-mimic\" data-tooltip-href=\"/monsters/16957-tooltip\">mimic</a>, which attacks the characters as soon as they enter the area. Because the mimic is only temporarily animated, it has the following changes to its stat block:</p>\n<ul>\n<li>It has 30 hit points.</li>\n<li>It has disadvantage on attack rolls.</li>\n</ul>\n<p>Once it’s defeated, the mimic turns back into an ordinary trunk.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"EndingtheThreat\">Ending the Threat</h4>\n<p>If all the characters fall <a class=\"tooltip-hover condition-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#UnconsciousCondition\" data-tooltip-href=\"/conditions/15-tooltip\">unconscious</a> during the fight, Professor Mavinda Sharpbeak (neutral good owlin <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160332-silverquill-professor-of-radiance\" data-tooltip-href=\"/monsters/2160332-tooltip\">Silverquill professor of radiance</a>; see <a href=\"/chapters/strixhaven-friends-and-foes/#SilverquillProfessorofRadiance\" title=\"chapter 7\">chapter 7</a>) arrives on the scene at the start of the next round and finishes off the mimic. If the characters defeat the mimic, Professor Sharpbeak arrives on the scene shortly after the group dispatches it. She carries a bag of <a class=\"tooltip-hover item-tooltip\" href=\"https://www.dndbeyond.com/equipment/71-potion-of-healing\" data-tooltip-href=\"/adventuring-gear/71-tooltip\">potions of healing</a>, which she administers to any injured or <a class=\"tooltip-hover condition-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#UnconsciousCondition\" data-tooltip-href=\"/conditions/15-tooltip\">unconscious</a> characters.</p>\n<p>A guidance counselor at Strixhaven, Professor Sharpbeak was overseeing the orientation activities, but the mass of fleeing students prevented her from responding to the incident immediately. When she has assisted any wounded characters, she introduces herself.</p>\n<aside class=\"read-aloud-text\" id=\"session-read-aloud-5\">\n<p>“Students, well done!” Professor Sharpbeak exclaims, ruffling her feathers with pride. “Such bravery in this incoming class! And what a bizarre occurrence. I can’t remember any of those old costume trunks ever bearing a hint of magic—let alone that manner of transmutation. I will be having a word with the equipment managers over at the Rose Stage. They’re supposed to keep this sort of thing from happening!”</p>\n</aside>\n<p>If the characters chat with the professor, she reassures them that this was an unfortunate incident—but sadly, not an unheard-of one, since strange monsters often find their way onto campus. Still, it’s nothing to worry about. Before she goes, she reaches into her bag and gives each character 1 platinum piece, thanking them again for their help and welcoming them to campus.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"ExaminingtheTrunk\">Examining the Trunk</h3>\n<p>Characters who examine the mimic and succeed on a DC 12 Wisdom (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/14-tooltip\">Perception</a>) check notice that the defeated trunk’s wood and leather has been rubbed with a black, oily substance. If asked about this, Professor Sharpbeak says it’s likely just a leather conditioner. With no magic remaining in the eldritch balm to reveal the contamination, she has no explanation for why the trunk temporarily turned into a mimic and attacked.</p>\n<h2 class=\"compendium-hr heading-anchor\" id=\"FrogstheWord\">Frog’s the Word</h2>\n<p>At some point during the weeks that follow their orientation day and the start of classes, the characters are hanging out together on the central campus. Another student is part of this scene—ideally a student the characters have interacted with, or you may choose another student from the “<a href=\"/chapters/strixhaven-relationships/#FellowStudents\" title=\"Fellow Students\">Fellow Students</a>” section.</p>\n<p>When you’re ready to begin this event, read or paraphrase the following, altering the text to incorporate the student’s name or other details:</p>\n<aside class=\"read-aloud-text\" id=\"session-read-aloud-6\">\n<p>Murmurs of excited curiosity ripple through the clusters of students around you, and another student suddenly barrels toward you, laughing uproariously.</p>\n</aside>\n<p>Seeing no faculty nearby, the student beckons to the characters.</p>\n<aside class=\"read-aloud-text\" id=\"session-read-aloud-7\">\n<p>“You’ve all got to see this!” the student chortles. “We found these weird frogs and snuck them into the Fireside Lounge at Firejolt Café, and now we’re going to race the little hoppers! Quick! Come see before the professors find out!”</p>\n</aside>\n<p>The characters are meant to join the festivities in the nearby Firejolt Café. If a player or character expresses reluctance, mention as motivation that other students the characters have interacted with during this adventure are already there.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"FirejoltCafe\">Firejolt Café</h3>\n<p>Firejolt Café is the most popular place at Strixhaven to grab tea or coffee, chat with friends, or study among the hustle and bustle of a typical day on campus. The café’s interior is clean and well lit, and its walls are decorated with fun, cartoonish scenes animated by permanent illusion magic. Well-known scenes include a jovial frog in a wizard’s hat stirring a cauldron, a dancing trio of lightning bolts with grinning faces, and a raven wearing a cravat and sipping daintily from a cup of coffee held in one wing.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"FirejoltCafeFeatures\">Firejolt Café Features</h4>\n<p>The café has the following features:</p>\n<p><strong>Ceilings.</strong> The café’s ceilings are 20 feet high.</p>\n<p><strong>Doors.</strong> At night, the exterior doors to the café are closed, locked, and sealed with an <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2003-arcane-lock\" data-tooltip-href=\"/spells/2003-tooltip\">arcane lock</a> spell. A successful DC 25 Dexterity check using thieves’ tools opens the lock (DC 35 while the <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2003-arcane-lock\" data-tooltip-href=\"/spells/2003-tooltip\">arcane lock</a> is in effect). Only certain faculty members and Ellina Tanglewood, the café’s manager (see <a href=\"#F3BaristaStation\" title=\"area F3\">area F3</a>), know the <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2003-arcane-lock\" data-tooltip-href=\"/spells/2003-tooltip\">arcane lock</a>’s password.</p>\n<p><strong>Magic Steps.</strong> The steps marking the edge of each tier of the study area are enchanted to move and reshape themselves for full accessibility. See the “<a href=\"#StrixhavenAccessibility\" title=\"Strixhaven Accessibility\">Strixhaven Accessibility</a>” sidebar.</p>\n<p><strong>Students.</strong> Students of all years and colleges can be found in Firejolt Café. See <a href=\"/chapters/strixhaven-friends-and-foes/\" title=\"chapter 7\">chapter 7</a> for stat blocks for <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160303-first-year-student\" data-tooltip-href=\"/monsters/2160303-tooltip\">first-year students</a>, and for apprentices and pledgemages from the different colleges.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"FirejoltCafeLocations\">Firejolt Café Locations</h3>\n<p>The following locations are keyed to map 3.2. All descriptions assume the characters are in the café during the day. At night, the café is locked and devoid of students and staff.</p>\n<figure id=\"Map32firejoltcafe\" class=\"compendium-image\">\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/map-3.2-firejolt-cafe.jpg\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/map-3.2-firejolt-cafe.jpg\" class=\"ddb-lightbox-inner compendium-center-banner-img\" style=\"width: 850px;\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a>\n<figcaption>Map 3.2: firejolt cafe <a class=\"ddb-lightbox-outer\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/map-3.2-firejolt-cafe-player.jpg\" data-lightbox=\"1\" data-title=\"View Player Version\" id=\"session-player-map-2\">View Player Version</a></figcaption>\n</figure>\n<h4 class=\"compendium-hr heading-anchor\" id=\"F1StudyTables\">F1. Study Tables</h4>\n<p>These long benches sit atop two raised tiers with magic steps between them, affording easy access to the seating area below. Some thirty students are typically here during the day, studying quietly.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"F2SeatingArea\">F2. Seating Area</h4>\n<p>This area is usually more crowded than the café’s study tables. At least fifty students sit sociably in groups, chatting and having tea and coffee. The open spaces in the north part of this area are typically filled with students waiting to join the queue at the barista station or scouting for a good place to sit.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"F3BaristaStation\">F3. Barista Station</h4>\n<p>This bustling service counter is the demesne of Ellina Tanglewood (chaotic good elf <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/16947-mage\" data-tooltip-href=\"/monsters/16947-tooltip\">mage</a>), the Strixhaven employee who manages the café and serves as its chief barista. Ellina typically works alongside five older student employees, one from each college, though she sometimes hires younger students who express interest in working for her (see the “<a href=\"/chapters/strixhaven-school-is-in-session/#Jobs\" title=\"Jobs\">Jobs</a>” section earlier in the chapter).</p>\n<p>The front counter of the barista station is a whirl of chaos while Ellina and the other employees deal with the orders of dozens of students and faculty members. The back of the station is calmer, and includes a small break area for employees as well as shelves for personal belongings and café supplies.</p>\n<p>The café strictly sells coffee and tea, but Ellina and the other talented baristas can make nearly any form of those drinks on request. A relatively common coffee or tea costs 1 cp, while a more complicated order might cost 2 cp. The café’s signature firejolt latte costs 10 gp; it confers resistance to fire for 1 minute after drinking it, and it can be brewed only by Ellina using her fire magic.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"F4Newsstand\">F4. Newsstand</h4>\n<p>This small store inside Firejolt Café sells magazines, knickknacks, posters, stickers, and other decorative and leisure items. The subjects of the magazines are all magic themed, with titles ranging from <em>Mages Monthly</em> to <em>Potions! Potions! Potions!</em> to <em>Spells and Caster</em>. Staff members at the barista station take turns working the newsstand, which sometimes closes when the café is particularly busy. Most items here cost 1 cp, though higher-end items might be available at your discretion.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"F5FiresideLounge\">F5. Fireside Lounge</h4>\n<p>Much more comfortable than the café’s other seating areas, this lounge is filled with sofas and armchairs where students can relax away from the hubbub. Fireplaces in the northern corners are lit by <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2048-continual-flame\" data-tooltip-href=\"/spells/2048-tooltip\">continual flame</a> spells. Some twenty students are typically found here, using the tables to study quietly.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"F6QuietRoom\">F6. Quiet Room</h4>\n<p>As with the fireside lounge, these rooms are quieter than the café’s main seating areas. However, with large tables and more functional chairs, they’re more oriented toward studying and completing classwork. Up to ten students are typically found in each of these rooms, engaged in quiet study.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"AGreatFrogRace\">A Great Frog Race</h3>\n<p>Characters following the student who invited them to the frog race are led to the fireside lounge (area F5) of Firejolt Café. As in the scene above, the student speaking in this scene should be a student the characters have interacted with. Read or paraphrase the following, altering the text to incorporate the student’s name or other details:</p>\n<aside class=\"read-aloud-text\" id=\"session-read-aloud-8\">\n<p>The air buzzes with excitement—and the smell of coffee—as you make your way toward the back of Firejolt Café and duck into the lounge to witness the scene.</p>\n<p>Hidden from the view of the barista station, the lounge’s central table has been pushed toward the wall and its chairs haphazardly tossed out of the way. In the middle of the room hop four unusual frogs. Each is glowing in vibrant colors—red, blue, violet, and orange—and has been outfitted with a tiny costume. One wears a makeshift cape, another has suspenders, a third wears a stylish bow tie, and the fourth has a top hat perched jauntily on its head.</p>\n<p>Someone has used chalk to mark lanes on the floor, and multiple students are trying to corral the frogs into a starting position.</p>\n</aside>\n<p>A student notices the characters and shouts, “You’re just in time! Want to race these frogs with us?”</p>\n<p>The amphibians in the lounge are four <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/16866-frog\" data-tooltip-href=\"/monsters/16866-tooltip\">frogs</a> that students found outside the café and smuggled inside. The frogs’ glowing colors appear to be the result of some magic the students haven’t been able to source. The costumes—and the frog race that is afoot!—were the students’ ideas. For the race, a single student will “coach” each frog toward the finish. The winning coach will receive bragging rights—as well as a purse of donations from the crowd that totals 30 gp.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"ParticipatingintheRace\">Participating in the Race</h4>\n<p>A character can participate in the fun in one of the following ways:</p>\n<p><strong>Race a Frog.</strong> A character might coach one of the frogs, encouraging it toward the finish line with words, gestures, and other antics. The character can urge their frog to victory with a successful DC 12 Wisdom (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/11-tooltip\">Animal Handling</a>) check. Encourage a player to really sell this scene by naming their frog and coming up with ways to inspire it. If one of the characters succeeds on this Wisdom check, that character’s frog wins the race. (If more than one character succeeds, it’s a tie, and those characters split the 30 gp prize.) If no characters win the race, roll a d4 to randomly determine which frog wins.</p>\n<p><strong>Cheer a Coach.</strong> A character might shout encouragement to one of the coaches. If the encouraged coach is another player character, that character gains advantage on their Wisdom (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/11-tooltip\">Animal Handling</a>) check to coach the frog. If the coach is an NPC, any characters racing a frog receive disadvantage on their check.</p>\n<p><strong>Heckle a Coach.</strong> A character might taunt one of the coaches. If the heckled coach is another player character, that character has disadvantage on their Wisdom (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/11-tooltip\">Animal Handling</a>) check to coach the frog. If the coach is an NPC, that student’s frog automatically loses the race.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"RelationshipEncounter\">Relationship Encounter</h4>\n<p>At the race, characters might mingle with other students. If there are students the characters wish to earn Relationship Points with, treat this as a <a href=\"/chapters/strixhaven-relationships/#UsingTheseRules\" title=\"Relationship encounter\">Relationship encounter</a>. Have players note the results of this encounter on their copies of the tracking sheet.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"TheyveGoneBerserk\">They’ve Gone Berserk!</h3>\n<p>After the race ends, the four frogs start belching strangely, and their eyes turn red. As the characters and the other students look on, the frogs suddenly grow into four <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/16884-giant-frog\" data-tooltip-href=\"/monsters/16884-tooltip\">giant frogs</a>, shredding their makeshift costumes and furiously lashing out at the crowd!</p>\n<p>The other students scatter, and it’s up to the characters to subdue the giant frogs. Luckily for any character who has grown attached to a frog, any frog reduced to 0 hit points becomes docile, and its eyes return to normal. Alternatively, a character can use an action to coax a frog into shaking off the malady affecting it with a DC 15 Wisdom (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/11-tooltip\">Animal Handling</a>) check. On a success, a frog becomes docile again and stops attacking. After 1 minute, each docile frog reverts back to normal size and appearance.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"EndingtheThreat1\">Ending the Threat</h4>\n<p>If all the characters fall <a class=\"tooltip-hover condition-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#UnconsciousCondition\" data-tooltip-href=\"/conditions/15-tooltip\">unconscious</a>, café manager Ellina Tanglewood (chaotic good elf <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/16947-mage\" data-tooltip-href=\"/monsters/16947-tooltip\">mage</a>) rushes onto the scene and subdues the frogs. She has two <a class=\"tooltip-hover item-tooltip\" href=\"https://www.dndbeyond.com/equipment/71-potion-of-healing\" data-tooltip-href=\"/adventuring-gear/71-tooltip\">potions of healing</a> behind the barista station and can administer them as needed if anyone gets hurt.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"ExaminingtheFrogs\">Examining the Frogs</h3>\n<p>Once the frogs are no longer threats, a successful DC 12 Wisdom (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/14-tooltip\">Perception</a>) check reveals that the frogs belched out a strange, black oily substance just before they grew in size and attacked. It appears to be the same substance found on the trunk during orientation; indeed, Murgaxor coaxed the frogs to ingest some of the corrupted eldritch balm to cause their transformation. Any character who notices the oily substance also can tell that it smells slightly sweet, which likely encouraged the frogs to ingest it.</p>\n<h2 class=\"compendium-hr heading-anchor\" id=\"MagicalPhysiologiesExamSlaadi\">Magical Physiologies Exam: Slaadi</h2>\n<p>The characters are enrolled together in the course Magical Physiologies, which is held in a lecture hall in the Biblioplex (one of the areas marked <a href=\"#B7LectureHall\" title=\"B7\">B7</a> on <a href=\"#Map31thebiblioplex\" title=\"map 3.1\">map 3.1</a>). The course covers the anatomy, abilities, and dispositions of monsters commonly encountered while adventuring. Students read popular accounts related to Aberrations, Monstrosities, and Oozes, as well as studying how best to either avoid a fight with such creatures or battle them and emerge triumphant. The class’s professor is Verelda Lang (chaotic neutral <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/16849-dryad\" data-tooltip-href=\"/monsters/16849-tooltip\">dryad</a> professor from Witherbloom College), a respected arcano-biologist who teaches Quandrix College courses in addition to her Witherbloom College and general education offerings.</p>\n<p>This course’s first Exam takes place a short while after the events of the “A Great Frog Race” section and sees students tested on their knowledge of the creatures known as slaadi. The rules for <a href=\"/chapters/strixhaven-school-is-in-session/#Exams\" title=\"Exams\">Exams</a> can be found earlier in this chapter.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"StudyingPhase1\">Studying Phase</h3>\n<p>The day before the Exam, the characters can study the course material. A character can use any ability check and skill during the Studying phase.</p>\n<p>Once you’ve asked each player how their character is approaching the Studying phase, resolve that phase by having each character who studies make a DC 12 ability check. Make sure players keep track of their characters’ rerolls and apply them during the Testing phase.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"TestingPhase1\">Testing Phase</h3>\n<p>On the day of the Exam, each character makes two ability checks related to parts of the test:</p>\n<p><strong>Slaad Facts.</strong> Choosing the correct multiple choice answers to questions about <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/17116-red-slaad\" data-tooltip-href=\"/monsters/17116-tooltip\">red</a>, <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/17112-blue-slaad\" data-tooltip-href=\"/monsters/17112-tooltip\">blue</a>, <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/17115-green-slaad\" data-tooltip-href=\"/monsters/17115-tooltip\">green</a>, <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/17114-gray-slaad\" data-tooltip-href=\"/monsters/17114-tooltip\">gray</a>, and <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/17113-death-slaad\" data-tooltip-href=\"/monsters/17113-tooltip\">death</a> slaadi requires a successful DC 12 Intelligence (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/6-tooltip\">Arcana</a>) check.</p>\n<p><strong>Defusing Slaad Confrontations.</strong> Writing short essays about commonly accepted ways to keep slaadi calm during unexpected encounters requires a successful DC 12 Wisdom (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/12-tooltip\">Insight</a>) check.</p>\n<p>Have each player note their character’s Exam results—how many Student Dice they gained and what skills they used during the test—on their copies of the tracking sheet.</p>\n<aside class=\"rules-text\" id=\"AllaboutSlaadi\">\n<p>ALL ABOUT SLAADI</p>\n<p>To give this Exam more flavor, describe some of the facts the characters are trying to memorize, such as the following:</p>\n<ul>\n<li>Slaadi are Aberrations known for their regenerative abilities and magic resistance.</li>\n<li>All slaadi are dangerous and unpredictable, but <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/17116-red-slaad\" data-tooltip-href=\"/monsters/17116-tooltip\">red slaadi</a> and <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/17112-blue-slaad\" data-tooltip-href=\"/monsters/17112-tooltip\">blue slaadi</a> are the least powerful and don’t cast spells.</li>\n<li><a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/17116-red-slaad\" data-tooltip-href=\"/monsters/17116-tooltip\">Red slaadi</a> can use a gland under one of their claws to implant an egg into a Humanoid. The egg eventually becomes a tadpole that bursts from the host’s body and transforms into a full-grown <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/17112-blue-slaad\" data-tooltip-href=\"/monsters/17112-tooltip\">blue slaad</a>, or a <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/17115-green-slaad\" data-tooltip-href=\"/monsters/17115-tooltip\">green slaad</a> if the host could cast spells of 3rd level or higher.</li>\n<li><a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/17115-green-slaad\" data-tooltip-href=\"/monsters/17115-tooltip\">Green</a>, <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/17114-gray-slaad\" data-tooltip-href=\"/monsters/17114-tooltip\">gray</a>, and <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/17113-death-slaad\" data-tooltip-href=\"/monsters/17113-tooltip\">death</a> slaadi can shape-shift into Small or Medium Humanoids.</li>\n<li>A <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/17115-green-slaad\" data-tooltip-href=\"/monsters/17115-tooltip\">green slaad</a> usually wields a staff and can hurl both <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2102-fireball\" data-tooltip-href=\"/spells/2102-tooltip\">fireballs</a> and magical flames at its foes.</li>\n<li><a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/17113-death-slaad\" data-tooltip-href=\"/monsters/17113-tooltip\">Death slaadi</a> are rumored to have a stench so bad it can be deadly. In reality, they can cast the <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2030-cloudkill\" data-tooltip-href=\"/spells/2030-tooltip\">cloudkill</a> spell.</li>\n<li>Inexperienced scholars and adventurers sometimes assume that “slaad” is a misspelling or mispronunciation. Calling these creatures “salads” is frowned upon.</li>\n</ul>\n</aside>\n<figure class=\"compendium-image\" id=\"imgfrogs\">\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/03-031.frogs.png\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/03-031.frogs.png\" class=\"ddb-lightbox-inner compendium-center-banner-img\" style=\"width: 850px;\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a>\n<figcaption>Frogs are common on campus and are often kept as pets</figcaption>\n</figure>\n<h2 class=\"compendium-hr heading-anchor\" id=\"Advanceto2ndLevel\">Advance to 2nd Level!</h2>\n<p>Each character advances to 2nd level at the end of the first Exams encounter.</p>"
+}

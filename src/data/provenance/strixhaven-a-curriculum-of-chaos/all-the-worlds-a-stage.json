@@ -1,0 +1,260 @@
+{
+  "title": "All the World’s a Stage",
+  "sourcebook": "Strixhaven: A Curriculum of Chaos",
+  "bookSlug": "strixhaven-a-curriculum-of-chaos",
+  "originalPath": "Arcavios/Stixhaven/Chapter 8 - All The World's A Stage.html",
+  "rawUrl": "/archive/strixhaven/Chapter%208%20-%20All%20The%20World's%20A%20Stage.html",
+  "sourceHash": "12ddb426c47133ff4947f02725ab1ca63b1101d9457a8c9bea4ede0dbdda61b9",
+  "extractionDate": "2026-07-13T07:40:57.647Z",
+  "extractionVersion": 3,
+  "originalAnchors": [
+    {
+      "id": "AlltheWorldsaStage",
+      "text": "All the World’s a Stage",
+      "element": "h1"
+    },
+    {
+      "id": "comp-next-nav",
+      "text": "",
+      "element": "div"
+    },
+    {
+      "id": "imgrosestage",
+      "text": "The Rose Stage hosts everything from intimate poetry readings to grandiose multimedia performances",
+      "element": "figure"
+    },
+    {
+      "id": "TheRoseStage",
+      "text": "The Rose Stage",
+      "element": "h2"
+    },
+    {
+      "id": "SettingupSedgemoor",
+      "text": "SETTING UP SEDGEMOOR The characters will have heard about Sedgemoor during their first year at Strixhaven, but they have likely had no reason to explore the bay",
+      "element": "aside"
+    },
+    {
+      "id": "RoseStageLocations",
+      "text": "Rose Stage Locations",
+      "element": "h3"
+    },
+    {
+      "id": "Map35therosestage",
+      "text": "Map 3.5: the rose stage View Player Version",
+      "element": "figure"
+    },
+    {
+      "id": "R1GeneralSeating",
+      "text": "R1. General Seating",
+      "element": "h4"
+    },
+    {
+      "id": "R2OrchestraPit",
+      "text": "R2. Orchestra Pit",
+      "element": "h4"
+    },
+    {
+      "id": "R3MainStage",
+      "text": "R3. Main Stage",
+      "element": "h4"
+    },
+    {
+      "id": "R4BackstageDoors",
+      "text": "R4. Backstage Doors",
+      "element": "h4"
+    },
+    {
+      "id": "R5RoseRoom",
+      "text": "R5. Rose Room",
+      "element": "h4"
+    },
+    {
+      "id": "R6StorageHall",
+      "text": "R6. Storage Hall",
+      "element": "h4"
+    },
+    {
+      "id": "R7StageStorageArea",
+      "text": "R7. Stage Storage Area",
+      "element": "h4"
+    },
+    {
+      "id": "RoseStageFestival",
+      "text": "Rose Stage Festival",
+      "element": "h3"
+    },
+    {
+      "id": "TheShow",
+      "text": "The Show",
+      "element": "h4"
+    },
+    {
+      "id": "PerformonStage",
+      "text": "Perform on Stage",
+      "element": "h4"
+    },
+    {
+      "id": "FestivalCharacterPrompts",
+      "text": "Festival Character Prompts d12 Prompt 1 Cowardly monarch 2 Brilliant but exasperated knight 3 Rampaging but erudite sea serpent 4 Furious ship’s captain 5 Paran",
+      "element": "table"
+    },
+    {
+      "id": "HandleProps",
+      "text": "Handle Props",
+      "element": "h4"
+    },
+    {
+      "id": "FestivalProps",
+      "text": "Festival Props d8 Prop 1 Wooden cutouts on wheels of an owlbear, a basilisk, and a chimera 2 Wooden cutouts of painted waves 3 A large wooden cutout of a ship 4",
+      "element": "table"
+    },
+    {
+      "id": "AccompanywithKazoo",
+      "text": "Accompany with Kazoo",
+      "element": "h4"
+    },
+    {
+      "id": "EncourageaPerformer",
+      "text": "Encourage a Performer",
+      "element": "h4"
+    },
+    {
+      "id": "HeckleaPerformer",
+      "text": "Heckle a Performer",
+      "element": "h4"
+    },
+    {
+      "id": "RelationshipEncounter2",
+      "text": "Relationship Encounter",
+      "element": "h4"
+    },
+    {
+      "id": "imgconcerts",
+      "text": "World-class concerts happen regularly on the Rose Stage",
+      "element": "figure"
+    },
+    {
+      "id": "ExitPursuedbyanOwlbear",
+      "text": "Exit, Pursued by an Owlbear",
+      "element": "h3"
+    },
+    {
+      "id": "EndingtheThreat3",
+      "text": "Ending the Threat",
+      "element": "h4"
+    },
+    {
+      "id": "AProfessorsAppreciation",
+      "text": "A Professor’s Appreciation",
+      "element": "h3"
+    },
+    {
+      "id": "ExaminingtheOwlbear",
+      "text": "Examining the Owlbear",
+      "element": "h3"
+    },
+    {
+      "id": "SecretsinSedgemoor",
+      "text": "Secrets in Sedgemoor",
+      "element": "h2"
+    },
+    {
+      "id": "CollectingSpellComponents",
+      "text": "Collecting Spell Components",
+      "element": "h3"
+    },
+    {
+      "id": "Sedgemoor",
+      "text": "Sedgemoor",
+      "element": "h3"
+    },
+    {
+      "id": "SedgemoorFeatures",
+      "text": "Sedgemoor Features",
+      "element": "h4"
+    },
+    {
+      "id": "SedgemoorLocations",
+      "text": "Sedgemoor Locations",
+      "element": "h3"
+    },
+    {
+      "id": "Map36sedgemoor",
+      "text": "Map 3.6: sedgemoor View Player Version",
+      "element": "figure"
+    },
+    {
+      "id": "S1MarshBanks",
+      "text": "S1. Marsh Banks",
+      "element": "h4"
+    },
+    {
+      "id": "S2SouthIslet",
+      "text": "S2. South Islet",
+      "element": "h4"
+    },
+    {
+      "id": "S3CentralIslet",
+      "text": "S3. Central Islet",
+      "element": "h4"
+    },
+    {
+      "id": "S4SouthResearchShed",
+      "text": "S4. South Research Shed",
+      "element": "h4"
+    },
+    {
+      "id": "S5NorthResearchShed",
+      "text": "S5. North Research Shed",
+      "element": "h4"
+    },
+    {
+      "id": "S6EastIslet",
+      "text": "S6. East Islet",
+      "element": "h4"
+    },
+    {
+      "id": "S7UnderwaterSpring",
+      "text": "S7. Underwater Spring",
+      "element": "h4"
+    },
+    {
+      "id": "imgcreatures",
+      "text": "Strange creatures live in the swampy areas of Strixhaven’scampus. Sometimes those creatures are dangerous",
+      "element": "figure"
+    },
+    {
+      "id": "EndoftheYear",
+      "text": "End of the Year",
+      "element": "h3"
+    },
+    {
+      "id": "CampusHeroes",
+      "text": "Campus Heroes",
+      "element": "h4"
+    },
+    {
+      "id": "Advanceto4thLevel",
+      "text": "Advance to 4th Level!",
+      "element": "h2"
+    }
+  ],
+  "transformations": [
+    "Selected the first .p-article-content element.",
+    "Removed scripts, styles, forms, iframes, hidden duplicate labels, and source navigation.",
+    "Removed event handlers and D&D Beyond content-chunk identifiers.",
+    "Rewrote archived sourcebook links to generated reader routes when a local target exists.",
+    "Added lazy image loading and asynchronous decoding hints.",
+    "Added derived IDs to read-aloud, rules, table, and stat-block elements for session navigation.",
+    "Indexed player-version map links as derived session metadata.",
+    "Preserved source wording and original heading IDs; derived metadata remains separate."
+  ],
+  "repairs": [
+    {
+      "location": "Rose Stage Locations > Backstage",
+      "original": "empty href on “area R3”",
+      "derivedTarget": "#R3MainStage",
+      "confidence": "high"
+    }
+  ]
+}

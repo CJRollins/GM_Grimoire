@@ -1,0 +1,1236 @@
+{
+  "title": "Morgrave Expeditions",
+  "sourcebook": "Eberron: Forge of the Artificer",
+  "bookSlug": "eberron-forge-of-the-artificer",
+  "world": "Eberron",
+  "edition": "2024 rules",
+  "chapter": "Chapter 6: Morgrave Expeditions",
+  "chapterNumber": 6,
+  "order": 8,
+  "navGroup": "Adventures",
+  "kind": "adventure",
+  "audience": "gm",
+  "slug": "friends-and-foes",
+  "chapterSlug": "friends-and-foes",
+  "summary": "Morgrave University in Sharn, one of the largest institutions of higher learning in Khorvaire, has a mixed reputation. On the one hand, its founder—Lord Lareth ir’Morgrave—envisioned the university as “a beacon of knowledge shining from the tallest towers of …",
+  "wordCount": 8567,
+  "originalPath": "Eberron/Chapter 6.html",
+  "rawUrl": "/archive/eberron/Chapter%206.html",
+  "originalAnchors": [
+    {
+      "id": "Chapter6MorgraveExpeditions",
+      "text": "Morgrave Expeditions",
+      "element": "h1"
+    },
+    {
+      "id": "comp-next-nav",
+      "text": "Previous ← Chapter 5: Dragonmarked Intrigue Book Contents Next Chapter 7: Elemental Airships →",
+      "element": "div"
+    },
+    {
+      "id": "AdventureIntro",
+      "text": "Adventure Genre: Pulp-Action Adventure Pop Culture: Professor Challenger, Indiana Jones, Lara Croft",
+      "element": "aside"
+    },
+    {
+      "id": "imgMorgraveExpeditionsOpener",
+      "text": "Michael Broussard An Armorer Explorer ventures into an ancient ruin in Xen’drik in search of magical secrets",
+      "element": "figure"
+    },
+    {
+      "id": "MorgraveCharacters",
+      "text": "Morgrave Characters",
+      "element": "h2"
+    },
+    {
+      "id": "GroupPatronBenefits",
+      "text": "Group Patron Benefits",
+      "element": "h3"
+    },
+    {
+      "id": "GroupAssistance",
+      "text": "Group Assistance",
+      "element": "h4"
+    },
+    {
+      "id": "Compensation",
+      "text": "Compensation",
+      "element": "h4"
+    },
+    {
+      "id": "Documentation",
+      "text": "Documentation",
+      "element": "h4"
+    },
+    {
+      "id": "Research",
+      "text": "Research",
+      "element": "h4"
+    },
+    {
+      "id": "Resources",
+      "text": "Resources",
+      "element": "h4"
+    },
+    {
+      "id": "Training",
+      "text": "Training",
+      "element": "h4"
+    },
+    {
+      "id": "MorgraveConflicts",
+      "text": "Morgrave Conflicts",
+      "element": "h2"
+    },
+    {
+      "id": "RivalExplorers",
+      "text": "Rival Explorers",
+      "element": "h3"
+    },
+    {
+      "id": "GoalsofRivalExplorers",
+      "text": "Goals of Rival Explorers",
+      "element": "h4"
+    },
+    {
+      "id": "ARivalExplorersArc",
+      "text": "A Rival Explorers Arc",
+      "element": "h4"
+    },
+    {
+      "id": "OrderoftheEmeraldClaw",
+      "text": "Order of the Emerald Claw",
+      "element": "h3"
+    },
+    {
+      "id": "imgEmeraldClawKnights",
+      "text": "Daarken Two Emerald Claw Knights join their commander in a hunt for powerful magic",
+      "element": "figure"
+    },
+    {
+      "id": "GoalsoftheEmeraldClaw",
+      "text": "Goals of the Emerald Claw",
+      "element": "h4"
+    },
+    {
+      "id": "AnEmeraldClawArc",
+      "text": "An Emerald Claw Arc",
+      "element": "h4"
+    },
+    {
+      "id": "EmeraldClawAgents",
+      "text": "Emerald Claw Agents",
+      "element": "h4"
+    },
+    {
+      "id": "LordsofDust",
+      "text": "Lords of Dust",
+      "element": "h3"
+    },
+    {
+      "id": "GoalsoftheLordsofDust",
+      "text": "Goals of the Lords of Dust",
+      "element": "h4"
+    },
+    {
+      "id": "ALordsofDustArc",
+      "text": "A Lords of Dust Arc",
+      "element": "h4"
+    },
+    {
+      "id": "MorgraveUniversity",
+      "text": "Morgrave University",
+      "element": "h2"
+    },
+    {
+      "id": "imgMorgraveUniversity",
+      "text": "Cullen Cole Morgrave University",
+      "element": "figure"
+    },
+    {
+      "id": "DalannanTower",
+      "text": "Dalannan Tower",
+      "element": "h3"
+    },
+    {
+      "id": "Flamewind",
+      "text": "Flamewind",
+      "element": "h4"
+    },
+    {
+      "id": "GhashDuurkat",
+      "text": "Ghash Duurkat",
+      "element": "h4"
+    },
+    {
+      "id": "LarrianirMorgrave",
+      "text": "Larrian ir’Morgrave",
+      "element": "h4"
+    },
+    {
+      "id": "Zophik",
+      "text": "Zophik",
+      "element": "h4"
+    },
+    {
+      "id": "AundairSpire",
+      "text": "Aundair Spire",
+      "element": "h3"
+    },
+    {
+      "id": "AlainGourthan",
+      "text": "Alain Gourthan",
+      "element": "h4"
+    },
+    {
+      "id": "imgIvoryTowers",
+      "text": "Cullen Cole",
+      "element": "figure"
+    },
+    {
+      "id": "BrelandSpire",
+      "text": "Breland Spire",
+      "element": "h3"
+    },
+    {
+      "id": "TheBridge",
+      "text": "The Bridge",
+      "element": "h4"
+    },
+    {
+      "id": "CyreTower",
+      "text": "Cyre Tower",
+      "element": "h3"
+    },
+    {
+      "id": "DalaArand",
+      "text": "Dala Arand",
+      "element": "h4"
+    },
+    {
+      "id": "KarrnathSpire",
+      "text": "Karrnath Spire",
+      "element": "h3"
+    },
+    {
+      "id": "SendorReddick",
+      "text": "Sendor Reddick",
+      "element": "h4"
+    },
+    {
+      "id": "ThraneTower",
+      "text": "Thrane Tower",
+      "element": "h3"
+    },
+    {
+      "id": "SanaDhuma",
+      "text": "Sana Dhuma",
+      "element": "h4"
+    },
+    {
+      "id": "BelowMorgrave",
+      "text": "Below Morgrave",
+      "element": "h3"
+    },
+    {
+      "id": "DangerousDestinations",
+      "text": "Dangerous Destinations",
+      "element": "h2"
+    },
+    {
+      "id": "AgeofDemons",
+      "text": "Age of Demons",
+      "element": "h3"
+    },
+    {
+      "id": "AgeOfDemonsFindsTable",
+      "text": "Age of Demons Finds",
+      "element": "h4"
+    },
+    {
+      "id": "Dhakaan",
+      "text": "Dhakaan",
+      "element": "h3"
+    },
+    {
+      "id": "Khyber",
+      "text": "Khyber",
+      "element": "h3"
+    },
+    {
+      "id": "Xendrik",
+      "text": "Xen’drik",
+      "element": "h3"
+    },
+    {
+      "id": "imgAirshipPort",
+      "text": "Cullen Cole Elemental airships aid archaeological expeditions to distant lands",
+      "element": "figure"
+    },
+    {
+      "id": "JourneystoXendrik",
+      "text": "Journeys to Xen’drik",
+      "element": "h4"
+    },
+    {
+      "id": "XendrikJourneysTable",
+      "text": "Xen’drik Journeys",
+      "element": "h4"
+    },
+    {
+      "id": "DrowofXendrik",
+      "text": "Drow of Xen’drik",
+      "element": "h4"
+    },
+    {
+      "id": "imgVulkooriDrow",
+      "text": "Jordan Kerbow Vulkoori and Umbragen drow battle in a cavern filled with mysteries",
+      "element": "figure"
+    },
+    {
+      "id": "WondersofXendrik",
+      "text": "Wonders of Xen’drik",
+      "element": "h4"
+    },
+    {
+      "id": "RaceForTheCrabTemple",
+      "text": "Race For The Crab Temple",
+      "element": "h2"
+    },
+    {
+      "id": "rivalsrace",
+      "text": "THESHARN INQUISITIVE RIVALS RACE TO WRETCHED RUIN Not one but two expeditions from Morgrave University launch this week to explore the so-called Crab Temple, di",
+      "element": "aside"
+    },
+    {
+      "id": "MorgraveExpeditionAdventure",
+      "text": "Morgrave Expedition Adventure",
+      "element": "h2"
+    },
+    {
+      "id": "Encounters",
+      "text": "Encounters",
+      "element": "h3"
+    },
+    {
+      "id": "LastChance",
+      "text": "Last Chance The tiny village of Last Chance is a self-sustaining farming community built around a large inn—a joint venture of House Ghallanda and House Jorasco",
+      "element": "aside"
+    },
+    {
+      "id": "JungleMishapsTable",
+      "text": "Jungle Mishaps",
+      "element": "h4"
+    },
+    {
+      "id": "EmeraldClawCommander",
+      "text": "Emerald Claw Commander",
+      "element": "h3"
+    },
+    {
+      "id": "EmeraldClawKnight",
+      "text": "Emerald Claw Knight",
+      "element": "h3"
+    },
+    {
+      "id": "VulkooriStingblade",
+      "text": "Vulkoori Stingblade",
+      "element": "h3"
+    },
+    {
+      "id": "VulkooriVenomPriest",
+      "text": "Vulkoori Venom Priest",
+      "element": "h3"
+    },
+    {
+      "id": "UmbragenShadowWalker",
+      "text": "Umbragen Shadow Walker",
+      "element": "h3"
+    }
+  ],
+  "sourceHash": "6c9adb91282a523c9a745e26bee4b406f4dfda195496e546dcf172f3f71ecdf4",
+  "extractionDate": "2026-07-13T07:40:57.647Z",
+  "extractionVersion": 3,
+  "headings": [
+    {
+      "depth": 1,
+      "id": "Chapter6MorgraveExpeditions",
+      "text": "Morgrave Expeditions"
+    },
+    {
+      "depth": 2,
+      "id": "MorgraveCharacters",
+      "text": "Morgrave Characters"
+    },
+    {
+      "depth": 3,
+      "id": "GroupPatronBenefits",
+      "text": "Group Patron Benefits"
+    },
+    {
+      "depth": 4,
+      "id": "GroupAssistance",
+      "text": "Group Assistance"
+    },
+    {
+      "depth": 4,
+      "id": "Compensation",
+      "text": "Compensation"
+    },
+    {
+      "depth": 4,
+      "id": "Documentation",
+      "text": "Documentation"
+    },
+    {
+      "depth": 4,
+      "id": "Research",
+      "text": "Research"
+    },
+    {
+      "depth": 4,
+      "id": "Resources",
+      "text": "Resources"
+    },
+    {
+      "depth": 4,
+      "id": "Training",
+      "text": "Training"
+    },
+    {
+      "depth": 2,
+      "id": "MorgraveConflicts",
+      "text": "Morgrave Conflicts"
+    },
+    {
+      "depth": 3,
+      "id": "RivalExplorers",
+      "text": "Rival Explorers"
+    },
+    {
+      "depth": 4,
+      "id": "GoalsofRivalExplorers",
+      "text": "Goals of Rival Explorers"
+    },
+    {
+      "depth": 4,
+      "id": "ARivalExplorersArc",
+      "text": "A Rival Explorers Arc"
+    },
+    {
+      "depth": 3,
+      "id": "OrderoftheEmeraldClaw",
+      "text": "Order of the Emerald Claw"
+    },
+    {
+      "depth": 4,
+      "id": "GoalsoftheEmeraldClaw",
+      "text": "Goals of the Emerald Claw"
+    },
+    {
+      "depth": 4,
+      "id": "AnEmeraldClawArc",
+      "text": "An Emerald Claw Arc"
+    },
+    {
+      "depth": 4,
+      "id": "EmeraldClawAgents",
+      "text": "Emerald Claw Agents"
+    },
+    {
+      "depth": 3,
+      "id": "LordsofDust",
+      "text": "Lords of Dust"
+    },
+    {
+      "depth": 4,
+      "id": "GoalsoftheLordsofDust",
+      "text": "Goals of the Lords of Dust"
+    },
+    {
+      "depth": 4,
+      "id": "ALordsofDustArc",
+      "text": "A Lords of Dust Arc"
+    },
+    {
+      "depth": 2,
+      "id": "MorgraveUniversity",
+      "text": "Morgrave University"
+    },
+    {
+      "depth": 3,
+      "id": "DalannanTower",
+      "text": "Dalannan Tower"
+    },
+    {
+      "depth": 4,
+      "id": "Flamewind",
+      "text": "Flamewind"
+    },
+    {
+      "depth": 4,
+      "id": "GhashDuurkat",
+      "text": "Ghash Duurkat"
+    },
+    {
+      "depth": 4,
+      "id": "LarrianirMorgrave",
+      "text": "Larrian ir’Morgrave"
+    },
+    {
+      "depth": 4,
+      "id": "Zophik",
+      "text": "Zophik"
+    },
+    {
+      "depth": 3,
+      "id": "AundairSpire",
+      "text": "Aundair Spire"
+    },
+    {
+      "depth": 4,
+      "id": "AlainGourthan",
+      "text": "Alain Gourthan"
+    },
+    {
+      "depth": 3,
+      "id": "BrelandSpire",
+      "text": "Breland Spire"
+    },
+    {
+      "depth": 4,
+      "id": "TheBridge",
+      "text": "The Bridge"
+    },
+    {
+      "depth": 3,
+      "id": "CyreTower",
+      "text": "Cyre Tower"
+    },
+    {
+      "depth": 4,
+      "id": "DalaArand",
+      "text": "Dala Arand"
+    },
+    {
+      "depth": 3,
+      "id": "KarrnathSpire",
+      "text": "Karrnath Spire"
+    },
+    {
+      "depth": 4,
+      "id": "SendorReddick",
+      "text": "Sendor Reddick"
+    },
+    {
+      "depth": 3,
+      "id": "ThraneTower",
+      "text": "Thrane Tower"
+    },
+    {
+      "depth": 4,
+      "id": "SanaDhuma",
+      "text": "Sana Dhuma"
+    },
+    {
+      "depth": 3,
+      "id": "BelowMorgrave",
+      "text": "Below Morgrave"
+    },
+    {
+      "depth": 2,
+      "id": "DangerousDestinations",
+      "text": "Dangerous Destinations"
+    },
+    {
+      "depth": 3,
+      "id": "AgeofDemons",
+      "text": "Age of Demons"
+    },
+    {
+      "depth": 4,
+      "id": "AgeOfDemonsFindsTable",
+      "text": "Age of Demons Finds"
+    },
+    {
+      "depth": 3,
+      "id": "Dhakaan",
+      "text": "Dhakaan"
+    },
+    {
+      "depth": 3,
+      "id": "Khyber",
+      "text": "Khyber"
+    },
+    {
+      "depth": 3,
+      "id": "Xendrik",
+      "text": "Xen’drik"
+    },
+    {
+      "depth": 4,
+      "id": "JourneystoXendrik",
+      "text": "Journeys to Xen’drik"
+    },
+    {
+      "depth": 4,
+      "id": "XendrikJourneysTable",
+      "text": "Xen’drik Journeys"
+    },
+    {
+      "depth": 4,
+      "id": "DrowofXendrik",
+      "text": "Drow of Xen’drik"
+    },
+    {
+      "depth": 4,
+      "id": "WondersofXendrik",
+      "text": "Wonders of Xen’drik"
+    },
+    {
+      "depth": 2,
+      "id": "RaceForTheCrabTemple",
+      "text": "Race For The Crab Temple"
+    },
+    {
+      "depth": 2,
+      "id": "MorgraveExpeditionAdventure",
+      "text": "Morgrave Expedition Adventure"
+    },
+    {
+      "depth": 3,
+      "id": "Encounters",
+      "text": "Encounters"
+    },
+    {
+      "depth": 4,
+      "id": "JungleMishapsTable",
+      "text": "Jungle Mishaps"
+    },
+    {
+      "depth": 3,
+      "id": "EmeraldClawCommander",
+      "text": "Emerald Claw Commander"
+    },
+    {
+      "depth": 3,
+      "id": "EmeraldClawKnight",
+      "text": "Emerald Claw Knight"
+    },
+    {
+      "depth": 3,
+      "id": "VulkooriStingblade",
+      "text": "Vulkoori Stingblade"
+    },
+    {
+      "depth": 3,
+      "id": "VulkooriVenomPriest",
+      "text": "Vulkoori Venom Priest"
+    },
+    {
+      "depth": 3,
+      "id": "UmbragenShadowWalker",
+      "text": "Umbragen Shadow Walker"
+    }
+  ],
+  "tags": {
+    "creatures": [
+      "Archmage",
+      "Archpriest",
+      "Assassin",
+      "Bandit Captain",
+      "Berserker",
+      "Bone Knights",
+      "Death Cultist",
+      "Giant Crab",
+      "Giant Crabs",
+      "Giant Scorpion",
+      "Gladiator",
+      "Hobgoblin Captain",
+      "Karrnathi Undead Soldiers",
+      "Kraken",
+      "Kuo-toa",
+      "Kuo-toa Archpriest",
+      "Kuo-toa Monitor",
+      "Kuo-toa Whips",
+      "Lady Illmarrow",
+      "Mage",
+      "Mage Apprentice",
+      "Noble",
+      "Noble Prodigy",
+      "Performer Maestro",
+      "Priest",
+      "Rak Tulkhesh",
+      "Sahuagin Priest",
+      "Sahuagin Warriors",
+      "Scout Captain",
+      "Skeletons",
+      "Sphinx of Lore",
+      "Spy",
+      "Spy Master",
+      "Sul Khatesh",
+      "Tough Boss",
+      "Vulkoori Stingblades",
+      "Vulkoori Venom Priest",
+      "Warrior Commander",
+      "Zombies"
+    ],
+    "spells": [
+      "Cure Wounds",
+      "Dancing Lights",
+      "Darkness",
+      "Hold Person",
+      "Minor Illusion",
+      "Protection from Poison",
+      "Ray of Sickness",
+      "Tasha’s Hideous Laughter",
+      "Teleportation Circle",
+      "Thaumaturgy"
+    ],
+    "items": [
+      "Chain Mail",
+      "Flail",
+      "Holy Symbol",
+      "Javelins",
+      "Mace of Terror",
+      "Periapt of Wound Closure",
+      "Plate Armor",
+      "Pot of Awakening",
+      "Potions of Water Breathing",
+      "Quarterstaff",
+      "Shield",
+      "Shortsword",
+      "Spell Scroll",
+      "Studded Leather Armor"
+    ],
+    "locations": [
+      "Aundair",
+      "Breland",
+      "Cyre",
+      "Darguun",
+      "Droaam",
+      "Eberron",
+      "Karrnath",
+      "Khorvaire",
+      "Mournland",
+      "Q’barra",
+      "Sharn",
+      "Talenta",
+      "Thrane",
+      "Xen’drik",
+      "Zilargo"
+    ],
+    "npcs": [],
+    "topics": [
+      "adventure",
+      "campus-life",
+      "gm-tools",
+      "relationships",
+      "tables"
+    ]
+  },
+  "session": {
+    "readAloud": [],
+    "rules": [],
+    "tables": [
+      {
+        "id": "session-table-1",
+        "label": "Age of Demons Finds",
+        "excerpt": "Age of Demons Finds 1d12 Item 1 A statuette of a demonic frog-like figure made of an unknown, slimy substance 2 A dagger with a jagged blade whose handle squirms when held 3 A jew…"
+      },
+      {
+        "id": "session-table-2",
+        "label": "Xen’drik Journeys",
+        "excerpt": "Xen’drik Journeys Transport Cost Time Sailing Ship 150 GP/person 32 days Lyrandar Galleon 750 GP/person 7 days Lyrandar Airship 1,500 GP/person 3 days Teleportation Circle 2,500 G…"
+      },
+      {
+        "id": "session-table-3",
+        "label": "Jungle Mishaps",
+        "excerpt": "Jungle Mishaps 1d8 Encounter 1–3 Four Vulkoori Stingblades 4–5 One Vulkoori Venom Priest and two Vulkoori Stingblades 6–7 Three Vulkoori Stingblades and one Giant Scorpion 8 One S…"
+      },
+      {
+        "id": "session-table-4",
+        "label": "Table 4",
+        "excerpt": "Ability Score Mod Save Str 18 +4 +4 Dex 11 +0 +0 Con 15 +2 +4"
+      },
+      {
+        "id": "session-table-5",
+        "label": "Table 5",
+        "excerpt": "Ability Score Mod Save Int 15 +2 +2 Wis 12 +1 +3 Cha 14 +2 +2"
+      },
+      {
+        "id": "session-table-6",
+        "label": "Table 6",
+        "excerpt": "Ability Score Mod Save Str 17 +3 +3 Dex 11 +0 +0 Con 14 +2 +2"
+      },
+      {
+        "id": "session-table-7",
+        "label": "Table 7",
+        "excerpt": "Ability Score Mod Save Int 13 +1 +1 Wis 10 +0 +2 Cha 13 +1 +1"
+      },
+      {
+        "id": "session-table-8",
+        "label": "Table 8",
+        "excerpt": "Ability Score Mod Save Str 11 +0 +0 Dex 15 +2 +4 Con 10 +0 +0"
+      },
+      {
+        "id": "session-table-9",
+        "label": "Table 9",
+        "excerpt": "Ability Score Mod Save Int 11 +0 +0 Wis 12 +1 +1 Cha 12 +1 +1"
+      },
+      {
+        "id": "session-table-10",
+        "label": "Table 10",
+        "excerpt": "Ability Score Mod Save Str 15 +2 +2 Dex 16 +3 +3 Con 12 +1 +3"
+      },
+      {
+        "id": "session-table-11",
+        "label": "Table 11",
+        "excerpt": "Ability Score Mod Save Int 10 +0 +0 Wis 16 +3 +5 Cha 13 +1 +1"
+      },
+      {
+        "id": "session-table-12",
+        "label": "Table 12",
+        "excerpt": "Ability Score Mod Save Str 12 +1 +1 Dex 19 +4 +8 Con 14 +2 +2"
+      },
+      {
+        "id": "session-table-13",
+        "label": "Table 13",
+        "excerpt": "Ability Score Mod Save Int 13 +1 +1 Wis 15 +2 +6 Cha 20 +5 +5"
+      }
+    ],
+    "statBlocks": [],
+    "maps": [],
+    "quickLinks": [
+      {
+        "depth": 2,
+        "id": "MorgraveCharacters",
+        "text": "Morgrave Characters",
+        "type": "scene"
+      },
+      {
+        "depth": 3,
+        "id": "GroupPatronBenefits",
+        "text": "Group Patron Benefits",
+        "type": "rule"
+      },
+      {
+        "depth": 4,
+        "id": "GroupAssistance",
+        "text": "Group Assistance",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "Compensation",
+        "text": "Compensation",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "Documentation",
+        "text": "Documentation",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "Research",
+        "text": "Research",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "Resources",
+        "text": "Resources",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "Training",
+        "text": "Training",
+        "type": "reference"
+      },
+      {
+        "depth": 2,
+        "id": "MorgraveConflicts",
+        "text": "Morgrave Conflicts",
+        "type": "scene"
+      },
+      {
+        "depth": 3,
+        "id": "RivalExplorers",
+        "text": "Rival Explorers",
+        "type": "relationship"
+      },
+      {
+        "depth": 4,
+        "id": "GoalsofRivalExplorers",
+        "text": "Goals of Rival Explorers",
+        "type": "relationship"
+      },
+      {
+        "depth": 4,
+        "id": "ARivalExplorersArc",
+        "text": "A Rival Explorers Arc",
+        "type": "relationship"
+      },
+      {
+        "depth": 3,
+        "id": "OrderoftheEmeraldClaw",
+        "text": "Order of the Emerald Claw",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "GoalsoftheEmeraldClaw",
+        "text": "Goals of the Emerald Claw",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "AnEmeraldClawArc",
+        "text": "An Emerald Claw Arc",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "EmeraldClawAgents",
+        "text": "Emerald Claw Agents",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "LordsofDust",
+        "text": "Lords of Dust",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "GoalsoftheLordsofDust",
+        "text": "Goals of the Lords of Dust",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "ALordsofDustArc",
+        "text": "A Lords of Dust Arc",
+        "type": "reference"
+      },
+      {
+        "depth": 2,
+        "id": "MorgraveUniversity",
+        "text": "Morgrave University",
+        "type": "scene"
+      },
+      {
+        "depth": 3,
+        "id": "DalannanTower",
+        "text": "Dalannan Tower",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "Flamewind",
+        "text": "Flamewind",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "GhashDuurkat",
+        "text": "Ghash Duurkat",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "LarrianirMorgrave",
+        "text": "Larrian ir’Morgrave",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "Zophik",
+        "text": "Zophik",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "AundairSpire",
+        "text": "Aundair Spire",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "AlainGourthan",
+        "text": "Alain Gourthan",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "BrelandSpire",
+        "text": "Breland Spire",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "TheBridge",
+        "text": "The Bridge",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "CyreTower",
+        "text": "Cyre Tower",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "DalaArand",
+        "text": "Dala Arand",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "KarrnathSpire",
+        "text": "Karrnath Spire",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "SendorReddick",
+        "text": "Sendor Reddick",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "ThraneTower",
+        "text": "Thrane Tower",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "SanaDhuma",
+        "text": "Sana Dhuma",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "BelowMorgrave",
+        "text": "Below Morgrave",
+        "type": "reference"
+      },
+      {
+        "depth": 2,
+        "id": "DangerousDestinations",
+        "text": "Dangerous Destinations",
+        "type": "scene"
+      },
+      {
+        "depth": 3,
+        "id": "AgeofDemons",
+        "text": "Age of Demons",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "AgeOfDemonsFindsTable",
+        "text": "Age of Demons Finds",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "Dhakaan",
+        "text": "Dhakaan",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "Khyber",
+        "text": "Khyber",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "Xendrik",
+        "text": "Xen’drik",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "JourneystoXendrik",
+        "text": "Journeys to Xen’drik",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "XendrikJourneysTable",
+        "text": "Xen’drik Journeys",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "DrowofXendrik",
+        "text": "Drow of Xen’drik",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "WondersofXendrik",
+        "text": "Wonders of Xen’drik",
+        "type": "reference"
+      },
+      {
+        "depth": 2,
+        "id": "RaceForTheCrabTemple",
+        "text": "Race For The Crab Temple",
+        "type": "scene"
+      },
+      {
+        "depth": 2,
+        "id": "MorgraveExpeditionAdventure",
+        "text": "Morgrave Expedition Adventure",
+        "type": "scene"
+      },
+      {
+        "depth": 3,
+        "id": "Encounters",
+        "text": "Encounters",
+        "type": "encounter"
+      },
+      {
+        "depth": 4,
+        "id": "JungleMishapsTable",
+        "text": "Jungle Mishaps",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "EmeraldClawCommander",
+        "text": "Emerald Claw Commander",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "EmeraldClawKnight",
+        "text": "Emerald Claw Knight",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "VulkooriStingblade",
+        "text": "Vulkoori Stingblade",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "VulkooriVenomPriest",
+        "text": "Vulkoori Venom Priest",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "UmbragenShadowWalker",
+        "text": "Umbragen Shadow Walker",
+        "type": "reference"
+      }
+    ]
+  },
+  "anomalyFlags": [
+    {
+      "type": "reader-address",
+      "passage": "Run a Morgrave expeditions campaign if you want to emulate the pulp-action adventures of Professor Challenger, Indiana Jones, Lara Croft, and other explorer-scholars.",
+      "location": "Morgrave Expeditions",
+      "anchor": "Chapter6MorgraveExpeditions",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "(If you use the group patron rules in Eberron: Rising from the Last War or Tasha’s Cauldron of Everything, you can use the benefits listed here instead of the ones in those books; you can use the information on the University and Academy patrons to flesh out the characters’ contacts, fields of stud…",
+      "location": "Morgrave Characters",
+      "anchor": "MorgraveCharacters",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "As a result of this unity, each member of your party can grant Advantage to a D20 Test made by another member of the party.",
+      "location": "Group Assistance",
+      "anchor": "GroupAssistance",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "To grant Advantage in this way, you and your target must be able to see or hear each other, and neither can have the Incapacitated condition.",
+      "location": "Group Assistance",
+      "anchor": "GroupAssistance",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "After granting this Advantage, you can’t do so again until you finish a Long Rest.",
+      "location": "Group Assistance",
+      "anchor": "GroupAssistance",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "The university pays for the work you do on its behalf.",
+      "location": "Compensation",
+      "anchor": "Compensation",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "The nature of your employment influences how you are paid.",
+      "location": "Compensation",
+      "anchor": "Compensation",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "hidden-actor",
+      "passage": "The nature of your employment influences how you are paid.",
+      "location": "Compensation",
+      "anchor": "Compensation",
+      "confidence": 0.68,
+      "reason": "A passive construction may conceal who performs the action."
+    },
+    {
+      "type": "reader-address",
+      "passage": "On average, the university pays each member of your group 1 GP per day (enough to sustain a Modest lifestyle).",
+      "location": "Compensation",
+      "anchor": "Compensation",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "Or you might be paid a bounty (at least 250 GP) for each ancient relic you bring back from your adventures and give to the university.",
+      "location": "Compensation",
+      "anchor": "Compensation",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "hidden-actor",
+      "passage": "Or you might be paid a bounty (at least 250 GP) for each ancient relic you bring back from your adventures and give to the university.",
+      "location": "Compensation",
+      "anchor": "Compensation",
+      "confidence": 0.68,
+      "reason": "A passive construction may conceal who performs the action."
+    },
+    {
+      "type": "reader-address",
+      "passage": "Each member of your group has identification papers noting their affiliation with Morgrave University, which carries clout in academic circles.",
+      "location": "Documentation",
+      "anchor": "Documentation",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    }
+  ],
+  "contentHtml": "<div class=\"efota-title\">\n    <div class=\"efota-title-text\">\n        <p><span>Chapter</span> <span>06</span></p>\n        <h1 class=\"compendium-hr with-metadata\" id=\"Chapter6MorgraveExpeditions\">Morgrave Expeditions</h1>\n    </div>\n    <p><span>Chapter</span> <span>06</span></p>\n</div>\n\n<aside class=\"efota--genre-box\" id=\"AdventureIntro\">\n<p><strong>Adventure Genre:</strong> Pulp-Action Adventure</p>\n<p><strong>Pop Culture:</strong> Professor Challenger, Indiana Jones, Lara Croft</p>\n</aside>\n<figure class=\"compendium-art compendium-art-center Misc--Dropshadow\" id=\"imgMorgraveExpeditionsOpener\">\n<span class=\"artist-credit\">Michael Broussard</span>\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/efota/Jae5SyNcfFGjapTb/06-001.an-armorer-explorer-exploring-ancient-ruins.jpg\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/efota/Jae5SyNcfFGjapTb/06-001.an-armorer-explorer-exploring-ancient-ruins.jpg\" class=\"ddb-lightbox-inner\" style=\"width: 750px;\" alt=\"An armorer explorer exploring ancient ruins\" loading=\"lazy\" decoding=\"async\"></a>\n<figcaption>An Armorer Explorer ventures into an ancient ruin <br>in Xen’drik in search of magical secrets</figcaption>\n</figure>\n\n<p class=\"efota-dropcap\">Morgrave University in <a href=\"https://www.dndbeyond.com/sources/dnd/erftlw/sharn-city-of-towers\">Sharn</a>, one of the largest institutions of higher learning in <a href=\"https://www.dndbeyond.com/sources/dnd/erftlw/khorvaire-gazeteer#NationsofKhorvaire\">Khorvaire</a>, has a mixed reputation. On the one hand, its founder—Lord Lareth ir’Morgrave—envisioned the university as “a beacon of knowledge shining from the tallest towers of the city, illuminating the forgotten secrets of the past.” Generations of students and scholars have tried to help the university live up to that inspiring vision over the past two and a half centuries.</p>\n<p>On the other hand, ir’Morgrave had a reputation as a treasure hunter who built his fortune by selling artifacts and treasures stolen from archaeological digs in <a href=\"https://www.dndbeyond.com/sources/dnd/erftlw/khorvaire-gazeteer#Darguun\">Darguun</a>, <a href=\"https://www.dndbeyond.com/sources/dnd/erftlw/khorvaire-gazeteer-distant-lands#Xendrik\">Xen’drik</a>, and other sites. And countless students, scholars, and adventurers over the centuries have contributed to the university’s reputation as a cover for smuggling activities and plundering the past.</p>\n<p>Run a Morgrave expeditions campaign if you want to emulate the pulp-action adventures of Professor Challenger, Indiana Jones, Lara Croft, and other explorer-scholars.</p>\n\n\n<h2 class=\"compendium-hr heading-anchor\" id=\"MorgraveCharacters\">Morgrave Characters</h2>\n<p>A Morgrave expeditions campaign assumes that characters are connected to Morgrave University, which is a patron to the adventuring party. This arrangement allows the university to assign the characters to specific missions and reward them for achieving certain objectives without directing their every move. In return, the characters can draw on the resources of the university, and they gain other benefits from having a group patron. (If you use the group patron rules in <a class=\"sourcebook\" href=\"https://www.dndbeyond.com/sources/dnd/erftlw/character-creation-group-patrons\">Eberron: Rising from the Last War</a> or <a class=\"sourcebook\" href=\"https://www.dndbeyond.com/sources/dnd/tcoe/group-patrons\">Tasha’s Cauldron of Everything</a>, you can use the benefits listed here instead of the ones in those books; you can use the information on the <a href=\"https://www.dndbeyond.com/sources/dnd/erftlw/character-creation-group-patrons#University\">University</a> and <a href=\"https://www.dndbeyond.com/sources/dnd/tcoe/group-patrons#Academy\">Academy</a> patrons to flesh out the characters’ contacts, fields of study, and so on.)</p>\n<p>The <a href=\"/chapters/character-options/#Archaeologist\">Archaeologist</a> background described in chapter 2 is a good option for characters in this campaign, alongside <a class=\"sourcebook\" href=\"https://www.dndbeyond.com/sources/dnd/phb-2024\">Player’s Handbook</a> backgrounds such as Guide, Sage, and Scribe.</p>\n\n\n<h3 class=\"compendium-hr heading-anchor\" id=\"GroupPatronBenefits\">Group Patron Benefits</h3>\n<p>Characters in a party whose patron is Morgrave University gain the following benefits.</p>\n\n\n<h4 class=\"compendium-hr heading-anchor\" id=\"GroupAssistance\">Group Assistance</h4>\n<p>Having a group patron gives an adventuring party a common purpose—a patron’s guidance and encouragement inspire better coordination. As a result of this unity, each member of your party can grant Advantage to a D20 Test made by another member of the party. To grant Advantage in this way, you and your target must be able to see or hear each other, and neither can have the <a class=\"tooltip-hover condition-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#IncapacitatedCondition\" data-tooltip-href=\"/conditions/7-tooltip\">Incapacitated</a> condition. After granting this Advantage, you can’t do so again until you finish a Long Rest.</p>\n\n\n<h4 class=\"compendium-hr heading-anchor\" id=\"Compensation\">Compensation</h4>\n<p>The university pays for the work you do on its behalf. The nature of your employment influences how you are paid. On average, the university pays each member of your group 1 GP per day (enough to sustain a Modest lifestyle). Or you might be paid a bounty (at least 250 GP) for each ancient relic you bring back from your adventures and give to the university.</p>\n\n\n<h4 class=\"compendium-hr heading-anchor\" id=\"Documentation\">Documentation</h4>\n<p>Each member of your group has identification papers noting their affiliation with Morgrave University, which carries clout in academic circles. The university also acquires documentation, letters of introduction, and traveling papers for you if your work requires them. Finally, if your adventures take you to <a href=\"#Xendrik\">Xen’drik</a>, the university secures the necessary letters of marque issued by the king of <a href=\"https://www.dndbeyond.com/sources/dnd/erftlw/khorvaire-gazeteer#Breland\">Breland</a>, which grant you permission to explore the ruins there.</p>\n\n\n<h4 class=\"compendium-hr heading-anchor\" id=\"Research\">Research</h4>\n<p>The university has abundant resources to facilitate any research your mission requires. Whenever your group takes a <a href=\"https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#BastionTurns\">Bastion turn</a>, you can (as a group) issue the Research order to the university as if it were a <a href=\"https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Library\">Library</a> special facility in your Bastion. Once your group reaches level 13, you instead can issue the Research order to the university as if it were an <a href=\"https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Archive\">Archive</a>.</p>\n\n\n<h4 class=\"compendium-hr heading-anchor\" id=\"Resources\">Resources</h4>\n<p>Morgrave University has extensive <a href=\"#MorgraveUniversity\">libraries and museums</a>. You can call in a favor to gain access to resources that are generally not on exhibit: dangerous relics, magic items, spellbooks, and the like. Additionally, you can consult with experts in various fields among the university faculty—so long as you can coax them away from their work.</p>\n\n\n<h4 class=\"compendium-hr heading-anchor\" id=\"Training\">Training</h4>\n<p>You have access to continuing education at no cost. You can spend 30 days in classes to gain one of the following benefits:</p>\n<ul>\n<li> You gain proficiency in the <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/6-tooltip\">Arcana</a>, <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/7-tooltip\">History</a>, <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/9-tooltip\">Nature</a>, or <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/10-tooltip\">Religion</a> skill. You can gain proficiency in only one skill in this way.</li>\n<li> You gain proficiency with a tool.</li>\n<li> You learn a language.</li>\n</ul>\n\n\n<h2 class=\"compendium-hr heading-anchor\" id=\"MorgraveConflicts\">Morgrave Conflicts</h2>\n<p>A campaign centered on Morgrave University suggests three significant campaign conflicts:</p>\n<p><strong>Rival Explorers.</strong> Characters can explore the tension between legitimate scholarship and greed as they undertake expeditions and explorations in competition with rival adventurers.</p>\n<p><strong>Emerald Claw.</strong> Adventures can bring characters into conflict with sinister forces such as the <a href=\"https://www.dndbeyond.com/sources/dnd/erftlw/building-eberron-adventures-the-last-war#OrderoftheEmeraldClaw\">Order of the Emerald Claw</a>, which seeks to use ancient magic to advance its evil purposes.</p>\n<p><strong>Lords of Dust.</strong> The adventurers might—through accident or deception—release ancient evils into the world.</p>\n<p>You can replace or supplement these conflicts with others from <a class=\"sourcebook\" href=\"https://www.dndbeyond.com/sources/dnd/erftlw\">Eberron: Rising from the Last War</a> —such as the <a href=\"https://www.dndbeyond.com/sources/dnd/erftlw/building-eberron-adventures#TheDreamingDark\">Dreaming Dark</a>, the <a href=\"https://www.dndbeyond.com/sources/dnd/erftlw/building-eberron-adventures#GoblinoidsHeirsofDhakaan\">Heirs of Dhakaan</a>, or <a href=\"https://www.dndbeyond.com/sources/dnd/erftlw/building-eberron-adventures#CultsoftheDragonBelow\">Cults of the Dragon Below</a>—or scenarios of your own devising. The sites where characters conduct their explorations might suggest particular conflicts.</p>\n<p>This section describes the three suggested conflicts, the goals of the villainous groups, and possible plot arcs tied to them.</p>\n\n\n<h3 class=\"compendium-hr heading-anchor\" id=\"RivalExplorers\">Rival Explorers</h3>\n<p>Morgrave University teems with unscrupulous adventurers and researchers driven by avarice. Additionally, the university itself has academic rivals—the <a href=\"https://www.dndbeyond.com/sources/dnd/erftlw/khorvaire-gazeteer#Fairhaven\">University of Wynarn in Aundair</a>, the <a href=\"https://www.dndbeyond.com/sources/dnd/erftlw/khorvaire-gazeteer#Zilargo\">Library of Korranberg</a>, and <a href=\"https://www.dndbeyond.com/sources/dnd/erftlw/character-creation-group-patrons#University\">others</a>—whose scholars might become personal foils to adventurers associated with Morgrave.</p>\n\n\n<h4 class=\"compendium-hr heading-anchor\" id=\"GoalsofRivalExplorers\">Goals of Rival Explorers</h4>\n<p>Create a team of rival explorers who oppose the characters in different ways. If the characters are altruistic researchers seeking to expand the frontiers of knowledge, their rivals should be greedy, selfish, and ruthless—the worst representatives of Morgrave’s bad reputation. They seek fame, wealth, and power by plundering the secrets of ancient civilizations and claiming the magic and money they find for themselves.</p>\n<p>On the other hand, if the characters seem motivated by greed, choose as their rivals high-minded scholars from Wynarn. These foes work to discover the secrets of the past, contribute to the sum of knowledge, and prove that their university deserves more renown than the “institute of relic hunting and grave robbing” that is Morgrave University.</p>\n\n\n<h4 class=\"compendium-hr heading-anchor\" id=\"ARivalExplorersArc\">A Rival Explorers Arc</h4>\n<p>The rivalry between the characters and their foils might unfold according to this outline.</p>\n<p><strong><em>Levels 1–4.</em></strong> The characters first encounter their adversaries between adventures, at Morgrave University. The rivals might be receiving a coveted accolade, such as a research grant or an academic award. Or they might be conspicuously spending ill-gotten wealth, boasting of their accomplishments, or directly taunting the characters. (A rival group at these levels might consist of a <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/4904621-berserker\" data-tooltip-href=\"/monsters/4904621-tooltip\">Berserker</a> or <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/5194912-bandit-captain\" data-tooltip-href=\"/monsters/5194912-tooltip\">Bandit Captain</a>, a <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/5195109-mage-apprentice\" data-tooltip-href=\"/monsters/5195109-tooltip\">Mage Apprentice</a>, a <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/5195170-priest\" data-tooltip-href=\"/monsters/5195170-tooltip\">Priest</a>, and a <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/5195217-spy\" data-tooltip-href=\"/monsters/5195217-tooltip\">Spy</a>.)</p>\n<p><strong><em>Levels 5–10.</em></strong> In later adventures, the characters encounter their rivals in the field. Seeing the adventurers’ growing success, unscrupulous adversaries might engage in sabotage, theft, and similar escalating (but not violent) attacks. Or the characters might use such tactics themselves as their rivals enjoy a series of lucky finds and major successes. (A rival group at these levels might consist of an <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/5194904-assassin\" data-tooltip-href=\"/monsters/5194904-tooltip\">Assassin</a>, a <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/5195042-gladiator\" data-tooltip-href=\"/monsters/5195042-tooltip\">Gladiator</a>, a <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/4831023-mage\" data-tooltip-href=\"/monsters/4831023-tooltip\">Mage</a>, and a <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/5195155-performer-maestro\" data-tooltip-href=\"/monsters/5195155-tooltip\">Performer Maestro</a>.)</p>\n<p><strong><em>Levels 11–16.</em></strong> As the adventurers reach high levels, the rivalry comes to a head through an unfortunate event. The adversaries acquire a cursed item that possesses or otherwise corrupts them, turning the other group into outright antagonists. Ideally, the characters solve this problem by breaking the curse rather than killing the rivals, but either way, these foils no longer trouble the characters after they resolve this situation. (A rival group at these levels might consist of an <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/5194902-archmage\" data-tooltip-href=\"/monsters/5194902-tooltip\">Archmage</a>, an <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/5194903-archpriest\" data-tooltip-href=\"/monsters/5194903-tooltip\">Archpriest</a>, a <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/5195216-spy-master\" data-tooltip-href=\"/monsters/5195216-tooltip\">Spy Master</a>, and a <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/5195258-warrior-commander\" data-tooltip-href=\"/monsters/5195258-tooltip\">Warrior Commander</a>.)</p>\n\n\n<h3 class=\"compendium-hr heading-anchor\" id=\"OrderoftheEmeraldClaw\">Order of the Emerald Claw</h3>\n<figure class=\"compendium-art compendium-art-center\" id=\"imgEmeraldClawKnights\">\n<span class=\"artist-credit\">Daarken</span>\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/efota/Jae5SyNcfFGjapTb/06-002.Emerald-Claw-knights.png\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/efota/Jae5SyNcfFGjapTb/06-002.Emerald-Claw-knights.png\" class=\"ddb-lightbox-inner compendium-center-banner-img\" style=\"width: 850px;\" alt=\"Emerald Claw knights\" loading=\"lazy\" decoding=\"async\"></a>\n<figcaption>Two Emerald Claw Knights join their commander in a hunt for powerful magic</figcaption>\n</figure>\n<p>Driven by fanatical evil and bolstered by legions of undead soldiers, the Order of the Emerald Claw is a villainous organization whose aims often pit its agents against expeditions from Morgrave University. The order’s methods range from military raids using undead soldiers to subtle espionage and assassination.</p>\n\n\n<h4 class=\"compendium-hr heading-anchor\" id=\"GoalsoftheEmeraldClaw\">Goals of the Emerald Claw</h4>\n<p>In service of its undead leader, <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/486219-lady-illmarrow\" data-tooltip-href=\"/monsters/486219-tooltip\">Lady Illmarrow</a>, the Order of the Emerald Claw seeks powerful magic items, particularly those created with necromantic magic. Often its agents use these items simply to spread terror and destruction, but their efforts ultimately support Lady Illmarrow’s goal of reactivating her dragonmark, the extinct <a href=\"https://www.dndbeyond.com/sources/dnd/erftlw/character-creation-dragonmarks#TheHousesofShadow\">Mark of Death</a>.</p>\n\n\n<h4 class=\"compendium-hr heading-anchor\" id=\"AnEmeraldClawArc\">An Emerald Claw Arc</h4>\n<p>The conflict between adventurers and the Order of the Emerald Claw might follow this broad outline.</p>\n<p><strong><em>Levels 1–4.</em></strong> At low levels, the characters can clash with skeletons and zombies under the Emerald Claw’s control. At the same time, they might build a relationship—professional or personal—with an Emerald Claw spy within the Morgrave University faculty, such as Dala Arand (see the “<a href=\"#CyreTower\">Cyre Tower</a>” section later in this chapter). This spy could even serve as a patron for the characters’ expeditions.</p>\n<p><strong><em>Levels 5–10.</em></strong> Emerald Claw agents use violence to keep the characters away from treasures the order has claimed. The adventurers might set out explicitly to prevent the Emerald Claw from acquiring powerful magic, or the two groups might be searching for the same sites and treasures. But the Claw agents seem to have inside information on the characters’ activities and plans!</p>\n<p><strong><em>Levels 11–16.</em></strong> The spy at Morgrave University is uncovered and emerges as a powerful villain—perhaps a mighty necromancer or a vampire—who takes center stage through middle to high levels. Now the Emerald Claw primarily works to get the adventurers out of the way so they can’t foil Lady Illmarrow’s greater schemes.</p>\n<p><strong><em>Levels 17–20.</em></strong> The characters or the Emerald Claw agents acquire information about the Mark of Death, attracting Lady Illmarrow’s attention. The would-be Queen of the Dead plans an elaborate ritual in the heart of <a href=\"https://www.dndbeyond.com/sources/dnd/erftlw/khorvaire-gazeteer-distant-lands#ShaeMordai\">Shae Mordai</a>, the elven City of the Dead. The rite will destroy the islands of <a href=\"https://www.dndbeyond.com/sources/dnd/erftlw/khorvaire-gazeteer-distant-lands#Aerenal\">Aerenal</a> and elevate Lady Illmarrow to divinity—unless the characters stop her first.</p>\n\n\n<h4 class=\"compendium-hr heading-anchor\" id=\"EmeraldClawAgents\">Emerald Claw Agents</h4>\n<p>Agents of the Order of the Emerald Claw are soldiers whose obedience to the order and their superiors is absolute. They include the scouts, spies, and warriors described in the <a class=\"sourcebook\" href=\"https://www.dndbeyond.com/sources/dnd/mm-2024\">Monster Manual</a>, in addition to the stat blocks presented here, and they are often accompanied by Undead troops such as <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/4775841-skeleton\" data-tooltip-href=\"/monsters/4775841-tooltip\">Skeletons</a>, <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/4775851-zombie\" data-tooltip-href=\"/monsters/4775851-tooltip\">Zombies</a>, and <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/487601-karrnathi-undead-soldier\" data-tooltip-href=\"/monsters/487601-tooltip\">Karrnathi Undead Soldiers</a> (which appear in <a class=\"sourcebook\" href=\"https://www.dndbeyond.com/sources/dnd/erftlw/friends-and-foes\">Eberron: Rising from the Last War</a>). Their leaders include <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/486202-bone-knight\" data-tooltip-href=\"/monsters/486202-tooltip\">Bone Knights</a> (also in <a class=\"sourcebook\" href=\"https://www.dndbeyond.com/sources/dnd/erftlw/friends-and-foes#BoneKnight\">Eberron: Rising from the Last War</a>).</p>\n<p><strong><em>Emerald Claw Commander.</em></strong> Emerald Claw commanders lead large groups of soldiers, inspiring the fanatical devotion of Humanoids and Undead alike.</p>\n<p><strong><em>Emerald Claw Knight.</em></strong> Knights of the Emerald Claw command squads of Humanoid or Undead soldiers. As they draw nearer to death, the chill of the grave suffuses their weapon attacks.</p>\n\n\n<h3 class=\"compendium-hr heading-anchor\" id=\"LordsofDust\">Lords of Dust</h3>\n<p>Tales from the ancient history of Eberron tell of a time when the world fell entirely under the sway of evil: the so-called <a href=\"#AgeofDemons\">Age of Demons</a>, when fiendish beings called overlords ruled the world. The Lords of Dust are servitors of those lords—lesser (but still terrifying) Fiends who seek to sustain the overlords and release them from their prisons in Khyber.</p>\n\n\n<h4 class=\"compendium-hr heading-anchor\" id=\"GoalsoftheLordsofDust\">Goals of the Lords of Dust</h4>\n<p>To sustain the overlords, the Lords of Dust encourage activities that strengthen these lords’ influence. For example, because the overlord <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/486677-rak-tulkhesh\" data-tooltip-href=\"/monsters/486677-tooltip\">Rak Tulkhesh</a> embodies war, his minions work to cause strife across the world. And <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/486717-sul-khatesh\" data-tooltip-href=\"/monsters/486717-tooltip\">Sul Khatesh</a> feeds on the fear evoked by the sinister magic of warlocks and evil wizards, so her minions entice cruel folk to enter into pacts with the Queen of Shadows.</p>\n<p>The Lords of Dust work toward the long-term goal of releasing the overlords from imprisonment by manipulating world events to conform to their interpretations of the <a href=\"/chapters/introduction/#TheDraconicProphecy\">Draconic Prophecy</a>. Over the millennia, they sought to collect every possible fragment of the mysterious Prophecy that might pertain to the overlords’ liberation. They try to fulfill the Prophecy in ways that advance that goal. However, they are constantly impeded by newly discovered elements of Prophecy—especially since the dragonmarks that appear on mortals often seem connected to relevant parts of the Prophecy. This drives many Lords of Dust to collect or kill dragonmarked characters.</p>\n\n\n<h4 class=\"compendium-hr heading-anchor\" id=\"ALordsofDustArc\">A Lords of Dust Arc</h4>\n<p>The threat of the Lords of Dust need not become evident until the characters have some experience under their belts and can handle the threat of the overlords’ weakest minions. The conflict might play out according to this outline.</p>\n<p><strong><em>Levels 5–10.</em></strong> A few strange and apparently unconnected events mark the characters’ adventures during these levels. A demon flies into a rage at the sight of a dragonmarked character and attacks only that character. A mysterious figure in disguise tries to hire the characters to carry out a bizarre mission in a very specific way. The characters find their path through a dungeon cleared out ahead of them, with mangled monster corpses left in the wake of whatever horror preceded them—but the ancient relic they seek there is undisturbed.</p>\n<p><strong><em>Levels 11–16.</em></strong> The Lords of Dust try to manipulate the characters to use the ancient relic to kill a dragon, prominent dragonmarked individual, or political figure. The Lords believe that the characters using the relic in this way will fulfill part of the Draconic Prophecy and serve as an important step toward the overlords’ release. At some point, an evil dragon (<a href=\"/chapters/dragonmarks/#TheChamber\">an agent of the Chamber</a>) warns the characters against this manipulation, explaining the nature and goals of the Lords of Dust to them. If the characters refuse to cooperate with the lords, powerful Fiends attack them to claim the relic and place it in the hands of more pliable adventurers.</p>\n<p><strong><em>Levels 17–20.</em></strong> Apparently by coincidence, the adventurers’ latest expedition—the crowning achievement of their careers—leads to the discovery of an Underdark site where an overlord lies imprisoned. A horde of demons appears and attacks, each one throwing itself on the overlord’s prison when it is slain. As each creature’s ichor spills over the prison, cracks appear in the stone surface. Can the adventurers fend off the demons and the ever-increasing manifestations of evil without freeing the overlord and unleashing destruction on the world?</p>\n\n\n<h2 class=\"compendium-hr heading-anchor\" id=\"MorgraveUniversity\">Morgrave University</h2>\n<figure class=\"compendium-art compendium-art-center Misc--Dropshadow\" id=\"imgMorgraveUniversity\">\n<span class=\"artist-credit\">Cullen Cole</span>\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/efota/Jae5SyNcfFGjapTb/06-003.Morgrave-University.jpg\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/efota/Jae5SyNcfFGjapTb/06-003.Morgrave-University.jpg\" class=\"ddb-lightbox-inner\" style=\"width: 845px;\" alt=\"Morgrave University\" loading=\"lazy\" decoding=\"async\"></a>\n<figcaption>Morgrave University</figcaption>\n</figure>\n<p>Morgrave University is prominently situated in <a href=\"https://www.dndbeyond.com/sources/dnd/erftlw/sharn-city-of-towers\">Sharn</a>, the City of Towers—in the <a href=\"https://www.dndbeyond.com/sources/dnd/erftlw/sharn-city-of-towers#UpperMenthis\">Upper Menthis ward</a>. The institution owns the buildings surrounding the campus proper, renting residences to students and faculty. The university also leases business space to essential trades and services, from booksellers and stationers to scribes and cartographers. The school fills <a href=\"#DalannanTower\">Dalannan Tower</a>, crowned by the enormous dome of Lareth Hall. Five slender spires (named after the <a href=\"https://www.dndbeyond.com/sources/dnd/erftlw/welcome-to-eberron#TheFiveNations\">Five Nations</a>) ring Dalannan Tower and house the students.</p>\n<p>At the bottom levels of the university, several large courtyards among the towers feature grass and small trees. Locals call these courtyards the “ground floor” of the campus, despite their position high above the Menthis Plateau. They’re popular sites for student gatherings and class meetings on the rare occasions that Sharn’s notoriously rainy weather lets up.</p>\n<p>Beyond the courtyards, the “ground floor” contains lecture halls, study halls, small libraries (mostly focused on books assigned for student reading), dining halls, and faculty offices.</p>\n<p>Morgrave is a constant bustle of activity while classes remain in session, but it can feel deserted in the evenings, on weekends, and between terms. Even for nonstudents, the university contains resources and information helpful to nearly any pursuit—if you know where to look and whom to ask. The following locations represent some of the most popular and versatile resources on the campus. Among the location descriptions are snapshots of some of the faces of Morgrave—professors who are colorful characters and might have interesting roles to play in a Morgrave expeditions campaign.</p>\n\n\n<h3 class=\"compendium-hr heading-anchor\" id=\"DalannanTower\">Dalannan Tower</h3>\n<p>The lowest levels of Dalannan Tower hold faculty offices for several core departments, including history, archaeology, anthropology, geography, arcana, linguistics, and the interdisciplinary Xen’drik studies and Dhakaani studies programs. These offices, along with a sprinkling of lecture halls, ring the tower’s outer edge.</p>\n<p>At these lower levels, the tower’s interior (accessible only from the floors above) contains the vaults of the <a href=\"https://www.dndbeyond.com/sources/dnd/erftlw/sharn-city-of-towers#MenthisPlateauNoteworthyLocations\">Dezina Museum of Antiquities</a>, whose public areas fill several of Dalannan’s middle floors. These vaults contain hundreds, if not thousands, of unopened crates holding uncatalogued treasures—some of which have been there for decades.</p>\n<p>Above the Dezina Museum, the Morgrave University Library fills the top levels of Dalannan Tower. While it doesn’t match the <a href=\"https://www.dndbeyond.com/sources/dnd/erftlw/character-creation-group-patrons#OtherUniversities\">library at Korranberg</a> in breadth, it is the most extensive collection of books in Breland. It specializes in the history of Khorvaire and is run by gnome expatriates from Zilargo. Students and faculty can use the library for free; others must pay 1 GP per day.</p>\n<p>At the top of Dalannan Tower lies a complex of several buildings with great domes and pillared facades. Lareth Hall, which houses administrative offices, is the largest of these structures. Next to it rises the Great Hall of Aureon, a temple to the <a href=\"https://www.dndbeyond.com/sources/dnd/erftlw/khorvaire-gazeteer-faiths-of-khorvaire#SovereignHost\">Sovereign of knowledge</a>. It’s purported to be a source of divine inspiration—tales say that sleeping on the temple’s marble floor provides insight into one’s problems. The temple staff includes scholars and experts from practically every academic field and discipline.</p>\n<p>Attached to both Lareth Hall and the Great Hall of Aureon, a slender spire topped with a column-ringed, open-air hall completes the facility. This is the home of Flamewind (see “Faces of Morgrave” below). The sphinx gives the spire its name: Flamewind’s Steeple.</p>\n\n\n<h4 class=\"compendium-hr heading-anchor\" id=\"Flamewind\">Flamewind</h4>\n<p>Not technically a faculty member, the sphinx called Flamewind (<a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/5195211-sphinx-of-lore\" data-tooltip-href=\"/monsters/5195211-tooltip\">Sphinx of Lore</a>) is certainly one of the most interesting characters on campus. A recent expedition to Xen’drik encountered her, and she claimed she had been waiting for the scholars to find her. She willingly returned with them to Khorvaire and took up residence at the top of a spire beside Lareth Hall’s great dome. She frequently summons adventurers to her chamber and sends them on cryptic missions. Many say she has oracular powers and has studied the <a href=\"/chapters/introduction/#TheDraconicProphecy\">Draconic Prophecy</a>.</p>\n\n\n<h4 class=\"compendium-hr heading-anchor\" id=\"GhashDuurkat\">Ghash Duurkat</h4>\n<p>Though he hasn’t yet received a professorship (he carries the title of lecturer in the history department), Ghash Duurkat (Lawful Neutral <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/5195077-hobgoblin-captain\" data-tooltip-href=\"/monsters/5195077-tooltip\">Hobgoblin Captain</a>) remains a popular sensation at Morgrave. A hobgoblin who wears traditional battle armor to every class, Duurkat is a boisterous lecturer. But despite the theatrics, his knowledge of Dhakaani history is unmatched. A rakshasa associated with the Lords of Dust has taken an interest in Ghash Duurkat’s research, which has touched on the location of an imprisoned overlord far beneath Darguun.</p>\n\n\n<h4 class=\"compendium-hr heading-anchor\" id=\"LarrianirMorgrave\">Larrian ir’Morgrave</h4>\n<p>Larrian ir’Morgrave (Medium <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/5195144-noble-prodigy\" data-tooltip-href=\"/monsters/5195144-tooltip\">Noble Prodigy</a>) descends directly from Lareth ir’Morgrave, founder of the university, and serves as its current master. Though his job involves more administration than scholarship, he nevertheless finds time to publish more papers on giant-made pottery than any other scholar, past or present. If you use rival explorers in your campaign who are connected to Morgrave University, they work hard to curry favor with Master Larrian, and if the adventurers don’t put in similar effort, they’ll find the school administration hampering their efforts at every turn.</p>\n\n\n<h4 class=\"compendium-hr heading-anchor\" id=\"Zophik\">Zophik</h4>\n<p>Widely regarded as erratic, Professor Zophik (Medium <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/5195258-warrior-commander\" data-tooltip-href=\"/monsters/5195258-tooltip\">Warrior Commander</a>)—a human who no longer uses her first name—has earned the right to some eccentricity. Her field of history is the Age of Demons; supposedly she has traveled to ancient <a href=\"https://www.dndbeyond.com/sources/dnd/erftlw/khorvaire-gazeteer#Ashtakala\">Ashtakala</a> and survived—though not unscarred.</p>\n\n\n<h3 class=\"compendium-hr heading-anchor\" id=\"AundairSpire\">Aundair Spire</h3>\n<p>Most of Aundair Spire holds student dormitories, faculty residences, and offices for the faculty and staff of the botany, agriculture, and related departments. Crowning the spire, the magnificent Hadrill Gardens displays an extraordinary collection of exotic plants, flowers, and even plant creatures from around the world. Access to the more dangerous plants is restricted to botany students with permission from a faculty member. Both students and staff enjoy meditation and even romantic walks within the spire’s large open-air garden and nine greenhouses—including one devoted to orchids from <a href=\"#Xendrik\">Xen’drik</a> and <a href=\"https://www.dndbeyond.com/sources/dnd/erftlw/khorvaire-gazeteer#Qbarra\">Q’barra</a>.</p>\n\n\n<h4 class=\"compendium-hr heading-anchor\" id=\"AlainGourthan\">Alain Gourthan</h4>\n<p>Professor Alain Gourthan, a young human botanist (Medium <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/5195145-noble\" data-tooltip-href=\"/monsters/5195145-tooltip\">Noble</a>), has yet to make any dramatic discoveries—a fact that grates on his nerves. His academic knowledge exceeds that of many colleagues, and students call him an excellent lecturer. But his lack of significant field experience has held him back. Word is circulating that he plans a truly ambitious expedition to the far south of Xen’drik, which almost certainly will either make or break his career. He might hire the characters or their rivals to accompany him on this expedition.</p>\n<figure class=\"compendium-art compendium-art-center\" id=\"imgIvoryTowers\">\n<span class=\"artist-credit\">Cullen Cole</span>\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/efota/Jae5SyNcfFGjapTb/06-004.faces-of-Morgrave.png\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/efota/Jae5SyNcfFGjapTb/06-004.faces-of-Morgrave.png\" class=\"ddb-lightbox-inner compendium-center-banner-img\" style=\"width: 850px;\" alt=\"Faces of Morgrave\" loading=\"lazy\" decoding=\"async\"></a>\n</figure>\n\n\n<h3 class=\"compendium-hr heading-anchor\" id=\"BrelandSpire\">Breland Spire</h3>\n<p>Below many levels of residences for students and faculty, the lowest levels of Breland Spire hold the offices of the mathematics, engineering, siege craft, alchemy, physics, and planar studies departments. Toward the top of the spire sits the Commons, a large, roofed plaza ringed by columns to allow fresh air to blow through. The Commons is a popular gathering spot for the university community. Food vendors set up carts there every morning and sell a wide variety of dishes throughout the day. In the evening, the Commons grows quieter, becoming a favorite spot for those who want to read, meditate, or have a private conversation.</p>\n\n\n<h4 class=\"compendium-hr heading-anchor\" id=\"TheBridge\">The Bridge</h4>\n<p>A long arcing, covered bridge connects Breland Spire to a level near the top of Dalannan Tower. One side of the bridge features shops focused on the needs of Morgrave’s students (bookstores, paper makers, clothing and equipment vendors). On the other side, a wall holds announcements and notices (job opportunities, campus events, items for sale, and so forth).</p>\n\n\n<h3 class=\"compendium-hr heading-anchor\" id=\"CyreTower\">Cyre Tower</h3>\n<p>The lowest levels of Cyre Tower contain offices for the departments of art, music, literature, and related fields. The upper levels here house close-knit communities of students and faculty with common interests. Such interests include academic pursuits, hobbies, shared languages, and religious affiliation. In Shava House—one such community—residents enjoy meals heavily laden with academic discourse regarding the history of Xen’drik.</p>\n\n\n<h4 class=\"compendium-hr heading-anchor\" id=\"DalaArand\">Dala Arand</h4>\n<p>Dala Arand (Medium, Lawful Evil <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/4904883-tough-boss\" data-tooltip-href=\"/monsters/4904883-tooltip\">Tough Boss</a>), a young human resident of Shava House, has a distinguished record of expeditions to Xen’drik. She is particularly drawn to legends surrounding powerful Artifacts wielded by dragons and demons as the ancient Age of Demons came to an end. Rumors claim she has solid leads pointing to the location of an item known as the Scepter of Fell Khadash, somewhere in a vault in Xen’drik. Secretly, she is an agent of the <a href=\"#OrderoftheEmeraldClaw\">Order of the Emerald Claw</a>; she reserves the most powerful magic she discovers for the order. The students and adventurers she brings on expeditions remain unaware of this connection.</p>\n\n\n<h3 class=\"compendium-hr heading-anchor\" id=\"KarrnathSpire\">Karrnath Spire</h3>\n<p>Zoology, animal husbandry, medicine, and related departments have offices and classrooms on the lowest levels of Karrnath Spire. Near the top lies the Valdain Museum of Natural History, a fascinating collection of stuffed and mounted animals from across Khorvaire and beyond. Despite being underfunded and unappreciated at a university so focused on ancient ruins and relics, the Valdain Museum features exhibits on magical creatures, from blink dogs and displacer beasts to a great bulette. An enormous dragon skeleton hangs from the ceiling just inside the museum entrance.</p>\n\n\n<h4 class=\"compendium-hr heading-anchor\" id=\"SendorReddick\">Sendor Reddick</h4>\n<p>Professor Sendor Reddick (Medium <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/5194960-death-cultist\" data-tooltip-href=\"/monsters/5194960-tooltip\">Death Cultist</a>) is a taxidermist as well as a noted scholar of animal biology. As curator of the Valdain Museum of Natural History, Reddick pays handsomely for well-preserved specimens of unusual creatures, though he prefers to stuff them himself. Many whisper that the young-seeming elf dabbles in necromancy, and some speculate that he might be connected to the <a href=\"#OrderoftheEmeraldClaw\">Order of the Emerald Claw</a>. In fact, he is devoted to <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/486717-sul-khatesh\" data-tooltip-href=\"/monsters/486717-tooltip\">Sul Khatesh</a> and serves the <a href=\"#LordsofDust\">Lords of Dust</a>.</p>\n\n\n<h3 class=\"compendium-hr heading-anchor\" id=\"ThraneTower\">Thrane Tower</h3>\n<p>Departments including law, government, economics, sociology, religion, and related fields occupy offices at the lowest levels of Thrane Tower. The rest of the tower contains residences, including several luxurious homes with commanding views at the top of the tower. Most notable is the home of <a href=\"#LarrianirMorgrave\">Larrian ir’Morgrave</a>, the master of the university.</p>\n\n\n<h4 class=\"compendium-hr heading-anchor\" id=\"SanaDhuma\">Sana Dhuma</h4>\n<p>People know Sana Dhuma, an aged orc scholar of religion (Medium, Neutral Good <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/4831023-mage\" data-tooltip-href=\"/monsters/4831023-tooltip\">Mage</a>), for her extensive work among the benevolent yuan-ti of Krezent (in the <a href=\"https://www.dndbeyond.com/sources/dnd/erftlw/khorvaire-gazeteer#TalentaPlains\">Talenta Plains</a>), as well as a few brief forays into territory held by yuan-ti in <a href=\"#Xendrik\">Xen’drik</a>. Her office and residence boast an extensive collection of pet snakes. She’s fond of making students suspect that one of the snakes is actually a yuan-ti spy.</p>\n\n\n<h3 class=\"compendium-hr heading-anchor\" id=\"BelowMorgrave\">Below Morgrave</h3>\n<p>Teeming neighborhoods of citizens occupy the towers and streets below the university’s main tower. Just below the “ground floor” in Middle Menthis, the middle levels of those towers hold the district of Everbright. There, vendors make and sell magic items, spellcasters offer their services, and specialized merchants trade with exclusive clientele. It’s a peaceful, well-to-do neighborhood lit with magic lanterns and glittering with other magical effects.</p>\n<p>Below Everbright, the tower and spires of Morgrave University above merge together into a single, massive structure full of apartments and ringed with orderly townhouses, forming the heart of a residential district called Center Bridge. Though rowdy taverns, theaters, and gambling dens surround this neighborhood, Center Bridge remains mostly quiet. Many students and some university staff live here, where lodging costs less than in the upper towers.</p>\n\n\n<h2 class=\"compendium-hr heading-anchor\" id=\"DangerousDestinations\">Dangerous Destinations</h2>\n<p>From million-year-old shrines in the <a href=\"https://www.dndbeyond.com/sources/dnd/erftlw/khorvaire-gazeteer#DemonWastes\">Demon Wastes</a> to the wreckage of <a href=\"https://www.dndbeyond.com/sources/dnd/erftlw/khorvaire-gazeteer#CyreTheMournland\">Cyre in what is now the Mournland</a>, Eberron is strewn with the ruins of former civilizations. At these sites, explorer-adventurers can delve into the mysteries of the past. The adventure locations you choose can affect the tone and flavor of your campaign (see “<a href=\"https://www.dndbeyond.com/sources/dnd/dmg-2024/creating-campaigns#FlavorsofFantasy\">Flavors of Fantasy</a>” in the <a class=\"sourcebook\" href=\"https://www.dndbeyond.com/sources/dnd/dmg-2024\">Dungeon Master’s Guide</a>), as well as determine the kinds of ancient relics characters might unearth in their expeditions.</p>\n\n\n<h3 class=\"compendium-hr heading-anchor\" id=\"AgeofDemons\">Age of Demons</h3>\n<p>The Age of Demons is shrouded in myth, and explorers rarely find ruins from that ancient era. But a few sites remain, particularly in the <a href=\"https://www.dndbeyond.com/sources/dnd/erftlw/khorvaire-gazeteer#DemonWastes\">Demon Wastes</a> and <a href=\"https://www.dndbeyond.com/sources/dnd/erftlw/khorvaire-gazeteer#Qbarra\">Q’barra</a>, kept relatively intact by the powerful magic of the Fiends who built them or preserved by an archfiend overlord imprisoned beneath them. Adventurers who dare to explore such a site must beware releasing bound Fiends.</p>\n<p>The ruins from the Age of Demons are fitting for supernatural horror adventures. The relics and treasures the characters unearth appear evil and grotesque, and the truths they learn about Eberron’s most ancient history might disturb them deeply. In addition, they likely face nightmarish foes, potentially even including a fiendish overlord, as detailed in <a class=\"sourcebook\" href=\"https://www.dndbeyond.com/sources/dnd/erftlw\">Eberron: Rising from the Last War</a>. The Lords of Dust are particularly important antagonists in the Demon Wastes.</p>\n<p>Use the Age of Demons Finds table to describe an art object, magic item, or historical curiosity the characters discover on their expeditions into these ancient ruins.</p>\n<table class=\"table-compendium table--generic-dice\" id=\"session-table-1\">\n<caption>\n\n\n<h4 class=\"compendium-hr quick-menu-exclude heading-anchor\" id=\"AgeOfDemonsFindsTable\">Age of Demons Finds</h4>\n</caption>\n<thead>\n<tr>\n<th>1d12</th>\n<th>Item</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1</td>\n<td>A statuette of a demonic frog-like figure made of an unknown, slimy substance</td>\n</tr>\n<tr>\n<td>2</td>\n<td>A dagger with a jagged blade whose handle squirms when held</td>\n</tr>\n<tr>\n<td>3</td>\n<td>A jeweled box that screams when opened</td>\n</tr>\n<tr>\n<td>4</td>\n<td>A circlet or necklace with prongs that bite into the skin when it’s worn</td>\n</tr>\n<tr>\n<td>5</td>\n<td>A plain metal ring that causes its wearer to hear incessant, unintelligible whispers</td>\n</tr>\n<tr>\n<td>6</td>\n<td>An amulet or figurine covered with a sickly-looking lichen that feels cold to the touch</td>\n</tr>\n<tr>\n<td>7</td>\n<td>A piece of jewelry set with a translucent gemstone; an indistinct shape inside the gem moves at random</td>\n</tr>\n<tr>\n<td>8</td>\n<td>A weapon made from dark metal that dims the light immediately surrounding it</td>\n</tr>\n<tr>\n<td>9</td>\n<td>A die made of petrified bone with mysterious glyphs on the faces</td>\n</tr>\n<tr>\n<td>10</td>\n<td>Glass bangles of shifting colors that make no sound striking against each other</td>\n</tr>\n<tr>\n<td>11</td>\n<td>A metal scepter topped with a monstrous head much denser than the rest of the scepter, which makes it unbalanced</td>\n</tr>\n<tr>\n<td>12</td>\n<td>A medallion or sculpture depicting a <a href=\"https://www.dndbeyond.com/sources/dnd/mm-2024/monster-lists#Fiend\">Fiend</a> locked in battle with a <a href=\"https://www.dndbeyond.com/sources/dnd/mm-2024/monster-lists#Celestial\">Celestial</a> or <a href=\"https://www.dndbeyond.com/sources/dnd/mm-2024/monster-lists#Dragon\">Dragon</a></td>\n</tr>\n</tbody>\n</table>\n\n\n<h3 class=\"compendium-hr heading-anchor\" id=\"Dhakaan\">Dhakaan</h3>\n<p>The Empire of Dhakaan, ruled by hobgoblin kings for thousands of years in Khorvaire’s distant past, united several rival nations to create the continent’s first significant empire. Its reign was shattered during the Daelkyr War, when armies of mind flayers, beholders, and other Aberrations spewed from Xoriat, the plane of delirium, and launched an overwhelming attack on Khorvaire. Though the Gatekeeper druids ultimately drove the daelkyr back and held them in check, the war so destabilized the Dhakaani Empire that it soon collapsed.</p>\n<p>Ruins of cities and fortifications built during the Dhakaani Empire dot Khorvaire, especially in the southwest—in modern <a href=\"https://www.dndbeyond.com/sources/dnd/erftlw/khorvaire-gazeteer#Droaam\">Droaam</a>, <a href=\"https://www.dndbeyond.com/sources/dnd/erftlw/khorvaire-gazeteer#Breland\">Breland</a>, <a href=\"https://www.dndbeyond.com/sources/dnd/erftlw/khorvaire-gazeteer#Zilargo\">Zilargo</a>, and <a href=\"https://www.dndbeyond.com/sources/dnd/erftlw/khorvaire-gazeteer#Darguun\">Darguun</a>—as well as <a href=\"https://www.dndbeyond.com/sources/dnd/erftlw/khorvaire-gazeteer#Valenar\">Valenar</a> and the <a href=\"https://www.dndbeyond.com/sources/dnd/erftlw/khorvaire-gazeteer#CyreTheMournland\">Mournland</a>. The war with the daelkyr particularly scarred Droaam; ancient relics there might hold the secrets of daelkyr flesh-warping, Gatekeeper planar spells, or the military magic of the Dhakaani.</p>\n<p>Expeditions into Dhakaani ruins tend toward heroic fantasy. The dangers lurking there range from ancient traps and Construct guardians crafted by long-dead goblinoids to subterranean monsters that lair in the ruins. Adventures involving the remnants of the Daelkyr War also can incorporate elements of supernatural horror, including hideous monsters descended from the daelkyr’s creations.</p>\n<p>Ancient sites from the Dhakaani Empire—and the treasures within them—are esteemed by modern-day hobgoblins from Darguun who seek to revive the empire. Explorers in these ruins often must contend with goblinoid rivals who regard Dhakaani antiquities as rightfully Darguun’s. These treasures include armor and weapons, frequently decorated with calligraphy or illustration—or enhanced with brutal spikes or serrated blades.</p>\n\n\n<h3 class=\"compendium-hr heading-anchor\" id=\"Khyber\">Khyber</h3>\n<p>The creation myths of various cultures describe the primordial dragon Eberron restraining and imprisoning the dragon Khyber within her coils. (See “<a href=\"https://www.dndbeyond.com/sources/dnd/erftlw/khorvaire-gazeteer-distant-lands#Khyber\">Khyber</a>” in <a class=\"sourcebook\" href=\"https://www.dndbeyond.com/sources/dnd/erftlw\">Eberron: Rising from the Last War</a> for details.) Whether one takes this myth literally or figuratively, one cannot deny that untold alien worlds exist within the subterranean reaches that bear the imprisoned dragon’s name—not just the unfamiliar underground passageways and caverns of the Underdark, but entire demiplanes teeming with monstrous creatures. Neither can one deny that the expanses of Khyber serve as a prison for fiendish overlords, daelkyr, and other powerful evils. These coils also harbor sealed portals connecting to these creatures’ native realms.</p>\n<p>Expeditions into the depths of Khyber often incorporate elements of supernatural horror, given the pervasive evil of the creatures in these subterranean realms. Thanks to the strange demiplanes embedded within Khyber, these adventures also might cross the streams into alien weirdness: characters could venture into a demiplane resembling Wonderland, Oz, or a postapocalyptic wasteland.</p>\n<p>Khyber is a prison realm, and the <a href=\"https://www.dndbeyond.com/sources/dnd/erftlw/treasures#Dragonshards\">dragonshards</a> found there relate to binding magic. These crystals are essential components of modern elemental vessels, including airships, Lyrandar galleons, and the lightning rail. Thus, many expeditions into Khyber are prospecting missions for this valuable mineral resource—though such journeys rarely risk delving into the weirdest depths of Khyber. Increasingly, <a href=\"/chapters/dragonmarks/#HouseTharashk\">House Tharashk</a> prospectors seek partnerships with academic expeditions into Khyber so they can benefit from scholarly expertise about the realm’s bizarre phenomena. Morgrave University, true to its reputation, happily supplies such experts in exchange for a cut of the substantial profits.</p>\n<p>Aside from assisting in such profit-driven expeditions, Morgrave University doesn’t often sponsor independent missions into Khyber. Such missions rarely bring back physical objects of any scholarly interest or monetary value. Nevertheless, the professors who study Khyber occasionally lead or send expeditions to research such obscure topics as the binding seals of the <a href=\"https://www.dndbeyond.com/sources/dnd/erftlw/building-eberron-adventures#Gatekeepers\">Gatekeepers</a>, the spacedistorting effects of planar confluence, and the psychological impact of exposure to daelkyr magic.</p>\n\n\n<h3 class=\"compendium-hr heading-anchor\" id=\"Xendrik\">Xen’drik</h3>\n<p>Expeditions to Xen’drik remain the core of Morgrave University’s archaeological work and the foundation of its reputation—for both good and ill. The school’s founder, Lord Lareth ir’Morgrave, was one of the first explorers from Khorvaire to penetrate the interior of Xen’drik and discover ruins from an ancient giant civilization there. Despite the great distance involved, multiple university-sponsored expeditions operate across Xen’drik at any time.</p>\n<p><a href=\"https://www.dndbeyond.com/sources/dnd/erftlw/character-creation#DrowofXendrik\">The Age of Giants</a> left numerous ruins strewn across Xen’drik’s landscape. But the continent hides its secrets from explorers, as if the relics of the ancient giants weren’t meant for the eyes of prying adventurers. No one knows better than the scholars of Morgrave University how to circumvent those barriers and plunder the continent’s troves of both knowledge and wealth.</p>\n<figure class=\"compendium-art compendium-art-center\" id=\"imgAirshipPort\">\n<span class=\"artist-credit\">Cullen Cole</span>\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/efota/Jae5SyNcfFGjapTb/06-005.elemental-airships.png\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/efota/Jae5SyNcfFGjapTb/06-005.elemental-airships.png\" class=\"ddb-lightbox-inner compendium-center-banner-img\" style=\"width: 850px;\" alt=\"Elemental airships\" loading=\"lazy\" decoding=\"async\"></a>\n<figcaption>Elemental airships aid archaeological expeditions to distant lands</figcaption>\n</figure>\n\n\n<h4 class=\"compendium-hr heading-anchor\" id=\"JourneystoXendrik\">Journeys to Xen’drik</h4>\n<p>A voyage from <a href=\"https://www.dndbeyond.com/sources/dnd/erftlw/sharn-city-of-towers\">Sharn</a> to <a href=\"https://www.dndbeyond.com/sources/dnd/erftlw/khorvaire-gazeteer-distant-lands#XendrikNotableLocations\">Stormreach</a>—the most accessible settlement in Xen’drik, used as a launch point for most expeditions into the interior—involves traveling about fifteen hundred miles by sea through the perilous Straits of Shargon. The university typically hires a <a href=\"https://www.dndbeyond.com/sources/dnd/phb-2024/equipment#LargeVehicles\">Sailing Ship</a> (or occasionally a <a href=\"https://www.dndbeyond.com/sources/dnd/erftlw/building-eberron-adventures-the-last-war#LyrandarGalleons\">Lyrandar galleon</a>) to carry passengers and supplies to Stormreach, then back again. The expedition members are responsible for refreshing their supplies in Stormreach and journeying to their destination on foot.</p>\n<p>A <a href=\"https://www.dndbeyond.com/sources/dnd/erftlw/building-eberron-adventures-the-last-war#LyrandarAirship\">Lyrandar airship</a> can bypass the dangers of the sea voyage and cover the distance faster, but the Straits of Shargon are known for brutal storms. An expedition can save considerable time by using a House Orien <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2619167-teleportation-circle\" data-tooltip-href=\"/spells/2619167-tooltip\">Teleportation Circle</a> to get to Stormreach, at the cost of having to purchase supplies and perhaps other transportation options in Xen’drik, where prices are often inflated. The Xen’drik Journeys table summarizes these options.</p>\n<table class=\"table-compendium table--left-all\" id=\"session-table-2\">\n<caption>\n\n\n<h4 class=\"compendium-hr quick-menu-exclude heading-anchor\" id=\"XendrikJourneysTable\">Xen’drik Journeys</h4>\n</caption>\n<thead>\n<tr>\n<th>Transport</th>\n<th>Cost</th>\n<th>Time</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Sailing Ship</td>\n<td>150 GP/person</td>\n<td>32 days</td>\n</tr>\n<tr>\n<td>Lyrandar Galleon</td>\n<td>750 GP/person</td>\n<td>7 days</td>\n</tr>\n<tr>\n<td>Lyrandar Airship</td>\n<td>1,500 GP/person</td>\n<td>3 days</td>\n</tr>\n<tr>\n<td><a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2619167-teleportation-circle\" data-tooltip-href=\"/spells/2619167-tooltip\">Teleportation Circle</a></td>\n<td>2,500 GP</td>\n<td>Instant</td>\n</tr>\n</tbody>\n</table>\n<p>Using the <a href=\"https://www.dndbeyond.com/sources/dnd/dmg-2024/running-the-game#Travel\">guidelines for travel</a> in the <a class=\"sourcebook\" href=\"https://www.dndbeyond.com/sources/dnd/dmg-2024\">Dungeon Master’s Guide</a>, you can think about a sea voyage to Xen’drik in three stages:</p>\n<ul>\n<li> Sharn to Shargon’s Teeth islands (500 miles)</li>\n<li> Through Shargon’s Teeth (375 miles)</li>\n<li> To Stormreach (625 miles)</li>\n</ul>\n<p>In the first stage, characters might face storms, shifting winds, or other environmental hazards that can extend the journey, perhaps even to the point where supplies begin to run low.</p>\n<p>The most common challenge in the second stage involves a confrontation with sahuagin that dwell in the waters around Shargon’s Teeth. Some sahuagin bands prove hostile to all travelers, while others sell their services as guides and lead ships through the hard-to-navigate waterways. Successfully completing this stage of the journey might involve combat, careful negotiation, or both.</p>\n<p>The third and longest stage might involve encounters with unexpected monsters—from a <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/4775818-giant-crab\" data-tooltip-href=\"/monsters/4775818-tooltip\">Giant Crab</a> to a <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/5195097-kraken\" data-tooltip-href=\"/monsters/5195097-tooltip\">Kraken</a> —living in the seas or on small islands.</p>\n\n\n<h4 class=\"compendium-hr heading-anchor\" id=\"DrowofXendrik\">Drow of Xen’drik</h4>\n<p>Within the cyclopean ruins of Xen’drik, drow are the self-proclaimed inheritors of the Age of Giants. The descendants of elves who were enslaved by giants, drow now dwell in the homes of their former masters, guarding the relics and holy sites that fate has entrusted to them. With a culture based on rebellion, magic, and combat prowess, drow are deadly enemies to any who would attempt to steal or debase the history of Xen’drik.</p>\n<p>Most drow of Xen’drik worship a fierce scorpion-god called Vulkoor. Some theologians of the Sovereign Host and the Dark Six believe Vulkoor to be an aspect of the <a href=\"https://www.dndbeyond.com/sources/dnd/erftlw/khorvaire-gazeteer-faiths-of-khorvaire#TheSix\">Mockery</a> (see <a class=\"sourcebook\" href=\"https://www.dndbeyond.com/sources/dnd/erftlw\">Eberron: Rising from the Last War</a>), but the Vulkoori drow show no partiality to the followers of the Mockery or any other god but their own. In imitation of their arachnid god, Vulkoori wear plates of scorpion chitin sewn to leather straps and sheaths. They tattoo their flesh using scorpion venom that leaves white scars on their skin.</p>\n<p><strong><em>Vulkoori Stingblade.</em></strong> Vulkoori drow warriors coat their weapons with the same deadly scorpion venom they use to tattoo their skin. Thanks to their extensive use of poison, they are resistant to the scorpion venom’s full effects.</p>\n<p><strong><em>Vulkoori Venom Priest.</em></strong> Vulkoori venom priests delight in inflicting suffering through poison. Their weaponry and magic are carefully crafted to evoke the presence of the scorpion-god and strike terror into their enemies’ hearts.</p>\n<p><strong><em>Umbragen Shadow Walker.</em></strong> Umbragen drow are the descendants of drow who fled the giants and found refuge underground. For countless generations, they have lived in the lightless caverns of Khyber. There, they tapped into a mysterious magical shadow they called the Umbra. Though some have emerged to haunt the surface in the wake of the giant empire’s fall, they retain a spiritual and physical connection to the darkness below. Umbragen shadow walkers weave shadow magic to confound foes.</p>\n<figure class=\"compendium-art compendium-art-center\" id=\"imgVulkooriDrow\">\n<span class=\"artist-credit\">Jordan Kerbow</span>\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/efota/Jae5SyNcfFGjapTb/06-006.drow-battle.png\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/efota/Jae5SyNcfFGjapTb/06-006.drow-battle.png\" class=\"ddb-lightbox-inner compendium-center-banner-img\" style=\"width: 850px;\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a>\n<figcaption>Vulkoori and Umbragen drow battle in a cavern filled with mysteries</figcaption>\n</figure>\n\n\n<h4 class=\"compendium-hr heading-anchor\" id=\"WondersofXendrik\">Wonders of Xen’drik</h4>\n<p>Huge expanses of Xen’drik remain completely unexplored, and even the Skyfall Peninsula outside Stormreach is still wilderness. Most known ruins and important sites in Xen’drik lie in the northern region; the exact locations of most sites beyond the peninsula seem like mere speculation. Sites near Stormreach, built in the midst of a ruined giant city, have become the best-known ruins in Xen’drik.</p>\n<p><strong><em>Bazek Mohl.</em></strong> Ancient giants built their so-called “City of Shadows” underground, in a manifest zone linked to the plane of <a href=\"https://www.dndbeyond.com/sources/dnd/erftlw/building-eberron-adventures-the-last-war#MabartheEndlessNight\">Mabar</a>, the realm of eternal night. The only indication on the surface of the city’s presence far below is a toppled tower in the jungle, its shattered walls of purplish granite infused with shadow magic. Ancient texts in the archives of <a href=\"https://www.dndbeyond.com/sources/dnd/erftlw/character-creation#ElvesandDragonmarks\">House Phiarlan</a> suggest a connection between the ancestors of that house and Bazek Mohl, leading scholars to believe that the <a href=\"https://www.dndbeyond.com/sources/dnd/erftlw/character-creation-dragonmarks#TheMarkofShadow\">Mark of Shadow</a> might relate to the shadow magic of this place.</p>\n<p><strong><em>Mel-Aqat.</em></strong> For many years, people considered Mel-Aqat mere legend. Mentioned in a variety of ancient texts, this site was supposedly the prison for a mighty fiendish overlord. Until only a few years ago, most scholars had abandoned hope of finding it. Then it was unearthed by a group of adventurers led by the scholar Janik Martell. Fiendish power suffuses the ruins, but Celestial forces are at work there as well, and the <a href=\"https://www.dndbeyond.com/sources/dnd/erftlw/khorvaire-gazeteer-faiths-of-khorvaire#ChurchoftheSilverFlame\">Church of the Silver Flame</a> is interested in supporting further expeditions there.</p>\n<p><strong><em>Obsidian City.</em></strong> The Obsidian City is a ruined giant city now inhabited by a group of drow called the Sulatar (“firebinders”). It lies at least eight hundred miles upriver from Stormreach.</p>\n<p><strong><em>Pra’xirek.</em></strong> Pra’xirek is a ruined giant city near one of the heads (sources) of the Hydra—the great sound that divides the Skyfall Peninsula from the rest of the continent. Two groups of giants still inhabit the ruins, as does a group of drow.</p>\n<p><strong><em>Pyramid of Ebon Flame.</em></strong> The Pyramid of Ebon Flame is one of several scattered creations of the giant wizard-king Addis-Ro, a necromancer who experimented with powers drawn from the depths of Khyber. This huge monolith formed of unbreakable black glass supposedly marks the passage through which the wizard-king journeyed into the deeps.</p>\n<p><strong><em>Ring of Storms.</em></strong> The Ring of Storms, according to legend, was the mountain refuge of a sect of powerful drow spellcasters during the Age of Giants. The fall of an enormous dragonshard from the Ring of Siberys destroyed this sect.</p>\n<p><strong><em>Tharkgun Dhak.</em></strong> A cliffside fortress built by giants in the northern Fangs of Argarak, Tharkgun Dhak is a gateway to the depths of Khyber. Ogres control this site, now infested with Aberrations.</p>\n<p><strong><em>Throne Gate Ruins.</em></strong> Aside from the ruins beneath Stormreach, the Throne Gate Ruins are the closest ruins to the city, about four hundred miles up the Rachi River. This site served as a temple and arcane laboratory at the height of the giant empire.</p>\n\n\n<h2 class=\"compendium-hr with-metadata heading-anchor\" id=\"RaceForTheCrabTemple\">Race For The Crab Temple</h2>\n<p><em>An adventure for Level 3 characters</em></p>\n<aside class=\"newspaper-box\" id=\"rivalsrace\">\n<p><span>THE</span><span>SHARN INQUISITIVE</span></p>\n<p>RIVALS RACE TO WRETCHED RUIN</p>\n<p>Not one but two expeditions from Morgrave University launch this week to explore the so-called Crab Temple, discovered last month near Stormreach. Which team will be the first to cross the deadly Straits of Shargon, cut through the jungles of the Skyfall Peninsula, and discover the great crab’s secrets?</p>\n</aside>\n\n\n<h2 class=\"compendium-hr heading-anchor\" id=\"MorgraveExpeditionAdventure\">Morgrave Expedition Adventure</h2>\n<p>This section contains a <a href=\"https://www.dndbeyond.com/sources/dnd/dmg-2024/running-the-game#Narration\">sample adventure</a>, presented in the same format as those in the <a class=\"sourcebook\" href=\"https://www.dndbeyond.com/sources/dnd/dmg-2024\">Dungeon Master’s Guide</a> —except that it features the opening situation and hook as an extract from a broadsheet.</p>\n\n\n<h3 class=\"compendium-hr heading-anchor\" id=\"Encounters\">Encounters</h3>\n<p>The characters and their rivals (see “<a href=\"#MorgraveConflicts\">Morgrave Expeditions Conflicts</a>” in this chapter) are competing to reach and explore an ancient ruin in the forest of Xen’drik. The adventure involves a journey to Stormreach, the trek to the Crab Temple, exploration of the site, and then the return trip.</p>\n<p><strong><em>Journey to Stormreach.</em></strong> The university charters a Sailing Ship and a crew to carry the characters to the city of Stormreach and back. You can gloss over this long trip, narrating key details as a sort of travel montage, or you can use the guidance in “<a href=\"#JourneystoXendrik\">Journeys to Xen’drik</a>” in this chapter to structure challenges and encounters during the voyage. For example, the characters might be challenged by sahuagin (one <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/5195189-sahuagin-priest\" data-tooltip-href=\"/monsters/5195189-tooltip\">Sahuagin Priest</a> and four <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/5195190-sahuagin-warrior\" data-tooltip-href=\"/monsters/5195190-tooltip\">Sahuagin Warriors</a>) as they pass through Shargon’s Teeth.</p>\n<p><strong><em>Trek to the Temple.</em></strong> To reach the temple, the party first needs to trek through the jungle to the village of Last Chance (see sidebar), a journey of 250 miles through the coastal terrain around the bay. About halfway there, while the party rests for the night, a group of <a class=\"tooltip-hover rule-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#HostileAttitude\" data-tooltip-href=\"/rules-glossary/70-tooltip\">Hostile</a> Undead—five <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/4775841-skeleton\" data-tooltip-href=\"/monsters/4775841-tooltip\">Skeletons</a> and five <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/4775851-zombie\" data-tooltip-href=\"/monsters/4775851-tooltip\">Zombies</a> —approaches. The Order of the Emerald Claw (see “<a href=\"#MorgraveConflicts\">Morgrave Expeditions Conflicts</a>” in this chapter) sent them to interfere with the characters’ mission. The Undead are soaking wet, having waded ashore from the small ship that brought them and their commander from Stormreach. The ship is long gone by the time the Undead reach the shore and attack the party. The quality of the skeletons’ weapons strongly suggests but doesn’t prove their link to the Emerald Claw.</p>\n<aside class=\"text--rules-sidebar efota--rules-sidebar\" id=\"LastChance\">\n<p>Last Chance</p>\n<p>The tiny village of Last Chance is a self-sustaining farming community built around a large inn—a joint venture of House Ghallanda and House Jorasco. True to the village’s name, the inn provides a last night of comfort and a final opportunity for healing for explorers venturing into the wilds. A halfling named Alask d’Jorasco (Neutral Good, Small Priest) provides healing to visitors and also maintains a small supply of <em>Potions of Healing</em>.</p>\n</aside>\n<p>The characters can rest and resupply in Last Chance, then head southeast for another 150 miles through forest terrain to the vicinity of the Crab Temple. At the start of each day of this journey, have the party choose a character to make a DC 12 Wisdom (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/15-tooltip\">Survival</a>) check using Navigator’s Tools. On a failed check, the party gets off course, makes no progress that day, and encounters a group of Hostile drow; roll on the Jungle Mishaps table to determine the encounter (<a href=\"#DrowofXendrik\">Vulkoori drow</a> appear earlier in this chapter).</p>\n<table class=\"table-compendium table--generic-dice\" id=\"session-table-3\">\n<caption>\n\n\n<h4 class=\"compendium-hr quick-menu-exclude heading-anchor\" id=\"JungleMishapsTable\">Jungle Mishaps</h4>\n</caption>\n<thead>\n<tr>\n<th>1d8</th>\n<th>Encounter</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1–3</td>\n<td>Four <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/5976766-vulkoori-stingblade\" data-tooltip-href=\"/monsters/5976766-tooltip\">Vulkoori Stingblades</a></td>\n</tr>\n<tr>\n<td>4–5</td>\n<td>One <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/5976767-vulkoori-venom-priest\" data-tooltip-href=\"/monsters/5976767-tooltip\">Vulkoori Venom Priest</a> and two Vulkoori Stingblades</td>\n</tr>\n<tr>\n<td>6–7</td>\n<td>Three Vulkoori Stingblades and one <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/5195026-giant-scorpion\" data-tooltip-href=\"/monsters/5195026-tooltip\">Giant Scorpion</a></td>\n</tr>\n<tr>\n<td>8</td>\n<td>One <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/5195197-scout-captain\" data-tooltip-href=\"/monsters/5195197-tooltip\">Scout Captain</a>, one Vulkoori Venom Priest, and four Vulkoori Stingblades (all drow) just starting a battle against the party’s rivals</td>\n</tr>\n</tbody>\n</table>\n<p>Once the party has traveled 144 miles from Last Chance (6 days of successful checks at a Normal pace, or 8 days at a Slow pace), instead have each character make a daily DC 16 Wisdom (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/14-tooltip\">Perception</a>) check to find signs of the Crab Temple’s location. On any day where no character succeeds on this check, they have another encounter from the Jungle Mishaps table. (Reroll a repeated result of 8 on the table.) After 3 days where at least one character succeeded on this check, the party at last discovers the Crab Temple.</p>\n<p><strong><em>Racing Rivals.</em></strong> The party’s rivals more or less keep pace with them through most of the journey. You might give the characters a chance to interact with their rivals in Stormreach, in Last Chance, or in the jungle (particularly if you roll an 8 on the Jungle Mishaps table). Depending on how these interactions go, you can decide whether the rivals reach the temple before or after the characters, or perhaps fail in their mission entirely. Or you can assume that the rivals find the temple 11 days after leaving Last Chance, and compare that to the time the party spends to determine who wins the race.</p>\n<p><strong><em>Crab Temple.</em></strong> The temple is a partially flooded ruin crafted by drow shortly after the fall of the empire of giants. Its name comes from a statue of a humanoid figure outside the ruins; someone removed the statue’s head at one point, and a large crab’s shell became lodged on its shoulders. Use the <a href=\"https://www.dndbeyond.com/sources/dnd/dmg-2024/maps#DragonsLair\">Dragon’s Lair map</a> in the <a class=\"sourcebook\" href=\"https://www.dndbeyond.com/sources/dnd/dmg-2024\">Dungeon Master’s Guide</a> to represent the temple. (The statue on a dais in the northeast corner of the ruins gives the temple its name.) The temple rises slightly out of a lake, so everything below level 1 is submerged, including the stairs leading down to level 2.</p>\n<p><strong><em>Ruin Denizens.</em></strong> A band of kuo-toa (one <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/5195099-kuo-toa-monitor\" data-tooltip-href=\"/monsters/5195099-tooltip\">Kuo-toa Monitor</a>, two <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/5195100-kuo-toa-whip\" data-tooltip-href=\"/monsters/5195100-tooltip\">Kuo-toa Whips</a>, and five <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/5195101-kuo-toa\" data-tooltip-href=\"/monsters/5195101-tooltip\">Kuo-toa</a>) inhabits level 2 of the ruin. They swim quickly to level 1 and initiate combat if anything disturbs the water at the top of the stairs.</p>\n<p><strong><em>Plundering the Ruins.</em></strong> By diving into the lower levels of the temple, the characters can find abundant ancient relics to make their expedition a success:</p>\n<ul>\n<li> 10 PP, 100 GP</li>\n<li> Iridescent conch shell, carved with Giant runes, that echoes with the sounds of a maelstrom (worth 250 GP)</li>\n<li> Giant-size gold ring set with turquoise (worth 250 GP)</li>\n<li> Waterproof case holding a <a class=\"tooltip-hover magic-item-tooltip\" href=\"https://www.dndbeyond.com/magic-items/9228921-periapt-of-wound-closure\" data-tooltip-href=\"/magic-items/9228921-tooltip\">Periapt of Wound Closure</a>, a <a class=\"tooltip-hover magic-item-tooltip\" href=\"https://www.dndbeyond.com/magic-items/27113-pot-of-awakening\" data-tooltip-href=\"/magic-items/27113-tooltip\">Pot of Awakening</a>, and a <a class=\"tooltip-hover magic-item-tooltip\" href=\"https://www.dndbeyond.com/magic-items/8960643-spell-scroll-level-1\" data-tooltip-href=\"/magic-items/8960643-tooltip\">Spell Scroll</a> of <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2619132-tashas-hideous-laughter\" data-tooltip-href=\"/spells/2619132-tooltip\">Tasha’s Hideous Laughter</a>\n</li>\n</ul>\n<p><strong><em>Optional: Temple Depths.</em></strong> You can add this encounter in level 3 of the ruins if the characters can cooperate with their rivals to overcome it. In this case, the rivals come prepared with <a class=\"tooltip-hover magic-item-tooltip\" href=\"https://www.dndbeyond.com/magic-items/9228940-potion-of-water-breathing\" data-tooltip-href=\"/magic-items/9228940-tooltip\">Potions of Water Breathing</a> for themselves and have enough extra to share with the party (for a price). On the bottom level of the ruin, the combined parties encounter a <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/5195098-kuo-toa-archpriest\" data-tooltip-href=\"/monsters/5195098-tooltip\">Kuo-toa Archpriest</a>, two <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/5195101-kuo-toa\" data-tooltip-href=\"/monsters/5195101-tooltip\">Kuo-toa</a>, and four <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/4775818-giant-crab\" data-tooltip-href=\"/monsters/4775818-tooltip\">Giant Crabs</a>. For this option, provide an additional treasure on this level: a <a class=\"tooltip-hover magic-item-tooltip\" href=\"https://www.dndbeyond.com/magic-items/9228835-mace-of-terror\" data-tooltip-href=\"/magic-items/9228835-tooltip\">Mace of Terror</a> or another relic from ancient Xen’drik that might serve as a bone of contention between the characters and their rivals (or the Order of the Emerald Claw) in a later adventure. It could also presage the involvement of the Lords of Dust later in the campaign.</p>\n<div class=\"stat-block\">\n\n\n<h3 class=\"compendium-hr with-metadata heading-anchor\" id=\"EmeraldClawCommander\">Emerald Claw Commander</h3>\n<p><em>Medium or Small Humanoid, Lawful Evil</em></p>\n<p><strong>AC</strong> 20 <strong>Initiative</strong> +2 (12)</p>\n<p><strong>HP</strong> 78 (12d8 + 24)</p>\n<p><strong>Speed</strong> 30 ft.</p>\n<div class=\"stats\">\n<table class=\"physical abilities-saves\" id=\"session-table-4\">\n<thead>\n<tr>\n<th>Ability</th>\n<th>Score</th>\n<th>Mod</th>\n<th>Save</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Str</td>\n<td>18</td>\n<td>+4</td>\n<td>+4</td>\n</tr>\n<tr>\n<td>Dex</td>\n<td>11</td>\n<td>+0</td>\n<td>+0</td>\n</tr>\n<tr>\n<td>Con</td>\n<td>15</td>\n<td>+2</td>\n<td>+4</td>\n</tr>\n</tbody>\n</table>\n<table class=\"mental abilities-saves\" id=\"session-table-5\">\n<thead>\n<tr>\n<th>Ability</th>\n<th>Score</th>\n<th>Mod</th>\n<th>Save</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Int</td>\n<td>15</td>\n<td>+2</td>\n<td>+2</td>\n</tr>\n<tr>\n<td>Wis</td>\n<td>12</td>\n<td>+1</td>\n<td>+3</td>\n</tr>\n<tr>\n<td>Cha</td>\n<td>14</td>\n<td>+2</td>\n<td>+2</td>\n</tr>\n</tbody>\n</table>\n</div>\n<p><strong>Skills</strong> <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/2-tooltip\">Athletics</a> +6, <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/17-tooltip\">Intimidation</a> +4, <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/14-tooltip\">Perception</a> +3</p>\n<p><strong>Gear</strong> <a class=\"tooltip-hover item-tooltip\" href=\"https://www.dndbeyond.com/equipment/20-flail\" data-tooltip-href=\"/weapons/20-tooltip\">Flail</a>, <a class=\"tooltip-hover item-tooltip\" href=\"https://www.dndbeyond.com/equipment/8-javelin\" data-tooltip-href=\"/weapons/8-tooltip\">Javelins</a> (5), <a class=\"tooltip-hover item-tooltip\" href=\"https://www.dndbeyond.com/equipment/18-plate\" data-tooltip-href=\"/armor/18-tooltip\">Plate Armor</a>, Shield</p>\n<p><strong>Senses</strong> Passive Perception 13</p>\n<p><strong>Languages</strong> Common, Dwarvish</p>\n<p><strong>CR</strong> 4 (XP 1,100; PB +2)</p>\n<p class=\"monster-header\">Traits</p>\n<p><strong><em>Aura of Authority.</em></strong> While in a 30-foot Emanation originating from the commander, the commander and its allies have Advantage on attack rolls and saving throws, provided the commander doesn’t have the <a class=\"tooltip-hover condition-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#IncapacitatedCondition\" data-tooltip-href=\"/conditions/7-tooltip\">Incapacitated</a> condition.</p>\n<p class=\"monster-header\">Actions</p>\n<p><strong><em>Multiattack.</em></strong> The commander makes two attacks, using Flail or Javelin in any combination.</p>\n<p><strong><em>Flail.</em></strong> <em> Melee Attack Roll:</em> +6, reach 5 ft. <em> Hit:</em> 8 (1d8 + 4) Bludgeoning damage—plus 7 (2d6) Necrotic damage if the commander is <a class=\"tooltip-hover rule-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#Bloodied\" data-tooltip-href=\"/rules-glossary/14-tooltip\">Bloodied</a>—and the target has Disadvantage on its next attack roll before the start of the commander’s next turn.</p>\n<p><strong><em>Javelin.</em></strong> <em> Melee or Ranged Attack Roll:</em> +6, reach 5 ft. or range 30/120 ft. <em> Hit:</em> 7 (1d6 + 4) Piercing damage—plus 7 (2d6) Necrotic damage if the commander is Bloodied.</p>\n</div>\n<div class=\"stat-block\">\n\n\n<h3 class=\"compendium-hr with-metadata heading-anchor\" id=\"EmeraldClawKnight\">Emerald Claw Knight</h3>\n<p>Medium or Small Humanoid, Lawful Evil</p>\n<p><strong>AC</strong> 18 <strong>Initiative</strong> +0 (10)</p>\n<p><strong>HP</strong> 52 (8d8 + 16)</p>\n<p><strong>Speed</strong> 30 ft.</p>\n<div class=\"stats\">\n<table class=\"physical abilities-saves\" id=\"session-table-6\">\n<thead>\n<tr>\n<th>Ability</th>\n<th>Score</th>\n<th>Mod</th>\n<th>Save</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Str</td>\n<td>17</td>\n<td>+3</td>\n<td>+3</td>\n</tr>\n<tr>\n<td>Dex</td>\n<td>11</td>\n<td>+0</td>\n<td>+0</td>\n</tr>\n<tr>\n<td>Con</td>\n<td>14</td>\n<td>+2</td>\n<td>+2</td>\n</tr>\n</tbody>\n</table>\n<table class=\"mental abilities-saves\" id=\"session-table-7\">\n<thead>\n<tr>\n<th>Ability</th>\n<th>Score</th>\n<th>Mod</th>\n<th>Save</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Int</td>\n<td>13</td>\n<td>+1</td>\n<td>+1</td>\n</tr>\n<tr>\n<td>Wis</td>\n<td>10</td>\n<td>+0</td>\n<td>+2</td>\n</tr>\n<tr>\n<td>Cha</td>\n<td>13</td>\n<td>+1</td>\n<td>+1</td>\n</tr>\n</tbody>\n</table>\n</div>\n<p><strong>Skills</strong> <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/2-tooltip\">Athletics</a> +5, <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/14-tooltip\">Perception</a> +2</p>\n<p><strong>Gear</strong> <a class=\"tooltip-hover item-tooltip\" href=\"https://www.dndbeyond.com/equipment/16-chain-mail\" data-tooltip-href=\"/armor/16-tooltip\">Chain Mail</a>, <a class=\"tooltip-hover item-tooltip\" href=\"https://www.dndbeyond.com/equipment/20-flail\" data-tooltip-href=\"/weapons/20-tooltip\">Flail</a>, <a class=\"tooltip-hover item-tooltip\" href=\"https://www.dndbeyond.com/equipment/8-javelin\" data-tooltip-href=\"/weapons/8-tooltip\">Javelins</a> (5), <a class=\"tooltip-hover item-tooltip\" href=\"https://www.dndbeyond.com/equipment/8-shield\" data-tooltip-href=\"/armor/8-tooltip\">Shield</a></p>\n<p><strong>Senses</strong> Passive Perception 12</p>\n<p><strong>Languages</strong> Common, Dwarvish</p>\n<p><strong>CR</strong> 2 (XP 450; PB +2)</p>\n<p class=\"monster-header\">Actions</p>\n<p><strong><em>Multiattack.</em></strong> The knight makes two attacks, using Flail or Javelin in any combination.</p>\n<p><strong><em>Flail.</em></strong> <em> Melee Attack Roll:</em> +5, reach 5 ft. <em> Hit:</em> 7 (1d8 + 3) Bludgeoning damage—plus 4 (1d8) Necrotic damage if the knight is <a class=\"tooltip-hover rule-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#Bloodied\" data-tooltip-href=\"/rules-glossary/14-tooltip\">Bloodied</a>—and the target has Disadvantage on its next attack roll before the start of the knight’s next turn.</p>\n<p><strong><em>Javelin.</em></strong> <em> Melee or Ranged Attack Roll:</em> +5, reach 5 ft. or range 30/120 ft. <em> Hit:</em> 6 (1d6 + 3) Piercing damage—plus 4 (1d8) Necrotic damage if the knight is Bloodied.</p>\n</div>\n<div class=\"stat-block\">\n\n\n<h3 class=\"compendium-hr with-metadata heading-anchor\" id=\"VulkooriStingblade\">Vulkoori Stingblade</h3>\n<p>Medium Humanoid (Elf), Neutral</p>\n<p><strong>AC</strong> 14 <strong>Initiative</strong> +4 (14)</p>\n<p><strong>HP</strong> 27 (6d8)</p>\n<p><strong>Speed</strong> 30 ft.</p>\n<div class=\"stats\">\n<table class=\"physical abilities-saves\" id=\"session-table-8\">\n<thead>\n<tr>\n<th>Ability</th>\n<th>Score</th>\n<th>Mod</th>\n<th>Save</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Str</td>\n<td>11</td>\n<td>+0</td>\n<td>+0</td>\n</tr>\n<tr>\n<td>Dex</td>\n<td>15</td>\n<td>+2</td>\n<td>+4</td>\n</tr>\n<tr>\n<td>Con</td>\n<td>10</td>\n<td>+0</td>\n<td>+0</td>\n</tr>\n</tbody>\n</table>\n<table class=\"mental abilities-saves\" id=\"session-table-9\">\n<thead>\n<tr>\n<th>Ability</th>\n<th>Score</th>\n<th>Mod</th>\n<th>Save</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Int</td>\n<td>11</td>\n<td>+0</td>\n<td>+0</td>\n</tr>\n<tr>\n<td>Wis</td>\n<td>12</td>\n<td>+1</td>\n<td>+1</td>\n</tr>\n<tr>\n<td>Cha</td>\n<td>12</td>\n<td>+1</td>\n<td>+1</td>\n</tr>\n</tbody>\n</table>\n</div>\n<p><strong>Skills</strong> <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/14-tooltip\">Perception</a> +3, <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/5-tooltip\">Stealth</a> +4</p>\n<p><strong>Resistances</strong> Poison</p>\n<p><strong>Gear</strong> <a class=\"tooltip-hover item-tooltip\" href=\"https://www.dndbeyond.com/equipment/30-shortsword\" data-tooltip-href=\"/weapons/30-tooltip\">Shortsword</a>, <a class=\"tooltip-hover item-tooltip\" href=\"https://www.dndbeyond.com/equipment/3-studded-leather\" data-tooltip-href=\"/armor/3-tooltip\">Studded Leather Armor</a></p>\n<p><strong>Senses</strong> <a class=\"tooltip-hover sense-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#Darkvision\" data-tooltip-href=\"/senses/2-tooltip\">Darkvision</a> 120 ft.; Passive Perception 13</p>\n<p><strong>Languages</strong> Common, Elvish, Giant</p>\n<p><strong>CR</strong> 1/2 (XP 100; PB +2)</p>\n<p class=\"monster-header\">Traits</p>\n<p><strong><em>Fey Ancestry.</em></strong> Magic can’t put the stingblade to sleep.</p>\n<p class=\"monster-header\">Actions</p>\n<p><strong><em>Stingblade.</em></strong> <em> Melee Attack Roll:</em> +4, reach 5 ft. <em> Hit:</em> 5 (1d6 + 2) Piercing damage plus 2 (1d4) Poison damage.</p>\n<p><strong><em>Boomerang.</em></strong> <em> Ranged Attack Roll:</em> +4, range 30/120 ft. <em> Hit:</em> 7 (2d4 + 2) Bludgeoning damage.</p>\n</div>\n<div class=\"stat-block\">\n\n\n<h3 class=\"compendium-hr with-metadata heading-anchor\" id=\"VulkooriVenomPriest\">Vulkoori Venom Priest</h3>\n<p>Medium Humanoid (Elf), Neutral Evil</p>\n<p><strong>AC</strong> 15 <strong>Initiative</strong> +3 (13)</p>\n<p><strong>HP</strong> 44 (8d8 + 8)</p>\n<p><strong>Speed</strong> 30 ft.</p>\n<div class=\"stats\">\n<table class=\"physical abilities-saves\" id=\"session-table-10\">\n<thead>\n<tr>\n<th>Ability</th>\n<th>Score</th>\n<th>Mod</th>\n<th>Save</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Str</td>\n<td>15</td>\n<td>+2</td>\n<td>+2</td>\n</tr>\n<tr>\n<td>Dex</td>\n<td>16</td>\n<td>+3</td>\n<td>+3</td>\n</tr>\n<tr>\n<td>Con</td>\n<td>12</td>\n<td>+1</td>\n<td>+3</td>\n</tr>\n</tbody>\n</table>\n<table class=\"mental abilities-saves\" id=\"session-table-11\">\n<thead>\n<tr>\n<th>Ability</th>\n<th>Score</th>\n<th>Mod</th>\n<th>Save</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Int</td>\n<td>10</td>\n<td>+0</td>\n<td>+0</td>\n</tr>\n<tr>\n<td>Wis</td>\n<td>16</td>\n<td>+3</td>\n<td>+5</td>\n</tr>\n<tr>\n<td>Cha</td>\n<td>13</td>\n<td>+1</td>\n<td>+1</td>\n</tr>\n</tbody>\n</table>\n</div>\n<p><strong>Skills</strong> <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/14-tooltip\">Perception</a> +5, <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/10-tooltip\">Religion</a> +2, <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/5-tooltip\">Stealth</a> +5</p>\n<p><strong>Resistances</strong> Poison</p>\n<p><strong>Gear</strong> <a class=\"tooltip-hover item-tooltip\" href=\"https://www.dndbeyond.com/equipment/514-holy-symbol\" data-tooltip-href=\"/adventuring-gear/514-tooltip\">Holy Symbol</a>, <a class=\"tooltip-hover item-tooltip\" href=\"https://www.dndbeyond.com/equipment/12-quarterstaff\" data-tooltip-href=\"/weapons/12-tooltip\">Quarterstaff</a>, <a class=\"tooltip-hover item-tooltip\" href=\"https://www.dndbeyond.com/equipment/3-studded-leather\" data-tooltip-href=\"/armor/3-tooltip\">Studded Leather Armor</a></p>\n<p><strong>Senses</strong> <a class=\"tooltip-hover sense-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#Darkvision\" data-tooltip-href=\"/senses/2-tooltip\">Darkvision</a> 120 ft.; Passive Perception 15</p>\n<p><strong>Languages</strong> Common, Elvish, Giant</p>\n<p><strong>CR</strong> 2 (XP 450; PB +2)</p>\n<p class=\"monster-header\">Traits</p>\n<p><strong><em>Fey Ancestry.</em></strong> Magic can’t put the priest to sleep.</p>\n<p class=\"monster-header\">Actions</p>\n<p><strong><em>Venom Staff.</em></strong> <em> Melee Attack Roll:</em> +4, reach 5 ft. <em> Hit:</em> 9 (2d6 + 2) Bludgeoning damage, and the target has the <a class=\"tooltip-hover condition-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#PoisonedCondition\" data-tooltip-href=\"/conditions/11-tooltip\">Poisoned</a> condition until the end of the priest’s next turn.</p>\n<p><strong><em>Spellcasting.</em></strong> The priest casts one of the following spells, using Wisdom as the spellcasting ability (spell save DC 13, +5 to hit with spell attacks):</p>\n<p><strong>At Will:</strong> <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2619058-dancing-lights\" data-tooltip-href=\"/spells/2619058-tooltip\">Dancing Lights</a>, <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2618935-ray-of-sickness\" data-tooltip-href=\"/spells/2618935-tooltip\">Ray of Sickness</a>, <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2619174-thaumaturgy\" data-tooltip-href=\"/spells/2619174-tooltip\">Thaumaturgy</a></p>\n<p><strong>1/Day Each:</strong> <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2619079-cure-wounds\" data-tooltip-href=\"/spells/2619079-tooltip\">Cure Wounds</a>, <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2619153-hold-person\" data-tooltip-href=\"/spells/2619153-tooltip\">Hold Person</a>, <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2618915-protection-from-poison\" data-tooltip-href=\"/spells/2618915-tooltip\">Protection from Poison</a></p>\n<p class=\"monster-header\">Bonus Actions</p>\n<p><strong><em>Intensify Poison.</em></strong> Each creature with the <a class=\"tooltip-hover condition-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#PoisonedCondition\" data-tooltip-href=\"/conditions/11-tooltip\">Poisoned</a> condition within a 30-foot Emanation originating from the priest takes 3 (1d6) Poison damage.</p>\n</div>\n<div class=\"stat-block\">\n\n\n<h3 class=\"compendium-hr with-metadata heading-anchor\" id=\"UmbragenShadowWalker\">Umbragen Shadow Walker</h3>\n<p>Medium Humanoid (Elf), Neutral</p>\n<p><strong>AC</strong> 14 <strong>Initiative</strong> +4 (14)</p>\n<p><strong>HP</strong> 162 (25d8 + 50)</p>\n<p><strong>Speed</strong> 30 ft.</p>\n<div class=\"stats\">\n<table class=\"physical abilities-saves\" id=\"session-table-12\">\n<thead>\n<tr>\n<th>Ability</th>\n<th>Score</th>\n<th>Mod</th>\n<th>Save</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Str</td>\n<td>12</td>\n<td>+1</td>\n<td>+1</td>\n</tr>\n<tr>\n<td>Dex</td>\n<td>19</td>\n<td>+4</td>\n<td>+8</td>\n</tr>\n<tr>\n<td>Con</td>\n<td>14</td>\n<td>+2</td>\n<td>+2</td>\n</tr>\n</tbody>\n</table>\n<table class=\"mental abilities-saves\" id=\"session-table-13\">\n<thead>\n<tr>\n<th>Ability</th>\n<th>Score</th>\n<th>Mod</th>\n<th>Save</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Int</td>\n<td>13</td>\n<td>+1</td>\n<td>+1</td>\n</tr>\n<tr>\n<td>Wis</td>\n<td>15</td>\n<td>+2</td>\n<td>+6</td>\n</tr>\n<tr>\n<td>Cha</td>\n<td>20</td>\n<td>+5</td>\n<td>+5</td>\n</tr>\n</tbody>\n</table>\n</div>\n<p><strong>Skills</strong> <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/6-tooltip\">Arcana</a> +5, <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/14-tooltip\">Perception</a> +6, <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/5-tooltip\">Stealth</a> +8</p>\n<p><strong>Vulnerabilities</strong> Radiant</p>\n<p><strong>Senses</strong> <a class=\"tooltip-hover sense-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#Darkvision\" data-tooltip-href=\"/senses/2-tooltip\">Darkvision</a> 120 ft.; Passive Perception 16</p>\n<p><strong>Languages</strong> Common, Elvish, Undercommon</p>\n<p><strong>CR</strong> 9 (XP 5,000; PB +4)</p>\n<p class=\"monster-header\">Traits</p>\n<p><strong><em>Fey Ancestry.</em></strong> Magic can’t put the shadow walker to sleep.</p>\n<p><strong><em>Sunlight Sensitivity.</em></strong> While in sunlight, the shadow walker has Disadvantage on ability checks and attack rolls.</p>\n<p class=\"monster-header\">Actions</p>\n<p><strong><em>Multiattack.</em></strong> The shadow walker makes three Gloom Burst attacks and uses Shadow Cowl.</p>\n<p><strong><em>Gloom Burst.</em></strong> <em> Melee or Ranged Attack Roll:</em> +9, reach 5 ft. or range 120 ft. <em> Hit:</em> 14 (2d8 + 5) Psychic damage.</p>\n<p><strong><em>Shadow Cowl.</em></strong> <em> Wisdom Saving Throw:</em> DC 17, one creature the shadow walker can see within 120 feet. <em> Failure:</em> 14 (4d6) Necrotic damage, and the target has the <a class=\"tooltip-hover condition-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#BlindedCondition\" data-tooltip-href=\"/conditions/1-tooltip\">Blinded</a> condition until the start of the shadow walker’s next turn.</p>\n<p><strong><em>Spellcasting.</em></strong> The shadow walker casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 17):</p>\n<p><strong>At Will:</strong> <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2619058-dancing-lights\" data-tooltip-href=\"/spells/2619058-tooltip\">Dancing Lights</a>, <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2619080-darkness\" data-tooltip-href=\"/spells/2619080-tooltip\">Darkness</a>, <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2619039-minor-illusion\" data-tooltip-href=\"/spells/2619039-tooltip\">Minor Illusion</a></p>\n<p class=\"monster-header\">Bonus Actions</p>\n<p><strong><em>Draining Teleport.</em></strong> While in <a class=\"tooltip-hover rule-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#DimLight\" data-tooltip-href=\"/rules-glossary/52-tooltip\">Dim Light</a> or <a class=\"tooltip-hover rule-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#Darkness\" data-tooltip-href=\"/rules-glossary/46-tooltip\">Darkness</a>, the shadow walker teleports up to 60 feet to a space it can see that is also in Dim Light or Darkness. <em> Constitution Saving Throw:</em> DC 17, each creature in a 5-foot Emanation originating from the shadow walker at its destination space. <em> Failure:</em> 9 (2d8) Necrotic damage.</p>\n</div>"
+}

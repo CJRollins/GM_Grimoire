@@ -1,0 +1,378 @@
+{
+  "title": "School Is in Session",
+  "sourcebook": "Strixhaven: A Curriculum of Chaos",
+  "bookSlug": "strixhaven-a-curriculum-of-chaos",
+  "originalPath": "Arcavios/Stixhaven/Chapter 4 - School Is In Session",
+  "rawUrl": "/archive/strixhaven/Chapter%204%20-%20School%20Is%20In%20Session",
+  "sourceHash": "d9445a55e408574b1f5b29121420c0011b01d85cb0bac2f4980b42ad4a133505",
+  "extractionDate": "2026-07-13T07:40:57.647Z",
+  "extractionVersion": 3,
+  "originalAnchors": [
+    {
+      "id": "SchoolIsinSession",
+      "text": "School Is in Session",
+      "element": "h1"
+    },
+    {
+      "id": "comp-next-nav",
+      "text": "",
+      "element": "div"
+    },
+    {
+      "id": "imgsplash",
+      "text": "Strixhaven students are often in awe of theirsurroundings at the famed university of magic",
+      "element": "figure"
+    },
+    {
+      "id": "RunningtheAdventures",
+      "text": "Running the Adventures",
+      "element": "h2"
+    },
+    {
+      "id": "AStrixhavenCampaign",
+      "text": "A Strixhaven Campaign",
+      "element": "h3"
+    },
+    {
+      "id": "CharacterCreation",
+      "text": "Character Creation",
+      "element": "h3"
+    },
+    {
+      "id": "CharacterAdvancement",
+      "text": "Character Advancement",
+      "element": "h3"
+    },
+    {
+      "id": "StandaloneAdventures",
+      "text": "Standalone Adventures",
+      "element": "h3"
+    },
+    {
+      "id": "AdventureLevels",
+      "text": "Adventure Levels Adventure Starting Level Chapter Campus Kerfuffle 1st 3 Hunt for Mage Tower 4th 4 The Magister’s Masquerade 6th 5 A Reckoning in Ruins 8th 6",
+      "element": "table"
+    },
+    {
+      "id": "Relationships",
+      "text": "Relationships",
+      "element": "h4"
+    },
+    {
+      "id": "StartingRelationshipPoints",
+      "text": "Starting Relationship Points Person Relationship Points Friend 2 Beloved 3 Rival −2",
+      "element": "table"
+    },
+    {
+      "id": "imgyearstudents",
+      "text": "First-year students rush to class carrying armloads of books—and all their excitement for the start of a new academic year",
+      "element": "figure"
+    },
+    {
+      "id": "UsingtheMaps",
+      "text": "Using the Maps",
+      "element": "h3"
+    },
+    {
+      "id": "InteriorMaps",
+      "text": "Interior Maps",
+      "element": "h4"
+    },
+    {
+      "id": "PosterMap",
+      "text": "Poster Map",
+      "element": "h4"
+    },
+    {
+      "id": "ThePassageofTime",
+      "text": "The Passage of Time",
+      "element": "h3"
+    },
+    {
+      "id": "StrixhavenTrackingSheet",
+      "text": "Strixhaven Tracking Sheet",
+      "element": "h2"
+    },
+    {
+      "id": "imgmemories",
+      "text": "",
+      "element": "figure"
+    },
+    {
+      "id": "OptingOutofTheseRules",
+      "text": "OPTING OUT OF THESE RULES The rules for Extracurriculars, Jobs, Exams, and Relationships combine with the adventures in this book to enhance the flavor of life ",
+      "element": "aside"
+    },
+    {
+      "id": "Extracurriculars",
+      "text": "Extracurriculars",
+      "element": "h2"
+    },
+    {
+      "id": "JoininganExtracurricular",
+      "text": "Joining an Extracurricular",
+      "element": "h3"
+    },
+    {
+      "id": "ExtracurricularBenefits",
+      "text": "Extracurricular Benefits",
+      "element": "h3"
+    },
+    {
+      "id": "imgcelebrate",
+      "text": "Students find many magical waysto celebrate their achievements",
+      "element": "figure"
+    },
+    {
+      "id": "StudentDice",
+      "text": "Student Dice",
+      "element": "h4"
+    },
+    {
+      "id": "RelationshipPoint",
+      "text": "Relationship Point",
+      "element": "h4"
+    },
+    {
+      "id": "QuittinganExtracurricular",
+      "text": "Quitting an Extracurricular",
+      "element": "h3"
+    },
+    {
+      "id": "ExtracurricularOptionsAF",
+      "text": "Extracurricular Options (A-H)",
+      "element": "h3"
+    },
+    {
+      "id": "DeadLanguagesSociety",
+      "text": "Dead Languages Society",
+      "element": "h4"
+    },
+    {
+      "id": "DistinguishedSocietyofFineArtists",
+      "text": "Distinguished Society of Fine Artists",
+      "element": "h4"
+    },
+    {
+      "id": "DragonchessClub",
+      "text": "Dragonchess Club",
+      "element": "h4"
+    },
+    {
+      "id": "DragonsguardHistoricalSociety",
+      "text": "Dragonsguard Historical Society",
+      "element": "h4"
+    },
+    {
+      "id": "FantasticalHorticultureClub",
+      "text": "Fantastical Horticulture Club",
+      "element": "h4"
+    },
+    {
+      "id": "FutureEntrepreneursofStrixhaven",
+      "text": "Future Entrepreneurs of Strixhaven",
+      "element": "h4"
+    },
+    {
+      "id": "ExtracurricularOptionsIZ",
+      "text": "Extracurricular Options (I-Z)",
+      "element": "h3"
+    },
+    {
+      "id": "IntramuralGymnasticsClub",
+      "text": "Intramural Gymnastics Club",
+      "element": "h4"
+    },
+    {
+      "id": "IntramuralSilkballClub",
+      "text": "Intramural Silkball Club",
+      "element": "h4"
+    },
+    {
+      "id": "IntramuralWaterDancingClub",
+      "text": "Intramural Water-Dancing Club",
+      "element": "h4"
+    },
+    {
+      "id": "LiveActionRoleplayingGuild",
+      "text": "Live-Action Roleplaying Guild",
+      "element": "h4"
+    },
+    {
+      "id": "MageTowerCheerSquad",
+      "text": "Mage Tower Cheer Squad",
+      "element": "h4"
+    },
+    {
+      "id": "PlayactorsDramaGuild",
+      "text": "Playactors Drama Guild",
+      "element": "h4"
+    },
+    {
+      "id": "StrixhavenIronLiftersSociety",
+      "text": "Strixhaven Iron-Lifters Society",
+      "element": "h4"
+    },
+    {
+      "id": "StrixhavenShowBandAssociation",
+      "text": "Strixhaven Show Band Association",
+      "element": "h4"
+    },
+    {
+      "id": "StrixhavenStar",
+      "text": "Strixhaven Star",
+      "element": "h4"
+    },
+    {
+      "id": "StudentMagesofFaith",
+      "text": "Student-Mages of Faith",
+      "element": "h4"
+    },
+    {
+      "id": "Jobs",
+      "text": "Jobs",
+      "element": "h2"
+    },
+    {
+      "id": "GettingorLosingaJob",
+      "text": "Getting or Losing a Job",
+      "element": "h3"
+    },
+    {
+      "id": "JobBenefits",
+      "text": "Job Benefits",
+      "element": "h3"
+    },
+    {
+      "id": "Wage",
+      "text": "Wage",
+      "element": "h4"
+    },
+    {
+      "id": "imgstrixhavenemployees",
+      "text": "Strixhaven student employees workbeside staff members to fill themany jobs available on campus",
+      "element": "figure"
+    },
+    {
+      "id": "RelationshipPoint1",
+      "text": "Relationship Point",
+      "element": "h4"
+    },
+    {
+      "id": "JobOptions",
+      "text": "Job Options",
+      "element": "h3"
+    },
+    {
+      "id": "Biblioplex",
+      "text": "Biblioplex",
+      "element": "h4"
+    },
+    {
+      "id": "BowsEndTavern",
+      "text": "Bow’s End Tavern",
+      "element": "h4"
+    },
+    {
+      "id": "CampusGrounds",
+      "text": "Campus Grounds",
+      "element": "h4"
+    },
+    {
+      "id": "CampusMagicLabs",
+      "text": "Campus Magic Labs",
+      "element": "h4"
+    },
+    {
+      "id": "Dormitories",
+      "text": "Dormitories",
+      "element": "h4"
+    },
+    {
+      "id": "FirejoltCaf",
+      "text": "Firejolt Café",
+      "element": "h4"
+    },
+    {
+      "id": "IntramuralFields",
+      "text": "Intramural Fields",
+      "element": "h4"
+    },
+    {
+      "id": "StrixhavenPerformingArtsSociety",
+      "text": "Strixhaven Performing Arts Society",
+      "element": "h4"
+    },
+    {
+      "id": "StrixhavenStadium",
+      "text": "Strixhaven Stadium",
+      "element": "h4"
+    },
+    {
+      "id": "Exams",
+      "text": "Exams",
+      "element": "h2"
+    },
+    {
+      "id": "UsingTheseRules",
+      "text": "Using These Rules",
+      "element": "h3"
+    },
+    {
+      "id": "StudyingPhase",
+      "text": "Studying Phase",
+      "element": "h3"
+    },
+    {
+      "id": "PullinganAllNighter",
+      "text": "Pulling an All-Nighter",
+      "element": "h4"
+    },
+    {
+      "id": "StudyingTogether",
+      "text": "Studying Together",
+      "element": "h4"
+    },
+    {
+      "id": "SkippingStudying",
+      "text": "Skipping Studying",
+      "element": "h4"
+    },
+    {
+      "id": "TestingPhase",
+      "text": "Testing Phase",
+      "element": "h3"
+    },
+    {
+      "id": "AbilityChecks",
+      "text": "Ability Checks",
+      "element": "h4"
+    },
+    {
+      "id": "Cheating",
+      "text": "Cheating",
+      "element": "h4"
+    },
+    {
+      "id": "FailedExam",
+      "text": "Failed Exam",
+      "element": "h4"
+    },
+    {
+      "id": "StudentDice1",
+      "text": "Student Dice",
+      "element": "h4"
+    }
+  ],
+  "transformations": [
+    "Selected the first .p-article-content element.",
+    "Removed scripts, styles, forms, iframes, hidden duplicate labels, and source navigation.",
+    "Removed event handlers and D&D Beyond content-chunk identifiers.",
+    "Rewrote archived sourcebook links to generated reader routes when a local target exists.",
+    "Added lazy image loading and asynchronous decoding hints.",
+    "Added derived IDs to read-aloud, rules, table, and stat-block elements for session navigation.",
+    "Indexed player-version map links as derived session metadata.",
+    "Preserved source wording and original heading IDs; derived metadata remains separate."
+  ],
+  "repairs": []
+}

@@ -9,10 +9,23 @@ export async function getStaticPaths() {
 
 interface Props { chapter: CollectionEntry<'chapters'> }
 const { chapter } = Astro.props;
-const chapters = (await getCollection('chapters')).sort((a, b) => a.data.order - b.data.order);
-const currentIndex = chapters.findIndex((entry) => entry.data.slug === chapter.data.slug);
-const previous = chapters[currentIndex - 1];
-const next = chapters[currentIndex + 1];
+const bookOrder = new Map([
+  ['eberron-forge-of-the-artificer', 0],
+  ['strixhaven-a-curriculum-of-chaos', 1],
+]);
+const chapters = (await getCollection('chapters')).sort((a, b) => {
+  const bookDifference = (bookOrder.get(a.data.bookSlug) ?? 99) - (bookOrder.get(b.data.bookSlug) ?? 99);
+  return bookDifference || a.data.order - b.data.order;
+});
+const bookChapters = chapters.filter((entry) => entry.data.bookSlug === chapter.data.bookSlug);
+const currentIndex = bookChapters.findIndex((entry) => entry.data.slug === chapter.data.slug);
+const previous = bookChapters[currentIndex - 1];
+const next = bookChapters[currentIndex + 1];
+const sessionCount = chapter.data.session.readAloud.length
+  + chapter.data.session.rules.length
+  + chapter.data.session.tables.length
+  + chapter.data.session.statBlocks.length
+  + chapter.data.session.maps.length;
 ---
 
 <GrimoireLayout title={chapter.data.title} chapters={chapters} current={chapter} headings={chapter.data.headings}>
@@ -25,14 +38,31 @@ const next = chapters[currentIndex + 1];
     >
       <div class="search-metadata" aria-hidden="true" data-pagefind-ignore>
         <span data-pagefind-filter="sourcebook">{chapter.data.sourcebook}</span>
+        <span data-pagefind-filter="book">{chapter.data.bookSlug}</span>
+        <span data-pagefind-filter="world">{chapter.data.world}</span>
         <span data-pagefind-filter="chapter">{chapter.data.chapter}</span>
         <span data-pagefind-filter="edition">{chapter.data.edition}</span>
+        <span data-pagefind-filter="section">{chapter.data.navGroup}</span>
+        <span data-pagefind-filter="kind">{chapter.data.kind}</span>
+        <span data-pagefind-filter="audience">{chapter.data.audience}</span>
         {chapter.data.tags.creatures.map((tag) => <span data-pagefind-filter="creature">{tag}</span>)}
         {chapter.data.tags.spells.map((tag) => <span data-pagefind-filter="spell">{tag}</span>)}
+        {chapter.data.tags.items.map((tag) => <span data-pagefind-filter="item">{tag}</span>)}
         {chapter.data.tags.locations.map((tag) => <span data-pagefind-filter="location">{tag}</span>)}
+        {chapter.data.tags.npcs.map((tag) => <span data-pagefind-filter="npc">{tag}</span>)}
+        {chapter.data.tags.topics.map((tag) => <span data-pagefind-filter="topic">{tag}</span>)}
         {chapter.data.anomalyFlags.map((flag) => <span data-pagefind-filter="anomaly">{flag.type}</span>)}
       </div>
       <article class="sourcebook-content" set:html={chapter.data.contentHtml} />
+      {sessionCount > 0 && chapter.data.bookSlug === 'strixhaven-a-curriculum-of-chaos' && (
+        <aside class="reader-session-callout" data-pagefind-ignore>
+          <div>
+            <span>Preparing this page?</span>
+            <strong>{sessionCount} table-ready blocks are indexed.</strong>
+          </div>
+          <a href={`/session/#${chapter.data.slug}`}>Open session desk</a>
+        </aside>
+      )}
       <nav class="chapter-turn" aria-label="Adjacent chapters" data-pagefind-ignore>
         {previous ? <a rel="prev" href={`/chapters/${previous.data.slug}/`}><span>Previous</span>{previous.data.title}</a> : <span />}
         {next ? <a rel="next" href={`/chapters/${next.data.slug}/`}><span>Next</span>{next.data.title}</a> : <span />}

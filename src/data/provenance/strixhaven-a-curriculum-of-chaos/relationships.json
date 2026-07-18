@@ -1,0 +1,208 @@
+{
+  "title": "Relationships",
+  "sourcebook": "Strixhaven: A Curriculum of Chaos",
+  "bookSlug": "strixhaven-a-curriculum-of-chaos",
+  "originalPath": "Arcavios/Stixhaven/Chapter 5 - Relationships.html",
+  "rawUrl": "/archive/strixhaven/Chapter%205%20-%20Relationships.html",
+  "sourceHash": "c49f77c2942e32103fb1a434fc61eccfefba4f094cd520079fde2d28b9670e99",
+  "extractionDate": "2026-07-13T07:40:57.647Z",
+  "extractionVersion": 3,
+  "originalAnchors": [
+    {
+      "id": "Relationships",
+      "text": "Relationships",
+      "element": "h1"
+    },
+    {
+      "id": "comp-next-nav",
+      "text": "",
+      "element": "div"
+    },
+    {
+      "id": "imgwitherbloomstudenthealsafriend",
+      "text": "A Witherbloom student heals a friend from Silverquill",
+      "element": "figure"
+    },
+    {
+      "id": "SessionZero",
+      "text": "Session Zero",
+      "element": "h2"
+    },
+    {
+      "id": "UsingTheseRules",
+      "text": "Using These Rules",
+      "element": "h2"
+    },
+    {
+      "id": "IntroducingtheNPCs",
+      "text": "Introducing the NPCs",
+      "element": "h3"
+    },
+    {
+      "id": "RelationshipPoints",
+      "text": "Relationship Points",
+      "element": "h3"
+    },
+    {
+      "id": "MakingFriendsandRivals",
+      "text": "Making Friends and Rivals",
+      "element": "h2"
+    },
+    {
+      "id": "DeepeningRelationships",
+      "text": "Deepening Relationships",
+      "element": "h3"
+    },
+    {
+      "id": "imgdate",
+      "text": "Students discuss their shared interests during a sunset date",
+      "element": "figure"
+    },
+    {
+      "id": "BecomingBeloveds",
+      "text": "Becoming Beloveds",
+      "element": "h4"
+    },
+    {
+      "id": "BelovedInspiration",
+      "text": "Beloved Inspiration",
+      "element": "h4"
+    },
+    {
+      "id": "EndingBelovedRelationships",
+      "text": "Ending Beloved Relationships",
+      "element": "h4"
+    },
+    {
+      "id": "FellowStudents",
+      "text": "Fellow Students",
+      "element": "h2"
+    },
+    {
+      "id": "CollegeandYear",
+      "text": "College and Year",
+      "element": "h3"
+    },
+    {
+      "id": "StatBlocks",
+      "text": "Stat Blocks",
+      "element": "h3"
+    },
+    {
+      "id": "StudentNPCStatBlocks",
+      "text": "Student NPC Stat Blocks Year Stat Block First First-Year Student Second [College] Apprentice Third or Later [College] Pledgemage",
+      "element": "table"
+    },
+    {
+      "id": "FellowStudentsAL",
+      "text": "Fellow Students (A-L)",
+      "element": "h2"
+    },
+    {
+      "id": "AuroraLunaWynterstarr",
+      "text": "Aurora Luna Wynterstarr",
+      "element": "h3"
+    },
+    {
+      "id": "BhedumRampartSooviij",
+      "text": "Bhedum “Rampart” Sooviij",
+      "element": "h3"
+    },
+    {
+      "id": "CadorasDamellawar",
+      "text": "Cadoras Damellawar",
+      "element": "h3"
+    },
+    {
+      "id": "DrazhomirYarnask",
+      "text": "Drazhomir Yarnask",
+      "element": "h3"
+    },
+    {
+      "id": "GraysonWildemere",
+      "text": "Grayson Wildemere",
+      "element": "h3"
+    },
+    {
+      "id": "GretaGorunn",
+      "text": "Greta Gorunn",
+      "element": "h3"
+    },
+    {
+      "id": "JaveneshStoutclaw",
+      "text": "Javenesh Stoutclaw",
+      "element": "h3"
+    },
+    {
+      "id": "LarineArneza",
+      "text": "Larine Arneza",
+      "element": "h3"
+    },
+    {
+      "id": "FellowStudentsMZ",
+      "text": "Fellow Students (M-Z)",
+      "element": "h2"
+    },
+    {
+      "id": "Melwythorne",
+      "text": "Melwythorne",
+      "element": "h3"
+    },
+    {
+      "id": "MinaLee",
+      "text": "Mina Lee",
+      "element": "h3"
+    },
+    {
+      "id": "NoraAnnWu",
+      "text": "Nora Ann Wu",
+      "element": "h3"
+    },
+    {
+      "id": "QuentilliusAntiphiunMelentorIII",
+      "text": "Quentillius Antiphiun Melentor III",
+      "element": "h3"
+    },
+    {
+      "id": "RosimyffenbipRosieWuzfeddlims",
+      "text": "Rosimyffenbip “Rosie” Wuzfeddlims",
+      "element": "h3"
+    },
+    {
+      "id": "RubinaLarkingdale",
+      "text": "Rubina Larkingdale",
+      "element": "h3"
+    },
+    {
+      "id": "ShuvadriGlintmantle",
+      "text": "Shuvadri Glintmantle",
+      "element": "h3"
+    },
+    {
+      "id": "TilanaKapule",
+      "text": "Tilana Kapule",
+      "element": "h3"
+    },
+    {
+      "id": "UrzmaktokGrojsh",
+      "text": "Urzmaktok Grojsh",
+      "element": "h3"
+    },
+    {
+      "id": "ZantherBowen",
+      "text": "Zanther Bowen",
+      "element": "h3"
+    }
+  ],
+  "transformations": [
+    "Selected the first .p-article-content element.",
+    "Removed scripts, styles, forms, iframes, hidden duplicate labels, and source navigation.",
+    "Removed event handlers and D&D Beyond content-chunk identifiers.",
+    "Rewrote archived sourcebook links to generated reader routes when a local target exists.",
+    "Added lazy image loading and asynchronous decoding hints.",
+    "Added derived IDs to read-aloud, rules, table, and stat-block elements for session navigation.",
+    "Indexed player-version map links as derived session metadata.",
+    "Preserved source wording and original heading IDs; derived metadata remains separate."
+  ],
+  "repairs": []
+}

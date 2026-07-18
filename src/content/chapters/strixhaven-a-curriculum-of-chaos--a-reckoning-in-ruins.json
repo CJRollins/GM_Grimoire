@@ -1,0 +1,819 @@
+{
+  "title": "A Reckoning in Ruins",
+  "sourcebook": "Strixhaven: A Curriculum of Chaos",
+  "bookSlug": "strixhaven-a-curriculum-of-chaos",
+  "world": "Arcavios",
+  "edition": "2014 rules",
+  "chapter": "A Reckoning in Ruins",
+  "chapterNumber": 6,
+  "order": 15,
+  "navGroup": "Year Four",
+  "kind": "adventure",
+  "audience": "gm",
+  "slug": "strixhaven-a-reckoning-in-ruins",
+  "chapterSlug": "a-reckoning-in-ruins",
+  "summary": "As the fourth and final year of the characters’ academic career at Strixhaven dawns, the university faces a crisis. In this adventure, the characters come face-to-face with an awful truth: not only does Murgaxor Grenshel threaten the safety of everyone on cam…",
+  "wordCount": 4165,
+  "originalPath": "Arcavios/Stixhaven/Chapter 15 - A Reckoning In Ruin.html",
+  "rawUrl": "/archive/strixhaven/Chapter%2015%20-%20A%20Reckoning%20In%20Ruin.html",
+  "originalAnchors": [
+    {
+      "id": "AReckoninginRuins",
+      "text": "A Reckoning in Ruins",
+      "element": "h1"
+    },
+    {
+      "id": "comp-next-nav",
+      "text": "",
+      "element": "div"
+    },
+    {
+      "id": "imgsplash",
+      "text": "When the characters discover Murgaxor’s deadly plan, they must spring into action",
+      "element": "figure"
+    },
+    {
+      "id": "RunningThisAdventure",
+      "text": "Running This Adventure",
+      "element": "h2"
+    },
+    {
+      "id": "AdventureOverview",
+      "text": "Adventure Overview",
+      "element": "h3"
+    },
+    {
+      "id": "AStandaloneAdventure",
+      "text": "A Standalone Adventure",
+      "element": "h4"
+    },
+    {
+      "id": "CharacterAdvancement",
+      "text": "Character Advancement",
+      "element": "h3"
+    },
+    {
+      "id": "FourthYearLevelAdvancement",
+      "text": "Fourth-Year Level Advancement Level Reached When Characters… 9th Finish exploring the Detention Bog and retrieve the missing crates 10th Descend into the baseme",
+      "element": "table"
+    },
+    {
+      "id": "RandomEncounters",
+      "text": "Random Encounters",
+      "element": "h3"
+    },
+    {
+      "id": "FourthYearEncounters",
+      "text": "Fourth-Year Encounters d10 Encounter 1–4 2 bulettes 5–6 1 red slaad and 1 vrock that escaped from their classroom bonds 7–8 1 cloaker that has been hiding in th",
+      "element": "table"
+    },
+    {
+      "id": "StudentSchedules",
+      "text": "Student Schedules",
+      "element": "h3"
+    },
+    {
+      "id": "FourthYearCourses",
+      "text": "Fourth-Year Courses d6 Course Offered By 1 Advanced Applied Magic General Studies 2 Advanced Lumimancy Silverquill 3 Applied Illusory Arts Quandrix 4 Arcane Mac",
+      "element": "table"
+    },
+    {
+      "id": "imgfourthyearstudents",
+      "text": "Fourth-year courses are the university’s most challenging,and students often employ magical study techniques to get by",
+      "element": "figure"
+    },
+    {
+      "id": "ASinisterShadow",
+      "text": "A Sinister Shadow",
+      "element": "h2"
+    },
+    {
+      "id": "ABriefDistraction",
+      "text": "A Brief Distraction",
+      "element": "h2"
+    },
+    {
+      "id": "Scufflecup",
+      "text": "Scufflecup",
+      "element": "h3"
+    },
+    {
+      "id": "ScufflecupRules",
+      "text": "Scufflecup Rules",
+      "element": "h4"
+    },
+    {
+      "id": "CheeringandHeckling",
+      "text": "Cheering and Heckling",
+      "element": "h4"
+    },
+    {
+      "id": "RelationshipEncounter",
+      "text": "Relationship Encounter",
+      "element": "h4"
+    },
+    {
+      "id": "ArcaneHerbologyExamVegetationIdentification",
+      "text": "Arcane Herbology Exam: Vegetation Identification",
+      "element": "h2"
+    },
+    {
+      "id": "StudyingPhase",
+      "text": "Studying Phase",
+      "element": "h3"
+    },
+    {
+      "id": "TestingPhase",
+      "text": "Testing Phase",
+      "element": "h3"
+    },
+    {
+      "id": "ClueintheBayou",
+      "text": "Clue in the Bayou",
+      "element": "h2"
+    },
+    {
+      "id": "DetentionMonitors",
+      "text": "Detention Monitors",
+      "element": "h3"
+    },
+    {
+      "id": "imghuts",
+      "text": "Idyllic huts dot the bayou surrounding Witherbloom College’s campus",
+      "element": "figure"
+    },
+    {
+      "id": "StudentsinDetention",
+      "text": "Students in Detention",
+      "element": "h4"
+    },
+    {
+      "id": "StudentsInDetention",
+      "text": "Students in Detention d10 Student (College) Offense 1 Quentillius A. Melentor III (Prismari) Released pest mascots in Widdershins Hall 2 Rosie Wuzfeddlims (Lore",
+      "element": "table"
+    },
+    {
+      "id": "TheDetentionBog",
+      "text": "The Detention Bog",
+      "element": "h3"
+    },
+    {
+      "id": "SearchingforSupplies",
+      "text": "Searching for Supplies",
+      "element": "h4"
+    },
+    {
+      "id": "DetentionBogFeatures",
+      "text": "Detention Bog Features",
+      "element": "h3"
+    },
+    {
+      "id": "DetentionBogLocations",
+      "text": "Detention Bog Locations",
+      "element": "h3"
+    },
+    {
+      "id": "Map61thedetentionbog",
+      "text": "Map 6.1: the detention bog View Player Version",
+      "element": "figure"
+    },
+    {
+      "id": "D1TheStickiestCrate",
+      "text": "D1. The Stickiest Crate",
+      "element": "h4"
+    },
+    {
+      "id": "D2AngryTrudges",
+      "text": "D2. Angry Trudges",
+      "element": "h4"
+    },
+    {
+      "id": "imgbog",
+      "text": "When the Detention Bog isn’t officially in use, students practice experimental magic here",
+      "element": "figure"
+    },
+    {
+      "id": "D3LonelyCrate",
+      "text": "D3. Lonely Crate",
+      "element": "h4"
+    },
+    {
+      "id": "D4ConfusedConstructs",
+      "text": "D4. Confused Constructs",
+      "element": "h4"
+    },
+    {
+      "id": "D5EmptyCrate",
+      "text": "D5. Empty Crate",
+      "element": "h4"
+    },
+    {
+      "id": "D6UnstableCrate",
+      "text": "D6. Unstable Crate",
+      "element": "h4"
+    },
+    {
+      "id": "Developments",
+      "text": "Developments",
+      "element": "h3"
+    },
+    {
+      "id": "Advanceto9thLevel",
+      "text": "Advance to 9th Level!",
+      "element": "h2"
+    }
+  ],
+  "sourceHash": "62b5d807b111dbbbfbd771ed7a42f07512f35a3d31baf22cc5d70da1da2f1dc9",
+  "extractionDate": "2026-07-13T07:40:57.647Z",
+  "extractionVersion": 3,
+  "headings": [
+    {
+      "depth": 1,
+      "id": "AReckoninginRuins",
+      "text": "A Reckoning in Ruins"
+    },
+    {
+      "depth": 2,
+      "id": "RunningThisAdventure",
+      "text": "Running This Adventure"
+    },
+    {
+      "depth": 3,
+      "id": "AdventureOverview",
+      "text": "Adventure Overview"
+    },
+    {
+      "depth": 4,
+      "id": "AStandaloneAdventure",
+      "text": "A Standalone Adventure"
+    },
+    {
+      "depth": 3,
+      "id": "CharacterAdvancement",
+      "text": "Character Advancement"
+    },
+    {
+      "depth": 3,
+      "id": "RandomEncounters",
+      "text": "Random Encounters"
+    },
+    {
+      "depth": 3,
+      "id": "StudentSchedules",
+      "text": "Student Schedules"
+    },
+    {
+      "depth": 2,
+      "id": "ASinisterShadow",
+      "text": "A Sinister Shadow"
+    },
+    {
+      "depth": 2,
+      "id": "ABriefDistraction",
+      "text": "A Brief Distraction"
+    },
+    {
+      "depth": 3,
+      "id": "Scufflecup",
+      "text": "Scufflecup"
+    },
+    {
+      "depth": 4,
+      "id": "ScufflecupRules",
+      "text": "Scufflecup Rules"
+    },
+    {
+      "depth": 4,
+      "id": "CheeringandHeckling",
+      "text": "Cheering and Heckling"
+    },
+    {
+      "depth": 4,
+      "id": "RelationshipEncounter",
+      "text": "Relationship Encounter"
+    },
+    {
+      "depth": 2,
+      "id": "ArcaneHerbologyExamVegetationIdentification",
+      "text": "Arcane Herbology Exam: Vegetation Identification"
+    },
+    {
+      "depth": 3,
+      "id": "StudyingPhase",
+      "text": "Studying Phase"
+    },
+    {
+      "depth": 3,
+      "id": "TestingPhase",
+      "text": "Testing Phase"
+    },
+    {
+      "depth": 2,
+      "id": "ClueintheBayou",
+      "text": "Clue in the Bayou"
+    },
+    {
+      "depth": 3,
+      "id": "DetentionMonitors",
+      "text": "Detention Monitors"
+    },
+    {
+      "depth": 4,
+      "id": "StudentsinDetention",
+      "text": "Students in Detention"
+    },
+    {
+      "depth": 3,
+      "id": "TheDetentionBog",
+      "text": "The Detention Bog"
+    },
+    {
+      "depth": 4,
+      "id": "SearchingforSupplies",
+      "text": "Searching for Supplies"
+    },
+    {
+      "depth": 3,
+      "id": "DetentionBogFeatures",
+      "text": "Detention Bog Features"
+    },
+    {
+      "depth": 3,
+      "id": "DetentionBogLocations",
+      "text": "Detention Bog Locations"
+    },
+    {
+      "depth": 4,
+      "id": "D1TheStickiestCrate",
+      "text": "D1. The Stickiest Crate"
+    },
+    {
+      "depth": 4,
+      "id": "D2AngryTrudges",
+      "text": "D2. Angry Trudges"
+    },
+    {
+      "depth": 4,
+      "id": "D3LonelyCrate",
+      "text": "D3. Lonely Crate"
+    },
+    {
+      "depth": 4,
+      "id": "D4ConfusedConstructs",
+      "text": "D4. Confused Constructs"
+    },
+    {
+      "depth": 4,
+      "id": "D5EmptyCrate",
+      "text": "D5. Empty Crate"
+    },
+    {
+      "depth": 4,
+      "id": "D6UnstableCrate",
+      "text": "D6. Unstable Crate"
+    },
+    {
+      "depth": 3,
+      "id": "Developments",
+      "text": "Developments"
+    },
+    {
+      "depth": 2,
+      "id": "Advanceto9thLevel",
+      "text": "Advance to 9th Level!"
+    }
+  ],
+  "tags": {
+    "creatures": [
+      "air elementals",
+      "brackish trudges",
+      "bulettes",
+      "cloaker",
+      "dryad",
+      "hydra",
+      "Lorehold",
+      "pest mascots",
+      "Prismari",
+      "Prismari professor of expression",
+      "Quandrix",
+      "red slaad",
+      "ruin grinders",
+      "Scufflecup teacup",
+      "Scufflecup Teacup",
+      "Silverquill",
+      "treant",
+      "vrock",
+      "water weird",
+      "Witherbloom"
+    ],
+    "spells": [
+      "Detect magic",
+      "fog cloud",
+      "mending",
+      "Tenser’s floating disk"
+    ],
+    "items": [
+      "spell scroll",
+      "spell scrolls"
+    ],
+    "locations": [
+      "Angry Trudges",
+      "Biblioplex",
+      "Confused Constructs",
+      "Detention Bog",
+      "Empty Crate",
+      "Firejolt Café",
+      "Lonely Crate",
+      "Lorehold",
+      "Prismari",
+      "Quandrix",
+      "Sedgemoor",
+      "Silverquill",
+      "Strixhaven",
+      "The Stickiest Crate",
+      "Unstable Crate",
+      "Witherbloom"
+    ],
+    "npcs": [],
+    "topics": [
+      "adventure",
+      "campus-life",
+      "exams",
+      "gm-tools",
+      "read-aloud",
+      "relationships",
+      "stat-blocks",
+      "tables"
+    ]
+  },
+  "session": {
+    "readAloud": [
+      {
+        "id": "session-read-aloud-1",
+        "label": "Read aloud 1",
+        "excerpt": "All of your hard work has come down to this—your fourth and final year as a student of magic at Strixhaven University. But as soon as you arrive on campus, it’s clear that somethi…"
+      },
+      {
+        "id": "session-read-aloud-2",
+        "label": "Read aloud 2",
+        "excerpt": "The mood on campus might be gloomy, but as you cross the central campus, you see a few of your classmates smiling and gesturing outside Firejolt Café. A familiar face jogs up to y…"
+      },
+      {
+        "id": "session-read-aloud-3",
+        "label": "Read aloud 3",
+        "excerpt": "“It is as we feared. Murgaxor has been lurking around campus ever since he dared to manipulate Dean Tullus. We still don’t know his plans, but we’ve traced his most recent activit…"
+      },
+      {
+        "id": "session-read-aloud-4",
+        "label": "Read aloud 4",
+        "excerpt": "The smell of putrefaction overwhelms your senses. Ahead, a knot of sullen students and one faculty member stand on a wide wooden pathway over the reeking muck. Grinning, the orc f…"
+      },
+      {
+        "id": "session-read-aloud-5",
+        "label": "Read aloud 5",
+        "excerpt": "“I am so pleased to have you all here with me today! This is an opportunity for all of us to learn more about ourselves, our fellow students, and the amazing world around us. Toda…"
+      },
+      {
+        "id": "session-read-aloud-6",
+        "label": "Read aloud 6",
+        "excerpt": "A trail of smooth stones just large enough for a person to walk on extends fifty feet between two large landmasses. Just off the center of the trail rests a sealed metal crate in …"
+      },
+      {
+        "id": "session-read-aloud-7",
+        "label": "Read aloud 7",
+        "excerpt": "A battered crate sits forlornly in the middle of an expanse of mud. Just south of the crate, water burbles from two slimy mounds of dense vegetation, accompanied by muffled rumbli…"
+      },
+      {
+        "id": "session-read-aloud-8",
+        "label": "Read aloud 8",
+        "excerpt": "At the far end of a broken bridge is a mound of earth barely large enough for one person to stand on. A dented metal crate is partially embedded in the mound."
+      },
+      {
+        "id": "session-read-aloud-9",
+        "label": "Read aloud 9",
+        "excerpt": "The ground here is spongy and carpeted in soft green grasses. Heavy footfalls and shrieks of grinding metal emanate from the mists. A muddy steel crate rests amid the greenery."
+      },
+      {
+        "id": "session-read-aloud-10",
+        "label": "Read aloud 10",
+        "excerpt": "You hear the sound of snapping trees and guttural, sibilant rasping. A moment later, a cacophonous, multi-throated roar erupts."
+      },
+      {
+        "id": "session-read-aloud-11",
+        "label": "Read aloud 11",
+        "excerpt": "A steel crate, its surface glowing orange, rests amid a pool of bubbling, hissing water."
+      }
+    ],
+    "rules": [],
+    "tables": [
+      {
+        "id": "FourthYearLevelAdvancement",
+        "label": "Fourth-Year Level Advancement",
+        "excerpt": "Fourth-Year Level Advancement Level Reached When Characters… 9th Finish exploring the Detention Bog and retrieve the missing crates 10th Descend into the basement of the Fortress …"
+      },
+      {
+        "id": "FourthYearEncounters",
+        "label": "Fourth-Year Encounters",
+        "excerpt": "Fourth-Year Encounters d10 Encounter 1–4 2 bulettes 5–6 1 red slaad and 1 vrock that escaped from their classroom bonds 7–8 1 cloaker that has been hiding in the rafters of an aba…"
+      },
+      {
+        "id": "FourthYearCourses",
+        "label": "Fourth-Year Courses",
+        "excerpt": "Fourth-Year Courses d6 Course Offered By 1 Advanced Applied Magic General Studies 2 Advanced Lumimancy Silverquill 3 Applied Illusory Arts Quandrix 4 Arcane Macroeconomics Lorehol…"
+      },
+      {
+        "id": "StudentsInDetention",
+        "label": "Students in Detention",
+        "excerpt": "Students in Detention d10 Student (College) Offense 1 Quentillius A. Melentor III (Prismari) Released pest mascots in Widdershins Hall 2 Rosie Wuzfeddlims (Lorehold) Accidentally …"
+      }
+    ],
+    "statBlocks": [
+      {
+        "id": "session-stat-block-1",
+        "label": "Scufflecup Teacup",
+        "excerpt": "Scufflecup Teacup Tiny Construct, Unaligned Armor Class 12 Hit Points 5 (2d4) Speed 20 ft. STR 4 (−3) DEX 14 (+2) CON 10 (+0) INT 3 (−4) WIS 3 (−4) CHA 1 (−5) Damage Immunities po…"
+      }
+    ],
+    "maps": [
+      {
+        "id": "session-player-map-1",
+        "label": "Map 6.1: the detention bog",
+        "dmUrl": "https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/map-6.1-the-detention-bog.jpg",
+        "playerUrl": "https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/map-6.1-the-detention-bog-player.jpg"
+      }
+    ],
+    "quickLinks": [
+      {
+        "depth": 2,
+        "id": "RunningThisAdventure",
+        "text": "Running This Adventure",
+        "type": "rule"
+      },
+      {
+        "depth": 3,
+        "id": "AdventureOverview",
+        "text": "Adventure Overview",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "AStandaloneAdventure",
+        "text": "A Standalone Adventure",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "CharacterAdvancement",
+        "text": "Character Advancement",
+        "type": "rule"
+      },
+      {
+        "depth": 3,
+        "id": "RandomEncounters",
+        "text": "Random Encounters",
+        "type": "encounter"
+      },
+      {
+        "depth": 3,
+        "id": "StudentSchedules",
+        "text": "Student Schedules",
+        "type": "reference"
+      },
+      {
+        "depth": 2,
+        "id": "ASinisterShadow",
+        "text": "A Sinister Shadow",
+        "type": "scene"
+      },
+      {
+        "depth": 2,
+        "id": "ABriefDistraction",
+        "text": "A Brief Distraction",
+        "type": "scene"
+      },
+      {
+        "depth": 3,
+        "id": "Scufflecup",
+        "text": "Scufflecup",
+        "type": "encounter"
+      },
+      {
+        "depth": 4,
+        "id": "ScufflecupRules",
+        "text": "Scufflecup Rules",
+        "type": "encounter"
+      },
+      {
+        "depth": 4,
+        "id": "CheeringandHeckling",
+        "text": "Cheering and Heckling",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "RelationshipEncounter",
+        "text": "Relationship Encounter",
+        "type": "relationship"
+      },
+      {
+        "depth": 2,
+        "id": "ArcaneHerbologyExamVegetationIdentification",
+        "text": "Arcane Herbology Exam: Vegetation Identification",
+        "type": "exam"
+      },
+      {
+        "depth": 3,
+        "id": "StudyingPhase",
+        "text": "Studying Phase",
+        "type": "exam"
+      },
+      {
+        "depth": 3,
+        "id": "TestingPhase",
+        "text": "Testing Phase",
+        "type": "exam"
+      },
+      {
+        "depth": 2,
+        "id": "ClueintheBayou",
+        "text": "Clue in the Bayou",
+        "type": "scene"
+      },
+      {
+        "depth": 3,
+        "id": "DetentionMonitors",
+        "text": "Detention Monitors",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "StudentsinDetention",
+        "text": "Students in Detention",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "TheDetentionBog",
+        "text": "The Detention Bog",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "SearchingforSupplies",
+        "text": "Searching for Supplies",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "DetentionBogFeatures",
+        "text": "Detention Bog Features",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "DetentionBogLocations",
+        "text": "Detention Bog Locations",
+        "type": "location"
+      },
+      {
+        "depth": 4,
+        "id": "D1TheStickiestCrate",
+        "text": "D1. The Stickiest Crate",
+        "type": "location"
+      },
+      {
+        "depth": 4,
+        "id": "D2AngryTrudges",
+        "text": "D2. Angry Trudges",
+        "type": "location"
+      },
+      {
+        "depth": 4,
+        "id": "D3LonelyCrate",
+        "text": "D3. Lonely Crate",
+        "type": "location"
+      },
+      {
+        "depth": 4,
+        "id": "D4ConfusedConstructs",
+        "text": "D4. Confused Constructs",
+        "type": "location"
+      },
+      {
+        "depth": 4,
+        "id": "D5EmptyCrate",
+        "text": "D5. Empty Crate",
+        "type": "location"
+      },
+      {
+        "depth": 4,
+        "id": "D6UnstableCrate",
+        "text": "D6. Unstable Crate",
+        "type": "location"
+      },
+      {
+        "depth": 3,
+        "id": "Developments",
+        "text": "Developments",
+        "type": "reference"
+      },
+      {
+        "depth": 2,
+        "id": "Advanceto9thLevel",
+        "text": "Advance to 9th Level!",
+        "type": "scene"
+      }
+    ]
+  },
+  "anomalyFlags": [
+    {
+      "type": "reader-address",
+      "passage": "Here’s what you need to know to run the adventure in this chapter, whether you’re running it as part of a campaign or as a standalone adventure.",
+      "location": "Running This Adventure",
+      "anchor": "RunningThisAdventure",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "If you’re running this chapter’s adventure as a standalone, you can summarize Murgaxor’s schemes as they have unfolded over the past three years to establish him as a threat the characters must face.",
+      "location": "A Standalone Adventure",
+      "anchor": "AStandaloneAdventure",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "Read or paraphrase the following when you’re ready to begin the adventure:",
+      "location": "A Sinister Shadow",
+      "anchor": "ASinisterShadow",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "All of your hard work has come down to this—your fourth and final year as a student of magic at Strixhaven University.",
+      "location": "A Sinister Shadow",
+      "anchor": "ASinisterShadow",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "But as soon as you arrive on campus, it’s clear that something is very wrong.",
+      "location": "A Sinister Shadow",
+      "anchor": "ASinisterShadow",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "Here and there, you hear frightened whispers: “I heard his name is Murgaxor.",
+      "location": "A Sinister Shadow",
+      "anchor": "ASinisterShadow",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "One of the characters’ Friends or Rivals is part of this scene, or you may choose another student from the “Fellow Students” section of chapter 3.",
+      "location": "A Brief Distraction",
+      "anchor": "ABriefDistraction",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "When you’re ready to begin the scene, read or paraphrase the following, altering the text to incorporate the name of the chosen student:",
+      "location": "A Brief Distraction",
+      "anchor": "ABriefDistraction",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "The mood on campus might be gloomy, but as you cross the central campus, you see a few of your classmates smiling and gesturing outside Firejolt Café.",
+      "location": "A Brief Distraction",
+      "anchor": "ABriefDistraction",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "A familiar face jogs up to you, waving and smiling in relief.",
+      "location": "A Brief Distraction",
+      "anchor": "ABriefDistraction",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "hidden-actor",
+      "passage": "If the crate is covered with at least 10 feet of earth, the damage is halved, and Dexterity saving throws made to resist the effect are made with advantage.",
+      "location": "D6. Unstable Crate",
+      "anchor": "D6UnstableCrate",
+      "confidence": 0.68,
+      "reason": "A passive construction may conceal who performs the action."
+    }
+  ],
+  "contentHtml": "<h1 class=\"compendium-hr\" id=\"AReckoninginRuins\">A Reckoning in Ruins</h1>\n\n<p>As the fourth and final year of the characters’ academic career at Strixhaven dawns, the university faces a crisis. In this adventure, the characters come face-to-face with an awful truth: not only does Murgaxor Grenshel threaten the safety of everyone on campus, but the university’s masters are powerless against the villain. It becomes clear that the characters must drop their studies and stop him at all costs.</p>\n<figure id=\"imgsplash\" class=\"compendium-image\">\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/06-001.chapter-splash.jpg\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/06-001.chapter-splash.jpg\" class=\"ddb-lightbox-inner\" style=\"width: 650px;\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a>\n<figcaption>When the characters discover Murgaxor’s deadly plan, they must spring into action</figcaption>\n</figure>\n<h2 class=\"compendium-hr heading-anchor\" id=\"RunningThisAdventure\">Running This Adventure</h2>\n<p>Here’s what you need to know to run the adventure in this chapter, whether you’re running it as part of a campaign or as a standalone adventure.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"AdventureOverview\">Adventure Overview</h3>\n<p>While the Strixhaven faculty investigate Murgaxor Grenshel and his schemes, it becomes clear that the villain has warded himself from their spells so student aid will be needed to defeat him. The characters are called on to help track the villain to his lair and stop his wicked ritual before he siphons the life energy from everyone on campus.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"AStandaloneAdventure\">A Standalone Adventure</h4>\n<p>If you’re running this chapter’s adventure as a standalone, you can summarize Murgaxor’s schemes as they have unfolded over the past three years to establish him as a threat the characters must face. A former student who was expelled 200 years ago, he has artificially extended his life and seeks true immortality. He corrupted eldritch balm to cause magical mishaps, schemed to attack students at a Mage Tower game, and manipulated one of Lorehold’s deans to harm students. Now his schemes threaten the entire campus.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"CharacterAdvancement\">Character Advancement</h3>\n<p>This adventure assumes the characters are 8th level when it begins. The Fourth-Year Level Advancement table summarizes when the characters gain levels during the adventure.</p>\n<table id=\"FourthYearLevelAdvancement\" class=\"table-compendium table--left-col2\">\n<caption class=\"heading-anchor\"><a href=\"#FourthYearLevelAdvancement\"></a>Fourth-Year Level Advancement</caption>\n<thead>\n<tr>\n<th>Level</th>\n<th>Reached When Characters…</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>9th</td>\n<td>Finish exploring the Detention Bog and retrieve the missing crates</td>\n</tr>\n<tr>\n<td>10th</td>\n<td>Descend into the basement of the Fortress of Caerdoon (before encountering Murgaxor)</td>\n</tr>\n</tbody>\n</table>\n<h3 class=\"compendium-hr heading-anchor\" id=\"RandomEncounters\">Random Encounters</h3>\n<p>Use the Fourth-Year Encounters table for random encounters on campus during the adventure.</p>\n<table id=\"FourthYearEncounters\" class=\"table-compendium table--generic-dice\">\n<caption class=\"heading-anchor\"><a href=\"#FourthYearEncounters\"></a>Fourth-Year Encounters</caption>\n<thead>\n<tr>\n<th>d10</th>\n<th>Encounter</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1–4</td>\n<td>2 <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/16818-bulette\" data-tooltip-href=\"/monsters/16818-tooltip\">bulettes</a></td>\n</tr>\n<tr>\n<td>5–6</td>\n<td>1 <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/17116-red-slaad\" data-tooltip-href=\"/monsters/17116-tooltip\">red slaad</a> and 1 <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/17047-vrock\" data-tooltip-href=\"/monsters/17047-tooltip\">vrock</a> that escaped from their classroom bonds</td>\n</tr>\n<tr>\n<td>7–8</td>\n<td>1 <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/16826-cloaker\" data-tooltip-href=\"/monsters/16826-tooltip\">cloaker</a> that has been hiding in the rafters of an abandoned classroom building</td>\n</tr>\n<tr>\n<td>9–10</td>\n<td>1 <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/17037-treant\" data-tooltip-href=\"/monsters/17037-tooltip\">treant</a> that is angry the campus abuts a natural forest and is initially hostile</td>\n</tr>\n</tbody>\n</table>\n<h3 class=\"compendium-hr heading-anchor\" id=\"StudentSchedules\">Student Schedules</h3>\n<p>Before starting this adventure, have the players choose at least three courses their characters are taking this year, either by coming up with the courses themselves or by rolling on the Fourth-Year Courses table. Inform them that the characters are also enrolled in a required course, Arcane Herbology.</p>\n<table id=\"FourthYearCourses\" class=\"table-compendium table--generic-dice table--left-last\">\n<caption class=\"heading-anchor\"><a href=\"#FourthYearCourses\"></a>Fourth-Year Courses</caption>\n<thead>\n<tr>\n<th>d6</th>\n<th>Course</th>\n<th>Offered By</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1</td>\n<td>Advanced Applied Magic</td>\n<td>General Studies</td>\n</tr>\n<tr>\n<td>2</td>\n<td>Advanced Lumimancy</td>\n<td>Silverquill</td>\n</tr>\n<tr>\n<td>3</td>\n<td>Applied Illusory Arts</td>\n<td>Quandrix</td>\n</tr>\n<tr>\n<td>4</td>\n<td>Arcane Macroeconomics</td>\n<td>Lorehold</td>\n</tr>\n<tr>\n<td>5</td>\n<td>Eldritch and Arcane Performances</td>\n<td>Prismari</td>\n</tr>\n<tr>\n<td>6</td>\n<td>Extraplanar Cryptozoology</td>\n<td>Witherbloom</td>\n</tr>\n</tbody>\n</table>\n<figure class=\"compendium-image\" id=\"imgfourthyearstudents\">\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/06-002.png\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/06-002.png\" class=\"ddb-lightbox-inner compendium-center-banner-img\" style=\"width: 850px;\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a>\n<figcaption>Fourth-year courses are the university’s most challenging,<br>and students often employ magical study techniques to get by</figcaption>\n</figure>\n<h2 class=\"compendium-hr heading-anchor\" id=\"ASinisterShadow\">A Sinister Shadow</h2>\n<p>Once the characters have cemented their fourth-year Extracurriculars, Jobs, and Relationships decisions as needed, it’s time to kick off this adventure.</p>\n<p>When the characters arrive for their final year at Strixhaven, the mood is muted. Social spaces are sparsely populated, students chat in whispered tones, and the campus’s energy is tense.</p>\n<p>Read or paraphrase the following when you’re ready to begin the adventure:</p>\n<aside class=\"read-aloud-text\" id=\"session-read-aloud-1\">\n<p>All of your hard work has come down to this—your fourth and final year as a student of magic at Strixhaven University. But as soon as you arrive on campus, it’s clear that something is very wrong.</p>\n<p>Instead of the usual cheerful bustle, students mill about campus nervously. Here and there, you hear frightened whispers: “I heard his name is Murgaxor. I heard he wants to hurt us all.”</p>\n<p>The rumor mill has apparently discovered the grave events that happened last academic term.</p>\n</aside>\n<p>At this point, the characters might be waiting on the faculty to discover more about Murgaxor’s plans. However, they also might want to take this investigation into their own hands. If they do, run the “<a href=\"#ClueintheBayou\" title=\"Clue in the Bayou\">Clue in the Bayou</a>” section as this adventure’s first event.</p>\n<h2 class=\"compendium-hr heading-anchor\" id=\"ABriefDistraction\">A Brief Distraction</h2>\n<p>While the characters wait to learn more about Murgaxor, they discover some of their fellow students engaged in a game at Firejolt Café (see <a href=\"/chapters/strixhaven-campus-kerfuffle/#FirejoltCafeLocations\" title=\"map 3.2\">map 3.2</a> in <a href=\"/chapters/strixhaven-campus-kerfuffle/#CampusKerfuffle\" title=\"chapter 3\">chapter 3</a>) on the central campus. One of the characters’ Friends or Rivals is part of this scene, or you may choose another student from the “<a href=\"/chapters/strixhaven-relationships/#FellowStudents\" title=\"Fellow Students\">Fellow Students</a>” section of <a href=\"/chapters/strixhaven-relationships/\" title=\"chapter 3\">chapter 3</a>.</p>\n<p>When you’re ready to begin the scene, read or paraphrase the following, altering the text to incorporate the name of the chosen student:</p>\n<aside class=\"read-aloud-text\" id=\"session-read-aloud-2\">\n<p>The mood on campus might be gloomy, but as you cross the central campus, you see a few of your classmates smiling and gesturing outside Firejolt Café.</p>\n<p>A familiar face jogs up to you, waving and smiling in relief. “It’s so good to see you! Things have been dire around here lately, but some friends are inside about to start playing a game they call Scufflecup. Apparently, they found a box of animated teacups, and they figured out how to control the little buggers! Come on, let’s go check it out!”</p>\n</aside>\n<h3 class=\"compendium-hr heading-anchor\" id=\"Scufflecup\">Scufflecup</h3>\n<p>Scufflecup is a game students created after finding a box of teacups in a nearby building’s storage room. The students discovered that pouring hot tea into the cups animates them for 10 minutes and causes them to sprout little arms and legs. While animate, a cup uses the <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160328-scufflecup-teacup\" data-tooltip-href=\"/monsters/2160328-tooltip\">Scufflecup teacup</a> stat block and does the bidding of whoever animated it.</p>\n<div class=\"flexible-double-column\">\n<div>\n<p>Characters who enter Firejolt Café find that the fireside lounge (<a href=\"/chapters/strixhaven-campus-kerfuffle/#F5FiresideLounge\" title=\"area F5\">area F5</a> on <a href=\"/chapters/strixhaven-campus-kerfuffle/#Map32firejoltcafe\" title=\"map 3.2\">map 3.2</a> in <a href=\"/chapters/strixhaven-campus-kerfuffle/#CampusKerfuffle\" title=\"chapter 3\">chapter 3</a>) has been rearranged into a play area for a game of Scufflecup. A student explains the game, which is played on the large table in the lounge’s center. The square tabletop is 5 feet on each side. The student who describes how to play is a character’s Friend, Rival, or Beloved, although you could choose anyone from the “<a href=\"/chapters/strixhaven-relationships/#FellowStudents\" title=\"Fellow Students\">Fellow Students</a>” section in <a href=\"/chapters/strixhaven-relationships/\" title=\"chapter 3\">chapter 3</a>.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"ScufflecupRules\">Scufflecup Rules</h4>\n<p>Each participant fills a teacup with hot tea and places it on the table. The participants then roll initiative. At least one Scufflecup participant is a student who isn’t a player character.</p>\n<p>On each of their turns, a participant can use a bonus action to mentally command their teacup either to attack another teacup within range or to try to shove another teacup off the table, using the rules for <a href=\"https://www.dndbeyond.com/sources/phb/combat#ShovingaCreature\" title=\"shoving\">shoving</a> in the <a class=\"sourcebook\" href=\"https://www.dndbeyond.com/sources/phb\" title=\"Player’s Handbook\">Player’s Handbook</a>. A participant loses the game if their teacup drops to 0 hit points or if their teacup falls off the table.</p>\n</div>\n<div>\n<div class=\"Basic-Text-Frame-2 stat-block-background stat-block-finder\" id=\"session-stat-block-1\">\n<p class=\"Stat-Block-Styles_Stat-Block-Title\"><a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160328-scufflecup-teacup\" data-tooltip-href=\"/monsters/2160328-tooltip\">Scufflecup Teacup</a></p>\n<p class=\"Stat-Block-Styles_Stat-Block-Metadata\">Tiny Construct, Unaligned</p>\n<p class=\"Stat-Block-Styles_Stat-Block-Data\"><strong>Armor Class</strong> 12</p>\n<p class=\"Stat-Block-Styles_Stat-Block-Data\"><strong>Hit Points</strong> 5 (2d4)</p>\n<p class=\"Stat-Block-Styles_Stat-Block-Data\"><strong>Speed</strong> 20 ft.</p>\n<div class=\"stat-block-ability-scores\">\n<div class=\"stat-block-ability-scores-stat\">\n<div class=\"stat-block-ability-scores-heading\">STR</div>\n<div class=\"stat-block-ability-scores-data\">\n<span class=\"stat-block-ability-scores-score\">4</span>\n<span class=\"stat-block-ability-scores-modifier\">(−3)</span>\n</div></div>\n<div class=\"stat-block-ability-scores-stat\">\n<div class=\"stat-block-ability-scores-heading\">DEX</div>\n<div class=\"stat-block-ability-scores-data\">\n<span class=\"stat-block-ability-scores-score\">14</span>\n<span class=\"stat-block-ability-scores-modifier\">(+2)</span>\n</div></div>\n<div class=\"stat-block-ability-scores-stat\">\n<div class=\"stat-block-ability-scores-heading\">CON</div>\n<div class=\"stat-block-ability-scores-data\">\n<span class=\"stat-block-ability-scores-score\">10</span>\n<span class=\"stat-block-ability-scores-modifier\">(+0)</span>\n</div></div>\n<div class=\"stat-block-ability-scores-stat\">\n<div class=\"stat-block-ability-scores-heading\">INT</div>\n<div class=\"stat-block-ability-scores-data\">\n<span class=\"stat-block-ability-scores-score\">3</span>\n<span class=\"stat-block-ability-scores-modifier\">(−4)</span>\n</div></div>\n<div class=\"stat-block-ability-scores-stat\">\n<div class=\"stat-block-ability-scores-heading\">WIS</div>\n<div class=\"stat-block-ability-scores-data\">\n<span class=\"stat-block-ability-scores-score\">3</span>\n<span class=\"stat-block-ability-scores-modifier\">(−4)</span>\n</div></div>\n<div class=\"stat-block-ability-scores-stat\">\n<div class=\"stat-block-ability-scores-heading\">CHA</div>\n<div class=\"stat-block-ability-scores-data\">\n<span class=\"stat-block-ability-scores-score\">1</span>\n<span class=\"stat-block-ability-scores-modifier\">(−5)</span>\n</div>\n</div>\n</div>\n<p class=\"Stat-Block-Styles_Stat-Block-Data\"><strong>Damage Immunities</strong> poison</p>\n<p class=\"Stat-Block-Styles_Stat-Block-Data\"><strong>Condition Immunities</strong> <a class=\"tooltip-hover condition-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#BlindedCondition\" data-tooltip-href=\"/conditions/1-tooltip\">blinded</a>, <a class=\"tooltip-hover condition-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#ExhaustionCondition\" data-tooltip-href=\"/conditions/4-tooltip\">exhaustion</a>, <a class=\"tooltip-hover condition-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#PoisonedCondition\" data-tooltip-href=\"/conditions/11-tooltip\">poisoned</a></p>\n<p class=\"Stat-Block-Styles_Stat-Block-Data\"><strong>Senses</strong> <a class=\"tooltip-hover sense-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#Blindsight\" data-tooltip-href=\"/senses/1-tooltip\">blindsight</a> 30 ft. (blind beyond this radius), passive <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/14-tooltip\">Perception</a> 6</p>\n<p class=\"Stat-Block-Styles_Stat-Block-Data\"><strong>Languages</strong> —</p>\n<p class=\"Stat-Block-Styles_Stat-Block-Data-Last\"><strong>Challenge</strong> 0 (0 XP) <strong>Proficiency Bonus</strong> +2</p>\n<p class=\"Stat-Block-Styles_Stat-Block-Heading\">Actions</p>\n<p class=\"Stat-Block-Styles_Stat-Block-Body\"><em><strong>Slam.</strong> Melee Weapon Attack:</em> +4 to hit, reach 5 ft., one target. <em>Hit:</em> 3 (1d3 + 2) bludgeoning damage.</p>\n</div>\n</div>\n</div>\n<p>The participant with the last cup standing wins. The winner receives a purse of donations from the crowd that totals 1,000 gp.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"CheeringandHeckling\">Cheering and Heckling</h4>\n<p>A character who doesn’t want to participate in the game can contribute in one of the following ways:</p>\n<p><strong>Cheer a Participant.</strong> A character can encourage one of the game’s participants. That participant’s teacup gains advantage on its attack rolls.</p>\n<p><strong>Heckle a Participant.</strong> A character can taunt one of the game’s participants. That participant’s teacup has disadvantage on its attack rolls.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"RelationshipEncounter\">Relationship Encounter</h4>\n<p>If there are students with whom the characters wish to earn Relationship Points, treat the Scufflecup game as a Relationship encounter using the rules in <a href=\"/chapters/strixhaven-relationships/#UsingTheseRules\" title=\"chapter 3\">chapter 3</a>. Have players note the results of this encounter on their copies of the tracking sheet.</p>\n<h2 class=\"compendium-hr heading-anchor\" id=\"ArcaneHerbologyExamVegetationIdentification\">Arcane Herbology Exam: Vegetation Identification</h2>\n<p>The rules used for Exams can be found in <a href=\"/chapters/strixhaven-school-is-in-session/#Exams\" title=\"chapter 3\">chapter 3</a>. The first Exam for Arcane Herbology takes place shortly after the characters’ Scufflecup game in Firejolt Café. Students must identify unlabeled groupings of different plants, lichens, and fungi. Like the course itself, this Exam is conducted in an outdoor lab located in Sedgemoor (see <a href=\"/chapters/strixhaven-all-the-worlds-a-stage/#SedgemoorLocations\" title=\"Map 3.6\">map 3.6</a> and its accompanying description in <a href=\"/chapters/strixhaven-all-the-worlds-a-stage/#Sedgemoor\" title=\"chapter 3\">chapter 3</a>).</p>\n<p>Arcane Herbology covers techniques for using flora in potions, spells, and rituals. The course’s professor is Verelda Lang (chaotic neutral <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/16849-dryad\" data-tooltip-href=\"/monsters/16849-tooltip\">dryad</a>; see <a href=\"/chapters/strixhaven-friends-and-foes/#WitherbloomScholars\" title=\"chapter 7\">chapter 7</a>), an arcano-biologist whom the characters might recall from their first year of instruction.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"StudyingPhase\">Studying Phase</h3>\n<p>The day before the Exam, the characters can study the course material. A character can use any ability check and skill during the Studying phase.</p>\n<p>Once you’ve asked each player how their character is approaching the Studying phase, resolve that phase by having each character who studies make a DC 20 ability check. Make sure players keep track of their characters’ rerolls and apply them during the Testing phase.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"TestingPhase\">Testing Phase</h3>\n<p>On the day of the Exam, each character makes two ability checks related to parts of the test:</p>\n<p><strong>Flora’s Arcane Properties.</strong> Correctly selecting the properties of samples requires a successful DC 13 Intelligence (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/9-tooltip\">Nature</a>) check.</p>\n<p><strong>Specimen Identification.</strong> Recalling the correct names of flora with arcane uses based on sight, smell, and texture requires a successful DC 20 Wisdom (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/15-tooltip\">Survival</a>) check.</p>\n<p>Have each player note their character’s Exam results—how many Student Dice they gained and what skills they used during the test—on their copies of the tracking sheet.</p>\n<h2 class=\"compendium-hr heading-anchor\" id=\"ClueintheBayou\">Clue in the Bayou</h2>\n<p>At the end of the characters’ first Exam in Professor Lang’s class, she takes them aside with a grave look on her face. She waits for the other students to leave the room before she addresses the characters:</p>\n<aside class=\"read-aloud-text\" id=\"session-read-aloud-3\">\n<p>“It is as we feared. Murgaxor has been lurking around campus ever since he dared to manipulate Dean Tullus. We still don’t know his plans, but we’ve traced his most recent activity to the Detention Bog.</p>\n<p>“Our best faculty researchers are digging through Strixhaven’s past, but we could use your help searching for clues. I’ve arranged for you to oversee tomorrow’s Detention Bog activities. Needless to say, there’s extra credit in it for you if you’ll help us once again.”</p>\n</aside>\n<p>Once the characters have finished talking with Professor Lang, they’re free to do as they please until it’s time for their shift as detention monitors.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"DetentionMonitors\">Detention Monitors</h3>\n<p>The characters are tasked with mentoring a group of misbehaving students for the day. <a href=\"#DetentionBogLocations\" title=\"Map 6.1\">Map 6.1</a> shows the Detention Bog, where this part of the adventure takes place.</p>\n<p>The faculty member in charge during detention is a Prismari instructor named Arkin Minexes (lawful good orc <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160320-prismari-professor-of-expression\" data-tooltip-href=\"/monsters/2160320-tooltip\">Prismari professor of expression</a>, except he casts <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2321-tensers-floating-disk\" data-tooltip-href=\"/spells/2321-tooltip\">Tenser’s floating disk</a> instead of <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2112-fog-cloud\" data-tooltip-href=\"/spells/2112-tooltip\">fog cloud</a>; see <a href=\"/chapters/strixhaven-friends-and-foes/#PrismariProfessorofExpression\" title=\"chapter 7\">chapter 7</a>). Instructor Minexes is a recent addition to the faculty who is enthusiastic about learning and team-building.</p>\n<p>Earlier in the week, a load of supply crates failed to arrive at a storage area on Witherbloom’s campus when a <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/16929-hydra\" data-tooltip-href=\"/monsters/16929-tooltip\">hydra</a> attacked the <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160327-ruin-grinder\" data-tooltip-href=\"/monsters/2160327-tooltip\">ruin grinders</a> (described in <a href=\"/chapters/strixhaven-friends-and-foes/#RuinGrinder\" title=\"chapter 7\">chapter 7</a>) that were hauling the cargo. The ruin grinders are now malfunctioning and wandering the bayou confusedly. The cargo they hauled is scattered about. Instructor Minexes has tasked the students in detention with retrieving the cargo and bringing it to dry land.</p>\n<p>Ten students are scheduled to serve detention during the characters’ shift. The characters can easily find out these students’ identities beforehand from Professor Lang (see “<a href=\"#StudentsinDetention\" title=\"Students in Detention\">Students in Detention</a>”). The students in detention are already there when the characters arrive for their shift.</p>\n<figure id=\"imghuts\" class=\"compendium-image\">\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/06-003.idyllic-huts.png\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/06-003.idyllic-huts.png\" class=\"ddb-lightbox-inner compendium-center-banner-img\" style=\"width: 850px;\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a>\n<figcaption>Idyllic huts dot the bayou surrounding Witherbloom College’s campus</figcaption>\n</figure>\n<p><em><strong>The Instructor’s Secret.</strong></em> In reviewing the cargo manifest, Instructor Minexes noted one of the crates contained chemical substances that, unless recovered quickly and stored properly, could become unstable. Unwilling to frighten the students, the instructor keeps this information quiet for now.</p>\n<p>Additionally, the instructor is aware of the characters’ assignment from Professor Lang. He won’t discuss it in earshot of the other students, but if the characters have questions for him, he happily discusses the matter with them in private. Instructor Minexes doesn’t have any new information to share about Murgaxor.</p>\n<p>When the characters arrive, read or paraphrase the following:</p>\n<aside class=\"read-aloud-text\" id=\"session-read-aloud-4\">\n<p>The smell of putrefaction overwhelms your senses. Ahead, a knot of sullen students and one faculty member stand on a wide wooden pathway over the reeking muck. Grinning, the orc faculty member carries a satchel brimming with scrolls.</p>\n</aside>\n<p>A number of students equal to the number of characters are serving detention; you can roll on the Students in Detention table (rerolling any repeated results) to identify them, or you can select ones who suit your game. Instructor Minexes, wants to see everyone learn the value of teamwork during detention. After introducing himself and welcoming everyone to the Detention Bog, he continues:</p>\n<aside class=\"read-aloud-text\" id=\"session-read-aloud-5\">\n<p>“I am so pleased to have you all here with me today! This is an opportunity for all of us to learn more about ourselves, our fellow students, and the amazing world around us. Today we’ll be heading out into the bog to recover some lost supplies and return them to dry land.”</p>\n</aside>\n<p>Once he finishes his welcome, the instructor pairs each character with a student. He gives each pair of students a <a class=\"tooltip-hover magic-item-tooltip\" href=\"https://www.dndbeyond.com/magic-items/5418-spell-scroll\" data-tooltip-href=\"/magic-items/5418-tooltip\">spell scroll</a> of <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2321-tensers-floating-disk\" data-tooltip-href=\"/spells/2321-tooltip\">Tenser’s floating disk</a>. If no one in detention can read the scroll, the instructor does so for each pair.</p>\n<p>Neither Instructor Minexes nor Professor Lang is aware of the hydra attack that caused the supply run to go awry. If the characters inquire how the crates came to be lost, Minexes guesses that the ruin grinders used to haul the supplies malfunctioned. If the characters are amenable, the instructor would appreciate them finding and repairing the ruin grinders, although they don’t need to complete that task today.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"StudentsinDetention\">Students in Detention</h4>\n<p>As detention monitors, each character must spend the rest of the day supervising students who are being punished for their recent misbehavior. Use the Students in Detention table to determine each student and their detention-worthy offense. For more information about these characters, see the “<a href=\"/chapters/strixhaven-relationships/#FellowStudents\" title=\"Fellow Students\">Fellow Students</a>” section in <a href=\"/chapters/strixhaven-relationships/\" title=\"chapter 3\">chapter 3</a>.</p>\n<p>Should it become necessary, each student in the table uses the appropriate pledgemage stat block for the student’s college (see <a href=\"/chapters/strixhaven-friends-and-foes/\" title=\"chapter 7\">chapter 7</a>).</p>\n<table id=\"StudentsInDetention\" class=\"table-compendium table--generic-dice table--left-last\">\n<caption class=\"heading-anchor\"><a href=\"#StudentsInDetention\"></a>Students in Detention</caption>\n<thead>\n<tr>\n<th>d10</th>\n<th>Student (College)</th>\n<th>Offense</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1</td>\n<td>Quentillius A. Melentor III (<a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160319-prismari-pledgemage\" data-tooltip-href=\"/monsters/2160319-tooltip\">Prismari</a>)</td>\n<td>Released <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160317-pest-mascot\" data-tooltip-href=\"/monsters/2160317-tooltip\">pest mascots</a> in Widdershins Hall</td>\n</tr>\n<tr>\n<td>2</td>\n<td>Rosie Wuzfeddlims (<a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160309-lorehold-pledgemage\" data-tooltip-href=\"/monsters/2160309-tooltip\">Lorehold</a>)</td>\n<td>Accidentally triggered a protective spell on a book that caused another student to be banished to an extradimensional space for a short time</td>\n</tr>\n<tr>\n<td>3</td>\n<td>Grayson Wildemere (<a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160331-silverquill-pledgemage\" data-tooltip-href=\"/monsters/2160331-tooltip\">Silverquill</a>)</td>\n<td>Defaced a rival student’s dorm room with magical ink</td>\n</tr>\n<tr>\n<td>4</td>\n<td>Bhedum “Rampart” Sooviij (<a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160309-lorehold-pledgemage\" data-tooltip-href=\"/monsters/2160309-tooltip\">Lorehold</a>)</td>\n<td>Caused another student to fall through an open, magically hidden trapdoor as a prank</td>\n</tr>\n<tr>\n<td>5</td>\n<td>Cadoras Damellawar (<a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160323-quandrix-pledgemage\" data-tooltip-href=\"/monsters/2160323-tooltip\">Quandrix</a>)</td>\n<td>Summoned a storm in the dining hall</td>\n</tr>\n<tr>\n<td>6</td>\n<td>Aurora Luna Wynterstarr (<a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160339-witherbloom-pledgemage\" data-tooltip-href=\"/monsters/2160339-tooltip\">Witherbloom</a>)</td>\n<td>Insulted a classmate, refused to apologize, and then insulted the classmate again</td>\n</tr>\n<tr>\n<td>7</td>\n<td>Zanther Bowen (<a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160319-prismari-pledgemage\" data-tooltip-href=\"/monsters/2160319-tooltip\">Prismari</a>)</td>\n<td>Reprogrammed a janitorial golem to clean his dorm, with disastrous results</td>\n</tr>\n<tr>\n<td>8</td>\n<td>Larine Arneza (<a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160323-quandrix-pledgemage\" data-tooltip-href=\"/monsters/2160323-tooltip\">Quandrix</a>)</td>\n<td>Accidentally unleashed a <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/17208-water-weird\" data-tooltip-href=\"/monsters/17208-tooltip\">water weird</a> during a swim meet</td>\n</tr>\n<tr>\n<td>9</td>\n<td>Melwythorne (<a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160339-witherbloom-pledgemage\" data-tooltip-href=\"/monsters/2160339-tooltip\">Witherbloom</a>)</td>\n<td>Started an unauthorized mascot-breeding program</td>\n</tr>\n<tr>\n<td>10</td>\n<td>Tilana Kapule (<a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160323-quandrix-pledgemage\" data-tooltip-href=\"/monsters/2160323-tooltip\">Quandrix</a>)</td>\n<td>Sneaked into a temporarily closed portion of the Biblioplex to study</td>\n</tr>\n</tbody>\n</table>\n<h3 class=\"compendium-hr heading-anchor\" id=\"TheDetentionBog\">The Detention Bog</h3>\n<p>Located at the outskirts of Sedgemoor on Witherbloom’s campus, the Detention Bog reeks of mud and fetid water. Here, students perform useful tasks as punishment for misbehavior—typically, collecting specimens of rare flora and fauna for use in spells, unguents, and potions. It’s unpleasant work in an unpleasant place.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"SearchingforSupplies\">Searching for Supplies</h4>\n<p>The characters and students in detention must search for supplies as described below.</p>\n<p><em><strong>Objective.</strong></em> Instructor Minexes directs the students to look for the lost supplies in the area shown on <a href=\"#DetentionBogLocations\" title=\"map 6.1.\">map 6.1.</a> The characters and their charges must find the six lost crates in areas <a href=\"#D1TheStickiestCrate\" title=\"D1\">D1</a>–<a href=\"#D6UnstableCrate\" title=\"D6\">D6</a> on map 6.1 and bring them all to the trail in the map’s northwest corner, where Instructor Minexes waits for the students to complete their task. A trail near this rendezvous point leads to a more solid section of Witherbloom’s campus.</p>\n<p><em><strong>Crates.</strong></em> Each crate is a sealed, steel box weighing about 150 pounds. Also, each crate has AC 19; 33 hit points; and immunity to fire, poison, and psychic damage. Finally, each is secured with a locking mechanism that requires a successful DC 18 Dexterity check with thieves’ tools to unlock. Instructor Minexes carries a master key that unlocks each crate. They all contain spell components. The unstable cargo Instructor Minexes is worried about is in <a href=\"#D6UnstableCrate\" title=\"area D6\">area D6</a>; see that area for more information.</p>\n<p><em><strong>Murgaxor’s Influence.</strong></em> When the characters examine any of the crates except for the empty crate in <a href=\"#D5EmptyCrate\" title=\"area D5\">area D5</a>, they get an unsettling feeling. <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2065-detect-magic\" data-tooltip-href=\"/spells/2065-tooltip\">Detect magic</a> reveals latent, sinister magic in the air, as well as a strange sense of magically generated protection.</p>\n<p>The characters can deduce that this magical signature belongs to Murgaxor, who must have contaminated all of these supplies. If the players don’t figure it out on their own, a successful DC 15 Intelligence (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/8-tooltip\">Investigation</a>) check reveals that Murgaxor has cloaked himself with magical protection, but only from something very specific. It’s possible that he has protected himself from the spells of specific spellcasters, although it isn’t clear yet who.</p>\n<p><em><strong>Spell Scrolls.</strong></em> The instructor has brought a number of <a class=\"tooltip-hover magic-item-tooltip\" href=\"https://www.dndbeyond.com/magic-items/5418-spell-scroll\" data-tooltip-href=\"/magic-items/5418-tooltip\">spell scrolls</a> of <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2321-tensers-floating-disk\" data-tooltip-href=\"/spells/2321-tooltip\">Tenser’s floating disk</a> equal to twice the number of pairs of students. Either the instructor or a character must read each scroll and cast its spell, which must be used to transport the crates to the northwest corner of the map. If the task takes longer than the duration of two scrolls (2 hours), the characters must figure out how to move the crates on their own.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"DetentionBogFeatures\">Detention Bog Features</h3>\n<p>The Detention Bog is a muggy place with the following features:</p>\n<p><strong>Endless Muck.</strong> The muddy, stagnant water is 2 feet deep unless otherwise specified and counts as <a class=\"tooltip-hover rule-tooltip\" href=\"https://www.dndbeyond.com/sources/basic-rules/adventuring#DifficultTerrain\" data-tooltip-href=\"/rules/86-tooltip\">difficult terrain</a>. The small islands of land and pathways shown on the map are normal terrain.</p>\n<p><strong>Poor Visibility.</strong> Pervasive mist and drizzle reduce visibility to 30 feet.</p>\n<p><strong>Teeming Creatures.</strong> The bog is filled with animal life, much of it noisy and distracting. Wisdom (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/14-tooltip\">Perception</a>) checks are thus made with disadvantage in the bog.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"DetentionBogLocations\">Detention Bog Locations</h3>\n<p>The following sections are keyed to map 6.1. The characters begin on the island in the southeast corner of the map.</p>\n<figure id=\"Map61thedetentionbog\" class=\"compendium-image\">\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/map-6.1-the-detention-bog.jpg\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/map-6.1-the-detention-bog.jpg\" class=\"ddb-lightbox-inner compendium-center-banner-img\" style=\"width: 850px;\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a>\n<figcaption>Map 6.1: the detention bog <a class=\"ddb-lightbox-outer\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/map-6.1-the-detention-bog-player.jpg\" data-lightbox=\"1\" data-title=\"View Player Version\" id=\"session-player-map-1\">View Player Version</a></figcaption>\n</figure>\n<h4 class=\"compendium-hr heading-anchor\" id=\"D1TheStickiestCrate\">D1. The Stickiest Crate</h4>\n<aside class=\"read-aloud-text\" id=\"session-read-aloud-6\">\n<p>A trail of smooth stones just large enough for a person to walk on extends fifty feet between two large landmasses. Just off the center of the trail rests a sealed metal crate in the muck. The crate has a cracked corner seam that oozes a tar-like substance into the filthy water.</p>\n</aside>\n<p>Characters who examine the crate from a distance of 5 feet or less can, with a successful DC 15 Intelligence (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/6-tooltip\">Arcana</a>) check, discern that the goop leaking from the crate is used to soften planar bonds, thus making summoning easier. The crack can be easily sealed with <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2187-mending\" data-tooltip-href=\"/spells/2187-tooltip\">mending</a> or similar magic.</p>\n<p><em><strong>Crate of Planar Unguent.</strong></em> If scraped off the crate into a vial of some sort, the goop can be used to enhance any spell that summons one or more creatures, treating that spell as though it were cast 1 level higher. There’s enough unguent leaking off the crate for one use.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"D2AngryTrudges\">D2. Angry Trudges</h4>\n<aside class=\"read-aloud-text\" id=\"session-read-aloud-7\">\n<p>A battered crate sits forlornly in the middle of an expanse of mud. Just south of the crate, water burbles from two slimy mounds of dense vegetation, accompanied by muffled rumbling.</p>\n</aside>\n<p>Two <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160299-brackish-trudge\" data-tooltip-href=\"/monsters/2160299-tooltip\">brackish trudges</a> (see <a href=\"/chapters/strixhaven-friends-and-foes/#BrackishTrudge\" title=\"chapter 7\">chapter 7</a>) were drawn to this crate, attracted by the euphoria-inducing herbal concoction within. They are possessive of the crate and attack any who come near it.</p>\n<p><em><strong>Retrieving the Crate.</strong></em> To retrieve the crate, the characters must distract, kill, or incapacitate the brackish trudges. Due to their euphoria, the trudges are only semi-aware of their surroundings, so any Dexterity (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/5-tooltip\">Stealth</a>) check made to hide from them has advantage.</p>\n<figure id=\"imgbog\" class=\"compendium-image\">\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/06-004.detention-bog.png\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/06-004.detention-bog.png\" class=\"ddb-lightbox-inner compendium-center-banner-img\" style=\"width: 850px;\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a>\n<figcaption>When the Detention Bog isn’t officially in use, students practice experimental magic here</figcaption>\n</figure>\n<h4 class=\"compendium-hr heading-anchor\" id=\"D3LonelyCrate\">D3. Lonely Crate</h4>\n<aside class=\"read-aloud-text\" id=\"session-read-aloud-8\">\n<p>At the far end of a broken bridge is a mound of earth barely large enough for one person to stand on. A dented metal crate is partially embedded in the mound.</p>\n</aside>\n<p>One of the malfunctioning ruin grinders hurled this crate to its current resting place when the hydra that’s now in <a href=\"#D5EmptyCrate\" title=\"area D5\">area D5</a> attacked. A character who examines the broken bridge and succeeds on a DC 13 Intelligence (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/8-tooltip\">Investigation</a>) check identifies large bite marks in the wood. Once this evidence is found, a successful DC 12 Intelligence (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/9-tooltip\">Nature</a>) check confirms that a Huge reptile smashed and bit into the wood.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"D4ConfusedConstructs\">D4. Confused Constructs</h4>\n<aside class=\"read-aloud-text\" id=\"session-read-aloud-9\">\n<p>The ground here is spongy and carpeted in soft green grasses. Heavy footfalls and shrieks of grinding metal emanate from the mists. A muddy steel crate rests amid the greenery.</p>\n</aside>\n<p>Two <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160327-ruin-grinder\" data-tooltip-href=\"/monsters/2160327-tooltip\">ruin grinders</a> (see <a href=\"/chapters/strixhaven-friends-and-foes/#RuinGrinder\" title=\"Chapter 7\">chapter 7</a>) wander this island, unable to continue their assigned task of moving cargo. The ruin grinders aren’t hostile and attack only in self-defense.</p>\n<p>Before it can be used to move cargo again, a ruin grinder needs to be recalibrated. A character within reach of a ruin grinder can use an action to recalibrate it by first succeeding on a DC 13 Intelligence (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/6-tooltip\">Arcana</a>) check and then expending a spell slot of 1st level or higher to reset the ruin grinder’s arcane matrix. If the check fails, the ruin grinder shuts down for 24 hours. A recalibrated ruin grinder can carry up to 300 pounds, meaning it can carry two crates at a time to the map’s northwest corner, if the characters wish.</p>\n<p><strong><em>Crate of Incense.</em></strong> The crate found here holds incense used in summoning and controlling <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/16774-air-elemental\" data-tooltip-href=\"/monsters/16774-tooltip\">air elementals</a>.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"D5EmptyCrate\">D5. Empty Crate</h4>\n<p>This crate is torn open on one side and filled with muddy water. A character who examines the crate can, with a successful DC 12 Intelligence (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/8-tooltip\">Investigation</a>) check, conclude that a big creature with powerful jaws and sharp teeth tore the crate open.</p>\n<p><em><strong>Enter the Hydra.</strong></em> When the characters reach the broken crate, read or paraphrase the following:</p>\n<aside class=\"read-aloud-text\" id=\"session-read-aloud-10\">\n<p>You hear the sound of snapping trees and guttural, sibilant rasping. A moment later, a cacophonous, multi-throated roar erupts.</p>\n</aside>\n<p>The <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/16929-hydra\" data-tooltip-href=\"/monsters/16929-tooltip\">hydra</a> enters from the northeast corner of the map, closest to area D6, and starts moving toward the closest noises it can hear.</p>\n<p>The dim-witted creature is addled by the magical substances it ingested after attacking the supply train. When the hydra attacks a character, that character can use their reaction to trick the hydra by making a DC 14 Charisma (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/16-tooltip\">Deception</a>) or Dexterity (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/4-tooltip\">Sleight of Hand</a>) check. On a success, the hydra attacks an object or another creature within 5 feet of its original target (such as the broken crate or a stepping stone). The hydra fights until slain or until there are no creatures it can see or hear.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"D6UnstableCrate\">D6. Unstable Crate</h4>\n<aside class=\"read-aloud-text\" id=\"session-read-aloud-11\">\n<p>A steel crate, its surface glowing orange, rests amid a pool of bubbling, hissing water.</p>\n</aside>\n<p>This is the crate that concerns Instructor Minexes the most, although the characters are likely unaware of this fact. Several flasks inside the crate broke during the initial hydra attack, and their reagents intermingled. The resulting admixture is in danger of exploding.</p>\n<p>A character who succeeds on a DC 13 Intelligence (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/6-tooltip\">Arcana</a>) check can ascertain that the orange glow around the crate is a bad sign, for it suggests the crate’s contents might have been damaged in a dangerous way. The crate explodes if it is moved or jostled. If the characters leave the crate alone after they see it, the crate explodes 10 minutes later. When the crate explodes, creatures within 30 feet of it must make a DC 14 Dexterity saving throw, taking 42 (12d6) fire damage on a failed save, or half as much damage on a successful one.</p>\n<p><em><strong>Dealing with the Crate.</strong></em> A character who realizes the crate’s orange glow is a bad sign can gently shake the crate to rearrange its contents, lessening the explosion to 5 feet. This requires an action and a successful DC 15 Intelligence (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/6-tooltip\">Arcana</a>) check. If the crate is covered with at least 10 feet of earth, the damage is halved, and Dexterity saving throws made to resist the effect are made with advantage. If the characters find other creative ways of dealing with the problem that make sense, run with it.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"Developments\">Developments</h3>\n<p>When the characters rendezvous with Instructor Minexes in the northwest corner of the bog, he asks if anything about the crates seems strange. Regardless of what the characters report, he shows concern and replies, “I’ll report this to the faculty, and we’ll put our heads together. It’s very likely we’ll ask to speak with you all again soon.”</p>\n<p><em><strong>Treasure.</strong></em> To further thank the characters, Instructor Minexes allows them to take 5 uses of planar unguent from the crate in <a href=\"#D1TheStickiestCrate\" title=\"area D1\">area D1</a>, assuming that this crate is among those recovered from the bog.</p>\n<h2 class=\"compendium-hr heading-anchor\" id=\"Advanceto9thLevel\">Advance to 9th Level!</h2>\n<p>Once the characters have explored the Detention Bog and dealt with the lost supply crates, they advance to 9th level.</p>"
+}

@@ -1,0 +1,553 @@
+{
+  "title": "Dragonmarked Intrigue",
+  "sourcebook": "Eberron: Forge of the Artificer",
+  "bookSlug": "eberron-forge-of-the-artificer",
+  "originalPath": "Eberron/Chapter 5.html",
+  "rawUrl": "/archive/eberron/Chapter%205.html",
+  "sourceHash": "dc9bff734833091d726fef82221857155a50f5439b3795530c0f0834cc8c8d26",
+  "extractionDate": "2026-07-13T07:40:57.647Z",
+  "extractionVersion": 3,
+  "originalAnchors": [
+    {
+      "id": "Chapter5DragonmarkedIntrigue",
+      "text": "Dragonmarked Intrigue",
+      "element": "h1"
+    },
+    {
+      "id": "comp-next-nav",
+      "text": "Previous ← Chapter 4: Sharn Inquisitives Book Contents Next Chapter 6: Morgrave Expeditions →",
+      "element": "div"
+    },
+    {
+      "id": "AdventureIntro",
+      "text": "Adventure Genre: Renaissance Schemes and Struggles Pop Culture: The Sopranos, Succession",
+      "element": "aside"
+    },
+    {
+      "id": "imgofdragonmarkedhouses",
+      "text": "MICHAL IVAN Members of different dragonmarked houses set aside their differences to investigate a murder in Sharn, the City of Towers.",
+      "element": "figure"
+    },
+    {
+      "id": "DragonmarkedCharacters",
+      "text": "Dragonmarked Characters",
+      "element": "h2"
+    },
+    {
+      "id": "DragonmarkedHouseRenown",
+      "text": "Dragonmarked House Renown",
+      "element": "h3"
+    },
+    {
+      "id": "RenownPerks",
+      "text": "Renown Perks",
+      "element": "h4"
+    },
+    {
+      "id": "FavoredinHouse",
+      "text": "Favored in House",
+      "element": "h5"
+    },
+    {
+      "id": "RecognizedinHouse",
+      "text": "Recognized in House",
+      "element": "h5"
+    },
+    {
+      "id": "CelebratedinHouse",
+      "text": "Celebrated in House",
+      "element": "h5"
+    },
+    {
+      "id": "PreeminentinHouse",
+      "text": "Preeminent in House",
+      "element": "h5"
+    },
+    {
+      "id": "BuildingaParty",
+      "text": "Building a Party",
+      "element": "h3"
+    },
+    {
+      "id": "PartyMakeup",
+      "text": "Party Makeup 1d8 Composition 1 One-House Party. Choose a dragonmarked house and connect all characters to it. 2 Bodyguards. A Deneith Fighter, a Jorasco Cleric,",
+      "element": "table"
+    },
+    {
+      "id": "PartyMakeupTable",
+      "text": "Party Makeup",
+      "element": "h4"
+    },
+    {
+      "id": "DragonmarkedConflicts",
+      "text": "Dragonmarked Conflicts",
+      "element": "h2"
+    },
+    {
+      "id": "imgofdragonmarkedhousesinconflict",
+      "text": "MICHAL IVAN",
+      "element": "figure"
+    },
+    {
+      "id": "RivalHouses",
+      "text": "Rival Houses",
+      "element": "h3"
+    },
+    {
+      "id": "GoalsofRivalHouses",
+      "text": "Goals of Rival Houses",
+      "element": "h4"
+    },
+    {
+      "id": "InternalTensions",
+      "text": "Internal Tensions",
+      "element": "h4"
+    },
+    {
+      "id": "ARivalHousesArc",
+      "text": "A Rival Houses Arc",
+      "element": "h4"
+    },
+    {
+      "id": "imgMarauderandRuffian",
+      "text": "JORDAN KERBOW A Tarkanan Marauder and a Tarkanan Ruffian",
+      "element": "figure"
+    },
+    {
+      "id": "HouseTarkanan",
+      "text": "House Tarkanan",
+      "element": "h3"
+    },
+    {
+      "id": "GoalsofHouseTarkanan",
+      "text": "Goals of House Tarkanan",
+      "element": "h4"
+    },
+    {
+      "id": "AHouseTarkananArc",
+      "text": "A House Tarkanan Arc",
+      "element": "h4"
+    },
+    {
+      "id": "AberrantHeirs",
+      "text": "Aberrant Heirs",
+      "element": "h4"
+    },
+    {
+      "id": "TarkananMarauder",
+      "text": "Tarkanan Marauder",
+      "element": "h4"
+    },
+    {
+      "id": "TarkananRuffian",
+      "text": "Tarkanan Ruffian",
+      "element": "h4"
+    },
+    {
+      "id": "TheChamber",
+      "text": "The Chamber",
+      "element": "h3"
+    },
+    {
+      "id": "GoalsoftheChamber",
+      "text": "Goals of the Chamber",
+      "element": "h4"
+    },
+    {
+      "id": "AChamberArc",
+      "text": "A Chamber Arc",
+      "element": "h4"
+    },
+    {
+      "id": "DragonmarkedHouses",
+      "text": "Dragonmarked Houses",
+      "element": "h2"
+    },
+    {
+      "id": "imgofthehouses",
+      "text": "LEROY STEINMANN Agents of (Left to Right) House Deneith, House Ghallanda, House Lyrandar, House Cannith, House Jorasco, and House Kundarak",
+      "element": "figure"
+    },
+    {
+      "id": "HouseCannith",
+      "text": "House Cannith",
+      "element": "h3"
+    },
+    {
+      "id": "CannithEast",
+      "text": "Cannith East",
+      "element": "h4"
+    },
+    {
+      "id": "imgCannith",
+      "text": "CLAUDIO POZAS",
+      "element": "figure"
+    },
+    {
+      "id": "CannithSouth",
+      "text": "Cannith South",
+      "element": "h4"
+    },
+    {
+      "id": "CannithWest",
+      "text": "Cannith West",
+      "element": "h4"
+    },
+    {
+      "id": "HouseCannithRenownPerks",
+      "text": "House Cannith Renown Perks",
+      "element": "h4"
+    },
+    {
+      "id": "HouseDeneith",
+      "text": "House Deneith",
+      "element": "h3"
+    },
+    {
+      "id": "HouseDeneithRenownPerks",
+      "text": "House Deneith Renown Perks",
+      "element": "h4"
+    },
+    {
+      "id": "imgDeneith",
+      "text": "CLAUDIO POZAS",
+      "element": "figure"
+    },
+    {
+      "id": "HouseGhallanda",
+      "text": "House Ghallanda",
+      "element": "h3"
+    },
+    {
+      "id": "HouseGhallandaRenownPerks",
+      "text": "House Ghallanda Renown Perks",
+      "element": "h4"
+    },
+    {
+      "id": "imgGhallanda",
+      "text": "CLAUDIO POZAS",
+      "element": "figure"
+    },
+    {
+      "id": "HouseJorasco",
+      "text": "House Jorasco",
+      "element": "h3"
+    },
+    {
+      "id": "HouseJorascoRenownPerks",
+      "text": "House Jorasco Renown Perks",
+      "element": "h4"
+    },
+    {
+      "id": "imgJorasco",
+      "text": "CLAUDIO POZAS",
+      "element": "figure"
+    },
+    {
+      "id": "HouseKundarak",
+      "text": "House Kundarak",
+      "element": "h3"
+    },
+    {
+      "id": "HouseKundarakRenownPerks",
+      "text": "House Kundarak Renown Perks",
+      "element": "h4"
+    },
+    {
+      "id": "imgKundarak",
+      "text": "CLAUDIO POZAS",
+      "element": "figure"
+    },
+    {
+      "id": "HouseLyrandar",
+      "text": "House Lyrandar",
+      "element": "h3"
+    },
+    {
+      "id": "HouseLyrandarRenownPerks",
+      "text": "House Lyrandar Renown Perks",
+      "element": "h4"
+    },
+    {
+      "id": "imgLyrandar",
+      "text": "CLAUDIO POZAS",
+      "element": "figure"
+    },
+    {
+      "id": "imgagentsofthehouses",
+      "text": "LEROY STEINMANN Agents of (Left to Right) House Medani, House Orien, House Tharashk, House Phiarlan, House Vadalis, and House Sivis",
+      "element": "figure"
+    },
+    {
+      "id": "HouseMedani",
+      "text": "House Medani",
+      "element": "h3"
+    },
+    {
+      "id": "HouseMedaniRenownPerks",
+      "text": "House Medani Renown Perks",
+      "element": "h4"
+    },
+    {
+      "id": "imgMedani",
+      "text": "CLAUDIO POZAS",
+      "element": "figure"
+    },
+    {
+      "id": "HouseOrien",
+      "text": "House Orien",
+      "element": "h3"
+    },
+    {
+      "id": "HouseOrienRenownPerks",
+      "text": "House Orien Renown Perks",
+      "element": "h4"
+    },
+    {
+      "id": "imgOrien",
+      "text": "CLAUDIO POZAS",
+      "element": "figure"
+    },
+    {
+      "id": "HousePhiarlan",
+      "text": "House Phiarlan",
+      "element": "h3"
+    },
+    {
+      "id": "imgPhiarlan",
+      "text": "CLAUDIO POZAS",
+      "element": "figure"
+    },
+    {
+      "id": "HousePhiarlanRenownPerks",
+      "text": "House Phiarlan Renown Perks",
+      "element": "h4"
+    },
+    {
+      "id": "HouseSivis",
+      "text": "House Sivis",
+      "element": "h3"
+    },
+    {
+      "id": "HouseSivisRenownPerks",
+      "text": "House Sivis Renown Perks",
+      "element": "h4"
+    },
+    {
+      "id": "imgSivis",
+      "text": "CLAUDIO POZAS",
+      "element": "figure"
+    },
+    {
+      "id": "HouseTharashk",
+      "text": "House Tharashk",
+      "element": "h3"
+    },
+    {
+      "id": "Aashta",
+      "text": "Aashta",
+      "element": "h4"
+    },
+    {
+      "id": "imgTharashk",
+      "text": "CLAUDIO POZAS",
+      "element": "figure"
+    },
+    {
+      "id": "Torrn",
+      "text": "Torrn",
+      "element": "h4"
+    },
+    {
+      "id": "Velderan",
+      "text": "Velderan",
+      "element": "h4"
+    },
+    {
+      "id": "HouseTharashkRenownPerks",
+      "text": "House Tharashk Renown Perks",
+      "element": "h4"
+    },
+    {
+      "id": "HouseThuranni",
+      "text": "House Thuranni",
+      "element": "h3"
+    },
+    {
+      "id": "imgThuranni",
+      "text": "CLAUDIO POZAS",
+      "element": "figure"
+    },
+    {
+      "id": "HouseThuranniRenownPerks",
+      "text": "House Thuranni Renown Perks",
+      "element": "h4"
+    },
+    {
+      "id": "HouseVadalis",
+      "text": "House Vadalis",
+      "element": "h3"
+    },
+    {
+      "id": "HouseVadalisRenownPerks",
+      "text": "House Vadalis Renown Perks",
+      "element": "h4"
+    },
+    {
+      "id": "imgVadalis",
+      "text": "CLAUDIO POZAS",
+      "element": "figure"
+    },
+    {
+      "id": "DragonmarkedIntrigueAdventures",
+      "text": "Dragonmarked Intrigue Adventures",
+      "element": "h2"
+    },
+    {
+      "id": "HouseIntrigueTable",
+      "text": "House Intrigue 1d6 Adventure Goal 1 Dragonmarked houses vie for influence over a prominent individual (perhaps one of the characters). 2 Dragonmarked houses com",
+      "element": "table"
+    },
+    {
+      "id": "HouseIntrigue",
+      "text": "House Intrigue",
+      "element": "h4"
+    },
+    {
+      "id": "DragonmarkedNPCs",
+      "text": "Dragonmarked NPCs",
+      "element": "h3"
+    },
+    {
+      "id": "CannithArtificer",
+      "text": "Cannith Artificer",
+      "element": "h4"
+    },
+    {
+      "id": "CannithArtificerStats",
+      "text": "Cannith Artificer",
+      "element": "h4"
+    },
+    {
+      "id": "GhallandaTroubleshooter",
+      "text": "Ghallanda Troubleshooter",
+      "element": "h4"
+    },
+    {
+      "id": "GhallandaTroubleshooterStats",
+      "text": "Ghallanda Troubleshooter",
+      "element": "h4"
+    },
+    {
+      "id": "JorascoMedic",
+      "text": "Jorasco Medic",
+      "element": "h4"
+    },
+    {
+      "id": "JorascoMedicStats",
+      "text": "Jorasco Medic",
+      "element": "h4"
+    },
+    {
+      "id": "KundarakWarden",
+      "text": "Kundarak Warden",
+      "element": "h4"
+    },
+    {
+      "id": "KundarakWardenStats",
+      "text": "Kundarak Warden",
+      "element": "h4"
+    },
+    {
+      "id": "LyrandarScion",
+      "text": "Lyrandar Scion",
+      "element": "h4"
+    },
+    {
+      "id": "LyrandarScionStats",
+      "text": "Lyrandar Scion",
+      "element": "h4"
+    },
+    {
+      "id": "MedaniInquisitive",
+      "text": "Medani Inquisitive",
+      "element": "h4"
+    },
+    {
+      "id": "MedaniInquisitiveStats",
+      "text": "Medani Inquisitive",
+      "element": "h4"
+    },
+    {
+      "id": "OrienEnforcer",
+      "text": "Orien Enforcer",
+      "element": "h4"
+    },
+    {
+      "id": "OrienEnforcerStats",
+      "text": "Orien Enforcer",
+      "element": "h4"
+    },
+    {
+      "id": "SentinelMarshal",
+      "text": "Sentinel Marshal",
+      "element": "h4"
+    },
+    {
+      "id": "SentinelMarshalStats",
+      "text": "Sentinel Marshal",
+      "element": "h4"
+    },
+    {
+      "id": "ShadowMarkedAgent",
+      "text": "Shadow-Marked Agent",
+      "element": "h4"
+    },
+    {
+      "id": "ShadowMarkedAgentStats",
+      "text": "Shadow-Marked Agent",
+      "element": "h4"
+    },
+    {
+      "id": "SivisScribe",
+      "text": "Sivis Scribe",
+      "element": "h4"
+    },
+    {
+      "id": "SivisScribeStats",
+      "text": "Sivis Scribe",
+      "element": "h4"
+    },
+    {
+      "id": "TharashkHunter",
+      "text": "Tharashk Hunter",
+      "element": "h4"
+    },
+    {
+      "id": "TharashkHunterStats",
+      "text": "Tharashk Hunter",
+      "element": "h4"
+    },
+    {
+      "id": "VadalisHeir",
+      "text": "Vadalis Heir",
+      "element": "h4"
+    },
+    {
+      "id": "VadalisHeirStats",
+      "text": "Vadalis Heir",
+      "element": "h4"
+    }
+  ],
+  "transformations": [
+    "Selected the first .p-article-content element.",
+    "Removed scripts, styles, forms, iframes, hidden duplicate labels, and source navigation.",
+    "Removed event handlers and D&D Beyond content-chunk identifiers.",
+    "Rewrote archived sourcebook links to generated reader routes when a local target exists.",
+    "Added lazy image loading and asynchronous decoding hints.",
+    "Added derived IDs to read-aloud, rules, table, and stat-block elements for session navigation.",
+    "Indexed player-version map links as derived session metadata.",
+    "Preserved source wording and original heading IDs; derived metadata remains separate."
+  ],
+  "repairs": []
+}

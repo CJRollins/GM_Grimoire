@@ -1,0 +1,797 @@
+{
+  "title": "Party at the Rose Stage",
+  "sourcebook": "Strixhaven: A Curriculum of Chaos",
+  "bookSlug": "strixhaven-a-curriculum-of-chaos",
+  "world": "Arcavios",
+  "edition": "2014 rules",
+  "chapter": "Party at the Rose Stage",
+  "chapterNumber": 4,
+  "order": 10,
+  "navGroup": "Year Two",
+  "kind": "adventure",
+  "audience": "gm",
+  "slug": "strixhaven-party-at-the-rose-stage",
+  "chapterSlug": "party-at-the-rose-stage",
+  "summary": "One evening a short while into the academic year, word begins to spread about a hubbub originating at the Rose Stage on Silverquill’s campus. The characters are invited by one of their peers to the after-hours shenanigans happening right now.",
+  "wordCount": 4066,
+  "originalPath": "Arcavios/Stixhaven/Chapter 10 - Party at the Rose Stage.html",
+  "rawUrl": "/archive/strixhaven/Chapter%2010%20-%20Party%20at%20the%20Rose%20Stage.html",
+  "originalAnchors": [
+    {
+      "id": "PartyattheRoseStage",
+      "text": "Party at the Rose Stage",
+      "element": "h1"
+    },
+    {
+      "id": "comp-next-nav",
+      "text": "",
+      "element": "div"
+    },
+    {
+      "id": "StackEmHigh",
+      "text": "Stack ’Em High",
+      "element": "h2"
+    },
+    {
+      "id": "imgpests",
+      "text": "From a distance, pests look round, squishy, and cuddly. Up close, they’re sharp",
+      "element": "figure"
+    },
+    {
+      "id": "TheContest",
+      "text": "The Contest",
+      "element": "h3"
+    },
+    {
+      "id": "PlayingtheGame",
+      "text": "Playing the Game",
+      "element": "h3"
+    },
+    {
+      "id": "RelationshipEncounter",
+      "text": "Relationship Encounter",
+      "element": "h3"
+    },
+    {
+      "id": "ItsGotThreeHeads",
+      "text": "It’s Got Three Heads!",
+      "element": "h2"
+    },
+    {
+      "id": "ExaminingthePests",
+      "text": "Examining the Pests",
+      "element": "h3"
+    },
+    {
+      "id": "PracticeTime",
+      "text": "Practice Time",
+      "element": "h3"
+    },
+    {
+      "id": "PracticeMakesPerfect",
+      "text": "Practice Makes Perfect",
+      "element": "h2"
+    },
+    {
+      "id": "AerojauntField",
+      "text": "Aerojaunt Field",
+      "element": "h3"
+    },
+    {
+      "id": "AerojauntFieldLocations",
+      "text": "Aerojaunt Field Locations",
+      "element": "h3"
+    },
+    {
+      "id": "Map42aerojauntfield",
+      "text": "Map 4.2: aerojaunt field View Player Version",
+      "element": "figure"
+    },
+    {
+      "id": "A1SouthwesternOutbuilding",
+      "text": "A1. Southwestern Outbuilding",
+      "element": "h4"
+    },
+    {
+      "id": "A2SoutheasternOutbuilding",
+      "text": "A2. Southeastern Outbuilding",
+      "element": "h4"
+    },
+    {
+      "id": "A3PracticeField",
+      "text": "A3. Practice Field",
+      "element": "h4"
+    },
+    {
+      "id": "imgofstrixhaven",
+      "text": "Practice for the Battle of Strixhaven leads to the year-end event that takes place in Strixhaven Stadium",
+      "element": "figure"
+    },
+    {
+      "id": "A4Dugout",
+      "text": "A4. Dugout",
+      "element": "h4"
+    },
+    {
+      "id": "A5Bleachers",
+      "text": "A5. Bleachers",
+      "element": "h4"
+    },
+    {
+      "id": "MageTowerPractice",
+      "text": "Mage Tower Practice",
+      "element": "h3"
+    },
+    {
+      "id": "DuringPractice",
+      "text": "During Practice",
+      "element": "h4"
+    },
+    {
+      "id": "AfterPractice",
+      "text": "After Practice",
+      "element": "h4"
+    },
+    {
+      "id": "AnUnwelcomeVisitor",
+      "text": "An Unwelcome Visitor",
+      "element": "h3"
+    },
+    {
+      "id": "ExaminingtheSlaad",
+      "text": "Examining the Slaad",
+      "element": "h4"
+    },
+    {
+      "id": "ScriveningandSymbologyExamSymbolGlyphs",
+      "text": "Scrivening and Symbology Exam: Symbol Glyphs",
+      "element": "h2"
+    },
+    {
+      "id": "StudyingPhase",
+      "text": "Studying Phase",
+      "element": "h3"
+    },
+    {
+      "id": "TestingPhase",
+      "text": "Testing Phase",
+      "element": "h3"
+    },
+    {
+      "id": "TotheScriptoriaCollections",
+      "text": "To the Scriptoria Collections",
+      "element": "h3"
+    },
+    {
+      "id": "GettingSomeAir",
+      "text": "Getting Some Air",
+      "element": "h2"
+    },
+    {
+      "id": "MagicalSkateOff",
+      "text": "Magical Skate-Off",
+      "element": "h3"
+    },
+    {
+      "id": "imgshenanigans",
+      "text": "Magical shenanigans are common on campus.Students especially love magically getting some air",
+      "element": "figure"
+    },
+    {
+      "id": "TheSkateOff",
+      "text": "The Skate-Off",
+      "element": "h4"
+    },
+    {
+      "id": "RelationshipEncounter1",
+      "text": "Relationship Encounter",
+      "element": "h4"
+    },
+    {
+      "id": "ThatsNotSupposedtoHappen",
+      "text": "That’s Not Supposed to Happen!",
+      "element": "h3"
+    },
+    {
+      "id": "ExaminingtheScene",
+      "text": "Examining the Scene",
+      "element": "h4"
+    }
+  ],
+  "sourceHash": "482d2333093153bb2b68cce7be4eee520515e10bd5a8b9625443aab29c48f03b",
+  "extractionDate": "2026-07-13T07:40:57.647Z",
+  "extractionVersion": 3,
+  "headings": [
+    {
+      "depth": 1,
+      "id": "PartyattheRoseStage",
+      "text": "Party at the Rose Stage"
+    },
+    {
+      "depth": 2,
+      "id": "StackEmHigh",
+      "text": "Stack ’Em High"
+    },
+    {
+      "depth": 3,
+      "id": "TheContest",
+      "text": "The Contest"
+    },
+    {
+      "depth": 3,
+      "id": "PlayingtheGame",
+      "text": "Playing the Game"
+    },
+    {
+      "depth": 3,
+      "id": "RelationshipEncounter",
+      "text": "Relationship Encounter"
+    },
+    {
+      "depth": 2,
+      "id": "ItsGotThreeHeads",
+      "text": "It’s Got Three Heads!"
+    },
+    {
+      "depth": 3,
+      "id": "ExaminingthePests",
+      "text": "Examining the Pests"
+    },
+    {
+      "depth": 3,
+      "id": "PracticeTime",
+      "text": "Practice Time"
+    },
+    {
+      "depth": 2,
+      "id": "PracticeMakesPerfect",
+      "text": "Practice Makes Perfect"
+    },
+    {
+      "depth": 3,
+      "id": "AerojauntField",
+      "text": "Aerojaunt Field"
+    },
+    {
+      "depth": 3,
+      "id": "AerojauntFieldLocations",
+      "text": "Aerojaunt Field Locations"
+    },
+    {
+      "depth": 4,
+      "id": "A1SouthwesternOutbuilding",
+      "text": "A1. Southwestern Outbuilding"
+    },
+    {
+      "depth": 4,
+      "id": "A2SoutheasternOutbuilding",
+      "text": "A2. Southeastern Outbuilding"
+    },
+    {
+      "depth": 4,
+      "id": "A3PracticeField",
+      "text": "A3. Practice Field"
+    },
+    {
+      "depth": 4,
+      "id": "A4Dugout",
+      "text": "A4. Dugout"
+    },
+    {
+      "depth": 4,
+      "id": "A5Bleachers",
+      "text": "A5. Bleachers"
+    },
+    {
+      "depth": 3,
+      "id": "MageTowerPractice",
+      "text": "Mage Tower Practice"
+    },
+    {
+      "depth": 4,
+      "id": "DuringPractice",
+      "text": "During Practice"
+    },
+    {
+      "depth": 4,
+      "id": "AfterPractice",
+      "text": "After Practice"
+    },
+    {
+      "depth": 3,
+      "id": "AnUnwelcomeVisitor",
+      "text": "An Unwelcome Visitor"
+    },
+    {
+      "depth": 4,
+      "id": "ExaminingtheSlaad",
+      "text": "Examining the Slaad"
+    },
+    {
+      "depth": 2,
+      "id": "ScriveningandSymbologyExamSymbolGlyphs",
+      "text": "Scrivening and Symbology Exam: Symbol Glyphs"
+    },
+    {
+      "depth": 3,
+      "id": "StudyingPhase",
+      "text": "Studying Phase"
+    },
+    {
+      "depth": 3,
+      "id": "TestingPhase",
+      "text": "Testing Phase"
+    },
+    {
+      "depth": 3,
+      "id": "TotheScriptoriaCollections",
+      "text": "To the Scriptoria Collections"
+    },
+    {
+      "depth": 2,
+      "id": "GettingSomeAir",
+      "text": "Getting Some Air"
+    },
+    {
+      "depth": 3,
+      "id": "MagicalSkateOff",
+      "text": "Magical Skate-Off"
+    },
+    {
+      "depth": 4,
+      "id": "TheSkateOff",
+      "text": "The Skate-Off"
+    },
+    {
+      "depth": 4,
+      "id": "RelationshipEncounter1",
+      "text": "Relationship Encounter"
+    },
+    {
+      "depth": 3,
+      "id": "ThatsNotSupposedtoHappen",
+      "text": "That’s Not Supposed to Happen!"
+    },
+    {
+      "depth": 4,
+      "id": "ExaminingtheScene",
+      "text": "Examining the Scene"
+    }
+  ],
+  "tags": {
+    "creatures": [
+      "art elementals",
+      "blue slaad",
+      "chimera",
+      "fractals",
+      "galeb duhr",
+      "inklings",
+      "Lorehold apprentice",
+      "pests",
+      "spirit statues"
+    ],
+    "spells": [
+      "grease",
+      "symbol"
+    ],
+    "items": [
+      "belt of dwarvenkind",
+      "cloak of displacement",
+      "cloak of elvenkind",
+      "oil of slipperiness",
+      "potion of climbing",
+      "stone of good luck"
+    ],
+    "locations": [
+      "Biblioplex",
+      "Bleachers",
+      "Bow’s End Tavern",
+      "Dugout",
+      "Kollema Hall",
+      "Lorehold",
+      "Practice Field",
+      "Prismari",
+      "Quandrix",
+      "Rose Stage",
+      "Scriptoria Collections",
+      "Silverquill",
+      "Southeastern Outbuilding",
+      "Southwestern Outbuilding",
+      "Strixhaven",
+      "Strixhaven Stadium",
+      "Wiltroot Hall",
+      "Witherbloom"
+    ],
+    "npcs": [],
+    "topics": [
+      "adventure",
+      "campus-life",
+      "exams",
+      "gm-tools",
+      "read-aloud",
+      "relationships"
+    ]
+  },
+  "session": {
+    "readAloud": [
+      {
+        "id": "session-read-aloud-1",
+        "label": "Read aloud 1",
+        "excerpt": "“You’ve got to see what’s going on at the Rose Stage! Someone’s cooked up a batch of mascot bait, and now the place is crawling with the little critters! They’re as happy as baby …"
+      },
+      {
+        "id": "session-read-aloud-2",
+        "label": "Read aloud 2",
+        "excerpt": "You hear the party before you see it. Laughter, whooping, and shouting waft from the stage as a chaotic scene comes into sight. On the main Rose Stage, a dozen students playfully …"
+      },
+      {
+        "id": "session-read-aloud-3",
+        "label": "Read aloud 3",
+        "excerpt": "“Gross! Look at those goofs, covered in pest bait! I don’t know what’s in it, but the pests love it. We’ll give them their snacks—we were just waiting on you. We knew you’d want i…"
+      },
+      {
+        "id": "session-read-aloud-4",
+        "label": "Read aloud 4",
+        "excerpt": "The cheering from the students on the Rose Stage suddenly turns to panicked shouts. The normal croaking, chirruping, and screeching of pests turns into guttural groans. The pests …"
+      },
+      {
+        "id": "session-read-aloud-5",
+        "label": "Read aloud 5",
+        "excerpt": "Before you is a carefully maintained dirt field. In the center, an elongated hexagon etched in glowing, magical chalk outlines a series of ramps built into the dirt. Dugouts face …"
+      },
+      {
+        "id": "session-read-aloud-6",
+        "label": "Read aloud 6",
+        "excerpt": "This gray metal storage shed consists of three short silos topped with flat roofs. Weathered wooden doors that were once painted bright yellow lead inside, and a short fence prote…"
+      },
+      {
+        "id": "session-read-aloud-7",
+        "label": "Read aloud 7",
+        "excerpt": "The hexagonal shape of this old practice field is outlined in glowing magical chalk. Several dirt ramps, each at least ten feet wide, slope and crisscross dizzyingly."
+      },
+      {
+        "id": "session-read-aloud-8",
+        "label": "Read aloud 8",
+        "excerpt": "“As promised, here’s a gift—think of it as a good luck charm for the upcoming game!”"
+      },
+      {
+        "id": "session-read-aloud-9",
+        "label": "Read aloud 9",
+        "excerpt": "Without warning, the joyous look on Rosie’s face changes into terror. Flinging an arm toward the field’s eastern dugout, she stammers wildly. “Wh- wh- monster!” she shouts, then r…"
+      },
+      {
+        "id": "session-read-aloud-10",
+        "label": "Read aloud 10",
+        "excerpt": "“Well, students, you’ve impressed me—or else I wouldn’t be asking you this favor. “I’ve been guest lecturing in Kollema Hall on Lorehold’s campus this term. The administrators lov…"
+      },
+      {
+        "id": "session-read-aloud-11",
+        "label": "Read aloud 11",
+        "excerpt": "“Hey, friends! Tulk’s drained the retention pool behind the tavern for cleaning tomorrow. For a few hours, we’ve got a perfectly smooth, empty pool. You know what that means—mage’…"
+      },
+      {
+        "id": "session-read-aloud-12",
+        "label": "Read aloud 12",
+        "excerpt": "Behind the tavern, several groups of students cluster around an empty pool, laughing and waving improvised skates made from wooden planks with wheels affixed to the bottom. The em…"
+      },
+      {
+        "id": "session-read-aloud-13",
+        "label": "Read aloud 13",
+        "excerpt": "“We were hoping you’d turn up! See these skates? On their own, pretty difficult to use, right? But check out this training wand from spellcasting class. Someone figured out that a…"
+      },
+      {
+        "id": "session-read-aloud-14",
+        "label": "Read aloud 14",
+        "excerpt": "The crowd roars as the winner is announced. A student waves their wand in celebration, and shockingly, a thunderous clap echoes from it. Your fellow students quiet in confusion. S…"
+      }
+    ],
+    "rules": [],
+    "tables": [],
+    "statBlocks": [],
+    "maps": [
+      {
+        "id": "session-player-map-1",
+        "label": "Map 4.2: aerojaunt field",
+        "dmUrl": "https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/map-4.2-aerojaunt-field.jpg",
+        "playerUrl": "https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/map-4.2-aerojaunt-field-player.jpg"
+      }
+    ],
+    "quickLinks": [
+      {
+        "depth": 2,
+        "id": "StackEmHigh",
+        "text": "Stack ’Em High",
+        "type": "scene"
+      },
+      {
+        "depth": 3,
+        "id": "TheContest",
+        "text": "The Contest",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "PlayingtheGame",
+        "text": "Playing the Game",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "RelationshipEncounter",
+        "text": "Relationship Encounter",
+        "type": "relationship"
+      },
+      {
+        "depth": 2,
+        "id": "ItsGotThreeHeads",
+        "text": "It’s Got Three Heads!",
+        "type": "scene"
+      },
+      {
+        "depth": 3,
+        "id": "ExaminingthePests",
+        "text": "Examining the Pests",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "PracticeTime",
+        "text": "Practice Time",
+        "type": "reference"
+      },
+      {
+        "depth": 2,
+        "id": "PracticeMakesPerfect",
+        "text": "Practice Makes Perfect",
+        "type": "scene"
+      },
+      {
+        "depth": 3,
+        "id": "AerojauntField",
+        "text": "Aerojaunt Field",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "AerojauntFieldLocations",
+        "text": "Aerojaunt Field Locations",
+        "type": "location"
+      },
+      {
+        "depth": 4,
+        "id": "A1SouthwesternOutbuilding",
+        "text": "A1. Southwestern Outbuilding",
+        "type": "location"
+      },
+      {
+        "depth": 4,
+        "id": "A2SoutheasternOutbuilding",
+        "text": "A2. Southeastern Outbuilding",
+        "type": "location"
+      },
+      {
+        "depth": 4,
+        "id": "A3PracticeField",
+        "text": "A3. Practice Field",
+        "type": "location"
+      },
+      {
+        "depth": 4,
+        "id": "A4Dugout",
+        "text": "A4. Dugout",
+        "type": "location"
+      },
+      {
+        "depth": 4,
+        "id": "A5Bleachers",
+        "text": "A5. Bleachers",
+        "type": "location"
+      },
+      {
+        "depth": 3,
+        "id": "MageTowerPractice",
+        "text": "Mage Tower Practice",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "DuringPractice",
+        "text": "During Practice",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "AfterPractice",
+        "text": "After Practice",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "AnUnwelcomeVisitor",
+        "text": "An Unwelcome Visitor",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "ExaminingtheSlaad",
+        "text": "Examining the Slaad",
+        "type": "reference"
+      },
+      {
+        "depth": 2,
+        "id": "ScriveningandSymbologyExamSymbolGlyphs",
+        "text": "Scrivening and Symbology Exam: Symbol Glyphs",
+        "type": "exam"
+      },
+      {
+        "depth": 3,
+        "id": "StudyingPhase",
+        "text": "Studying Phase",
+        "type": "exam"
+      },
+      {
+        "depth": 3,
+        "id": "TestingPhase",
+        "text": "Testing Phase",
+        "type": "exam"
+      },
+      {
+        "depth": 3,
+        "id": "TotheScriptoriaCollections",
+        "text": "To the Scriptoria Collections",
+        "type": "reference"
+      },
+      {
+        "depth": 2,
+        "id": "GettingSomeAir",
+        "text": "Getting Some Air",
+        "type": "scene"
+      },
+      {
+        "depth": 3,
+        "id": "MagicalSkateOff",
+        "text": "Magical Skate-Off",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "TheSkateOff",
+        "text": "The Skate-Off",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "RelationshipEncounter1",
+        "text": "Relationship Encounter",
+        "type": "relationship"
+      },
+      {
+        "depth": 3,
+        "id": "ThatsNotSupposedtoHappen",
+        "text": "That’s Not Supposed to Happen!",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "ExaminingtheScene",
+        "text": "Examining the Scene",
+        "type": "reference"
+      }
+    ]
+  },
+  "anomalyFlags": [
+    {
+      "type": "reader-address",
+      "passage": "Another student is part of this scene—ideally a student the characters have interacted with, or you may choose another student from the “Fellow Students” section in chapter 3.",
+      "location": "Party at the Rose Stage",
+      "anchor": "PartyattheRoseStage",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "“You’ve got to see what’s going on at the Rose Stage!",
+      "location": "Party at the Rose Stage",
+      "anchor": "PartyattheRoseStage",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "You hear the party before you see it.",
+      "location": "Stack ’Em High",
+      "anchor": "StackEmHigh",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "We’ll give them their snacks—we were just waiting on you.",
+      "location": "Stack ’Em High",
+      "anchor": "StackEmHigh",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "We knew you’d want in on this mascot-stacking contest!",
+      "location": "Stack ’Em High",
+      "anchor": "StackEmHigh",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "hidden-actor",
+      "passage": "The bait the students concocted for the pests is made from sugary syrup mixed with mushrooms taken from Witherbloom’s campus.",
+      "location": "Stack ’Em High",
+      "anchor": "StackEmHigh",
+      "confidence": 0.68,
+      "reason": "A passive construction may conceal who performs the action."
+    },
+    {
+      "type": "reader-address",
+      "passage": "At least one team should consist of NPC students, and you should make rolls for them.",
+      "location": "The Contest",
+      "anchor": "TheContest",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "If there’s a tie, add a tiebreaker round or use your discretion to determine the winner.",
+      "location": "Playing the Game",
+      "anchor": "PlayingtheGame",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "Before you is a carefully maintained dirt field.",
+      "location": "Practice Makes Perfect",
+      "anchor": "PracticeMakesPerfect",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "“Plus, you’ll get better at the game!",
+      "location": "Mage Tower Practice",
+      "anchor": "MageTowerPractice",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "hidden-actor",
+      "passage": "Once the teams are determined, Rosie assigns each team one of the blue dummy mascots.",
+      "location": "During Practice",
+      "anchor": "DuringPractice",
+      "confidence": 0.68,
+      "reason": "A passive construction may conceal who performs the action."
+    },
+    {
+      "type": "reader-address",
+      "passage": "Feel free to narrate or roleplay this encounter however your players find enjoyable.",
+      "location": "During Practice",
+      "anchor": "DuringPractice",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "hidden-actor",
+      "passage": "The empty pool is made of smooth stone and set about thirty feet into the ground.",
+      "location": "Magical Skate-Off",
+      "anchor": "MagicalSkateOff",
+      "confidence": 0.68,
+      "reason": "A passive construction may conceal who performs the action."
+    },
+    {
+      "type": "hidden-actor",
+      "passage": "At the end of the skate-off, after the purse is given to the winner or distributed among multiple winners, one of the wands used during the skate-off accidentally summons a monster.",
+      "location": "That’s Not Supposed to Happen!",
+      "anchor": "ThatsNotSupposedtoHappen",
+      "confidence": 0.68,
+      "reason": "A passive construction may conceal who performs the action."
+    }
+  ],
+  "contentHtml": "<h1 class=\"compendium-hr\" id=\"PartyattheRoseStage\">Party at the Rose Stage</h1>\n\n<p>One evening a short while into the academic year, word begins to spread about a hubbub originating at the Rose Stage on Silverquill’s campus. The characters are invited by one of their peers to the after-hours shenanigans happening right now.</p>\n<p>Another student is part of this scene—ideally a student the characters have interacted with, or you may choose another student from the “<a href=\"/chapters/strixhaven-relationships/#FellowStudents\" title=\"Fellow Students\">Fellow Students</a>” section in <a href=\"/chapters/strixhaven-relationships/\" title=\"chapter 3\">chapter 3</a>.</p>\n<p>As twilight falls, a student rushes toward the characters. The student says through their laughter:</p>\n<aside class=\"read-aloud-text\" id=\"session-read-aloud-1\">\n<p>“You’ve got to see what’s going on at the Rose Stage! Someone’s cooked up a batch of mascot bait, and now the place is crawling with the little critters! They’re as happy as baby boars in mud, so we’re going to try a game. It’s mascot stacking, and the winner gets a fancy prize!”</p>\n</aside>\n<p>The mascot-stacking competition takes place in area R3 of the Rose Stage; see map 3.5 in <a href=\"/chapters/strixhaven-all-the-worlds-a-stage/#Map35therosestage\" title=\"chapter 3\">chapter 3</a>.</p>\n<h2 class=\"compendium-hr heading-anchor\" id=\"StackEmHigh\">Stack ’Em High</h2>\n<p>When the characters arrive at the Rose Stage, read or paraphrase the following:</p>\n<aside class=\"read-aloud-text\" id=\"session-read-aloud-2\">\n<p>You hear the party before you see it. Laughter, whooping, and shouting waft from the stage as a chaotic scene comes into sight.</p>\n<p>On the main Rose Stage, a dozen students playfully dart away from several pests while other mascots watch nearby. The scurrying students hold goopy substances in their hands that look like honey mixed with mushroom pieces. Off to the side, more students stand, laughing and holding curious-looking wands.</p>\n</aside>\n<p>A student shouts through uncontrollable giggling:</p>\n<aside class=\"read-aloud-text\" id=\"session-read-aloud-3\">\n<p>“Gross! Look at those goofs, covered in pest bait! I don’t know what’s in it, but the pests love it. We’ll give them their snacks—we were just waiting on you. We knew you’d want in on this mascot-stacking contest! The other mascots want to play, too!”</p>\n</aside>\n<p>Once the characters arrive on the scene, the students with the pest bait feed the pests. Twenty mascots occupy the stage, with each campus represented: two <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160297-art-elemental-mascot\" data-tooltip-href=\"/monsters/2160297-tooltip\">art elementals</a> from Prismari, two <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160304-fractal-mascot\" data-tooltip-href=\"/monsters/2160304-tooltip\">fractals</a> from Quandrix, two <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160307-inkling-mascot\" data-tooltip-href=\"/monsters/2160307-tooltip\">inklings</a> from Silverquill, four <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160334-spirit-statue-mascot\" data-tooltip-href=\"/monsters/2160334-tooltip\">spirit statues</a> from Lorehold, and ten <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160317-pest-mascot\" data-tooltip-href=\"/monsters/2160317-tooltip\">pests</a>.</p>\n<p>The bait the students concocted for the pests is made from sugary syrup mixed with mushrooms taken from Witherbloom’s campus. The students recently discovered it’s a harmless snack that keeps pests docile, allowing anyone to play with the normally flighty mascots.</p>\n<p>The students standing beside the stage hold wands that are ordinary spellcasting focuses imbued with a limited telekinesis-like effect. When pointed at a mascot within 5 feet, a wand magically lifts the mascot, places it atop another adjacent mascot, and stabilizes the stacked mascots. The mascots might still topple over afterward, but the wands allow the students to stack the mascots without having to physically manipulate them.</p>\n<p>In this game, the other mascots jovially participate in the stacking contest. The spirit statues offer to serve as each stack’s base. The art elementals, fractals, and inklings gleefully wait to be piled on the stacks while the pests snack away, oblivious to the game.</p>\n<figure class=\"compendium-image\" id=\"imgpests\">\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/04-007.pests.png\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/04-007.pests.png\" class=\"ddb-lightbox-inner compendium-center-banner-img\" style=\"width: 850px;\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a>\n<figcaption>From a distance, pests look round, squishy, and cuddly. Up close, they’re sharp</figcaption>\n</figure>\n<h3 class=\"compendium-hr heading-anchor\" id=\"TheContest\">The Contest</h3>\n<p>Stacking mascots without the creatures toppling over is a major bragging right, and the characters have the opportunity of earning that now.</p>\n<p>Further, Greta Gorunn (chaotic good dwarf <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160308-lorehold-apprentice\" data-tooltip-href=\"/monsters/2160308-tooltip\">Lorehold apprentice</a>; see <a href=\"/chapters/strixhaven-relationships/#GretaGorunn\" title=\"chapter 3\">chapter 3</a>) has offered a <a class=\"tooltip-hover magic-item-tooltip\" href=\"https://www.dndbeyond.com/magic-items/4584-belt-of-dwarvenkind\" data-tooltip-href=\"/magic-items/4584-tooltip\">belt of dwarvenkind</a> as the prize for this contest. Her parents sent her the belt as a gift, but she thinks it’s more fun to offer the belt as a trophy.</p>\n<p>In this contest, up to four teams of two students apiece race to create the highest stack of gathered mascots. At least one team should consist of NPC students, and you should make rolls for them. If the characters have Rivals, two of them form this opposing team. If not, choose students from the “<a href=\"/chapters/strixhaven-relationships/#FellowStudents\" title=\"Fellow Students\">Fellow Students</a>” section in <a href=\"/chapters/strixhaven-relationships/\" title=\"chapter 3\">chapter 3</a>.</p>\n<p>Characters who don’t wish to form a team can participate by cheering or heckling, as described below:</p>\n<p><strong>Encourage a Team.</strong> A character can shout encouragement to a single team. If they do, one member of that team has advantage on their ability check in the stacking game.</p>\n<p><strong>Heckle a Team.</strong> A character can jeer and rankle a single team. If they do, both members of that team have disadvantage on their ability checks in the game.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"PlayingtheGame\">Playing the Game</h3>\n<p>As noted above, each mascot-stacking team has two members, each of whom uses a wand. To determine which team stacks the most mascots, have each member of the team make one ability check of their choice, chosen from the following options: Dexterity (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/4-tooltip\">Sleight of Hand</a>), Intelligence (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/6-tooltip\">Arcana</a>), or Wisdom (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/11-tooltip\">Animal Handling</a>). Record the check totals for each team member, then combine them for each team. The team with the highest combined total wins the game.</p>\n<p>For example, if one member of a team gets a total of 16 on their Dexterity (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/4-tooltip\">Sleight of Hand</a>) check to expertly point their wand and the other member gets a total of 20 on their Wisdom (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/11-tooltip\">Animal Handling</a>) check to stack the mascots comfortably, their combined total is 36—and they win the game if no other team has a higher total.</p>\n<p>If there’s a tie, add a tiebreaker round or use your discretion to determine the winner.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"RelationshipEncounter\">Relationship Encounter</h3>\n<p>During this game, characters might mingle with the other students. If there are students the characters wish to earn Relationship Points with, treat this as a Relationship encounter, as described in the rules found in the “Relationships” section in <a href=\"/chapters/strixhaven-relationships/\" title=\"chapter 3\">chapter 3</a>. Have players note the results of this encounter on their tracking sheets.</p>\n<h2 class=\"compendium-hr heading-anchor\" id=\"ItsGotThreeHeads\">It’s Got Three Heads!</h2>\n<p>As the winning team is declared, the pests in the mascot stacks suddenly transform into a hostile creature. Read or paraphrase the following:</p>\n<aside class=\"read-aloud-text\" id=\"session-read-aloud-4\">\n<p>The cheering from the students on the Rose Stage suddenly turns to panicked shouts. The normal croaking, chirruping, and screeching of pests turns into guttural groans. The pests amalgamate, their bodies fusing into a multiheaded whole, while the other mascots scatter. The fused creature roars, spewing spittle from one of its heads. Everyone on stage is in danger!</p>\n</aside>\n<p>The amalgamated pests move as a single creature in <a href=\"/chapters/strixhaven-all-the-worlds-a-stage/#R3MainStage\" title=\"area R3\">area R3</a> of the Rose Stage. The creature threatens an opposing team of mascot-stackers, and it uses the stat block of a <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/16823-chimera\" data-tooltip-href=\"/monsters/16823-tooltip\">chimera</a>, though it doesn’t have a breath weapon. Because it’s evening, the lighting in all areas of the Rose Stage is dim. The gathered students and other mascots flee or hide, and it’s up to the characters to face this threat.</p>\n<p>Once the characters reduce the amalgamated creature to 0 hit points, it collapses into its component pests, which look at the characters and blink in confusion. The pests appear unharmed by the event.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"ExaminingthePests\">Examining the Pests</h3>\n<p>Pests don’t normally amalgamate and turn hostile, then transform back into harmless pests. If the characters examine the pests after the amalgamation is defeated, a successful DC 16 Intelligence (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/8-tooltip\">Investigation</a>) check reveals little pools of regurgitated bait on the floor near the pests. Mixed in the pools are small, sharp pieces of same chitin found in <a href=\"/chapters/strixhaven-hunt-for-mage-tower/#W5SouthernClearing\" title=\"area W5\">area W5</a> near Wiltroot Hall. The pests ingested this chitin, leading to their strange transformation.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"PracticeTime\">Practice Time</h3>\n<p>Once the characters resolve the altercation with the amalgamated mascots, the party on the Rose Stage resumes. Before the characters leave the area, Rosie Wuzfeddlims (chaotic good gnome <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160308-lorehold-apprentice\" data-tooltip-href=\"/monsters/2160308-tooltip\">Lorehold apprentice</a>; see <a href=\"/chapters/strixhaven-friends-and-foes/#LoreholdApprentice\" title=\"chapter 7\">chapter 7</a>) approaches them. The gnome announces that Aerojaunt Field is reserved for the characters’ Mage Tower team to practice.</p>\n<p>The characters’ designated practice slot is at the end of this week. As a student referee, Rosie is tasked with helping the characters learn the rules of Mage Tower and the game’s basic techniques. Further, as long as the entire party has not made a Rival of Rosie, she promises to gift their team a <a class=\"tooltip-hover magic-item-tooltip\" href=\"https://www.dndbeyond.com/magic-items/4773-stone-of-good-luck-luckstone\" data-tooltip-href=\"/magic-items/4773-tooltip\">stone of good luck</a> after they practice that can be used at the game later in the year.</p>\n<h2 class=\"compendium-hr heading-anchor\" id=\"PracticeMakesPerfect\">Practice Makes Perfect</h2>\n<p>Mage Tower practice takes place at Aerojaunt Field. This practice field is on the central campus, and it’s available for anyone to use.</p>\n<p>When the characters are ready to begin practice, read or paraphrase the following:</p>\n<aside class=\"read-aloud-text\" id=\"session-read-aloud-5\">\n<p>Before you is a carefully maintained dirt field. In the center, an elongated hexagon etched in glowing, magical chalk outlines a series of ramps built into the dirt.</p>\n<p>Dugouts face each other on opposite sides of the field. North of the dugouts are bleachers, and south of the dugouts are some outbuildings. Right now, the most prominent feature is a gnome dressed in black-and-white striped shorts and a matching tunic. A knapsack hangs at her side, and a large whistle dangles from her neck. Rosie Wuzfeddlims, one of Strixhaven’s student referees, is ready for some serious game time.</p>\n<p>“Friends!” she shouts. “Stupendous timing! Oh, this is going to be great!”</p>\n</aside>\n<p>During this event, the characters split into two teams and practice moving dummy mascots from one side of the field to another. If there are an uneven number of characters, Rosie joins a team to even the competition.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"AerojauntField\">Aerojaunt Field</h3>\n<p>Aerojaunt Field was once the university’s primary sports field. Now, years after the construction of Strixhaven Stadium, the field sees far less use. Its official purpose is as a dedicated practice field for Strixhaven’s high-profile student teams, whose official matches take place in newer facilities elsewhere on campus.</p>\n<p>However, less competitive teams hold their matches on this field, most notably the Intramural Silkball Club. The elevated ramps used in silkball matches were permanently built into Aerojaunt Field, whose name evokes a popular silkball move that involves using magic to hop through the air.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"AerojauntFieldLocations\">Aerojaunt Field Locations</h3>\n<p>The following locations are keyed to the map 4.2. Descriptions assume the characters are using this field during the day. At night, the field is devoid of students.</p>\n<figure id=\"Map42aerojauntfield\" class=\"compendium-image\">\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/map-4.2-aerojaunt-field.jpg\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/map-4.2-aerojaunt-field.jpg\" class=\"ddb-lightbox-inner compendium-center-banner-img\" style=\"width: 850px;\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a>\n<figcaption>Map 4.2: aerojaunt field <a class=\"ddb-lightbox-outer\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/map-4.2-aerojaunt-field-player.jpg\" data-lightbox=\"1\" data-title=\"View Player Version\" id=\"session-player-map-1\">View Player Version</a></figcaption>\n</figure>\n<h4 class=\"compendium-hr heading-anchor\" id=\"A1SouthwesternOutbuilding\">A1. Southwestern Outbuilding</h4>\n<aside class=\"read-aloud-text\" id=\"session-read-aloud-6\">\n<p>This gray metal storage shed consists of three short silos topped with flat roofs. Weathered wooden doors that were once painted bright yellow lead inside, and a short fence protects the building from impacts from gear sent flying from the field.</p>\n</aside>\n<p>The doors to these sheds are locked, but Rosie has the key, as do several faculty members. A character using thieves’ tools can open either lock with a successful DC 25 Dexterity check.</p>\n<p>This shed’s central silo contains a jumble of obsolete equipment that belongs to the gymnastics club. Old practice horses, balance beams, disassembled high bars, floor mats, and more are shoved against the curved wall.</p>\n<p><em><strong>Treasure.</strong></em> In the main silo’s northeast corner are two unlocked chests. Both contain stacks of outdated gymnastics uniforms. However, a <a class=\"tooltip-hover magic-item-tooltip\" href=\"https://www.dndbeyond.com/magic-items/4605-cloak-of-displacement\" data-tooltip-href=\"/magic-items/4605-tooltip\">cloak of displacement</a> lies forgotten at the bottom of one chest. If the characters try to find the cloak’s owner, Rosie or any faculty member learns the cloak is unclaimed, so the characters are welcome to keep it.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"A2SoutheasternOutbuilding\">A2. Southeastern Outbuilding</h4>\n<p>The doors to these sheds are locked, but Rosie has a key. A successful DC 25 Dexterity check using thieves’ tools opens each lock.</p>\n<p>This shed’s central silo holds old silkball and Mage Tower equipment: bins of deflated silkballs, wooden dummy mascots, and dented field rakes.</p>\n<p><em><strong>Treasure.</strong></em> In the main silo’s northwest corner are two unlocked chests that both contain stacks of outdated silkball uniforms. However, a <a class=\"tooltip-hover magic-item-tooltip\" href=\"https://www.dndbeyond.com/magic-items/4606-cloak-of-elvenkind\" data-tooltip-href=\"/magic-items/4606-tooltip\">cloak of elvenkind</a> lies forgotten at the bottom of one chest. If the characters try to find the cloak’s owner, Rosie or any faculty member learns the cloak is unclaimed, so the characters are welcome to keep it.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"A3PracticeField\">A3. Practice Field</h4>\n<aside class=\"read-aloud-text\" id=\"session-read-aloud-7\">\n<p>The hexagonal shape of this old practice field is outlined in glowing magical chalk. Several dirt ramps, each at least ten feet wide, slope and crisscross dizzyingly.</p>\n</aside>\n<p>The straight central lengths of each ramp are elevated to the heights indicated on map 4.2.</p>\n<figure id=\"imgofstrixhaven\" class=\"compendium-image\">\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/04-008.battle-of-strixhaven.png\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/04-008.battle-of-strixhaven.png\" class=\"ddb-lightbox-inner compendium-center-banner-img\" style=\"width: 850px;\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a>\n<figcaption>Practice for the Battle of Strixhaven leads to the year-end event that takes place in Strixhaven Stadium</figcaption>\n</figure>\n<h4 class=\"compendium-hr heading-anchor\" id=\"A4Dugout\">A4. Dugout</h4>\n<p>In each dugout, a small vial was accidentally left behind. In the west dugout, the vial contains <a class=\"tooltip-hover magic-item-tooltip\" href=\"https://www.dndbeyond.com/magic-items/4689-oil-of-slipperiness\" data-tooltip-href=\"/magic-items/4689-tooltip\">oil of slipperiness</a>. In the east dugout, it’s a <a class=\"tooltip-hover magic-item-tooltip\" href=\"https://www.dndbeyond.com/magic-items/4702-potion-of-climbing\" data-tooltip-href=\"/magic-items/4702-tooltip\">potion of climbing</a>. A character who searches a dugout finds the relevant vial tucked underneath a back bench.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"A5Bleachers\">A5. Bleachers</h4>\n<p>These bleachers rise 30 feet in the air at the back.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"MageTowerPractice\">Mage Tower Practice</h3>\n<p>After the characters arrive at the field, Rosie explains that the Mage Tower game the characters are practicing for will take place in nearby Strixhaven Stadium. The stadium doesn’t have ramps built into the field. “But practicing with them is fun!” she explains. “Plus, you’ll get better at the game! What’s not to love?”</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"DuringPractice\">During Practice</h4>\n<p>When the characters are ready to start practice, Rosie retrieves two bright blue wooden dummy mascots from <a href=\"#A2SoutheasternOutbuilding\" title=\"area A2\">area A2</a>. She explains that the characters need to split into two teams for the purposes of scrimmaging; if there is an odd number of characters, Rosie joins in as a participant.</p>\n<p>Once the teams are determined, Rosie assigns each team one of the blue dummy mascots. She then jogs out onto the field (<a href=\"#A3PracticeField\" title=\"area A3\">area A3</a>) and places one dummy mascot at the north end of the field and another at the south end. Then she escorts the characters to the center of the ramp elevated to 20 feet (see <a href=\"#Map42aerojauntfield\" title=\"map 4.2\">map 4.2</a>). She explains that the scrimmage will take place over three phases that each last twenty minutes; when she gives the signal, the teams should dash toward the opposing team’s mascot, grab it, and try to bring it back to their own team’s end of the field to score a point. Participants can use magic or physical means to steal their opponents’ mascot and defend their own, but they can’t damage any participants, the mascots, the audience, or the facility.</p>\n<p><em><strong>Making Ability Checks.</strong></em> Feel free to narrate or roleplay this encounter however your players find enjoyable. Ultimately, each character makes a single Strength (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/2-tooltip\">Athletics</a>), Dexterity (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/3-tooltip\">Acrobatics</a>), or Intelligence (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/6-tooltip\">Arcana</a>) check, as chosen by the player.</p>\n<p><em><strong>Using Magic.</strong></em> Instead of making an ability check, a character can cast a spell. The level of the spell determines the benefit:</p>\n<p><strong>1st or 2nd Level.</strong> A character can cast a 1st- or 2nd-level spell to grant another character advantage on their ability check.</p>\n<p><strong>3rd Level or Higher.</strong> If a character casts a spell of 3rd level or higher, it counts as a successful ability check for the purpose of determining the winner.</p>\n<p>Ask the player to describe which spell the character casts and how it helps their team during play. For example, a player might say, “My character uses a <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2127-grease\" data-tooltip-href=\"/spells/2127-tooltip\">grease</a> spell to make one of the ramps slippery, causing the other team to slip and fall.”</p>\n<p><em><strong>Determining the Winner.</strong></em> The team with the greatest number of successful ability checks wins the scrimmage (ties are possible).</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"AfterPractice\">After Practice</h4>\n<p>Regardless which team wins, Rosie slaps her thigh with glee, declaring that she hasn’t had so much fun in ages. She reaches into one of her knapsacks and pulls out a smooth, glowing stone. She says:</p>\n<aside class=\"read-aloud-text\" id=\"session-read-aloud-8\">\n<p>“As promised, here’s a gift—think of it as a good luck charm for the upcoming game!”</p>\n</aside>\n<p>The stone is a <a class=\"tooltip-hover magic-item-tooltip\" href=\"https://www.dndbeyond.com/magic-items/4773-stone-of-good-luck-luckstone\" data-tooltip-href=\"/magic-items/4773-tooltip\">stone of good luck</a>, and the characters are welcome to keep it indefinitely.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"AnUnwelcomeVisitor\">An Unwelcome Visitor</h3>\n<p>At the end of practice, after Rosie gives the characters her gift, read or paraphrase the following:</p>\n<aside class=\"read-aloud-text\" id=\"session-read-aloud-9\">\n<p>Without warning, the joyous look on Rosie’s face changes into terror. Flinging an arm toward the field’s eastern dugout, she stammers wildly.</p>\n<p>“Wh- wh- <em>monster!</em>” she shouts, then runs for cover.</p>\n</aside>\n<p>Emerging from the eastern dugout is a hulking <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/17112-blue-slaad\" data-tooltip-href=\"/monsters/17112-tooltip\">blue slaad</a>. The enraged creature fights to the death.</p>\n<p>Any character who aced their <a href=\"/chapters/strixhaven-campus-kerfuffle/#MagicalPhysiologiesExamSlaadi\" title=\"Magical Physiologies Exam\">Magical Physiologies Exam</a> about slaadi (see “Campus Kerfuffle” in <a href=\"/chapters/strixhaven-campus-kerfuffle/\" title=\"chapter 3\">chapter 3</a>) receives advantage on attack rolls made against the slaad during this encounter.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"ExaminingtheSlaad\">Examining the Slaad</h4>\n<p>If the characters examine the slaad’s body, they see superficial claw wounds all over its skin. A successful DC 16 Wisdom (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/13-tooltip\">Medicine</a> or <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/14-tooltip\">Perception</a>) check reveals the presence of chipped chitin embedded in these wounds. Characters who notice this chitin can tell that it’s the same sort found in <a href=\"/chapters/strixhaven-hunt-for-mage-tower/#W5SouthernClearing\" title=\"area W5\">area W5</a> of Wiltroot Hall and on the <a href=\"#ExaminingthePests\" title=\"Rose Stage\">Rose Stage</a>.</p>\n<p>After examining the chitin, a character can make a DC 16 Intelligence (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/8-tooltip\">Investigation</a>) or Wisdom (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/12-tooltip\">Insight</a>) check. If the check succeeds, the character logically concludes that one or more chitinous creatures goaded the slaad into attacking. The characters don’t yet know the mage hunters’ identity or full plans, but they’ll soon have a better idea once they realize the sort of creatures hunting them.</p>\n<h2 class=\"compendium-hr heading-anchor\" id=\"ScriveningandSymbologyExamSymbolGlyphs\">Scrivening and Symbology Exam: Symbol Glyphs</h2>\n<p>The characters’ second Exam in Scrivening and Symbology takes place a short while after their practice scrimmage at Aerojaunt Field. Students are tested on their knowledge of scrivening and symbology as expressed in the <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2272-symbol\" data-tooltip-href=\"/spells/2272-tooltip\">symbol</a> spell.</p>\n<p>The multiple choice portion of the Exam focuses on identifying common surfaces used for inscribing <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2272-symbol\" data-tooltip-href=\"/spells/2272-tooltip\">symbol</a> glyphs. The essay portion then requires students to reason out how best to avoid the effects of a <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2272-symbol\" data-tooltip-href=\"/spells/2272-tooltip\">symbol</a> spell.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"StudyingPhase\">Studying Phase</h3>\n<p>The day before the Exam, the characters can study the course material. A character can use any ability check and skill during the Studying phase.</p>\n<p>Once you’ve asked each player how their character is approaching the Studying phase, resolve that phase by having each character who studies make a DC 16 ability check. Make sure players keep track of their characters’ rerolls and apply them during the Testing phase.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"TestingPhase\">Testing Phase</h3>\n<p>On the day of the Exam, each character makes two ability checks related to parts of the test:</p>\n<p><strong>Symbol Surfaces.</strong> Identifying the most suitable surfaces to scribe a <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2272-symbol\" data-tooltip-href=\"/spells/2272-tooltip\">symbol</a> on requires a successful DC 16 Intelligence (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/8-tooltip\">Investigation</a>) check.</p>\n<p><strong>Avoiding Symbol Effects.</strong> Writing up the details of common methods to avoid triggering symbols, plus physical and mental techniques for resisting their effects once they have been triggered, requires a successful DC 16 Charisma (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/19-tooltip\">Persuasion</a>) check.</p>\n<p>Have each player note their character’s Exam results—how many Student Dice they gained and what skills they used during the test—on their copies of the tracking sheet.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"TotheScriptoriaCollections\">To the Scriptoria Collections</h3>\n<p>Professor Brenneth Blackstone approaches the characters after he’s done proctoring their Exam. Once the other students depart, the professor addresses the characters:</p>\n<aside class=\"read-aloud-text\" id=\"session-read-aloud-10\">\n<p>“Well, students, you’ve impressed me—or else I wouldn’t be asking you this favor.</p>\n<p>“I’ve been guest lecturing in Kollema Hall on Lorehold’s campus this term. The administrators love my popular series on scriptology in archaeomancy, but it’s eating into my prep time for my classes.</p>\n<p>“I need you to track down a tome in the Biblioplex’s Scriptoria Collections. It’s an ancient treatise on interpreting auguries called <em>Weale or Woe: An Interpretive Sketch</em> by Director Arick Quenthorne. Trouble is, no one knows where the book is hiding, and I can’t prepare your upcoming Exam without it.</p>\n<p>“Find it and bring it to me, and extra credit for the rest of the term is yours!”</p>\n</aside>\n<p>Once the characters talk with Blackstone, they’re free to go to the Scriptoria Collections. However, Blackstone doesn’t need the book for a couple more weeks, so there’s no rush to head to the collections.</p>\n<p><a href=\"/chapters/strixhaven-dangerous-knowledge/#Map43scriptoriacollections\" title=\"Map 4.3\">Map 4.3</a> shows the Scriptoria Collections. For more about what the characters discover there, see the “<a href=\"/chapters/strixhaven-dangerous-knowledge/\" title=\"Dangerous Knowledge\">Dangerous Knowledge</a>” section.</p>\n<h2 class=\"compendium-hr heading-anchor\" id=\"GettingSomeAir\">Getting Some Air</h2>\n<p>Some time after their second Exam, the characters notice a commotion near Bow’s End Tavern in the late afternoon.</p>\n<p>Another student is part of this scene, in which the characters are invited to participate in a magical skating contest. Ideally, it’s a student the characters have interacted with, or you may choose another student from the “<a href=\"/chapters/strixhaven-relationships/#FellowStudents\" title=\"Fellow Students\">Fellow Students</a>” section in <a href=\"/chapters/strixhaven-relationships/\" title=\"chapter 3\">chapter 3</a>.</p>\n<p>The characters notice that the front of Bow’s End Tavern is oddly deserted, but then they see a familiar face. The student says:</p>\n<aside class=\"read-aloud-text\" id=\"session-read-aloud-11\">\n<p>“Hey, friends! Tulk’s drained the retention pool behind the tavern for cleaning tomorrow. For a few hours, we’ve got a perfectly smooth, empty pool. You know what that means—mage’s skate park, baby! Come on, let’s see who’ll pull the wildest moves and win the prize purse!”</p>\n</aside>\n<h3 class=\"compendium-hr heading-anchor\" id=\"MagicalSkateOff\">Magical Skate-Off</h3>\n<p>If the characters follow the student who invited them, that student leads them behind Bow’s End Tavern. Read or paraphrase the following:</p>\n<aside class=\"read-aloud-text\" id=\"session-read-aloud-12\">\n<p>Behind the tavern, several groups of students cluster around an empty pool, laughing and waving improvised skates made from wooden planks with wheels affixed to the bottom. The empty pool is made of smooth stone and set about thirty feet into the ground. The tavern’s back door is propped open.</p>\n</aside>\n<p>One of the characters’ peers approaches holding a wand and two skates, thrusting both forward with a grin. They say:</p>\n<aside class=\"read-aloud-text\" id=\"session-read-aloud-13\">\n<p>“We were hoping you’d turn up! See these skates? On their own, pretty difficult to use, right? But check out this training wand from spellcasting class. Someone figured out that a skater can use the wand to help pull off the sweetest tricks. What better way to try it out than a contest?</p>\n<p>“There are bets going around, and the crowd is sure to take your side! Want to pull off some wild moves?”</p>\n</aside>\n<p>The wand the student is wielding is one of several scattered throughout the crowd. These wands are ordinary spellcasting foci imbued with minor magical effects. Strixhaven’s instructors use them to help students practice their wand-wielding skills. These wands can create minor effects such as little puffs of smoke or crackles of energy, but clever spellcasters can use the wands while skating to perform minor jumps and acrobatic tricks on skates.</p>\n<figure class=\"compendium-image compendium-image-right\" id=\"imgshenanigans\">\n<a class=\"ddb-lightbox-outer compendium-image-right\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/04-009.shenanigans.png\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/04-009.shenanigans.png\" class=\"ddb-lightbox-inner\" style=\"width: 405px;\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a>\n<figcaption>Magical shenanigans are common on campus.<br>Students especially love magically getting some air</figcaption>\n</figure>\n<h4 class=\"compendium-hr heading-anchor\" id=\"TheSkateOff\">The Skate-Off</h4>\n<p>The prize for winning the skate-off is a purse of 250 gp. There are enough skates and wands for all participants. Each character who wants to participate must strap on the rudimentary skates that their peers cobbled together. At least one participant in the skate-off is a student NPC, and you should roll their checks. The participants then skate up and down the sides of the emptied pool, using a combination of skill and momentum to perform jumps and tricks. The wand can compensate for a participant’s lack of skill.</p>\n<p>Each participant in the skate-off makes a single ability check, choosing one of the following: Strength (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/2-tooltip\">Athletics</a>), Dexterity (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/3-tooltip\">Acrobatics</a>), or Intelligence (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/6-tooltip\">Arcana</a>). Whoever has the highest total wins. If there’s a tie, the purse is split between the winners.</p>\n<p>Characters who don’t participate in the skate-off can encourage or heckle skaters as follows:</p>\n<p><strong>Encourage a Skater.</strong> A character can shout encouragement at another student who’s skating. The student then has advantage on their ability check.</p>\n<p><strong>Heckle a Skater.</strong> A character can jeer at an opposing skater. The heckled participant has disadvantage on their ability check.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"RelationshipEncounter1\">Relationship Encounter</h4>\n<p>During the skate-off, characters might mingle with the other students. If there are students the characters wish to earn Relationship Points with, treat this as a Relationship encounter, as described in the rules found in the “Relationships” section in <a href=\"/chapters/strixhaven-relationships/\" title=\"chapter 3\">chapter 3</a>. Have players note the results of this encounter on their tracking sheets.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"ThatsNotSupposedtoHappen\">That’s Not Supposed to Happen!</h3>\n<p>At the end of the skate-off, after the purse is given to the winner or distributed among multiple winners, one of the wands used during the skate-off accidentally summons a monster. Read or paraphrase the following:</p>\n<aside class=\"read-aloud-text\" id=\"session-read-aloud-14\">\n<p>The crowd roars as the winner is announced. A student waves their wand in celebration, and shockingly, a thunderous clap echoes from it.</p>\n<p>Your fellow students quiet in confusion. Suddenly, a creature erupts from the ground, causing nearby students to scream and scatter.</p>\n<p>“That rock thing!” the student shouts. “It’s heading into the tavern!”</p>\n</aside>\n<p>The wand has summoned an angry and confused <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/17148-galeb-duhr\" data-tooltip-href=\"/monsters/17148-tooltip\">galeb duhr</a>.</p>\n<p>At the start of combat, the characters are outside the tavern’s back exit (the western portion of <a href=\"/chapters/strixhaven-work-hard-play-harder/#E5BackExit\" title=\"area E5\">area E5</a> on <a href=\"/chapters/strixhaven-work-hard-play-harder/#Map33bowsendtavern\" title=\"map 3.3\">map 3.3</a> in <a href=\"/chapters/strixhaven-work-hard-play-harder/\" title=\"chapter 3\">chapter 3</a>). Suddenly, a creature erupts from the ground, causing nearby students to scream and scatter. The galeb duhr fights the characters until reduced to 20 hit points or fewer, when it tries to flee.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"ExaminingtheScene\">Examining the Scene</h4>\n<p>Examining the wand the student used to accidentally summon the galeb duhr reveals that it’s different in weight and texture than the other wands.</p>\n<p>A successful DC 16 Intelligence (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/6-tooltip\">Arcana</a>) check reveals that the wand is a summoning device, albeit a strange one intended to work only once. Further, a successful DC 16 Intelligence (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/8-tooltip\">Investigation</a>) check reveals slimy remnants stuck into the wand’s grooves, while a successful DC 16 Intelligence (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/9-tooltip\">Nature</a>) check reveals that the slimy substance is algae from Witherbloom’s campus.</p>"
+}

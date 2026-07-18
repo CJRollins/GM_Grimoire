@@ -1,0 +1,1332 @@
+{
+  "title": "Work Hard, Play Harder",
+  "sourcebook": "Strixhaven: A Curriculum of Chaos",
+  "bookSlug": "strixhaven-a-curriculum-of-chaos",
+  "world": "Arcavios",
+  "edition": "2014 rules",
+  "chapter": "Work Hard, Play Harder",
+  "chapterNumber": 3,
+  "order": 7,
+  "navGroup": "Year One",
+  "kind": "adventure",
+  "audience": "gm",
+  "slug": "strixhaven-work-hard-play-harder",
+  "chapterSlug": "work-hard-play-harder",
+  "summary": "A short while after their first Magical Physiologies Exam, the characters are milling about the central campus when they see some fellow students heading for Bow’s End Tavern, which has just opened for the evening. Another student is part of this scene—ideall…",
+  "wordCount": 7268,
+  "originalPath": "Arcavios/Stixhaven/Chapter 7 - Work Hard, Play Harder.html",
+  "rawUrl": "/archive/strixhaven/Chapter%207%20-%20Work%20Hard%2C%20Play%20Harder.html",
+  "originalAnchors": [
+    {
+      "id": "WorkHardPlayHarder",
+      "text": "Work Hard, Play Harder",
+      "element": "h1"
+    },
+    {
+      "id": "comp-next-nav",
+      "text": "",
+      "element": "div"
+    },
+    {
+      "id": "BowsEndTavern1",
+      "text": "Bow’s End Tavern",
+      "element": "h2"
+    },
+    {
+      "id": "BowsEndTavernFeatures",
+      "text": "Bow’s End Tavern Features",
+      "element": "h3"
+    },
+    {
+      "id": "BowsEndTavernLocations",
+      "text": "Bow’s End Tavern Locations",
+      "element": "h3"
+    },
+    {
+      "id": "Map33bowsendtavern",
+      "text": "Map 3.3: bows end tavern View Player Version",
+      "element": "figure"
+    },
+    {
+      "id": "E1PatioSeating",
+      "text": "E1. Patio Seating",
+      "element": "h4"
+    },
+    {
+      "id": "E2MainDiningRoom",
+      "text": "E2. Main Dining Room",
+      "element": "h4"
+    },
+    {
+      "id": "E3ServersStationandBar",
+      "text": "E3. Servers’ Station and Bar",
+      "element": "h4"
+    },
+    {
+      "id": "BowsEndTavernMenu",
+      "text": "Bow’s End Tavern Menu Food or Beverage Cost Water Free Coffee, cola, or tea 1 cp Premium fare 4 cp Caster’s stew 2 sp Curtie’s special 2 sp",
+      "element": "table"
+    },
+    {
+      "id": "E4OverflowSeating",
+      "text": "E4. Overflow Seating",
+      "element": "h4"
+    },
+    {
+      "id": "E5BackExit",
+      "text": "E5. Back Exit",
+      "element": "h4"
+    },
+    {
+      "id": "E6Kitchen",
+      "text": "E6. Kitchen",
+      "element": "h4"
+    },
+    {
+      "id": "WizardGizzard",
+      "text": "Wizard Gizzard!",
+      "element": "h3"
+    },
+    {
+      "id": "PlayingtheGame",
+      "text": "Playing the Game",
+      "element": "h4"
+    },
+    {
+      "id": "imgtavern",
+      "text": "Bow’s End Tavern caters to a wide range of tastes and dietary needs",
+      "element": "figure"
+    },
+    {
+      "id": "RelationshipEncounter1",
+      "text": "Relationship Encounter",
+      "element": "h4"
+    },
+    {
+      "id": "ChaosintheKitchen",
+      "text": "Chaos in the Kitchen",
+      "element": "h3"
+    },
+    {
+      "id": "EndingtheThreat2",
+      "text": "Ending the Threat",
+      "element": "h4"
+    },
+    {
+      "id": "ExaminingtheCauldrons",
+      "text": "Examining the Cauldrons",
+      "element": "h3"
+    },
+    {
+      "id": "MagicalPhysiologiesExamOwlbears",
+      "text": "Magical Physiologies Exam: Owlbears",
+      "element": "h2"
+    },
+    {
+      "id": "StudyingPhase2",
+      "text": "Studying Phase",
+      "element": "h3"
+    },
+    {
+      "id": "TestingPhase2",
+      "text": "Testing Phase",
+      "element": "h3"
+    },
+    {
+      "id": "AllaboutOwlbears",
+      "text": "ALL ABOUT OWLBEARS To give this Exam more flavor, describe some of the facts the characters are trying to memorize, such as the following: Owlbears are aggressi",
+      "element": "aside"
+    },
+    {
+      "id": "ClassroomGossip",
+      "text": "Classroom Gossip",
+      "element": "h3"
+    },
+    {
+      "id": "ChatterDetails",
+      "text": "Chatter Details",
+      "element": "h4"
+    },
+    {
+      "id": "imgassistants",
+      "text": "Students keep the biblioplex assistants busy with their many requests while studying",
+      "element": "figure"
+    },
+    {
+      "id": "CampusDaredevils",
+      "text": "Campus Daredevils",
+      "element": "h2"
+    },
+    {
+      "id": "SassySallyJane",
+      "text": "Sassy Sally Jane",
+      "element": "h3"
+    },
+    {
+      "id": "AnExclusiveEnclave",
+      "text": "An Exclusive Enclave",
+      "element": "h3"
+    },
+    {
+      "id": "RecoverSassySallyJane",
+      "text": "Recover Sassy Sally Jane",
+      "element": "h3"
+    },
+    {
+      "id": "ExtraIncentive",
+      "text": "Extra Incentive",
+      "element": "h4"
+    },
+    {
+      "id": "CaptainDapplewingsManor",
+      "text": "Captain Dapplewing’s Manor",
+      "element": "h3"
+    },
+    {
+      "id": "TheJigIsUp",
+      "text": "THE JIG IS UP! If the characters alert security to their unauthorized presence at the manor, they are caught when the professors arrive. The professors force th",
+      "element": "aside"
+    },
+    {
+      "id": "EnteringtheManor",
+      "text": "Entering the Manor",
+      "element": "h4"
+    },
+    {
+      "id": "CaptainDapplewingsManorFeatures",
+      "text": "Captain Dapplewing’s Manor Features",
+      "element": "h4"
+    },
+    {
+      "id": "JustaLittleVandalism",
+      "text": "JUST A LITTLE VANDALISM? If the characters are on their best behavior, avoiding combat and trying not to break anything, they should be able to have fun in this",
+      "element": "aside"
+    },
+    {
+      "id": "ManorLocationsC1C10",
+      "text": "Manor Locations (C1-C10)",
+      "element": "h3"
+    },
+    {
+      "id": "Map34captaindapplewingsmanor",
+      "text": "Map 3.4: captain dapplewing’s manor View Player Version",
+      "element": "figure"
+    },
+    {
+      "id": "C1Veranda",
+      "text": "C1. Veranda",
+      "element": "h4"
+    },
+    {
+      "id": "C2Foyer",
+      "text": "C2. Foyer",
+      "element": "h4"
+    },
+    {
+      "id": "C3GrandHall",
+      "text": "C3. Grand Hall",
+      "element": "h4"
+    },
+    {
+      "id": "C4DiningHall",
+      "text": "C4. Dining Hall",
+      "element": "h4"
+    },
+    {
+      "id": "C5PortraitSalon",
+      "text": "C5. Portrait Salon",
+      "element": "h4"
+    },
+    {
+      "id": "C6DrawingRoom",
+      "text": "C6. Drawing Room",
+      "element": "h4"
+    },
+    {
+      "id": "C7HallofBeauty",
+      "text": "C7. Hall of Beauty",
+      "element": "h4"
+    },
+    {
+      "id": "imgstudentcaught",
+      "text": "Students caught breaking into Captain Dapplewing’s Manor after hours face punishment",
+      "element": "figure"
+    },
+    {
+      "id": "C8Kitchen",
+      "text": "C8. Kitchen",
+      "element": "h4"
+    },
+    {
+      "id": "C9CurioRoom",
+      "text": "C9. Curio Room",
+      "element": "h4"
+    },
+    {
+      "id": "C10GrandDeck",
+      "text": "C10. Grand Deck",
+      "element": "h4"
+    },
+    {
+      "id": "ManorLocationsC11C20",
+      "text": "Manor Locations (C11-C20)",
+      "element": "h3"
+    },
+    {
+      "id": "C11SideDeck",
+      "text": "C11. Side Deck",
+      "element": "h4"
+    },
+    {
+      "id": "C12FacultyOffice",
+      "text": "C12. Faculty Office",
+      "element": "h4"
+    },
+    {
+      "id": "C13CaptainDapplewingsStudy",
+      "text": "C13. Captain Dapplewing’s Study",
+      "element": "h4"
+    },
+    {
+      "id": "C14CentralPassageway",
+      "text": "C14. Central Passageway",
+      "element": "h4"
+    },
+    {
+      "id": "C15FacultyStorage",
+      "text": "C15. Faculty Storage",
+      "element": "h4"
+    },
+    {
+      "id": "C16ReflectionRoom",
+      "text": "C16. Reflection Room",
+      "element": "h4"
+    },
+    {
+      "id": "C17GrandLounge",
+      "text": "C17. Grand Lounge",
+      "element": "h4"
+    },
+    {
+      "id": "C18TeaRoom",
+      "text": "C18. Tea Room",
+      "element": "h4"
+    },
+    {
+      "id": "C19StudentStorage",
+      "text": "C19. Student Storage",
+      "element": "h4"
+    },
+    {
+      "id": "C20Attic",
+      "text": "C20. Attic",
+      "element": "h4"
+    },
+    {
+      "id": "SassySallyJanesPhrases",
+      "text": "Sassy Sally Jane’s Phrases",
+      "element": "h4"
+    },
+    {
+      "id": "Phrases",
+      "text": "Phrases d6 Phrase 1 “Really? In those robes?” 2 “G-R-O-S-S. Gross.” 3 “I heard you snack on owlbear pellets.” 4 “If you say so.” 5 “How about ‘Hells, no!’” 6 “N",
+      "element": "table"
+    },
+    {
+      "id": "PostQuest",
+      "text": "Post Quest",
+      "element": "h3"
+    },
+    {
+      "id": "Advanceto3rdLevel",
+      "text": "Advance to 3rd Level!",
+      "element": "h2"
+    },
+    {
+      "id": "MagicalPhysiologiesExamOtyughs",
+      "text": "Magical Physiologies Exam: Otyughs",
+      "element": "h2"
+    },
+    {
+      "id": "StudyingPhase3",
+      "text": "Studying Phase",
+      "element": "h3"
+    },
+    {
+      "id": "TestingPhase3",
+      "text": "Testing Phase",
+      "element": "h3"
+    },
+    {
+      "id": "AllaboutOtyughs",
+      "text": "ALL ABOUT OTYUGHS To give this Exam more flavor, describe some of the facts the characters are trying to memorize, such as the following: If a place is disgusti",
+      "element": "aside"
+    }
+  ],
+  "sourceHash": "b354ca395eb2a1703ac8bb679d3457aa08e84e179afae367bb4398e9ff588a52",
+  "extractionDate": "2026-07-13T07:40:57.647Z",
+  "extractionVersion": 3,
+  "headings": [
+    {
+      "depth": 1,
+      "id": "WorkHardPlayHarder",
+      "text": "Work Hard, Play Harder"
+    },
+    {
+      "depth": 2,
+      "id": "BowsEndTavern1",
+      "text": "Bow’s End Tavern"
+    },
+    {
+      "depth": 3,
+      "id": "BowsEndTavernFeatures",
+      "text": "Bow’s End Tavern Features"
+    },
+    {
+      "depth": 3,
+      "id": "BowsEndTavernLocations",
+      "text": "Bow’s End Tavern Locations"
+    },
+    {
+      "depth": 4,
+      "id": "E1PatioSeating",
+      "text": "E1. Patio Seating"
+    },
+    {
+      "depth": 4,
+      "id": "E2MainDiningRoom",
+      "text": "E2. Main Dining Room"
+    },
+    {
+      "depth": 4,
+      "id": "E3ServersStationandBar",
+      "text": "E3. Servers’ Station and Bar"
+    },
+    {
+      "depth": 4,
+      "id": "E4OverflowSeating",
+      "text": "E4. Overflow Seating"
+    },
+    {
+      "depth": 4,
+      "id": "E5BackExit",
+      "text": "E5. Back Exit"
+    },
+    {
+      "depth": 4,
+      "id": "E6Kitchen",
+      "text": "E6. Kitchen"
+    },
+    {
+      "depth": 3,
+      "id": "WizardGizzard",
+      "text": "Wizard Gizzard!"
+    },
+    {
+      "depth": 4,
+      "id": "PlayingtheGame",
+      "text": "Playing the Game"
+    },
+    {
+      "depth": 4,
+      "id": "RelationshipEncounter1",
+      "text": "Relationship Encounter"
+    },
+    {
+      "depth": 3,
+      "id": "ChaosintheKitchen",
+      "text": "Chaos in the Kitchen"
+    },
+    {
+      "depth": 4,
+      "id": "EndingtheThreat2",
+      "text": "Ending the Threat"
+    },
+    {
+      "depth": 3,
+      "id": "ExaminingtheCauldrons",
+      "text": "Examining the Cauldrons"
+    },
+    {
+      "depth": 2,
+      "id": "MagicalPhysiologiesExamOwlbears",
+      "text": "Magical Physiologies Exam: Owlbears"
+    },
+    {
+      "depth": 3,
+      "id": "StudyingPhase2",
+      "text": "Studying Phase"
+    },
+    {
+      "depth": 3,
+      "id": "TestingPhase2",
+      "text": "Testing Phase"
+    },
+    {
+      "depth": 3,
+      "id": "ClassroomGossip",
+      "text": "Classroom Gossip"
+    },
+    {
+      "depth": 4,
+      "id": "ChatterDetails",
+      "text": "Chatter Details"
+    },
+    {
+      "depth": 2,
+      "id": "CampusDaredevils",
+      "text": "Campus Daredevils"
+    },
+    {
+      "depth": 3,
+      "id": "SassySallyJane",
+      "text": "Sassy Sally Jane"
+    },
+    {
+      "depth": 3,
+      "id": "AnExclusiveEnclave",
+      "text": "An Exclusive Enclave"
+    },
+    {
+      "depth": 3,
+      "id": "RecoverSassySallyJane",
+      "text": "Recover Sassy Sally Jane"
+    },
+    {
+      "depth": 4,
+      "id": "ExtraIncentive",
+      "text": "Extra Incentive"
+    },
+    {
+      "depth": 3,
+      "id": "CaptainDapplewingsManor",
+      "text": "Captain Dapplewing’s Manor"
+    },
+    {
+      "depth": 4,
+      "id": "EnteringtheManor",
+      "text": "Entering the Manor"
+    },
+    {
+      "depth": 4,
+      "id": "CaptainDapplewingsManorFeatures",
+      "text": "Captain Dapplewing’s Manor Features"
+    },
+    {
+      "depth": 3,
+      "id": "ManorLocationsC1C10",
+      "text": "Manor Locations (C1-C10)"
+    },
+    {
+      "depth": 4,
+      "id": "C1Veranda",
+      "text": "C1. Veranda"
+    },
+    {
+      "depth": 4,
+      "id": "C2Foyer",
+      "text": "C2. Foyer"
+    },
+    {
+      "depth": 4,
+      "id": "C3GrandHall",
+      "text": "C3. Grand Hall"
+    },
+    {
+      "depth": 4,
+      "id": "C4DiningHall",
+      "text": "C4. Dining Hall"
+    },
+    {
+      "depth": 4,
+      "id": "C5PortraitSalon",
+      "text": "C5. Portrait Salon"
+    },
+    {
+      "depth": 4,
+      "id": "C6DrawingRoom",
+      "text": "C6. Drawing Room"
+    },
+    {
+      "depth": 4,
+      "id": "C7HallofBeauty",
+      "text": "C7. Hall of Beauty"
+    },
+    {
+      "depth": 4,
+      "id": "C8Kitchen",
+      "text": "C8. Kitchen"
+    },
+    {
+      "depth": 4,
+      "id": "C9CurioRoom",
+      "text": "C9. Curio Room"
+    },
+    {
+      "depth": 4,
+      "id": "C10GrandDeck",
+      "text": "C10. Grand Deck"
+    },
+    {
+      "depth": 3,
+      "id": "ManorLocationsC11C20",
+      "text": "Manor Locations (C11-C20)"
+    },
+    {
+      "depth": 4,
+      "id": "C11SideDeck",
+      "text": "C11. Side Deck"
+    },
+    {
+      "depth": 4,
+      "id": "C12FacultyOffice",
+      "text": "C12. Faculty Office"
+    },
+    {
+      "depth": 4,
+      "id": "C13CaptainDapplewingsStudy",
+      "text": "C13. Captain Dapplewing’s Study"
+    },
+    {
+      "depth": 4,
+      "id": "C14CentralPassageway",
+      "text": "C14. Central Passageway"
+    },
+    {
+      "depth": 4,
+      "id": "C15FacultyStorage",
+      "text": "C15. Faculty Storage"
+    },
+    {
+      "depth": 4,
+      "id": "C16ReflectionRoom",
+      "text": "C16. Reflection Room"
+    },
+    {
+      "depth": 4,
+      "id": "C17GrandLounge",
+      "text": "C17. Grand Lounge"
+    },
+    {
+      "depth": 4,
+      "id": "C18TeaRoom",
+      "text": "C18. Tea Room"
+    },
+    {
+      "depth": 4,
+      "id": "C19StudentStorage",
+      "text": "C19. Student Storage"
+    },
+    {
+      "depth": 4,
+      "id": "C20Attic",
+      "text": "C20. Attic"
+    },
+    {
+      "depth": 4,
+      "id": "SassySallyJanesPhrases",
+      "text": "Sassy Sally Jane’s Phrases"
+    },
+    {
+      "depth": 3,
+      "id": "PostQuest",
+      "text": "Post Quest"
+    },
+    {
+      "depth": 2,
+      "id": "Advanceto3rdLevel",
+      "text": "Advance to 3rd Level!"
+    },
+    {
+      "depth": 2,
+      "id": "MagicalPhysiologiesExamOtyughs",
+      "text": "Magical Physiologies Exam: Otyughs"
+    },
+    {
+      "depth": 3,
+      "id": "StudyingPhase3",
+      "text": "Studying Phase"
+    },
+    {
+      "depth": 3,
+      "id": "TestingPhase3",
+      "text": "Testing Phase"
+    }
+  ],
+  "tags": {
+    "creatures": [
+      "animated armor",
+      "cockatrice",
+      "commoner",
+      "duodrone",
+      "fire snake",
+      "first-year students",
+      "flying swords",
+      "gladiator",
+      "gray oozes",
+      "Lorehold apprentice",
+      "needle blight",
+      "otyugh",
+      "otyughs",
+      "owlbears",
+      "Owlbears",
+      "pteranodon",
+      "quadrone",
+      "Quandrix professor of substance",
+      "Silverquill professor of radiance",
+      "steam mephits",
+      "Strixhaven campus guide",
+      "violet fungus"
+    ],
+    "spells": [
+      "arcane lock"
+    ],
+    "items": [
+      "bag of tricks (gray)",
+      "driftglobe",
+      "gem of brightness",
+      "potion of mind reading",
+      "potions of healing",
+      "potions of mind reading",
+      "ring of mind shielding"
+    ],
+    "locations": [
+      "Attic",
+      "Back Exit",
+      "Biblioplex",
+      "Bow’s End Tavern",
+      "Captain Dapplewing’s Study",
+      "Central Passageway",
+      "Curio Room",
+      "Dining Hall",
+      "Drawing Room",
+      "Faculty Office",
+      "Faculty Storage",
+      "Firejolt Café",
+      "Foyer",
+      "Grand Deck",
+      "Grand Hall",
+      "Grand Lounge",
+      "Hall of Beauty",
+      "Kitchen",
+      "Lorehold",
+      "Main Dining Room",
+      "Overflow Seating",
+      "Patio Seating",
+      "Portrait Salon",
+      "Quandrix",
+      "Reflection Room",
+      "Rose Stage",
+      "Sassy Sally Jane’s Phrases",
+      "Servers’ Station and Bar",
+      "Side Deck",
+      "Silverquill",
+      "Strixhaven",
+      "Student Storage",
+      "Tea Room",
+      "Veranda"
+    ],
+    "npcs": [],
+    "topics": [
+      "adventure",
+      "campus-life",
+      "exams",
+      "gm-tools",
+      "read-aloud",
+      "relationships",
+      "tables"
+    ]
+  },
+  "session": {
+    "readAloud": [
+      {
+        "id": "session-read-aloud-1",
+        "label": "Read aloud 1",
+        "excerpt": "As students mill around the central campus, whoops of excitement fill the air. It’s 6:00 p.m., and Bow’s End Tavern is open! On the tavern’s patio, three student mages with bright…"
+      },
+      {
+        "id": "session-read-aloud-2",
+        "label": "Read aloud 2",
+        "excerpt": "“I heard they’ve finally got some wizard gizzard machines in there!” the student says. “You have to come play with us!”"
+      },
+      {
+        "id": "session-read-aloud-3",
+        "label": "Read aloud 3",
+        "excerpt": "Along one side of the tavern’s main dining room, the tables and chairs have been shifted to create a large, rectangular open space. On the south side of this space, a single table…"
+      },
+      {
+        "id": "session-read-aloud-4",
+        "label": "Read aloud 4",
+        "excerpt": "Panicked shouting erupts from the tavern’s kitchen. Chef Curtie, her braided hair flapping wildly, emerges at a run, shouting and waving her arms. “The steam! It’s too spicy!” she…"
+      },
+      {
+        "id": "session-read-aloud-5",
+        "label": "Read aloud 5",
+        "excerpt": "“Big heroes on campus! You’re the talk of the school, what with your monster-dispatching ways. But can you recover the legendary Sassy Sally Jane? Many have tried. All have failed…"
+      },
+      {
+        "id": "session-read-aloud-6",
+        "label": "Read aloud 6",
+        "excerpt": "As the bright light of the central campus fades into the verdant grounds of Captain Dapplewing’s Manor, you see a small group of your peers congregated underneath a massive oak tr…"
+      },
+      {
+        "id": "session-read-aloud-7",
+        "label": "Read aloud 7",
+        "excerpt": "“This is it. Sassy Sally Jane is up there in the attic. For years, people have tried to liberate her. For years, they’ve failed. But we think this year is different. This year, yo…"
+      },
+      {
+        "id": "session-read-aloud-8",
+        "label": "Read aloud 8",
+        "excerpt": "A mahogany roof covers this porch, which is bounded by a low rail and outfitted with fine wicker furniture. Above the double door hangs a sign done in fine calligraphy: “Captain D…"
+      },
+      {
+        "id": "session-read-aloud-9",
+        "label": "Read aloud 9",
+        "excerpt": "Coat racks carved to resemble statues of individuals line the entryway into the manor beyond. The coat racks flanking the doors depict two dwarves wearing high-collared jackets. T…"
+      },
+      {
+        "id": "session-read-aloud-10",
+        "label": "Read aloud 10",
+        "excerpt": "A set of magically shifting steps connects the foyer to this spacious, open area. Beautiful, thick carpet adorns the floor, topped by a crimson runner that leads into the dining h…"
+      },
+      {
+        "id": "session-read-aloud-11",
+        "label": "Read aloud 11",
+        "excerpt": "The centerpiece of this hall is a beautifully decorated dining table, its china and silver arranged just so. Along the wall to the west is an upright piano flanked by cushioned be…"
+      },
+      {
+        "id": "session-read-aloud-12",
+        "label": "Read aloud 12",
+        "excerpt": "This salon features a comfortable sitting area and rows of portraits hung on the walls."
+      },
+      {
+        "id": "session-read-aloud-13",
+        "label": "Read aloud 13",
+        "excerpt": "This cozy drawing room holds bookcases as well as a number of easels folded and tucked in beside them. In the northeast corner, an easel holds a watercolor painting of a stylized,…"
+      },
+      {
+        "id": "session-read-aloud-14",
+        "label": "Read aloud 14",
+        "excerpt": "This hall is lined with four exquisitely carved marble busts set on gilded pedestals. The abstract busts all represent beautiful androgynous figures bedecked with jewelry carved i…"
+      },
+      {
+        "id": "session-read-aloud-15",
+        "label": "Read aloud 15",
+        "excerpt": "Pots, pans, cooking utensils, fire pits, and dry goods are tucked into every visible corner of this small kitchen. A pair of crossed sabers hangs above the shelves to the north."
+      },
+      {
+        "id": "session-read-aloud-16",
+        "label": "Read aloud 16",
+        "excerpt": "Cabinets full of curiosities line the northern wall of this room. The strange items on display here include a stuffed pheasant, a sextant dressed as a doll, and a plaque with inse…"
+      },
+      {
+        "id": "session-read-aloud-17",
+        "label": "Read aloud 17",
+        "excerpt": "This office is comfortably furnished with a wide oak desk, a high-backed leather armchair, a towering bookcase, and homey wall hangings."
+      },
+      {
+        "id": "session-read-aloud-18",
+        "label": "Read aloud 18",
+        "excerpt": "This large office serves as both parlor and study. Antique furnishings line the walls, along with the sculpted heads of several magic creatures. A heavy table and a desk are cover…"
+      },
+      {
+        "id": "session-read-aloud-19",
+        "label": "Read aloud 19",
+        "excerpt": "Daybeds piled high with pillows stand in the corners of this spacious, comfortable-looking room."
+      },
+      {
+        "id": "session-read-aloud-20",
+        "label": "Read aloud 20",
+        "excerpt": "This spacious lounge is decorated to an arcano-bio­logist’s tastes. Paintings of strange magic creatures line the walls, as do mounted collections of insects and reptiles. Three p…"
+      },
+      {
+        "id": "session-read-aloud-21",
+        "label": "Read aloud 21",
+        "excerpt": "Several delicate tea sets are arranged on the floor in this room, alongside beautifully woven kneeling rugs and cabinets against the walls."
+      },
+      {
+        "id": "session-read-aloud-22",
+        "label": "Read aloud 22",
+        "excerpt": "This cramped attic holds oddities considered too strange to display on the manor’s main floor. An adult-sized riding toy resembling a roc on a spring, a fine dress with wings made…"
+      }
+    ],
+    "rules": [
+      {
+        "id": "AllaboutOwlbears",
+        "label": "Rule box 1",
+        "excerpt": "ALL ABOUT OWLBEARS To give this Exam more flavor, describe some of the facts the characters are trying to memorize, such as the following: Owlbears are aggressive and often ill-te…"
+      },
+      {
+        "id": "TheJigIsUp",
+        "label": "Rule box 2",
+        "excerpt": "THE JIG IS UP! If the characters alert security to their unauthorized presence at the manor, they are caught when the professors arrive. The professors force the characters to ret…"
+      },
+      {
+        "id": "JustaLittleVandalism",
+        "label": "Rule box 3",
+        "excerpt": "JUST A LITTLE VANDALISM? If the characters are on their best behavior, avoiding combat and trying not to break anything, they should be able to have fun in this event without worr…"
+      },
+      {
+        "id": "AllaboutOtyughs",
+        "label": "Rule box 4",
+        "excerpt": "ALL ABOUT OTYUGHS To give this Exam more flavor, describe some of the facts the characters are trying to memorize, such as the following: If a place is disgusting, there’s a good …"
+      }
+    ],
+    "tables": [
+      {
+        "id": "BowsEndTavernMenu",
+        "label": "Bow’s End Tavern Menu",
+        "excerpt": "Bow’s End Tavern Menu Food or Beverage Cost Water Free Coffee, cola, or tea 1 cp Premium fare 4 cp Caster’s stew 2 sp Curtie’s special 2 sp"
+      },
+      {
+        "id": "Phrases",
+        "label": "Phrases",
+        "excerpt": "Phrases d6 Phrase 1 “Really? In those robes?” 2 “G-R-O-S-S. Gross.” 3 “I heard you snack on owlbear pellets.” 4 “If you say so.” 5 “How about ‘Hells, no!’” 6 “No one believes that…"
+      }
+    ],
+    "statBlocks": [],
+    "maps": [
+      {
+        "id": "session-player-map-1",
+        "label": "Map 3.3: bows end tavern",
+        "dmUrl": "https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/map-3.3-bows-end-tavern.jpg",
+        "playerUrl": "https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/map-3.3-bows-end-tavern-player.jpg"
+      },
+      {
+        "id": "session-player-map-2",
+        "label": "Map 3.4: captain dapplewing’s manor",
+        "dmUrl": "https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/map-3.4-captain-dapplewings-manor.jpg",
+        "playerUrl": "https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/map-3.4-captain-dapplewings-manor-player.jpg"
+      }
+    ],
+    "quickLinks": [
+      {
+        "depth": 2,
+        "id": "BowsEndTavern1",
+        "text": "Bow’s End Tavern",
+        "type": "scene"
+      },
+      {
+        "depth": 3,
+        "id": "BowsEndTavernFeatures",
+        "text": "Bow’s End Tavern Features",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "BowsEndTavernLocations",
+        "text": "Bow’s End Tavern Locations",
+        "type": "location"
+      },
+      {
+        "depth": 4,
+        "id": "E1PatioSeating",
+        "text": "E1. Patio Seating",
+        "type": "location"
+      },
+      {
+        "depth": 4,
+        "id": "E2MainDiningRoom",
+        "text": "E2. Main Dining Room",
+        "type": "location"
+      },
+      {
+        "depth": 4,
+        "id": "E3ServersStationandBar",
+        "text": "E3. Servers’ Station and Bar",
+        "type": "location"
+      },
+      {
+        "depth": 4,
+        "id": "E4OverflowSeating",
+        "text": "E4. Overflow Seating",
+        "type": "location"
+      },
+      {
+        "depth": 4,
+        "id": "E5BackExit",
+        "text": "E5. Back Exit",
+        "type": "location"
+      },
+      {
+        "depth": 4,
+        "id": "E6Kitchen",
+        "text": "E6. Kitchen",
+        "type": "location"
+      },
+      {
+        "depth": 3,
+        "id": "WizardGizzard",
+        "text": "Wizard Gizzard!",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "PlayingtheGame",
+        "text": "Playing the Game",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "RelationshipEncounter1",
+        "text": "Relationship Encounter",
+        "type": "relationship"
+      },
+      {
+        "depth": 3,
+        "id": "ChaosintheKitchen",
+        "text": "Chaos in the Kitchen",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "EndingtheThreat2",
+        "text": "Ending the Threat",
+        "type": "encounter"
+      },
+      {
+        "depth": 3,
+        "id": "ExaminingtheCauldrons",
+        "text": "Examining the Cauldrons",
+        "type": "reference"
+      },
+      {
+        "depth": 2,
+        "id": "MagicalPhysiologiesExamOwlbears",
+        "text": "Magical Physiologies Exam: Owlbears",
+        "type": "exam"
+      },
+      {
+        "depth": 3,
+        "id": "StudyingPhase2",
+        "text": "Studying Phase",
+        "type": "exam"
+      },
+      {
+        "depth": 3,
+        "id": "TestingPhase2",
+        "text": "Testing Phase",
+        "type": "exam"
+      },
+      {
+        "depth": 3,
+        "id": "ClassroomGossip",
+        "text": "Classroom Gossip",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "ChatterDetails",
+        "text": "Chatter Details",
+        "type": "reference"
+      },
+      {
+        "depth": 2,
+        "id": "CampusDaredevils",
+        "text": "Campus Daredevils",
+        "type": "scene"
+      },
+      {
+        "depth": 3,
+        "id": "SassySallyJane",
+        "text": "Sassy Sally Jane",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "AnExclusiveEnclave",
+        "text": "An Exclusive Enclave",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "RecoverSassySallyJane",
+        "text": "Recover Sassy Sally Jane",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "ExtraIncentive",
+        "text": "Extra Incentive",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "CaptainDapplewingsManor",
+        "text": "Captain Dapplewing’s Manor",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "EnteringtheManor",
+        "text": "Entering the Manor",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "CaptainDapplewingsManorFeatures",
+        "text": "Captain Dapplewing’s Manor Features",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "ManorLocationsC1C10",
+        "text": "Manor Locations (C1-C10)",
+        "type": "location"
+      },
+      {
+        "depth": 4,
+        "id": "C1Veranda",
+        "text": "C1. Veranda",
+        "type": "location"
+      },
+      {
+        "depth": 4,
+        "id": "C2Foyer",
+        "text": "C2. Foyer",
+        "type": "location"
+      },
+      {
+        "depth": 4,
+        "id": "C3GrandHall",
+        "text": "C3. Grand Hall",
+        "type": "location"
+      },
+      {
+        "depth": 4,
+        "id": "C4DiningHall",
+        "text": "C4. Dining Hall",
+        "type": "location"
+      },
+      {
+        "depth": 4,
+        "id": "C5PortraitSalon",
+        "text": "C5. Portrait Salon",
+        "type": "location"
+      },
+      {
+        "depth": 4,
+        "id": "C6DrawingRoom",
+        "text": "C6. Drawing Room",
+        "type": "location"
+      },
+      {
+        "depth": 4,
+        "id": "C7HallofBeauty",
+        "text": "C7. Hall of Beauty",
+        "type": "location"
+      },
+      {
+        "depth": 4,
+        "id": "C8Kitchen",
+        "text": "C8. Kitchen",
+        "type": "location"
+      },
+      {
+        "depth": 4,
+        "id": "C9CurioRoom",
+        "text": "C9. Curio Room",
+        "type": "location"
+      },
+      {
+        "depth": 4,
+        "id": "C10GrandDeck",
+        "text": "C10. Grand Deck",
+        "type": "location"
+      },
+      {
+        "depth": 3,
+        "id": "ManorLocationsC11C20",
+        "text": "Manor Locations (C11-C20)",
+        "type": "location"
+      },
+      {
+        "depth": 4,
+        "id": "C11SideDeck",
+        "text": "C11. Side Deck",
+        "type": "location"
+      },
+      {
+        "depth": 4,
+        "id": "C12FacultyOffice",
+        "text": "C12. Faculty Office",
+        "type": "location"
+      },
+      {
+        "depth": 4,
+        "id": "C13CaptainDapplewingsStudy",
+        "text": "C13. Captain Dapplewing’s Study",
+        "type": "location"
+      },
+      {
+        "depth": 4,
+        "id": "C14CentralPassageway",
+        "text": "C14. Central Passageway",
+        "type": "location"
+      },
+      {
+        "depth": 4,
+        "id": "C15FacultyStorage",
+        "text": "C15. Faculty Storage",
+        "type": "location"
+      },
+      {
+        "depth": 4,
+        "id": "C16ReflectionRoom",
+        "text": "C16. Reflection Room",
+        "type": "location"
+      },
+      {
+        "depth": 4,
+        "id": "C17GrandLounge",
+        "text": "C17. Grand Lounge",
+        "type": "location"
+      },
+      {
+        "depth": 4,
+        "id": "C18TeaRoom",
+        "text": "C18. Tea Room",
+        "type": "location"
+      },
+      {
+        "depth": 4,
+        "id": "C19StudentStorage",
+        "text": "C19. Student Storage",
+        "type": "location"
+      },
+      {
+        "depth": 4,
+        "id": "C20Attic",
+        "text": "C20. Attic",
+        "type": "location"
+      },
+      {
+        "depth": 4,
+        "id": "SassySallyJanesPhrases",
+        "text": "Sassy Sally Jane’s Phrases",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "PostQuest",
+        "text": "Post Quest",
+        "type": "reference"
+      },
+      {
+        "depth": 2,
+        "id": "Advanceto3rdLevel",
+        "text": "Advance to 3rd Level!",
+        "type": "scene"
+      },
+      {
+        "depth": 2,
+        "id": "MagicalPhysiologiesExamOtyughs",
+        "text": "Magical Physiologies Exam: Otyughs",
+        "type": "exam"
+      },
+      {
+        "depth": 3,
+        "id": "StudyingPhase3",
+        "text": "Studying Phase",
+        "type": "exam"
+      },
+      {
+        "depth": 3,
+        "id": "TestingPhase3",
+        "text": "Testing Phase",
+        "type": "exam"
+      }
+    ]
+  },
+  "anomalyFlags": [
+    {
+      "type": "reader-address",
+      "passage": "Another student is part of this scene—ideally a student the characters have interacted with, or you may choose another student from the “Fellow Students” section.",
+      "location": "Work Hard, Play Harder",
+      "anchor": "WorkHardPlayHarder",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "When you’re ready to begin this event, read or paraphrase the following, altering the text to incorporate the student’s name or other details:",
+      "location": "Work Hard, Play Harder",
+      "anchor": "WorkHardPlayHarder",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "“You have to come play with us!",
+      "location": "Work Hard, Play Harder",
+      "anchor": "WorkHardPlayHarder",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "You have a clear path to the kitchen door—and Curtie needs help!",
+      "location": "Chaos in the Kitchen",
+      "anchor": "ChaosintheKitchen",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "Once you’ve asked each player how their character is approaching the Studying phase, resolve that phase by having each character who studies make a DC 12 ability check.",
+      "location": "Studying Phase",
+      "anchor": "StudyingPhase2",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "You’re the talk of the school, what with your monster-dispatching ways.",
+      "location": "Campus Daredevils",
+      "anchor": "CampusDaredevils",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "But can you recover the legendary Sassy Sally Jane?",
+      "location": "Campus Daredevils",
+      "anchor": "CampusDaredevils",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "Meet us outside Captain Dapplewing’s Manor at midnight tonight and see if you’ve got what it takes!",
+      "location": "Campus Daredevils",
+      "anchor": "CampusDaredevils",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "When you’re ready to begin this event, read or paraphrase the following:",
+      "location": "Recover Sassy Sally Jane",
+      "anchor": "RecoverSassySallyJane",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "As the bright light of the central campus fades into the verdant grounds of Captain Dapplewing’s Manor, you see a small group of your peers congregated underneath a massive oak tree in the manor’s front yard.",
+      "location": "Recover Sassy Sally Jane",
+      "anchor": "RecoverSassySallyJane",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "hidden-actor",
+      "passage": "The painting was created using magic by a talented student as a parlor trick.",
+      "location": "C6. Drawing Room",
+      "anchor": "C6DrawingRoom",
+      "confidence": 0.68,
+      "reason": "A passive construction may conceal who performs the action."
+    }
+  ],
+  "contentHtml": "<h1 class=\"compendium-hr\" id=\"WorkHardPlayHarder\">Work Hard, Play Harder</h1>\n\n<p>A short while after their first Magical Physiologies Exam, the characters are milling about the central campus when they see some fellow students heading for Bow’s End Tavern, which has just opened for the evening. Another student is part of this scene—ideally a student the characters have interacted with, or you may choose another student from the “<a href=\"/chapters/strixhaven-relationships/#FellowStudents\" title=\"Fellow Students\">Fellow Students</a>” section.</p>\n<p>When you’re ready to begin this event, read or paraphrase the following, altering the text to incorporate the student’s name or other details:</p>\n<aside class=\"read-aloud-text\" id=\"session-read-aloud-1\">\n<p>As students mill around the central campus, whoops of excitement fill the air. It’s 6:00 p.m., and Bow’s End Tavern is open! On the tavern’s patio, three student mages with brightly colored hair begin to sing a jaunty tune and pluck at dulcimers as a crowd heads in that direction.</p>\n</aside>\n<p>A student next to the characters shouts to them excitedly.</p>\n<aside class=\"read-aloud-text\" id=\"session-read-aloud-2\">\n<p>“I heard they’ve finally got some wizard gizzard machines in there!” the student says. “You have to come play with us!”</p>\n</aside>\n<p>If a player or character expresses reluctance, have the student talk up the game of Wizard Gizzard and the people already at the tavern to persuade the characters to join them for the game.</p>\n<h2 class=\"compendium-hr heading-anchor\" id=\"BowsEndTavern1\">Bow’s End Tavern</h2>\n<p>Bow’s End Tavern is Strixhaven’s most popular late-night hangout. It opens at 6:00 p.m. and closes at 11:00 p.m. on class nights and 2:00 a.m. on weekends.</p>\n<p>The tavern is a squat but comfortable-looking building, its gleaming wooden exterior carved in overlapping Strixhaven star motifs. The interior is dim and cozy (if loud), featuring rich mahogany floors and well-worn furniture of oak and black leather. Live musical acts often set up on the tavern’s patio, including performing groups made up of students, faculty, and staff alike.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"BowsEndTavernFeatures\">Bow’s End Tavern Features</h3>\n<p>The tavern has the following features:</p>\n<p><strong>Lighting.</strong> The magical lights inside the tavern are muted, but creatures can still see normally in all areas.</p>\n<p><strong>Ceilings.</strong> The tavern’s ceilings are 20 feet high.</p>\n<p><strong>Doors.</strong> After closing, all exterior doors to the patio and tavern are closed, locked, and sealed with an <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2003-arcane-lock\" data-tooltip-href=\"/spells/2003-tooltip\">arcane lock</a> spell. A successful DC 25 Dexterity check using thieves’ tools opens the lock (DC 35 while the <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2003-arcane-lock\" data-tooltip-href=\"/spells/2003-tooltip\">arcane lock</a> is in effect). Only certain student employees and Tulk “The Bulk” Tusktooth, the tavern’s manager (see <a href=\"#E3ServersStationandBar\" title=\"area E3\">area E3</a>), know the <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2003-arcane-lock\" data-tooltip-href=\"/spells/2003-tooltip\">arcane lock</a>’s password.</p>\n<p><strong>Magic Steps.</strong> The steps marking the boundary between the overflow seating area (<a href=\"#E4OverflowSeating\" title=\"area E4\">area E4</a>) and the main dining room (<a href=\"#E2MainDiningRoom\" title=\"area E2\">area E2</a>) are enchanted to move and reshape themselves for full accessibility. See the “<a href=\"/chapters/strixhaven-campus-kerfuffle/#StrixhavenAccessibility\" title=\"Strixhaven Accessibility\">Strixhaven Accessibility</a>” sidebar.</p>\n<p><strong>Patrons.</strong> Students of all years and colleges can be found in Firejolt Café. See <a href=\"/chapters/strixhaven-friends-and-foes/\" title=\"chapter 7\">chapter 7</a> for stat blocks for <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160303-first-year-student\" data-tooltip-href=\"/monsters/2160303-tooltip\">first-year students</a>, and for apprentices and pledgemages from the different colleges.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"BowsEndTavernLocations\">Bow’s End Tavern Locations</h3>\n<p>The following locations are keyed to map 3.3. All descriptions assume the characters are in the tavern during its hours of operation. Outside of those hours, the tavern is locked and devoid of other students or staff, except for Tulk Tusktooth and a few staff members who perform cleaning duties during the day.</p>\n<figure id=\"Map33bowsendtavern\" class=\"compendium-image\">\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/map-3.3-bows-end-tavern.jpg\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/map-3.3-bows-end-tavern.jpg\" class=\"ddb-lightbox-inner compendium-center-banner-img\" style=\"width: 850px;\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a>\n<figcaption>Map 3.3: bows end tavern <a class=\"ddb-lightbox-outer\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/map-3.3-bows-end-tavern-player.jpg\" data-lightbox=\"1\" data-title=\"View Player Version\" id=\"session-player-map-1\">View Player Version</a></figcaption>\n</figure>\n<h4 class=\"compendium-hr heading-anchor\" id=\"E1PatioSeating\">E1. Patio Seating</h4>\n<p>This outdoor seating area is fenced off and is open to tavern customers and noncustomers alike. The patio doors and the front doors leading into the building are closed except when the tavern is open.</p>\n<p>Up to thirty-five students can typically be found here during opening hours, eating and chatting. Additionally, at least two older student employees work in this area as servers.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"E2MainDiningRoom\">E2. Main Dining Room</h4>\n<p>The most crowded area of the tavern is filled with students. At opening hour, the tavern’s seating is arranged neatly, as shown on the map. In short order, though, student patrons shift the tables and chairs to accommodate the hangouts, tavern games, and other shenanigans happening in this area.</p>\n<p>Anywhere from fifty to seventy students are typically found here, eating, drinking, and socializing. Additionally, at least four older student employees work in this area as servers.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"E3ServersStationandBar\">E3. Servers’ Station and Bar</h4>\n<p>The server’s station stands at the center of Bow’s End Tavern, where up to four older student employees make drinks for the tavern’s patrons and pass orders for food to the kitchen.</p>\n<p>The food on offer at the tavern includes caster’s stew—a hearty bowl of venison, gravy, and root vegetables, served with mashed potatoes and thick-cut toast. Curtie’s Special is named for Chef Curtie Axechucker (see <a href=\"#E6Kitchen\" title=\"area E6\">area E6</a>) and rotates between dishes she calls “garden surprise,” “magister’s delight,” “macaroni and sausages,” and “rat ratatouille.” No one knows the ingredients used in these dishes, though servers always ask patrons about possible allergies. The table below lists the tavern’s menu and prices.</p>\n<p>The bar surrounding the servers’ station serves a variety of drinks. This area is often rowdy, so student employee Javenesh Stoutclaw (neutral good owlin <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160308-lorehold-apprentice\" data-tooltip-href=\"/monsters/2160308-tooltip\">Lorehold apprentice</a>; see the “<a href=\"/chapters/strixhaven-relationships/#JaveneshStoutclaw\" title=\"Fellow Students\">Fellow Students</a>” section) remains watchful. From thirty-five to forty-five students are typically found at the bar.</p>\n<p>The tavern’s manager also keeps an eye on this area. Tulk “The Bulk” Tusktooth (lawful good orc <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/16903-gladiator\" data-tooltip-href=\"/monsters/16903-tooltip\">gladiator</a>) is a Strixhaven employee with a kind demeanor but no tolerance for misbehavior. Tulk’s nickname comes from his imposing physical presence at a burly, muscle-bound height of nearly seven feet—though his warm smile gleams as brightly as his signature golden earring. He is a good friend to Javenesh Stoutclaw, and anyone who puts the owlin in danger must answer to Tulk.</p>\n<table id=\"BowsEndTavernMenu\" class=\"table-compendium table--left-all\">\n<caption class=\"heading-anchor\"><a href=\"#BowsEndTavernMenu\"></a>Bow’s End Tavern Menu</caption>\n<thead>\n<tr>\n<th>Food or Beverage</th>\n<th>Cost</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Water</td>\n<td>Free</td>\n</tr>\n<tr>\n<td>Coffee, cola, or tea</td>\n<td>1 cp</td>\n</tr>\n<tr>\n<td>Premium fare</td>\n<td>4 cp</td>\n</tr>\n<tr>\n<td>Caster’s stew</td>\n<td>2 sp</td>\n</tr>\n<tr>\n<td>Curtie’s special</td>\n<td>2 sp</td>\n</tr>\n</tbody>\n</table>\n<h4 class=\"compendium-hr heading-anchor\" id=\"E4OverflowSeating\">E4. Overflow Seating</h4>\n<p>The quietest part of the tavern, this seating area is the place students go to escape the noise of the main dining room. From ten to twenty students are usually found in this area, relaxing or engaged in conversation. Additionally, at least one older student employee can be found working here as a server.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"E5BackExit\">E5. Back Exit</h4>\n<p>These areas afford access to the small stalls that serve as privies for the tavern and each feature a door that leads to the tavern’s back lot. These exits are marked “Staff Only” but aren’t locked during operating hours, acting as loading areas for receiving supplies throughout the night.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"E6Kitchen\">E6. Kitchen</h4>\n<p>The tavern’s food orders are prepared in this large kitchen, overseen by Curtie Axechucker (chaotic neutral dwarf <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/16829-commoner\" data-tooltip-href=\"/monsters/16829-tooltip\">commoner</a>), a Strixhaven employee and beloved personality on campus. Chef Curtie views cooking as an art, and she teaches the four students who work for her to cook using hunches and passion instead of precision or science.</p>\n<p>Curtie lives by her teachings (and is said to augment her culinary creations with a little bit of magic), so that no two dishes she or her apprentices cook are ever the same. The chef’s signature cries of “Make it spicy!” and “It needs more love!” frequently echo from the kitchen into the overflow seating area. The chef hires all student cooks, so characters who wish to work in the kitchen must approach her directly.</p>\n<p>The most prominent features in the kitchen are the cooking cauldrons along the north wall, which are always bubbling with strange and wonderful concoctions. A small break room is set in the northwest corner of the kitchen, while a pantry takes up much of the east wall.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"WizardGizzard\">Wizard Gizzard!</h3>\n<p>Characters following the student who invited them to play Wizard Gizzard are led to the main dining room (<a href=\"#E2MainDiningRoom\" title=\"area E2\">area E2</a>) of Bow’s End Tavern. Read or paraphrase the following:</p>\n<aside class=\"read-aloud-text\" id=\"session-read-aloud-3\">\n<p>Along one side of the tavern’s main dining room, the tables and chairs have been shifted to create a large, rectangular open space. On the south side of this space, a single table stands flush against the wall. On it are a few strange-looking boxes with funnels protruding from them at an angle. Twenty feet opposite the table, a small bucket rests on the floor.</p>\n</aside>\n<p>The devices on the table are called wizard gizzards. Instructors use them to help student-mages practice their aim with magical rays. When a character strikes the top of a wizard gizzard, it shoots a sphere made of magic out of its attached funnel. The sphere dissipates whenever it touches anything—a ray, a creature, or a hard surface, for example.</p>\n<p>These minor magic items have a short life span, and as they age, they begin to emit loud clucking noises when they shoot their spheres. Students joke that the spheres begin to look like gizzards, hence their name. Every term, students collect cast-off wizard gizzards that have grown too unpredictable for classroom use and then use the wizard gizzards in the game of the same name. This night at Bow’s End Tavern is the first such event of the term, and enthusiasm is running high.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"PlayingtheGame\">Playing the Game</h4>\n<p>In this scene, the characters have the opportunity to play a game of Wizard Gizzard for a prize. A character can participate in the fun in one of the following ways:</p>\n<p><strong>Play the Game.</strong> The rules are simple: lob a sphere from the wizard gizzard and have the sphere land inside the bucket on the floor. The game takes 1 minute to play, and the character who lands the most spheres in the bucket during that minute wins the game. To determine how many spheres a character lands in the bucket, have the character make a Dexterity (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/6-tooltip\">Arcana</a>) check and divide the total by 3 (round down). If two or more characters land the same number of spheres in the bucket, have those characters repeat the check during a tiebreaker round. Continue to run tiebreaker rounds until one character wins.</p>\n<p><strong>Encourage a Participant.</strong> If a character shouts encouragement to a participant, that participant has advantage on their Dexterity (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/6-tooltip\">Arcana</a>) check.</p>\n<p><strong>Heckle a Participant.</strong> If a character jeers at a participant, that participant has disadvantage on their Dexterity (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/6-tooltip\">Arcana</a>) check.</p>\n<p>After setting the scene and explaining the rules, reveal that a <a class=\"tooltip-hover magic-item-tooltip\" href=\"https://www.dndbeyond.com/magic-items/2965260-gray-bag-of-tricks\" data-tooltip-href=\"/magic-items/2965260-tooltip\">bag of tricks (gray)</a> will be awarded to the winner of the next game. The bag belongs to Javenesh Stoutclaw (see the “<a href=\"/chapters/strixhaven-relationships/#JaveneshStoutclaw\" title=\"Fellow Students\">Fellow Students</a>” section), a second-year Lorehold College student and the tavern’s assistant manager. Javenesh doesn’t need the bag and is entertained by watching first-year students compete to win. He also secretly hopes that sponsoring the game might win him more friends on campus.</p>\n<figure class=\"compendium-image\" id=\"imgtavern\">\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/03-032.tavern.png\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/03-032.tavern.png\" class=\"ddb-lightbox-inner compendium-center-banner-img\" style=\"width: 850px;\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a>\n<figcaption>Bow’s End Tavern caters to a wide range of tastes and dietary needs</figcaption>\n</figure>\n<h4 class=\"compendium-hr heading-anchor\" id=\"RelationshipEncounter1\">Relationship Encounter</h4>\n<p>Before and after the game, characters might mingle with other students. If there are students the characters wish to earn Relationship Points with, treat this as a <a href=\"/chapters/strixhaven-relationships/#UsingTheseRules\" title=\"Relationship encounter\">Relationship encounter</a>, as described in those rules. For example, a character who loses the game but is gracious toward the winner might earn the winner’s respect and seed a friendship.</p>\n<p>Don’t forget to have players note the results of this encounter on the tracking sheet.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"ChaosintheKitchen\">Chaos in the Kitchen</h3>\n<p>Even as the game of Wizard Gizzard ends and a winner is declared, Bow’s End Tavern erupts into pandemonium. Read or paraphrase the following:</p>\n<aside class=\"read-aloud-text\" id=\"session-read-aloud-4\">\n<p>Panicked shouting erupts from the tavern’s kitchen. Chef Curtie, her braided hair flapping wildly, emerges at a run, shouting and waving her arms.</p>\n<p>“The steam! It’s too spicy!” she cries. “It’s trying to kill us! Someone, please help!”</p>\n<p>The tavern is so busy that most of its patrons don’t immediately notice Curtie’s panic. Tulk Tusktooth does, but he’s momentarily overwhelmed by those students in the overflow seating who have noticed—and who are trying to get away from the kitchen as fast as they can. You have a clear path to the kitchen door—and Curtie needs help!</p>\n</aside>\n<p>When the characters enter <a href=\"#E6Kitchen\" title=\"area E6\">area E6</a>, they find the kitchen’s student cooks <a class=\"tooltip-hover condition-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#UnconsciousCondition\" data-tooltip-href=\"/conditions/15-tooltip\">unconscious</a> on the floor, while four <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/17022-steam-mephit\" data-tooltip-href=\"/monsters/17022-tooltip\">steam mephits</a> fly around the cauldrons. As in the previous scenes, one of the cooks can be another student the characters have interacted with, filling in for an absent cook for the evening.</p>\n<p>The hostile mephits attack as soon as the characters appear, but they aren’t the only threat in the kitchen. Horrid masses of summoned skittering bugs suddenly pour out of bags and boxes of ingredients in the food prep areas, just as other students storm into the kitchen behind the characters. While the characters take on the more dangerous mephits, describe their friends and fellow students working in the background alongside them to help clear the bugs out of the kitchen. As soon as the mephits are dispatched, the magic flaring up in the kitchen fades.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"EndingtheThreat2\">Ending the Threat</h4>\n<p>If all the characters fall <a class=\"tooltip-hover condition-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#UnconsciousCondition\" data-tooltip-href=\"/conditions/15-tooltip\">unconscious</a> during the fight, Tulk shows up at the start of the next round and dispatches the mephits. Tulk has two <a class=\"tooltip-hover item-tooltip\" href=\"https://www.dndbeyond.com/equipment/71-potion-of-healing\" data-tooltip-href=\"/adventuring-gear/71-tooltip\">potions of healing</a> stored behind the servers’ station, and he offers them to any injured characters. If the discussion turns to what happened, Tulk explains that sometimes Curtie’s culinary experiments go awry, so such chaos in the kitchen isn’t unheard of. For her part, Curtie insists that the mephits were not part of any new recipe test, and that they came out of nowhere.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"ExaminingtheCauldrons\">Examining the Cauldrons</h3>\n<p>Once the mephits are dispatched, a successful DC 12 Wisdom (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/14-tooltip\">Perception</a>) check reveals the same oily black substance on the cauldrons that the characters might have seen belched out by the frogs before the Firejolt Café race and found on the trunk during orientation. If the characters ask either Tulk Tusktooth or Curtie Axechucker about the substance, both suspect that one of the many magic unguents used on campus might have gotten corrupted. They have no way of knowing that Murgaxor’s corrupted eldritch balm is the unguent in question and no idea what else might be affected.</p>\n<h2 class=\"compendium-hr heading-anchor\" id=\"MagicalPhysiologiesExamOwlbears\">Magical Physiologies Exam: Owlbears</h2>\n<p>The characters’ second Exam in Magical Physiologies takes place a short while after the Wizard Gizzard game and sees students tested on their knowledge of <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/16975-owlbear\" data-tooltip-href=\"/monsters/16975-tooltip\">owlbears</a>.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"StudyingPhase2\">Studying Phase</h3>\n<p>The day before the Exam, a character can study the course material. A character can use any ability check and skill during this Studying phase.</p>\n<p>Once you’ve asked each player how their character is approaching the Studying phase, resolve that phase by having each character who studies make a DC 12 ability check. Make sure players keep track of their characters’ rerolls from this phase and apply them during the Testing phase.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"TestingPhase2\">Testing Phase</h3>\n<p>On the day of the Exam, each character makes two ability checks related to parts of the test:</p>\n<p><strong>Owlbear Disposition and Habits.</strong> Choosing the correct multiple choice answers regarding owlbears’ hunting, eating, mating, fighting, and living habits requires a successful DC 12 Intelligence (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/9-tooltip\">Nature</a>) check.</p>\n<p><strong>Owlbear Companions.</strong> Writing short essays on common methods for taming, training, and handling owlbears and on keeping owlbears as companions requires a successful DC 12 Wisdom (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/11-tooltip\">Animal Handling</a>) check.</p>\n<p>Have each player note their character’s Exam results—how many Student Dice they gained and what skills they used during the test—on their copies of the tracking sheet.</p>\n<aside class=\"rules-text\" id=\"AllaboutOwlbears\">\n<p>ALL ABOUT OWLBEARS</p>\n<p>To give this Exam more flavor, describe some of the facts the characters are trying to memorize, such as the following:</p>\n<ul>\n<li><a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/16975-owlbear\" data-tooltip-href=\"/monsters/16975-tooltip\">Owlbears</a> are aggressive and often ill-tempered carnivores. They are known to attack without provocation.</li>\n<li>Owlbears most often live in caves or ruins. The bones of their prey serve as their beds and playgrounds.</li>\n<li>Owlbears attack with their razor-sharp beaks and claws.</li>\n<li>Many scholars believe a kooky wizard created the first owlbear in a breeding experiment gone awry. However, some elves claim owlbears have always existed in the Feywild.</li>\n<li>Although they aren’t naturally drawn to cupcakes and muffins, these foods are known to quell an owlbear’s foul temper. Arcano-biologists believe they quell the creatures’ rumbling acid reflux.</li>\n<li>Owlbears respond best to training that mimics exactly what their trainer wishes them to do. Crawling on one’s hands and knees is often the best way to teach an owlbear to be a mount, for example.</li>\n<li>An owlbear’s screech sounds vaguely similar to the cry of an enormous owl with terrible indigestion. Owls don’t suffer from indigestion, though, making this a sure sign that an owlbear is nearby.</li>\n</ul>\n</aside>\n<h3 class=\"compendium-hr heading-anchor\" id=\"ClassroomGossip\">Classroom Gossip</h3>\n<p>After the exam, the characters overhear their peers talking excitedly about certain magical and monstrous creatures’ likenesses being used in the upcoming Rose Stage Festival, an improvisational outdoor play (see “<a href=\"/chapters/strixhaven-all-the-worlds-a-stage/\" title=\"All the World’s a Stage\">All the World’s a Stage</a>” later in this chapter).</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"ChatterDetails\">Chatter Details</h4>\n<p>The characters might hear any of the following remarks. The first two rumors are more or less true, while the second two aren’t:</p>\n<p><strong>Owlbear Prop.</strong> “The Playactors Drama Guild has combined the hide of a bear and an owl head taxidermy to create a weird owlbear prop.”</p>\n<p><strong>Basilisk Prop.</strong> “A prop at this year’s festival uses flashes of light to simulate a gaze attack, just like a basilisk.”</p>\n<p><strong>Chimera Prop.</strong> “The drama guild plans to use dragon, goat, and lion puppets to simulate a chimera. Someone has figured out how to magically replicate those creatures’ sounds.</p>\n<p><strong>Black Dragon Prop.</strong> “Someone wants to summon and control a real young black dragon on stage. No way will that work!”</p>\n<figure id=\"imgassistants\" class=\"compendium-image\">\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/03-033.biblioplex-assistants.png\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/03-033.biblioplex-assistants.png\" class=\"ddb-lightbox-inner compendium-center-banner-img\" style=\"width: 850px;\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a>\n<figcaption>Students keep the biblioplex assistants busy with their many requests while studying</figcaption>\n</figure>\n<h2 class=\"compendium-hr heading-anchor\" id=\"CampusDaredevils\">Campus Daredevils</h2>\n<p>A short while after their second Magical Physiologies Exam, a student the characters have interacted with before (or a random student from the “<a href=\"/chapters/strixhaven-relationships/#FellowStudents\" title=\"Fellow Students\">Fellow Students</a>” section earlier in the chapter) rushes up to one of the characters, stuffs a handwritten note into their grasp, winks, and dashes away. The note is crumpled and slightly damp. It reads:</p>\n<aside class=\"read-aloud-text\" id=\"session-read-aloud-5\">\n<p>“Big heroes on campus! You’re the talk of the school, what with your monster-dispatching ways. But can you recover the legendary Sassy Sally Jane? Many have tried. All have failed. Meet us outside Captain Dapplewing’s Manor at midnight tonight and see if you’ve got what it takes!”</p>\n</aside>\n<p>The note isn’t signed, but will be later revealed as coming from a student the characters know.</p>\n<p>The characters have several hours before their peers are expecting them at midnight, so allow them to prepare for this outing any way they wish. Provide them with the following information, and then when they’re ready, go to the “Recover Sassy Sally Jane” section below.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"SassySallyJane\">Sassy Sally Jane</h3>\n<p>The talk of the campus for decades, Sassy Sally Jane is a pink-haired doll in a patchwork tartan dress. Inside the doll is a voice box that some clever students rigged to repeat rude phrases whenever the doll’s hand is squeezed. Jokesters used it to irritate faculty and staff members extensively before it was confiscated. The doll has sat in the attic of Captain Dapplewing’s Manor ever since, alongside other broken, malfunctioning, or forbidden items.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"AnExclusiveEnclave\">An Exclusive Enclave</h3>\n<p>Captain Dapplewing’s manor house is used as a learning annex by esteemed dual-college faculty members and their favored students.</p>\n<p>A two-story home, the house is located on the central campus and serves as both faculty offices and the setting for lavish dinner parties and intellectual gatherings. A character knows all the information in the “<a href=\"#CaptainDapplewingsManor\" title=\"Captain Dapplewing’s Manor\">Captain Dapplewing’s Manor</a>” section later in this chapter with a successful DC 12 Intelligence (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/7-tooltip\">History</a>) check.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"RecoverSassySallyJane\">Recover Sassy Sally Jane</h3>\n<p>Once the characters are prepared, they can make their way to Captain Dapplewing’s Manor. It’s easy to find on the central campus, since a well-lit path leads right up to the house, and a few students are milling around outside. Once they notice the characters heading their way, these students get visibly excited.</p>\n<p>Another student is part of this scene—ideally a student the characters have interacted with, or you may choose another student from the “<a href=\"/chapters/strixhaven-relationships/#FellowStudents\" title=\"Fellow Students\">Fellow Students</a>” section.</p>\n<p>When you’re ready to begin this event, read or paraphrase the following:</p>\n<aside class=\"read-aloud-text\" id=\"session-read-aloud-6\">\n<p>As the bright light of the central campus fades into the verdant grounds of Captain Dapplewing’s Manor, you see a small group of your peers congregated underneath a massive oak tree in the manor’s front yard.</p>\n</aside>\n<p>One student turns to another and says in a stage whisper, “I told you they’d arrive! Now pay up, you goof!” Turning to the characters, the student points to the manor house and says:</p>\n<aside class=\"read-aloud-text\" id=\"session-read-aloud-7\">\n<p>“This is it. Sassy Sally Jane is up there in the attic. For years, people have tried to liberate her. For years, they’ve failed. But we think this year is different. This year, you’re on campus.”</p>\n<p>“You’re looking for a pink-haired doll wearing a patchwork tartan dress. Now, go in there and become campus legends. If you can bring her back, we’ll all pay for your lunches for a week. No, for a month!”</p>\n</aside>\n<h4 class=\"compendium-hr heading-anchor\" id=\"ExtraIncentive\">Extra Incentive</h4>\n<p>If the characters are hesitant to take this dare, a student with whom a character has at least 1 Relationship Point approaches them. The student misses their younger brother terribly and has decided that Sassy Sally Jane would make an excellent gift. The student offers the characters a <a class=\"tooltip-hover magic-item-tooltip\" href=\"https://www.dndbeyond.com/magic-items/5349-driftglobe\" data-tooltip-href=\"/magic-items/5349-tooltip\">driftglobe</a> in exchange for retrieving Sassy Sally Jane and giving them the doll.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"CaptainDapplewingsManor\">Captain Dapplewing’s Manor</h3>\n<p>Tucked at the end of a leafy path on the central campus, Captain Dapplewing’s Manor is a quiet relaxation spot for elite faculty as well as a place of academic meditation and counseling for their students. The manor dates to the earliest days of Strixhaven, when the owlin mage and military veteran Captain Raymous Dapplewing held faculty appointments in both Lorehold and Silverquill Colleges. Wanting a quiet place to retire in the evenings—and to host lavish dinner-parties-turned-colloquiums—the professor used his significant military pension to build this manor house on campus.</p>\n<p>Upon his death, Captain Dapplewing bequeathed the manor to the university, which honored his legacy by giving the house his name and keeping most of its original furnishings in pristine condition. The house’s upper-floor libraries were converted into offices for esteemed dual-college faculty members, and those faculty members meet here with students on academic matters during the day. In the evenings, the manor is the site of dinner parties and elegant cocktail hours for those faculty members, their most promising students, and visiting alumni.</p>\n<p>Since no one permanently lives in Captain Dapplewing’s Manor, the building is closed and locked from 10:00 p.m. until 6:00 a.m. Because it holds many valuable antiques and volumes of sensitive research, security measures are in place in the manor, as described below.</p>\n<aside class=\"rules-text\" id=\"TheJigIsUp\">\n<p>THE JIG IS UP!</p>\n<p>If the characters alert security to their unauthorized presence at the manor, they are caught when the professors arrive. The professors force the characters to return to their dormitories, but the characters are free to undertake this mission another night. If they’re caught more than once, the characters must attend special behavioral classes that prevent them from participating in any Extracurriculars or Jobs for the rest of the academic year. The characters immediately lose any benefits from these activities.</p>\n</aside>\n<h4 class=\"compendium-hr heading-anchor\" id=\"EnteringtheManor\">Entering the Manor</h4>\n<p>Once the characters are ready to go, allow them to approach the house in any way they see fit. The easiest way to access the manor is through its locked front doors (area C1), although characters could easily try to access the manor via one of the decks at the back (areas C10 and C11).</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"CaptainDapplewingsManorFeatures\">Captain Dapplewing’s Manor Features</h4>\n<p>The manor has the following features:</p>\n<p><strong>Ceilings.</strong> The ceilings throughout the manor are 20 feet high.</p>\n<p><strong>Doors.</strong> The manor’s outside doors (in <a href=\"#C1Veranda\" title=\"areas C1\">areas C1</a>, <a href=\"#C10GrandDeck\" title=\"C10\">C10</a>, and <a href=\"#C11SideDeck\" title=\"C11\">C11</a>) are locked. A character can pick a lock with a successful DC 15 Dexterity check using thieves’ tools. Anyone can easily break the glass doors, but doing so summons security (see below). The inside doors are unlocked unless otherwise noted.</p>\n<p><strong>Lighting.</strong> By night, the interior of the manor is in darkness.</p>\n<p><strong>Magic Stairs.</strong> Stairs and steps in the manor are enchanted to move and reshape themselves for full accessibility.</p>\n<p><strong>Transport Circles.</strong> A runic circle is painted on the floor near each staircase in the manor, as well as at the top and bottom of the steps leading inside the building in area C1. These circles are permanent, customized teleportation circles. Anyone can move onto a circle and mentally focus on the floor to which they wish to travel. (The circle leading to the attic is in the manor’s hidden staircase, which must be found first.) When a character is teleported from a circle near a staircase, they arrive on the destination floor on the runic circle nearest the corresponding staircase. The circle outside the main entrance automatically transports characters directly in front of the manor’s front doors.</p>\n<p><strong>Security.</strong> If an outside door is smashed or the characters engage in noticeable vandalism, a <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160332-silverquill-professor-of-radiance\" data-tooltip-href=\"/monsters/2160332-tooltip\">Silverquill professor of radiance</a> and a <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160324-quandrix-professor-of-substance\" data-tooltip-href=\"/monsters/2160324-tooltip\">Quandrix professor of substance</a> (see <a href=\"/chapters/strixhaven-friends-and-foes/\" title=\"chapter 7\">chapter 7</a> for both) arrive at the manor in 1d4 rounds. Both are serving as campus security for the night and deal with the characters as noted in the sidebar “<a href=\"#TheJigIsUp\" title=\"The Jig Is Up!\">The Jig Is Up!</a>”</p>\n<aside class=\"rules-text\" id=\"JustaLittleVandalism\">\n<p>JUST A LITTLE VANDALISM?</p>\n<p>If the characters are on their best behavior, avoiding combat and trying not to break anything, they should be able to have fun in this event without worrying about lasting damage to the manor. All the Constructs here (including the Earl and the dragon heads plaque) have a self-restoring quality that allows them to repair damage taken during a skirmish. But if characters egregiously smash open doors or engage in property damage, impose repercussions even if their mission to retrieve Sassy Sally Jane is successful.</p>\n</aside>\n<h3 class=\"compendium-hr heading-anchor\" id=\"ManorLocationsC1C10\">Manor Locations (C1-C10)</h3>\n<p>The following locations are keyed to map 3.4. The descriptions assume the characters explore the manor after class hours. During the day, the manor is open, with students and faculty throughout.</p>\n<figure id=\"Map34captaindapplewingsmanor\" class=\"compendium-image\">\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/map-3.4-captain-dapplewings-manor.jpg\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/map-3.4-captain-dapplewings-manor.jpg\" class=\"ddb-lightbox-inner compendium-center-banner-img\" style=\"width: 850px;\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a>\n<figcaption>Map 3.4: captain dapplewing’s manor <a class=\"ddb-lightbox-outer\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/map-3.4-captain-dapplewings-manor-player.jpg\" data-lightbox=\"1\" data-title=\"View Player Version\" id=\"session-player-map-2\">View Player Version</a></figcaption>\n</figure>\n<h4 class=\"compendium-hr heading-anchor\" id=\"C1Veranda\">C1. Veranda</h4>\n<aside class=\"read-aloud-text\" id=\"session-read-aloud-8\">\n<p>A mahogany roof covers this porch, which is bounded by a low rail and outfitted with fine wicker furniture. Above the double door hangs a sign done in fine calligraphy: “Captain Dapplewing’s Manor.”</p>\n</aside>\n<p>A search of the veranda and a successful DC 15 Wisdom (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/14-tooltip\">Perception</a>) check turns up a key to the front door stashed inside the potted plant. A faculty member who often loses their keys placed this spare here.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"C2Foyer\">C2. Foyer</h4>\n<aside class=\"read-aloud-text\" id=\"session-read-aloud-9\">\n<p>Coat racks carved to resemble statues of individuals line the entryway into the manor beyond. The coat racks flanking the doors depict two dwarves wearing high-collared jackets. The other coat racks on the left depict a one-tusked loxodon, a monocle-wearing orc, and a gnome with a skunk for a hairpiece. The statues on the right depict a drow wearing a scarf, a burly human in a tuxedo, and a high elf in a cowl.</p>\n</aside>\n<p>With successful DC 15 Intelligence (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/7-tooltip\">History</a>) check, a character recalls that the individuals depicted were Captain Dapplewing’s favorite military compatriots, all great friends of Strixhaven.</p>\n<p>A character who succeeds on a DC 15 Wisdom (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/14-tooltip\">Perception</a>) check notices that the boxy dwarf “coat racks” are moving slightly. Both are designed to serve as attendants and use the <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/17180-duodrone\" data-tooltip-href=\"/monsters/17180-tooltip\">duodrone</a> stat block. Without professors to control them, the coat racks attack the characters either when they first notice the coat racks moving or as they move into area C3.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"C3GrandHall\">C3. Grand Hall</h4>\n<aside class=\"read-aloud-text\" id=\"session-read-aloud-10\">\n<p>A set of magically shifting steps connects the foyer to this spacious, open area. Beautiful, thick carpet adorns the floor, topped by a crimson runner that leads into the dining hall beyond. From the corner of your eye, you see a formally attired figure.</p>\n</aside>\n<p>Normally a place where people socialize while they wait for dinner, this space is occupied at night by a clockwork butler nicknamed the Earl, which paces back and forth. The Earl wears a silver waistcoat, a black jacket with tails, and a cravat, and it uses the <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160335-strixhaven-campus-guide\" data-tooltip-href=\"/monsters/2160335-tooltip\">Strixhaven campus guide</a> stat block (see <a href=\"/chapters/strixhaven-friends-and-foes/#StrixhavenCampusGuide\" title=\"chapter 7\">chapter 7</a>). Without anyone to correct it, the butler believes the characters are burglars. It shouts a warning in Common—“The Earl commands you to leave!”—before attacking.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"C4DiningHall\">C4. Dining Hall</h4>\n<aside class=\"read-aloud-text\" id=\"session-read-aloud-11\">\n<p>The centerpiece of this hall is a beautifully decorated dining table, its china and silver arranged just so. Along the wall to the west is an upright piano flanked by cushioned benches. To the east stands a fireplace, its embers still glowing.</p>\n</aside>\n<p>The Earl in area C3 sets the table every night before the manor is closed and locked. A character who searches under the table and succeeds on a DC 15 Wisdom (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/14-tooltip\">Perception</a>) check finds a small velvet coin purse someone dropped. Inside is 15 gp.</p>\n<p>The piano is functional and magical. If a character tries to play it, the piano plays an entire jaunty, military-style march. This alerts the Earl in area C3 to the presence of intruders, if the characters have not already encountered the clockwork butler.</p>\n<p><em><strong>Treasure.</strong></em> The fireplace has a number of implements for tending the fire set to one side of it. A character who examines these implements and succeeds on a DC 15 Intelligence (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/8-tooltip\">Investigation</a>) check discovers a poker with a silvered end that can be easily removed and used as a silvered dagger.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"C5PortraitSalon\">C5. Portrait Salon</h4>\n<aside class=\"read-aloud-text\" id=\"session-read-aloud-12\">\n<p>This salon features a comfortable sitting area and rows of portraits hung on the walls.</p>\n</aside>\n<p>A character who examines the paintings recognizes that they feature several historical Strixhaven professors, as well as the friends of the university depicted in the coat racks in <a href=\"#C2Foyer\" title=\"area C2\">area C2</a>.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"C6DrawingRoom\">C6. Drawing Room</h4>\n<aside class=\"read-aloud-text\" id=\"session-read-aloud-13\">\n<p>This cozy drawing room holds bookcases as well as a number of easels folded and tucked in beside them. In the northeast corner, an easel holds a watercolor painting of a stylized, chicken-like reptilian creature lounging in a baroque style.</p>\n</aside>\n<p>The painting was created using magic by a talented student as a parlor trick. If a character touches the painting, the creature in the painting disappears and a <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/16828-cockatrice\" data-tooltip-href=\"/monsters/16828-tooltip\">cockatrice</a> appears beside the character. The confused creature attacks, then winks out of existence when defeated.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"C7HallofBeauty\">C7. Hall of Beauty</h4>\n<aside class=\"read-aloud-text\" id=\"session-read-aloud-14\">\n<p>This hall is lined with four exquisitely carved marble busts set on gilded pedestals. The abstract busts all represent beautiful androgynous figures bedecked with jewelry carved into its stone—and with a single, twelve-foot-long fur stole wrapped around the shoulders of all four statues.</p>\n</aside>\n<p>A student’s magic trick, the stoles in both these areas each animate into a <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/17199-fire-snake\" data-tooltip-href=\"/monsters/17199-tooltip\">fire snake</a> if any character moves within 5 feet of the busts. The fire snakes wink out of existence when defeated.</p>\n<figure class=\"compendium-image\" id=\"imgstudentcaught\">\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/03-034.png\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/03-034.png\" class=\"ddb-lightbox-inner compendium-center-banner-img\" style=\"width: 850px;\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a>\n<figcaption>Students caught breaking into Captain Dapplewing’s Manor after hours face punishment</figcaption>\n</figure>\n<h4 class=\"compendium-hr heading-anchor\" id=\"C8Kitchen\">C8. Kitchen</h4>\n<aside class=\"read-aloud-text\" id=\"session-read-aloud-15\">\n<p>Pots, pans, cooking utensils, fire pits, and dry goods are tucked into every visible corner of this small kitchen. A pair of crossed sabers hangs above the shelves to the north.</p>\n</aside>\n<p>If anyone tries to steal anything from one of the kitchens, the two sabers in that area animate into two <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/16865-flying-sword\" data-tooltip-href=\"/monsters/16865-tooltip\">flying swords</a> and attack the thieves. If the characters flee that area, the sabers return to their place on the wall.</p>\n<p>In addition to the visible cooking supplies, the kitchens include cabinets that hold extra silver and china for the dining table in <a href=\"#C4DiningHall\" title=\"area C4\">area C4</a>. Any of the knives found here can serve as daggers, though they are branded on one side with the image of an eye patch-wearing owlin and the words “Captain Dapplewing’s Kitchen.”</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"C9CurioRoom\">C9. Curio Room</h4>\n<aside class=\"read-aloud-text\" id=\"session-read-aloud-16\">\n<p>Cabinets full of curiosities line the northern wall of this room. The strange items on display here include a stuffed pheasant, a sextant dressed as a doll, and a plaque with insects mounted on it. The insects are wearing tiny top hats.</p>\n</aside>\n<p>Flanking the double door leading to area C4 are two shining sets of antique plate armor. If a character touches either set of armor, a random set comes to life as <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/16786-animated-armor\" data-tooltip-href=\"/monsters/16786-tooltip\">animated armor</a> and attacks. Only one of the suits attacks at a time, and it doesn’t leave the area if the characters flee. However, if the characters leave the area and come back, both suits attack upon their return.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"C10GrandDeck\">C10. Grand Deck</h4>\n<p>This spacious deck has a low railing that the characters can easily climb over to access the locked glass door leading into the manor.</p>\n<p>The pots of greenery on either side of this deck are filled with magic vegetation that was recently transplanted and is only loosely rooted. The round after the characters first enter this area, three of these plants attack—two from the pot on the west side of the deck and one from the pot to the east. Each plant uses the <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/17046-violet-fungus\" data-tooltip-href=\"/monsters/17046-tooltip\">violet fungus</a> stat block.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"ManorLocationsC11C20\">Manor Locations (C11-C20)</h3>\n<h4 class=\"compendium-hr heading-anchor\" id=\"C11SideDeck\">C11. Side Deck</h4>\n<p>These smaller side decks each have a low railing that the characters can easily climb over to access the locked glass door leading into manor.</p>\n<p>Bushy magic cacti grow in pots along the manor walls. The cacti have been overwatered recently, so they’re restless and attack anyone who moves into this area. Two cacti on each deck attack, using the <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/17215-needle-blight\" data-tooltip-href=\"/monsters/17215-tooltip\">needle blight</a> stat block.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"C12FacultyOffice\">C12. Faculty Office</h4>\n<aside class=\"read-aloud-text\" id=\"session-read-aloud-17\">\n<p>This office is comfortably furnished with a wide oak desk, a high-backed leather armchair, a towering bookcase, and homey wall hangings.</p>\n</aside>\n<p>Characters who search any of these offices find scattered research papers, course notes, and other paperwork and academic bric-a-brac.</p>\n<p><em><strong>Treasure.</strong></em> Each office also has a 25 percent chance of having loose change worth 5 gp in a desk drawer.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"C13CaptainDapplewingsStudy\">C13. Captain Dapplewing’s Study</h4>\n<aside class=\"read-aloud-text\" id=\"session-read-aloud-18\">\n<p>This large office serves as both parlor and study. Antique furnishings line the walls, along with the sculpted heads of several magic creatures. A heavy table and a desk are covered in scattered documents.</p>\n</aside>\n<p>Once Captain Dapplewing’s study, this large office is often used for sensitive discussions among faculty members. The decor has stayed the same since Captain Dapplewing’s time.</p>\n<p>On the northern wall, a plaque holds the heads of a black and a red dragon, each clearly constructed from metallic crafting supplies. This device is a strange magic curiosity that was once a favorite of the captain’s and that faculty members using the office know to avoid. The plaque animates both heads to attack any character who moves within 5 feet of it.</p>\n<p>While animated, each dragon head has <a class=\"tooltip-hover sense-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#Blindsight\" data-tooltip-href=\"/senses/1-tooltip\">blindsight</a> out to a range of 30 feet and is blind beyond that distance. On initiative count 20, the black dragon head exhales a glob of acid while the red dragon exhales a fiery missile, each targeting one creature the head can see (+6 to hit). A creature hit by either attack takes 6 (1d8 + 2) damage of the appropriate type (acid or fire).</p>\n<p>Each head has a speed of 0, AC 16, 25 hit points, and immunity to poison and psychic damage. Their ability scores are as follows: Strength 6, Dexterity 14, Constitution 10, Intelligence 3, Wisdom 3, and Charisma 1.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"C14CentralPassageway\">C14. Central Passageway</h4>\n<p>This wide hallway offers access to the rooms on the second level of the manor. A large pillar that juts into the passageway appears to be a structural column, but actually hides a staircase leading to <a href=\"#C20Attic\" title=\"area C20\">area C20</a>. Because the students and faculty here don’t bother to fully close it, the secret door can be found with any search of the area.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"C15FacultyStorage\">C15. Faculty Storage</h4>\n<p>Boxes and filing cabinets have been crammed into this area, filled with old written records and outdated research. If the characters spend a few minutes searching here, they can easily find a box labeled “Manor Archive.” This details all the historical information found at the start of the “<a href=\"#CaptainDapplewingsManor\" title=\"Captain Dapplewing’s Manor\">Captain Dapplewing’s Manor</a>” section.</p>\n<p><em><strong>Treasure.</strong></em> The paneling in the northeast corner conceals a secret door that isn’t fully shut, and so it can be found by any character who searches the area. Beyond the door is a secondary storage area holding boxes with personal items that faculty members have stashed away from prying eyes. Any character who searches the secondary storage area spots a <a class=\"tooltip-hover magic-item-tooltip\" href=\"https://www.dndbeyond.com/magic-items/4725-ring-of-mind-shielding\" data-tooltip-href=\"/magic-items/4725-tooltip\">ring of mind shielding</a> seemingly lost by someone while working in the room. The inscription “V. Lang” inside the band hints that the ring belongs to Verelda Lang, the characters’ Magical Physiologies professor. If they bring the lost ring to her, she is effusive in her thanks—and then offers it to the characters as a gift, trying to conceal her pride at their accomplishments.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"C16ReflectionRoom\">C16. Reflection Room</h4>\n<aside class=\"read-aloud-text\" id=\"session-read-aloud-19\">\n<p>Daybeds piled high with pillows stand in the corners of this spacious, comfortable-looking room.</p>\n</aside>\n<p>This is the manor’s quiet room, where faculty go to read or write without being disturbed.</p>\n<p><em><strong>Treasure.</strong></em> If the characters search this area, a successful DC 15 Wisdom (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/14-tooltip\">Perception</a>) check reveals several small hidden drawers in the frame of one of the day beds. Inside one of the drawers is a <a class=\"tooltip-hover magic-item-tooltip\" href=\"https://www.dndbeyond.com/magic-items/4642-gem-of-brightness\" data-tooltip-href=\"/magic-items/4642-tooltip\">gem of brightness</a> with 10 charges remaining.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"C17GrandLounge\">C17. Grand Lounge</h4>\n<aside class=\"read-aloud-text\" id=\"session-read-aloud-20\">\n<p>This spacious lounge is decorated to an arcano-bio­logist’s tastes. Paintings of strange magic creatures line the walls, as do mounted collections of insects and reptiles. Three pteranodons form the room’s centerpiece—all of them magically immobile in midair, positioned as if engaging in a strange dance.</p>\n</aside>\n<p>Located just in front of the large sofa along the north wall, the three creatures are subjects of study by the manor’s faculty. Each uses the <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/17093-pteranodon\" data-tooltip-href=\"/monsters/17093-tooltip\">pteranodon</a> stat block but has the magic ability to freeze in place, even in midair. With no faculty around to control them, the dormant creatures awake and attack the characters as soon as they enter the room.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"C18TeaRoom\">C18. Tea Room</h4>\n<aside class=\"read-aloud-text\" id=\"session-read-aloud-21\">\n<p>Several delicate tea sets are arranged on the floor in this room, alongside beautifully woven kneeling rugs and cabinets against the walls.</p>\n</aside>\n<p><em><strong>Treasure.</strong></em> One cabinet along the east wall is filled with tea-making supplies, plus a bottle with a sweet-smelling liquid inside. The bottle holds a <a class=\"tooltip-hover magic-item-tooltip\" href=\"https://www.dndbeyond.com/magic-items/4711-potion-of-mind-reading\" data-tooltip-href=\"/magic-items/4711-tooltip\">potion of mind reading</a>.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"C19StudentStorage\">C19. Student Storage</h4>\n<p>This storeroom is filled with loose parchment, books, and misfiled paperwork. In the center of the room, two crates containing ink jars have been knocked over, a mishap that faculty members intend to program the Earl in <a href=\"#C3GrandHall\" title=\"area C3\">area C3</a> to clean up the next day. The ink has drawn power from a number of old magic-infused writings in the area, and now it’s become two hostile creatures. These now behave as two <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/16909-gray-ooze\" data-tooltip-href=\"/monsters/16909-tooltip\">gray oozes</a>. The magic ink stealthily follows any characters who enter this area, and attacks aggressively at first opportunity.</p>\n<p><em><strong>Treasure.</strong></em> The paneling in the northwest corner conceals a secret door, which can be found with a search of the area and a successful DC 12 Wisdom (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/14-tooltip\">Perception</a>) check. Beyond the door is a secondary storage area that is much better organized, though a thick layer of dust on the boxes and crates here indicates that no one has accessed it in a while. Characters who search this area find two <a class=\"tooltip-hover magic-item-tooltip\" href=\"https://www.dndbeyond.com/magic-items/4711-potion-of-mind-reading\" data-tooltip-href=\"/magic-items/4711-tooltip\">potions of mind reading</a> tucked into a pouch in one of the boxes.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"C20Attic\">C20. Attic</h4>\n<aside class=\"read-aloud-text\" id=\"session-read-aloud-22\">\n<p>This cramped attic holds oddities considered too strange to display on the manor’s main floor. An adult-sized riding toy resembling a roc on a spring, a fine dress with wings made of bones, and a display shelf holding dozens of dolls are among the curiosities here.</p>\n</aside>\n<p>Dangerous in a way the faculty members don’t understand yet, the dress is actually a hostile Construct. It uses the <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/17178-quadrone\" data-tooltip-href=\"/monsters/17178-tooltip\">quadrone</a> stat block and can shoot the bones from its wings using the quadrone’s shortbow attack. When the characters enter this area, it attacks.</p>\n<p><em><strong>Sassy Sally Jane.</strong></em> Among the dolls on the display shelf is the target of the characters’ quest—the pink-haired doll known as Sassy Sally Jane. The doll is programmed with spoken phrases and trigger conditions, which the characters might activate. See the following section for details.</p>\n<p><em><strong>Treasure.</strong></em> Sitting underneath Sassy Sally Jane is a doll wearing a suit and adorned with a large white mustache. A purse held in the doll’s hands contains 25 gp.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"SassySallyJanesPhrases\">Sassy Sally Jane’s Phrases</h4>\n<p>The rude phrases that are part of Sassy Sally Jane’s reputation are the subject of much speculation on campus, but no current students know what they are. Once the characters recover the doll, they will likely press her hand to trigger these phrases.</p>\n<p>The Phrases table offers some suggestions, but feel free to come up with additional phrases that you and your players will find fun and amusing.</p>\n<table id=\"Phrases\" class=\"table-compendium table--generic-dice\">\n<caption class=\"heading-anchor\"><a href=\"#Phrases\"></a>Phrases</caption>\n<thead>\n<tr>\n<th>d6</th>\n<th>Phrase</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1</td>\n<td>“Really? In those robes?”</td>\n</tr>\n<tr>\n<td>2</td>\n<td>“G-R-O-S-S. Gross.”</td>\n</tr>\n<tr>\n<td>3</td>\n<td>“I heard you snack on owlbear pellets.”</td>\n</tr>\n<tr>\n<td>4</td>\n<td>“If you say so.”</td>\n</tr>\n<tr>\n<td>5</td>\n<td>“How about ‘Hells, no!’”</td>\n</tr>\n<tr>\n<td>6</td>\n<td>“No one believes that’s chocolate.”</td>\n</tr>\n</tbody>\n</table>\n<h3 class=\"compendium-hr heading-anchor\" id=\"PostQuest\">Post Quest</h3>\n<p>If the characters retrieve Sassy Sally Jane, the students waiting outside Captain Dapplewing’s Manor cheer quietly. All the students can easily steal back to their dormitories without getting caught. The characters’ peers are true to their word and pay for the characters’ lunches for a month. Further, the characters can keep Sassy Sally Jane. (However, obvious use of the doll around faculty members results in Sassy Sally Jane being confiscated again!)</p>\n<p>If all the characters are reduced to 0 hit points inside the manor, they spend the night <a class=\"tooltip-hover condition-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#UnconsciousCondition\" data-tooltip-href=\"/conditions/15-tooltip\">unconscious</a> and are found by members of the faculty in the morning. The characters are taken to the infirmary in their respective dorms, then formally chastised and made to attend special behavioral courses that prevent them from participating in any Extracurriculars or Jobs for the rest of this academic year. All the characters immediately lose any benefits from these activities.</p>\n<p><em><strong>A Sibling’s Gift.</strong></em> If a student asked the characters for Sassy Sally Jane for their younger brother and the characters give them the doll, the student gives them the promised <a class=\"tooltip-hover magic-item-tooltip\" href=\"https://www.dndbeyond.com/magic-items/5349-driftglobe\" data-tooltip-href=\"/magic-items/5349-tooltip\">driftglobe</a>. If no student approached the characters with this request, a student with whom a character has at least 1 positive Relationship Point asks the characters for the doll to give it as a gift to her younger brother shortly after this quest ends.</p>\n<h2 class=\"compendium-hr heading-anchor\" id=\"Advanceto3rdLevel\">Advance to 3rd Level!</h2>\n<p>Each character advances to 3rd level once they’ve finished exploring Captain Dapplewing’s Manor and resolved the “Campus Daredevils” section.</p>\n<h2 class=\"compendium-hr heading-anchor\" id=\"MagicalPhysiologiesExamOtyughs\">Magical Physiologies Exam: Otyughs</h2>\n<p>The characters’ third and final Exam in Magical Physiologies takes place a short while after their foray into Captain Dapplewing’s Manor, and tests the characters’ knowledge of <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/16973-otyugh\" data-tooltip-href=\"/monsters/16973-tooltip\">otyughs</a>.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"StudyingPhase3\">Studying Phase</h3>\n<p>The day before the Exam, the characters can study the course material. A character can use any ability check and skill during the Studying phase.</p>\n<p>Once you’ve asked each player how their character is approaching the Studying phase, resolve that phase by having each character who studies make a DC 13 ability check. Make sure players keep track of their characters’ rerolls from this phase and apply them during the Testing phase.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"TestingPhase3\">Testing Phase</h3>\n<p>On the day of the Exam, each character makes two ability checks:</p>\n<p><strong>Otyugh Lair Evidence.</strong> Choosing the correct multiple choice answers about physical signs pointing to the presence of an otyugh, including large piles of particularly noxious trash, deep vats of liquid dung, chunks of carrion scattered among filth, and incongruous noises coming from the trash, requires a successful DC 13 Intelligence (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/8-tooltip\">Investigation</a>) check.</p>\n<p><strong>Otyughs as Guardians.</strong> Writing short essays about the details of which intelligent creatures might use otyughs as guardians requires a successful DC 13 Charisma (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/19-tooltip\">Persuasion</a>) check.</p>\n<p>Have each player note their character’s Exam results—how many Student Dice they gained and what skills they used during the test—on their copies of the tracking sheet.</p>\n<aside class=\"rules-text\" id=\"AllaboutOtyughs\">\n<p>ALL ABOUT OTYUGHS</p>\n<p>To give this Exam more flavor, describe some of the facts the characters are trying to memorize, such as the following:</p>\n<ul>\n<li>If a place is disgusting, there’s a good chance an <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/16973-otyugh\" data-tooltip-href=\"/monsters/16973-tooltip\">otyugh</a> is nearby.</li>\n<li>Bones and carrion mixed with trash are often a strong sign that an otyugh is present, as it waits for carrion to ferment before eating it.</li>\n<li>Shiny treasures glinting from piles of refuse might indicate an otyugh’s presence, as these Aberrations hoard treasures from their victims.</li>\n<li>No matter how disgusting it might be, trash doesn’t belch. If you ever hear a pile of trash belch, there’s an otyugh in there.</li>\n<li>Some spellcasters use otyughs as guardians, both to protect their underground lairs and to dispose of their enemies.</li>\n<li>Characters with evil designs who wish to congregate far from prying eyes often operate underground, knowing that the authorities avoid stench- and trash-filled undercrofts and sewers. In such foul locations, otyughs make excellent sidekicks.</li>\n</ul>\n</aside>"
+}

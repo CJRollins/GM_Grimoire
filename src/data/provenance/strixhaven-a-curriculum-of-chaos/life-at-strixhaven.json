@@ -1,0 +1,593 @@
+{
+  "title": "Life at Strixhaven",
+  "sourcebook": "Strixhaven: A Curriculum of Chaos",
+  "bookSlug": "strixhaven-a-curriculum-of-chaos",
+  "originalPath": "Arcavios/Stixhaven/Chapter 2 - Life At Strixhaven.html",
+  "rawUrl": "/archive/strixhaven/Chapter%202%20-%20Life%20At%20Strixhaven.html",
+  "sourceHash": "be30994f1f4f3d54920d1de2697042890c2af6255b6eaebea742f71be8b34e5a",
+  "extractionDate": "2026-07-13T07:40:57.647Z",
+  "extractionVersion": 3,
+  "originalAnchors": [
+    {
+      "id": "LifeatStrixhaven",
+      "text": "Life at Strixhaven",
+      "element": "h1"
+    },
+    {
+      "id": "comp-next-nav",
+      "text": "",
+      "element": "div"
+    },
+    {
+      "id": "imgsplash",
+      "text": "During a duel in the Hall of Oracles, a student transformsher opponent into a goat, who is held back by a friend",
+      "element": "figure"
+    },
+    {
+      "id": "MagicalStudy",
+      "text": "Magical Study",
+      "element": "h2"
+    },
+    {
+      "id": "PrinciplesandPolarities",
+      "text": "Principles and Polarities",
+      "element": "h3"
+    },
+    {
+      "id": "Faculty",
+      "text": "Faculty",
+      "element": "h3"
+    },
+    {
+      "id": "Instructors",
+      "text": "Instructors",
+      "element": "h4"
+    },
+    {
+      "id": "Professors",
+      "text": "Professors",
+      "element": "h4"
+    },
+    {
+      "id": "Students",
+      "text": "Students",
+      "element": "h3"
+    },
+    {
+      "id": "ChoosingaCollege",
+      "text": "Choosing a College",
+      "element": "h4"
+    },
+    {
+      "id": "AfterStrixhaven",
+      "text": "After Strixhaven",
+      "element": "h4"
+    },
+    {
+      "id": "Administration",
+      "text": "Administration",
+      "element": "h3"
+    },
+    {
+      "id": "Mascots",
+      "text": "Mascots",
+      "element": "h3"
+    },
+    {
+      "id": "StrixhavenMascots",
+      "text": "Strixhaven Mascots College Mascot Lorehold Spirit Statue Mascot Prismari Art Elemental Mascot Quandrix Fractal Mascot Silverquill Inkling Mascot Witherbloom Pes",
+      "element": "table"
+    },
+    {
+      "id": "CampusOverview",
+      "text": "Campus Overview",
+      "element": "h2"
+    },
+    {
+      "id": "imgcommons",
+      "text": "Archway Commons is a favorite spot for students to gather",
+      "element": "figure"
+    },
+    {
+      "id": "CentralCampus",
+      "text": "Central Campus",
+      "element": "h3"
+    },
+    {
+      "id": "Map11centralcampus",
+      "text": "Map 1.1: central campus View Player Version",
+      "element": "figure"
+    },
+    {
+      "id": "TheBiblioplex",
+      "text": "The Biblioplex",
+      "element": "h4"
+    },
+    {
+      "id": "ArchwayCommons",
+      "text": "Archway Commons",
+      "element": "h4"
+    },
+    {
+      "id": "FirejoltCaf",
+      "text": "Firejolt Café",
+      "element": "h4"
+    },
+    {
+      "id": "BowsEndTavern",
+      "text": "Bow’s End Tavern",
+      "element": "h4"
+    },
+    {
+      "id": "StrixhavenStadium",
+      "text": "Strixhaven Stadium",
+      "element": "h4"
+    },
+    {
+      "id": "LoreholdCollege",
+      "text": "Lorehold College",
+      "element": "h2"
+    },
+    {
+      "id": "StudiesandPhilosophy",
+      "text": "Studies and Philosophy",
+      "element": "h3"
+    },
+    {
+      "id": "imgoflorehold",
+      "text": "The heart of Lorehold College overlooks a chasm littered with ancient ruins",
+      "element": "figure"
+    },
+    {
+      "id": "OrderandChaos",
+      "text": "Order and Chaos",
+      "element": "h4"
+    },
+    {
+      "id": "ScholarsofLorehold",
+      "text": "Scholars of Lorehold",
+      "element": "h4"
+    },
+    {
+      "id": "LoreholdScholars",
+      "text": "Lorehold Scholars d10 Scholar Principle 1 Archaeoscribe, chronicling historical truths for posterity Order 2 Battle medium, strengthening summoned spirits for u",
+      "element": "table"
+    },
+    {
+      "id": "LoreholdFaculty",
+      "text": "Lorehold Faculty",
+      "element": "h3"
+    },
+    {
+      "id": "AugustaTullusDeanofOrder",
+      "text": "Augusta Tullus, Dean of Order",
+      "element": "h4"
+    },
+    {
+      "id": "PlarggDeanofChaos",
+      "text": "Plargg, Dean of Chaos",
+      "element": "h4"
+    },
+    {
+      "id": "HofriGhostforge",
+      "text": "Hofri Ghostforge",
+      "element": "h4"
+    },
+    {
+      "id": "OsgirtheReconstructor",
+      "text": "Osgir, the Reconstructor",
+      "element": "h4"
+    },
+    {
+      "id": "GolwandatheBloodspiller",
+      "text": "GOLWANDA THE BLOODSPILLER “Have you met Golwanda yet?” is a question that older Lorehold students love to ask second-year students, new to the college. Sooner o",
+      "element": "aside"
+    },
+    {
+      "id": "LosheelClockworkScholar",
+      "text": "Losheel, Clockwork Scholar",
+      "element": "h4"
+    },
+    {
+      "id": "LoreholdCampus",
+      "text": "Lorehold Campus",
+      "element": "h3"
+    },
+    {
+      "id": "Map12loreholdcampus",
+      "text": "Map 1.2: lorehold campus View Player Version",
+      "element": "figure"
+    },
+    {
+      "id": "Pillardrop",
+      "text": "Pillardrop",
+      "element": "h4"
+    },
+    {
+      "id": "EffigyRow",
+      "text": "Effigy Row",
+      "element": "h4"
+    },
+    {
+      "id": "KollemaHall",
+      "text": "Kollema Hall",
+      "element": "h4"
+    },
+    {
+      "id": "PrismariCollege",
+      "text": "Prismari College",
+      "element": "h2"
+    },
+    {
+      "id": "StudiesandPhilosophy1",
+      "text": "Studies and Philosophy",
+      "element": "h3"
+    },
+    {
+      "id": "PerfectionandExpression",
+      "text": "Perfection and Expression",
+      "element": "h4"
+    },
+    {
+      "id": "OctaviatheLivingThesis",
+      "text": "OCTAVIA, THE LIVING THESIS Crafted as a graduate’s final project many years ago, Octavia (a water elemental that looks like an enormous octopus) took up residen",
+      "element": "aside"
+    },
+    {
+      "id": "ScholarsofPrismari",
+      "text": "Scholars of Prismari",
+      "element": "h4"
+    },
+    {
+      "id": "PrismariScholars",
+      "text": "Prismari Scholars d12 Scholar Principle 1 Aesthemancer, studying abstract principles of beauty for insight into the workings of the multiverse Perfection 2 Elec",
+      "element": "table"
+    },
+    {
+      "id": "PrismariFaculty",
+      "text": "Prismari Faculty",
+      "element": "h3"
+    },
+    {
+      "id": "imgcollegeoffersbreathtakingviews",
+      "text": "Prismari College offers breathtaking views to inspire its artists",
+      "element": "figure"
+    },
+    {
+      "id": "UvildaMistcoilerDeanofPerfection",
+      "text": "Uvilda Mistcoiler, Dean of Perfection",
+      "element": "h4"
+    },
+    {
+      "id": "NassariDeanofExpression",
+      "text": "Nassari, Dean of Expression",
+      "element": "h4"
+    },
+    {
+      "id": "VeyranVoiceofDuality",
+      "text": "Veyran, Voice of Duality",
+      "element": "h4"
+    },
+    {
+      "id": "ZaffaiThunderConductor",
+      "text": "Zaffai, Thunder Conductor",
+      "element": "h4"
+    },
+    {
+      "id": "ArkinMinexesPeppyInstructor",
+      "text": "Arkin Minexes, Peppy Instructor",
+      "element": "h4"
+    },
+    {
+      "id": "PrismariCampus",
+      "text": "Prismari Campus",
+      "element": "h3"
+    },
+    {
+      "id": "map13prismaricampus",
+      "text": "Map 1.3: Prismari CampusView Player Version",
+      "element": "figure"
+    },
+    {
+      "id": "ConjurotHall",
+      "text": "Conjurot Hall",
+      "element": "h4"
+    },
+    {
+      "id": "OpusWalk",
+      "text": "Opus Walk",
+      "element": "h4"
+    },
+    {
+      "id": "Furygale",
+      "text": "Furygale",
+      "element": "h4"
+    },
+    {
+      "id": "QuandrixCollege",
+      "text": "Quandrix College",
+      "element": "h2"
+    },
+    {
+      "id": "StudiesandPhilosophy2",
+      "text": "Studies and Philosophy",
+      "element": "h3"
+    },
+    {
+      "id": "SubstanceandTheory",
+      "text": "Substance and Theory",
+      "element": "h4"
+    },
+    {
+      "id": "ScholarsofQuandrix",
+      "text": "Scholars of Quandrix",
+      "element": "h4"
+    },
+    {
+      "id": "QuandrixScholars",
+      "text": "Quandrix Scholars d8 Scholar Principle 1 Abstractor, using magic to stretch the possibilities of space Theory 2 Augmenter, making creatures and things larger Su",
+      "element": "table"
+    },
+    {
+      "id": "QuandrixFaculty",
+      "text": "Quandrix Faculty",
+      "element": "h3"
+    },
+    {
+      "id": "imghall",
+      "text": "The geometry of Torus Hall is the most prominent feature of Quandrix College",
+      "element": "figure"
+    },
+    {
+      "id": "KianneDeanofSubstance",
+      "text": "Kianne, Dean of Substance",
+      "element": "h4"
+    },
+    {
+      "id": "ImbrahamDeanofTheory",
+      "text": "Imbraham, Dean of Theory",
+      "element": "h4"
+    },
+    {
+      "id": "AdrixandNevTwincasters",
+      "text": "Adrix and Nev, Twincasters",
+      "element": "h4"
+    },
+    {
+      "id": "DeekahFractalTheorist",
+      "text": "Deekah, Fractal Theorist",
+      "element": "h4"
+    },
+    {
+      "id": "RuxaPatientProfessor",
+      "text": "Ruxa, Patient Professor",
+      "element": "h4"
+    },
+    {
+      "id": "QuandrixCampus",
+      "text": "Quandrix Campus",
+      "element": "h3"
+    },
+    {
+      "id": "Map14quandrixcampus",
+      "text": "Map 1.4: quandrix campus View Player Version",
+      "element": "figure"
+    },
+    {
+      "id": "TorusHall",
+      "text": "Torus Hall",
+      "element": "h4"
+    },
+    {
+      "id": "TheArithmodrome",
+      "text": "The Arithmodrome",
+      "element": "h4"
+    },
+    {
+      "id": "EsixFractalBloom",
+      "text": "ESIX, FRACTAL BLOOM Tasked with devising an infinite equation, a group of Quandrix students accidentally created Esix, a living theorem obsessed with infinity. ",
+      "element": "aside"
+    },
+    {
+      "id": "TheCultivarium",
+      "text": "The Cultivarium",
+      "element": "h4"
+    },
+    {
+      "id": "SilverquillCollege",
+      "text": "Silverquill College",
+      "element": "h2"
+    },
+    {
+      "id": "StudiesandPhilosophy3",
+      "text": "Studies and Philosophy",
+      "element": "h3"
+    },
+    {
+      "id": "RadianceandShadow",
+      "text": "Radiance and Shadow",
+      "element": "h4"
+    },
+    {
+      "id": "ScholarsofSilverquill",
+      "text": "Scholars of Silverquill",
+      "element": "h4"
+    },
+    {
+      "id": "SilverquillScholars",
+      "text": "Silverquill Scholars d8 Scholar Principle 1 Bantermage, using incisive observation to pierce rivals’ confidence Shadow 2 Duskmage, conjuring inky voids of shado",
+      "element": "table"
+    },
+    {
+      "id": "SilverquillFaculty",
+      "text": "Silverquill Faculty",
+      "element": "h3"
+    },
+    {
+      "id": "Figure2",
+      "text": "The stately buildings of Silverquill promote an atmosphere of dignified study",
+      "element": "figure"
+    },
+    {
+      "id": "ShaileTalonrookDeanofRadiance",
+      "text": "Shaile Talonrook, Dean of Radiance",
+      "element": "h4"
+    },
+    {
+      "id": "EmbroseLuDeanofShadow",
+      "text": "Embrose Lu, Dean of Shadow",
+      "element": "h4"
+    },
+    {
+      "id": "BreenatheDemagogue",
+      "text": "Breena, the Demagogue",
+      "element": "h4"
+    },
+    {
+      "id": "NilsDisciplineEnforcer",
+      "text": "Nils, Discipline Enforcer",
+      "element": "h4"
+    },
+    {
+      "id": "BrennethBlackstoneScriptologyStar",
+      "text": "Brenneth Blackstone, Scriptology Star",
+      "element": "h4"
+    },
+    {
+      "id": "FaintheBroker",
+      "text": "Fain, the Broker",
+      "element": "h4"
+    },
+    {
+      "id": "SilverquillCampus",
+      "text": "Silverquill Campus",
+      "element": "h3"
+    },
+    {
+      "id": "Map15silverquillcampus",
+      "text": "Map 1.5: silverquill campus View Player Version",
+      "element": "figure"
+    },
+    {
+      "id": "GrandloftHall",
+      "text": "Grandloft Hall",
+      "element": "h4"
+    },
+    {
+      "id": "TheRoseStage",
+      "text": "The Rose Stage",
+      "element": "h4"
+    },
+    {
+      "id": "TheDramarium",
+      "text": "The Dramarium",
+      "element": "h4"
+    },
+    {
+      "id": "WitherbloomCollege",
+      "text": "Witherbloom College",
+      "element": "h2"
+    },
+    {
+      "id": "StudiesandPhilosophy4",
+      "text": "Studies and Philosophy",
+      "element": "h3"
+    },
+    {
+      "id": "GrowthandDecay",
+      "text": "Growth and Decay",
+      "element": "h4"
+    },
+    {
+      "id": "ScholarsofWitherbloom",
+      "text": "Scholars of Witherbloom",
+      "element": "h4"
+    },
+    {
+      "id": "WitherbloomScholars",
+      "text": "Witherbloom Scholars d8 Scholar Principle 1 Banelock, using concoctions of noxious ingredients for withering magic Decay 2 Bleed doctor, drain the essence of li",
+      "element": "table"
+    },
+    {
+      "id": "WitherbloomFaculty",
+      "text": "Witherbloom Faculty",
+      "element": "h3"
+    },
+    {
+      "id": "imginthebayou",
+      "text": "Deep in the bayou of Sedgemoor, Widdershins Hall is the heart of Witherbloom College",
+      "element": "figure"
+    },
+    {
+      "id": "LisetteDeanoftheRoot",
+      "text": "Lisette, Dean of the Root",
+      "element": "h4"
+    },
+    {
+      "id": "ValentinDeanoftheVein",
+      "text": "Valentin, Dean of the Vein",
+      "element": "h4"
+    },
+    {
+      "id": "WillowduskEssenceSeer",
+      "text": "Willowdusk, Essence Seer",
+      "element": "h4"
+    },
+    {
+      "id": "TivashGloomSummoner",
+      "text": "Tivash, Gloom Summoner",
+      "element": "h4"
+    },
+    {
+      "id": "VereldaLangArcanoBiologist",
+      "text": "Verelda Lang, Arcano-Biologist",
+      "element": "h4"
+    },
+    {
+      "id": "YedoraGraveGardener",
+      "text": "Yedora, Grave Gardener",
+      "element": "h4"
+    },
+    {
+      "id": "GyomeMasterChef",
+      "text": "Gyome, Master Chef",
+      "element": "h4"
+    },
+    {
+      "id": "WitherbloomCampus",
+      "text": "Witherbloom Campus",
+      "element": "h3"
+    },
+    {
+      "id": "Map16witherbloomcampus",
+      "text": "Map 1.6: witherbloom campus View Player Version",
+      "element": "figure"
+    },
+    {
+      "id": "Sedgemoor",
+      "text": "Sedgemoor",
+      "element": "h4"
+    },
+    {
+      "id": "WiddershinsHall",
+      "text": "Widdershins Hall",
+      "element": "h4"
+    },
+    {
+      "id": "DetentionBog",
+      "text": "Detention Bog",
+      "element": "h4"
+    }
+  ],
+  "transformations": [
+    "Selected the first .p-article-content element.",
+    "Removed scripts, styles, forms, iframes, hidden duplicate labels, and source navigation.",
+    "Removed event handlers and D&D Beyond content-chunk identifiers.",
+    "Rewrote archived sourcebook links to generated reader routes when a local target exists.",
+    "Added lazy image loading and asynchronous decoding hints.",
+    "Added derived IDs to read-aloud, rules, table, and stat-block elements for session navigation.",
+    "Indexed player-version map links as derived session metadata.",
+    "Preserved source wording and original heading IDs; derived metadata remains separate."
+  ],
+  "repairs": []
+}

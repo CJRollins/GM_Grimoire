@@ -1,0 +1,1006 @@
+{
+  "title": "Hunt for Mage Tower",
+  "sourcebook": "Strixhaven: A Curriculum of Chaos",
+  "bookSlug": "strixhaven-a-curriculum-of-chaos",
+  "world": "Arcavios",
+  "edition": "2014 rules",
+  "chapter": "Hunt for Mage Tower",
+  "chapterNumber": 4,
+  "order": 9,
+  "navGroup": "Year Two",
+  "kind": "adventure",
+  "audience": "gm",
+  "slug": "strixhaven-hunt-for-mage-tower",
+  "chapterSlug": "hunt-for-mage-tower",
+  "summary": "In this adventure, the characters return to Strixhaven University as second-year students. As the year gets underway, the characters’ peers urge them to form a team and compete in a high-profile game of Mage Tower. They’ll investigate the odd behavior of the …",
+  "wordCount": 5024,
+  "originalPath": "Arcavios/Stixhaven/Chapter 9 - Hunt For Mage Tower.html",
+  "rawUrl": "/archive/strixhaven/Chapter%209%20-%20Hunt%20For%20Mage%20Tower.html",
+  "originalAnchors": [
+    {
+      "id": "HuntforMageTower",
+      "text": "Hunt for Mage Tower",
+      "element": "h1"
+    },
+    {
+      "id": "comp-next-nav",
+      "text": "",
+      "element": "div"
+    },
+    {
+      "id": "imgsplash",
+      "text": "With their full abilities on display, Strixhaven students often createbreathtaking spectacles when they play the game of Mage Tower",
+      "element": "figure"
+    },
+    {
+      "id": "RunningThisAdventure",
+      "text": "Running This Adventure",
+      "element": "h2"
+    },
+    {
+      "id": "CharacterAdvancement",
+      "text": "Character Advancement",
+      "element": "h3"
+    },
+    {
+      "id": "SecondYearLevelAdvancement",
+      "text": "Second-Year Level Advancement Level Reached When Characters… 5th Complete the first Scrivening and Symbology Exam 6th Finish the adventure",
+      "element": "table"
+    },
+    {
+      "id": "ChoosingaCollege",
+      "text": "Choosing a College",
+      "element": "h3"
+    },
+    {
+      "id": "AdventureOverview",
+      "text": "Adventure Overview",
+      "element": "h3"
+    },
+    {
+      "id": "AStandaloneAdventure",
+      "text": "A Standalone Adventure",
+      "element": "h4"
+    },
+    {
+      "id": "RandomEncounters",
+      "text": "Random Encounters",
+      "element": "h3"
+    },
+    {
+      "id": "SecondYearEncounters",
+      "text": "Second-Year Encounters d10 Encounter 1–4 2 awakened trees, pretending to be Feywild guardians and refusing to let students access an important academic area 5–6",
+      "element": "table"
+    },
+    {
+      "id": "StudentSchedules",
+      "text": "Student Schedules",
+      "element": "h3"
+    },
+    {
+      "id": "SecondYearCourses",
+      "text": "Second-Year Courses d10 Course Offered By 1 Applied Computational Magic Quandrix 2 Basic Arcane Artifacts Lorehold 3 Electro-choreography Prismari 4 Historical ",
+      "element": "table"
+    },
+    {
+      "id": "BackinSession",
+      "text": "Back in Session",
+      "element": "h2"
+    },
+    {
+      "id": "StrixhavenFlyer",
+      "text": "",
+      "element": "figure"
+    },
+    {
+      "id": "TheGameofMageTower",
+      "text": "The Game of Mage Tower",
+      "element": "h3"
+    },
+    {
+      "id": "MageTowersRules",
+      "text": "Mage Tower’s Rules",
+      "element": "h4"
+    },
+    {
+      "id": "FormingaTeam",
+      "text": "Forming a Team",
+      "element": "h3"
+    },
+    {
+      "id": "MascotsEverywhere",
+      "text": "Mascots Everywhere!",
+      "element": "h2"
+    },
+    {
+      "id": "ChoosingaMageTowerMascot",
+      "text": "Choosing a Mage Tower Mascot",
+      "element": "h3"
+    },
+    {
+      "id": "imgmascots",
+      "text": "Mascots are common sights on campus—and sometimes they gather and cause mischief",
+      "element": "figure"
+    },
+    {
+      "id": "WiltrootHall",
+      "text": "Wiltroot Hall",
+      "element": "h3"
+    },
+    {
+      "id": "AStandaloneAdventure1",
+      "text": "A Standalone Adventure",
+      "element": "h4"
+    },
+    {
+      "id": "MascotHunting",
+      "text": "Mascot Hunting",
+      "element": "h4"
+    },
+    {
+      "id": "WiltrootHallFeatures",
+      "text": "Wiltroot Hall Features",
+      "element": "h4"
+    },
+    {
+      "id": "WiltrootHallLocationsW1W7",
+      "text": "Wiltroot Hall Locations (W1-W7)",
+      "element": "h3"
+    },
+    {
+      "id": "Map41wiltroothallandoutergrounds",
+      "text": "Map 4.1: wiltroot hall and outer grounds View Player Version",
+      "element": "figure"
+    },
+    {
+      "id": "W1HallandLearningPlatform",
+      "text": "W1. Hall and Learning Platform",
+      "element": "h4"
+    },
+    {
+      "id": "W2ObservationHutA",
+      "text": "W2. Observation Hut A",
+      "element": "h4"
+    },
+    {
+      "id": "W3SouthwestClearing",
+      "text": "W3. Southwest Clearing",
+      "element": "h4"
+    },
+    {
+      "id": "W4SouthernOutskirts",
+      "text": "W4. Southern Outskirts",
+      "element": "h4"
+    },
+    {
+      "id": "W5SouthernClearing",
+      "text": "W5. Southern Clearing",
+      "element": "h4"
+    },
+    {
+      "id": "imginsedgemoor",
+      "text": "Some pests in Sedgemoor, eluding capture, grow to prodigious size",
+      "element": "figure"
+    },
+    {
+      "id": "W6SoutheasternClearing",
+      "text": "W6. Southeastern Clearing",
+      "element": "h4"
+    },
+    {
+      "id": "W7ObservationHutB",
+      "text": "W7. Observation Hut B",
+      "element": "h4"
+    },
+    {
+      "id": "WiltrootHallLocationsW8W14",
+      "text": "Wiltroot Hall Locations (W8-W14)",
+      "element": "h3"
+    },
+    {
+      "id": "W8WesternClearing",
+      "text": "W8. Western Clearing",
+      "element": "h4"
+    },
+    {
+      "id": "W9ObservationHutC",
+      "text": "W9. Observation Hut C",
+      "element": "h4"
+    },
+    {
+      "id": "imgsedgemoor",
+      "text": "Sedgemoor is expansive and can be intimidating even for older students who explore its grounds",
+      "element": "figure"
+    },
+    {
+      "id": "W10ObservationHutD",
+      "text": "W10. Observation Hut D",
+      "element": "h4"
+    },
+    {
+      "id": "W11NorthwesternClearing",
+      "text": "W11. Northwestern Clearing",
+      "element": "h4"
+    },
+    {
+      "id": "W12NorthernClearing",
+      "text": "W12. Northern Clearing",
+      "element": "h4"
+    },
+    {
+      "id": "W13NorthernOutskirts",
+      "text": "W13. Northern Outskirts",
+      "element": "h4"
+    },
+    {
+      "id": "W14ObservationHutE",
+      "text": "W14. Observation Hut E",
+      "element": "h4"
+    },
+    {
+      "id": "ReportingtoProfSharpbeak",
+      "text": "Reporting to Prof. Sharpbeak",
+      "element": "h3"
+    },
+    {
+      "id": "ScriveningandSymbologyExamGlyphofWarding",
+      "text": "Scrivening and Symbology Exam: Glyph of Warding",
+      "element": "h2"
+    },
+    {
+      "id": "imgmagic",
+      "text": "Scribing magic is an important field of study at Strixhaven, as sloppiness can have strange effects",
+      "element": "figure"
+    },
+    {
+      "id": "StudyingPhase",
+      "text": "Studying Phase",
+      "element": "h3"
+    },
+    {
+      "id": "TestingPhase",
+      "text": "Testing Phase",
+      "element": "h3"
+    },
+    {
+      "id": "Advanceto5thLevel",
+      "text": "Advance to 5th Level!",
+      "element": "h2"
+    }
+  ],
+  "sourceHash": "d7d79a9ead9a7069e75262a1038b8b034c337eb262b3d9f34d241eb5d2ebe1ae",
+  "extractionDate": "2026-07-13T07:40:57.647Z",
+  "extractionVersion": 3,
+  "headings": [
+    {
+      "depth": 1,
+      "id": "HuntforMageTower",
+      "text": "Hunt for Mage Tower"
+    },
+    {
+      "depth": 2,
+      "id": "RunningThisAdventure",
+      "text": "Running This Adventure"
+    },
+    {
+      "depth": 3,
+      "id": "CharacterAdvancement",
+      "text": "Character Advancement"
+    },
+    {
+      "depth": 3,
+      "id": "ChoosingaCollege",
+      "text": "Choosing a College"
+    },
+    {
+      "depth": 3,
+      "id": "AdventureOverview",
+      "text": "Adventure Overview"
+    },
+    {
+      "depth": 4,
+      "id": "AStandaloneAdventure",
+      "text": "A Standalone Adventure"
+    },
+    {
+      "depth": 3,
+      "id": "RandomEncounters",
+      "text": "Random Encounters"
+    },
+    {
+      "depth": 3,
+      "id": "StudentSchedules",
+      "text": "Student Schedules"
+    },
+    {
+      "depth": 2,
+      "id": "BackinSession",
+      "text": "Back in Session"
+    },
+    {
+      "depth": 3,
+      "id": "TheGameofMageTower",
+      "text": "The Game of Mage Tower"
+    },
+    {
+      "depth": 4,
+      "id": "MageTowersRules",
+      "text": "Mage Tower’s Rules"
+    },
+    {
+      "depth": 3,
+      "id": "FormingaTeam",
+      "text": "Forming a Team"
+    },
+    {
+      "depth": 2,
+      "id": "MascotsEverywhere",
+      "text": "Mascots Everywhere!"
+    },
+    {
+      "depth": 3,
+      "id": "ChoosingaMageTowerMascot",
+      "text": "Choosing a Mage Tower Mascot"
+    },
+    {
+      "depth": 3,
+      "id": "WiltrootHall",
+      "text": "Wiltroot Hall"
+    },
+    {
+      "depth": 4,
+      "id": "AStandaloneAdventure1",
+      "text": "A Standalone Adventure"
+    },
+    {
+      "depth": 4,
+      "id": "MascotHunting",
+      "text": "Mascot Hunting"
+    },
+    {
+      "depth": 4,
+      "id": "WiltrootHallFeatures",
+      "text": "Wiltroot Hall Features"
+    },
+    {
+      "depth": 3,
+      "id": "WiltrootHallLocationsW1W7",
+      "text": "Wiltroot Hall Locations (W1-W7)"
+    },
+    {
+      "depth": 4,
+      "id": "W1HallandLearningPlatform",
+      "text": "W1. Hall and Learning Platform"
+    },
+    {
+      "depth": 4,
+      "id": "W2ObservationHutA",
+      "text": "W2. Observation Hut A"
+    },
+    {
+      "depth": 4,
+      "id": "W3SouthwestClearing",
+      "text": "W3. Southwest Clearing"
+    },
+    {
+      "depth": 4,
+      "id": "W4SouthernOutskirts",
+      "text": "W4. Southern Outskirts"
+    },
+    {
+      "depth": 4,
+      "id": "W5SouthernClearing",
+      "text": "W5. Southern Clearing"
+    },
+    {
+      "depth": 4,
+      "id": "W6SoutheasternClearing",
+      "text": "W6. Southeastern Clearing"
+    },
+    {
+      "depth": 4,
+      "id": "W7ObservationHutB",
+      "text": "W7. Observation Hut B"
+    },
+    {
+      "depth": 3,
+      "id": "WiltrootHallLocationsW8W14",
+      "text": "Wiltroot Hall Locations (W8-W14)"
+    },
+    {
+      "depth": 4,
+      "id": "W8WesternClearing",
+      "text": "W8. Western Clearing"
+    },
+    {
+      "depth": 4,
+      "id": "W9ObservationHutC",
+      "text": "W9. Observation Hut C"
+    },
+    {
+      "depth": 4,
+      "id": "W10ObservationHutD",
+      "text": "W10. Observation Hut D"
+    },
+    {
+      "depth": 4,
+      "id": "W11NorthwesternClearing",
+      "text": "W11. Northwestern Clearing"
+    },
+    {
+      "depth": 4,
+      "id": "W12NorthernClearing",
+      "text": "W12. Northern Clearing"
+    },
+    {
+      "depth": 4,
+      "id": "W13NorthernOutskirts",
+      "text": "W13. Northern Outskirts"
+    },
+    {
+      "depth": 4,
+      "id": "W14ObservationHutE",
+      "text": "W14. Observation Hut E"
+    },
+    {
+      "depth": 3,
+      "id": "ReportingtoProfSharpbeak",
+      "text": "Reporting to Prof. Sharpbeak"
+    },
+    {
+      "depth": 2,
+      "id": "ScriveningandSymbologyExamGlyphofWarding",
+      "text": "Scrivening and Symbology Exam: Glyph of Warding"
+    },
+    {
+      "depth": 3,
+      "id": "StudyingPhase",
+      "text": "Studying Phase"
+    },
+    {
+      "depth": 3,
+      "id": "TestingPhase",
+      "text": "Testing Phase"
+    },
+    {
+      "depth": 2,
+      "id": "Advanceto5thLevel",
+      "text": "Advance to 5th Level!"
+    }
+  ],
+  "tags": {
+    "creatures": [
+      "ankheg",
+      "ankhegs",
+      "art elemental mascot",
+      "awakened trees",
+      "basilisk",
+      "black pudding",
+      "brackish trudges",
+      "ettin",
+      "fractal mascot",
+      "gargoyles",
+      "giant boar",
+      "giant elk",
+      "giant scorpion",
+      "inkling mascot",
+      "Lorehold apprentice",
+      "mage hunters",
+      "ochre jellies",
+      "otyugh",
+      "pest mascot",
+      "Silverquill professor of radiance",
+      "Silverquill professor of shadow",
+      "spirit statue mascot",
+      "troll",
+      "water weird",
+      "Witherbloom apprentices"
+    ],
+    "spells": [
+      "glyph of warding"
+    ],
+    "items": [
+      "antitoxin",
+      "calligrapher’s supplies",
+      "elemental gem (emerald)",
+      "herbalism kit",
+      "herbalism kits",
+      "Ioun stone",
+      "Ioun stone (awareness)",
+      "painter’s supplies",
+      "poisoner’s kits",
+      "potions of healing"
+    ],
+    "locations": [
+      "Biblioplex",
+      "Bow’s End Tavern",
+      "Hall and Learning Platform",
+      "Lorehold",
+      "Northern Clearing",
+      "Northern Outskirts",
+      "Northwestern Clearing",
+      "Observation Hut A",
+      "Observation Hut B",
+      "Observation Hut C",
+      "Observation Hut D",
+      "Observation Hut E",
+      "Prismari",
+      "Quandrix",
+      "Sedgemoor",
+      "Silverquill",
+      "Southeastern Clearing",
+      "Southern Clearing",
+      "Southern Outskirts",
+      "Southwest Clearing",
+      "Strixhaven",
+      "Strixhaven Stadium",
+      "Western Clearing",
+      "Wiltroot Hall",
+      "Witherbloom"
+    ],
+    "npcs": [],
+    "topics": [
+      "adventure",
+      "campus-life",
+      "exams",
+      "gm-tools",
+      "read-aloud",
+      "tables"
+    ]
+  },
+  "session": {
+    "readAloud": [
+      {
+        "id": "session-read-aloud-1",
+        "label": "Read aloud 1",
+        "excerpt": "Your peers’ shouts of camaraderie punctuate the air as you finish your first second-year classes for the day. Nearby you see Bow’s End Tavern, where you’ll find friends waiting."
+      },
+      {
+        "id": "session-read-aloud-2",
+        "label": "Read aloud 2",
+        "excerpt": "“It’s happening—the Mage Tower game! The professors invited the student body to field two Mage Tower teams for a game at the end of the year. It’s the Battle of Strixhaven, and th…"
+      },
+      {
+        "id": "session-read-aloud-3",
+        "label": "Read aloud 3",
+        "excerpt": "“It’s fortunate that you’ve found me now. This Mage Tower game is my event to organize, but everything is already going wrong. “You see, I need to tag the college mascots on campu…"
+      },
+      {
+        "id": "session-read-aloud-4",
+        "label": "Read aloud 4",
+        "excerpt": "“Each of them must be tagged with these bands. But I can’t do it myself. With the start of classes, I’m buried under work. “I’ve seen how you handle yourselves, and I’m impressed …"
+      },
+      {
+        "id": "session-read-aloud-5",
+        "label": "Read aloud 5",
+        "excerpt": "The trunk of an enormous dead tree rises nearly one hundred feet in the air. Near the ground, the wide trunk has been hollowed out and carved to form doors, windows, and a spaciou…"
+      },
+      {
+        "id": "session-read-aloud-6",
+        "label": "Read aloud 6",
+        "excerpt": "The small hut in this clearing has a heavily thatched roof and a rickety door that swings open to reveal a sparse interior. A few wooden chairs and a heavy table with an attached …"
+      },
+      {
+        "id": "session-read-aloud-7",
+        "label": "Read aloud 7",
+        "excerpt": "Although the spongy ground here is covered in moss, it’s easily traversable in comparison to the surrounding brush. A raised wooden walkway nearby overlooks this open area."
+      },
+      {
+        "id": "session-read-aloud-8",
+        "label": "Read aloud 8",
+        "excerpt": "This open clearing features a notable pool of black, sludgy refuse in the southern corner."
+      },
+      {
+        "id": "session-read-aloud-9",
+        "label": "Read aloud 9",
+        "excerpt": "A ring of peat, decayed leaves, and beetle-infested animal skulls sit in the middle of this open clearing. The stench of rot is strong."
+      },
+      {
+        "id": "session-read-aloud-10",
+        "label": "Read aloud 10",
+        "excerpt": "Two lumps of slimy vegetation and moss stand prominently in the northeast corner of this clearing."
+      },
+      {
+        "id": "session-read-aloud-11",
+        "label": "Read aloud 11",
+        "excerpt": "A small hut, its thatched roof drooping heavily, languishes in the southern edge of this clearing. A canopy of ancient growth looms over it."
+      },
+      {
+        "id": "session-read-aloud-12",
+        "label": "Read aloud 12",
+        "excerpt": "You arrive at the clearing to find two of your classmates cautiously eying two large, yellow, viscous puddles oozing out from the underbrush near the west side of this clearing."
+      },
+      {
+        "id": "session-read-aloud-13",
+        "label": "Read aloud 13",
+        "excerpt": "This large and well-maintained observation hut has one level above the walkway and another below it."
+      },
+      {
+        "id": "session-read-aloud-14",
+        "label": "Read aloud 14",
+        "excerpt": "Stained paint brushes and empty watercolor palettes are scattered on a table in this small thatched-roof hut, which has a view of large clearings to the north and south."
+      },
+      {
+        "id": "session-read-aloud-15",
+        "label": "Read aloud 15",
+        "excerpt": "Tangled vines and trees draped with thick, hanging moss flank the northern edges of this large clearing. Movement in the foliage to the north gives the area a sense of being alive."
+      },
+      {
+        "id": "session-read-aloud-16",
+        "label": "Read aloud 16",
+        "excerpt": "The wide wooden walkway here runs alongside a small clearing in the bog. A thick bed of mushrooms grows along the clearing’s western edge."
+      },
+      {
+        "id": "session-read-aloud-17",
+        "label": "Read aloud 17",
+        "excerpt": "The boggy ground here feels firmer than at many of the other clearings, and flowering plants fill the area. It’s a lovely, unexpected landscape within the marsh, as the delicate f…"
+      },
+      {
+        "id": "session-read-aloud-18",
+        "label": "Read aloud 18",
+        "excerpt": "A small hut with a thatched roof sits beside the wooden walkway that cuts through this large clearing. Two bulbous masses of fungus and vegetation grow in the southeast corner beh…"
+      },
+      {
+        "id": "session-read-aloud-19",
+        "label": "Read aloud 19",
+        "excerpt": "Professor Sharpbeak smiles. “You’ve saved me a lot of effort, students,” she says. “Now I don’t need to track them all down! Thank you for your assistance.” She scribbles on a she…"
+      }
+    ],
+    "rules": [],
+    "tables": [
+      {
+        "id": "SecondYearLevelAdvancement",
+        "label": "Second-Year Level Advancement",
+        "excerpt": "Second-Year Level Advancement Level Reached When Characters… 5th Complete the first Scrivening and Symbology Exam 6th Finish the adventure"
+      },
+      {
+        "id": "SecondYearEncounters",
+        "label": "Second-Year Encounters",
+        "excerpt": "Second-Year Encounters d10 Encounter 1–4 2 awakened trees, pretending to be Feywild guardians and refusing to let students access an important academic area 5–6 1 basilisk accompa…"
+      },
+      {
+        "id": "SecondYearCourses",
+        "label": "Second-Year Courses",
+        "excerpt": "Second-Year Courses d10 Course Offered By 1 Applied Computational Magic Quandrix 2 Basic Arcane Artifacts Lorehold 3 Electro-choreography Prismari 4 Historical Figures in Magic Lo…"
+      }
+    ],
+    "statBlocks": [],
+    "maps": [
+      {
+        "id": "session-player-map-1",
+        "label": "Map 4.1: wiltroot hall and outer grounds",
+        "dmUrl": "https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/map-4.1-wiltroot-hall-and-outer-grounds.jpg",
+        "playerUrl": "https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/map-4.1-wiltroot-hall-and-outer-grounds-player.jpg"
+      }
+    ],
+    "quickLinks": [
+      {
+        "depth": 2,
+        "id": "RunningThisAdventure",
+        "text": "Running This Adventure",
+        "type": "rule"
+      },
+      {
+        "depth": 3,
+        "id": "CharacterAdvancement",
+        "text": "Character Advancement",
+        "type": "rule"
+      },
+      {
+        "depth": 3,
+        "id": "ChoosingaCollege",
+        "text": "Choosing a College",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "AdventureOverview",
+        "text": "Adventure Overview",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "AStandaloneAdventure",
+        "text": "A Standalone Adventure",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "RandomEncounters",
+        "text": "Random Encounters",
+        "type": "encounter"
+      },
+      {
+        "depth": 3,
+        "id": "StudentSchedules",
+        "text": "Student Schedules",
+        "type": "reference"
+      },
+      {
+        "depth": 2,
+        "id": "BackinSession",
+        "text": "Back in Session",
+        "type": "scene"
+      },
+      {
+        "depth": 3,
+        "id": "TheGameofMageTower",
+        "text": "The Game of Mage Tower",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "MageTowersRules",
+        "text": "Mage Tower’s Rules",
+        "type": "rule"
+      },
+      {
+        "depth": 3,
+        "id": "FormingaTeam",
+        "text": "Forming a Team",
+        "type": "reference"
+      },
+      {
+        "depth": 2,
+        "id": "MascotsEverywhere",
+        "text": "Mascots Everywhere!",
+        "type": "scene"
+      },
+      {
+        "depth": 3,
+        "id": "ChoosingaMageTowerMascot",
+        "text": "Choosing a Mage Tower Mascot",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "WiltrootHall",
+        "text": "Wiltroot Hall",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "AStandaloneAdventure1",
+        "text": "A Standalone Adventure",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "MascotHunting",
+        "text": "Mascot Hunting",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "WiltrootHallFeatures",
+        "text": "Wiltroot Hall Features",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "WiltrootHallLocationsW1W7",
+        "text": "Wiltroot Hall Locations (W1-W7)",
+        "type": "location"
+      },
+      {
+        "depth": 4,
+        "id": "W1HallandLearningPlatform",
+        "text": "W1. Hall and Learning Platform",
+        "type": "location"
+      },
+      {
+        "depth": 4,
+        "id": "W2ObservationHutA",
+        "text": "W2. Observation Hut A",
+        "type": "location"
+      },
+      {
+        "depth": 4,
+        "id": "W3SouthwestClearing",
+        "text": "W3. Southwest Clearing",
+        "type": "location"
+      },
+      {
+        "depth": 4,
+        "id": "W4SouthernOutskirts",
+        "text": "W4. Southern Outskirts",
+        "type": "location"
+      },
+      {
+        "depth": 4,
+        "id": "W5SouthernClearing",
+        "text": "W5. Southern Clearing",
+        "type": "location"
+      },
+      {
+        "depth": 4,
+        "id": "W6SoutheasternClearing",
+        "text": "W6. Southeastern Clearing",
+        "type": "location"
+      },
+      {
+        "depth": 4,
+        "id": "W7ObservationHutB",
+        "text": "W7. Observation Hut B",
+        "type": "location"
+      },
+      {
+        "depth": 3,
+        "id": "WiltrootHallLocationsW8W14",
+        "text": "Wiltroot Hall Locations (W8-W14)",
+        "type": "location"
+      },
+      {
+        "depth": 4,
+        "id": "W8WesternClearing",
+        "text": "W8. Western Clearing",
+        "type": "location"
+      },
+      {
+        "depth": 4,
+        "id": "W9ObservationHutC",
+        "text": "W9. Observation Hut C",
+        "type": "location"
+      },
+      {
+        "depth": 4,
+        "id": "W10ObservationHutD",
+        "text": "W10. Observation Hut D",
+        "type": "location"
+      },
+      {
+        "depth": 4,
+        "id": "W11NorthwesternClearing",
+        "text": "W11. Northwestern Clearing",
+        "type": "location"
+      },
+      {
+        "depth": 4,
+        "id": "W12NorthernClearing",
+        "text": "W12. Northern Clearing",
+        "type": "location"
+      },
+      {
+        "depth": 4,
+        "id": "W13NorthernOutskirts",
+        "text": "W13. Northern Outskirts",
+        "type": "location"
+      },
+      {
+        "depth": 4,
+        "id": "W14ObservationHutE",
+        "text": "W14. Observation Hut E",
+        "type": "location"
+      },
+      {
+        "depth": 3,
+        "id": "ReportingtoProfSharpbeak",
+        "text": "Reporting to Prof. Sharpbeak",
+        "type": "reference"
+      },
+      {
+        "depth": 2,
+        "id": "ScriveningandSymbologyExamGlyphofWarding",
+        "text": "Scrivening and Symbology Exam: Glyph of Warding",
+        "type": "exam"
+      },
+      {
+        "depth": 3,
+        "id": "StudyingPhase",
+        "text": "Studying Phase",
+        "type": "exam"
+      },
+      {
+        "depth": 3,
+        "id": "TestingPhase",
+        "text": "Testing Phase",
+        "type": "exam"
+      },
+      {
+        "depth": 2,
+        "id": "Advanceto5thLevel",
+        "text": "Advance to 5th Level!",
+        "type": "scene"
+      }
+    ]
+  },
+  "anomalyFlags": [
+    {
+      "type": "reader-address",
+      "passage": "Here’s what you need to know to run the adventure in this chapter, whether you’re running it as part of a campaign or as a standalone adventure.",
+      "location": "Running This Adventure",
+      "anchor": "RunningThisAdventure",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "If you’re running this adventure as a standalone, the mage hunters are acting independently, not as part of Murgaxor’s schemes.",
+      "location": "A Standalone Adventure",
+      "anchor": "AStandaloneAdventure",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "Another student is part of this scene—ideally a student the characters have interacted with, or you may choose another student from the “Fellow Students” section in chapter 3.",
+      "location": "Back in Session",
+      "anchor": "BackinSession",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "When you’re ready to begin, read or paraphrase the following, altering the text to incorporate the student’s name or other details:",
+      "location": "Back in Session",
+      "anchor": "BackinSession",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "Your peers’ shouts of camaraderie punctuate the air as you finish your first second-year classes for the day.",
+      "location": "Back in Session",
+      "anchor": "BackinSession",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "Nearby you see Bow’s End Tavern, where you’ll find friends waiting.",
+      "location": "Back in Session",
+      "anchor": "BackinSession",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "All of us think you’d make the best team.",
+      "location": "Back in Session",
+      "anchor": "BackinSession",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "You’d win for sure!",
+      "location": "Back in Session",
+      "anchor": "BackinSession",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "“If you’re in, you can register your team with Professor Sharpbeak.",
+      "location": "Back in Session",
+      "anchor": "BackinSession",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "Come on—we’ll talk you into it over Curtie’s caster’s stew!",
+      "location": "Back in Session",
+      "anchor": "BackinSession",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "hidden-actor",
+      "passage": "The characters’ team is chosen to compete along with a team that consists of their Rivals and other NPCs.",
+      "location": "Forming a Team",
+      "anchor": "FormingaTeam",
+      "confidence": 0.68,
+      "reason": "A passive construction may conceal who performs the action."
+    },
+    {
+      "type": "hidden-actor",
+      "passage": "The walkways and the platform underneath the hall are made of magically reinforced wood and enclosed by short guard rails.",
+      "location": "Wiltroot Hall Features",
+      "anchor": "WiltrootHallFeatures",
+      "confidence": 0.68,
+      "reason": "A passive construction may conceal who performs the action."
+    }
+  ],
+  "contentHtml": "<h1 class=\"compendium-hr\" id=\"HuntforMageTower\">Hunt for Mage Tower</h1>\n\n<p>In this adventure, the characters return to Strixhaven University as second-year students. As the year gets underway, the characters’ peers urge them to form a team and compete in a high-profile game of Mage Tower. They’ll investigate the odd behavior of the magical creatures at the game’s center while they prepare for the big game. And throughout the year, nefarious forces strew havoc across the campus—right up to the characters’ fateful game day at Strixhaven Stadium. Will the characters unveil and thwart the threats before something terrible befalls the event?</p>\n<figure id=\"imgsplash\" class=\"compendium-image\">\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/04-001.chapter-splash.jpg\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/04-001.chapter-splash.jpg\" class=\"ddb-lightbox-inner\" style=\"width: 650px;\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a>\n<figcaption>With their full abilities on display, Strixhaven students often create<br>breathtaking spectacles when they play the game of Mage Tower</figcaption>\n</figure>\n<h2 class=\"compendium-hr heading-anchor\" id=\"RunningThisAdventure\">Running This Adventure</h2>\n<p>Here’s what you need to know to run the adventure in this chapter, whether you’re running it as part of a campaign or as a standalone adventure.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"CharacterAdvancement\">Character Advancement</h3>\n<p>This adventure assumes the characters are 4th level when it begins. The Second-Year Level Advancement table summarizes when the characters gain levels during the adventure.</p>\n<table id=\"SecondYearLevelAdvancement\" class=\"table-compendium table--left-col2\">\n<caption class=\"heading-anchor\"><a href=\"#SecondYearLevelAdvancement\"></a>Second-Year Level Advancement</caption>\n<thead>\n<tr>\n<th>Level</th>\n<th>Reached When Characters…</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>5th</td>\n<td>Complete the first Scrivening and Symbology Exam</td>\n</tr>\n<tr>\n<td>6th</td>\n<td>Finish the adventure</td>\n</tr>\n</tbody>\n</table>\n<h3 class=\"compendium-hr heading-anchor\" id=\"ChoosingaCollege\">Choosing a College</h3>\n<p>Before this adventure begins, the characters must choose one of Strixhaven’s five colleges to join: Silverquill, Prismari, Witherbloom, Lorehold, or Quandrix. This choice can happen “off screen” or as part of the preparation for this adventure. See <a href=\"/chapters/strixhaven-life-at-strixhaven/#ChoosingaCollege\" title=\"chapter 1\">chapter 1</a> for more information about joining a Strixhaven college and the academic counselors assigned to students in their second year.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"AdventureOverview\">Adventure Overview</h3>\n<p>The dangerous events the characters face in this adventure are the work of two <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160312-mage-hunter\" data-tooltip-href=\"/monsters/2160312-tooltip\">mage hunters</a>—vicious monsters described in <a href=\"/chapters/strixhaven-friends-and-foes/#MageHunter\" title=\"chapter 7\">chapter 7</a>. The mastermind Murgaxor Grenshel has bent these creatures to his will as part of his effort to weaken Strixhaven and achieve immortality.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"AStandaloneAdventure\">A Standalone Adventure</h4>\n<p>If you’re running this adventure as a standalone, the mage hunters are acting independently, not as part of Murgaxor’s schemes. These creatures have broken from their Oriq associates and enacted their own scheme to weaken Strixhaven. Believing their success will earn them a place of prestige among the university’s enemies, they plot to bring down Strixhaven’s newest star pupils: the characters.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"RandomEncounters\">Random Encounters</h3>\n<p>Use the Second-Year Encounters table for random encounters on campus during this adventure.</p>\n<table id=\"SecondYearEncounters\" class=\"table-compendium table--generic-dice\">\n<caption class=\"heading-anchor\"><a href=\"#SecondYearEncounters\"></a>Second-Year Encounters</caption>\n<thead>\n<tr>\n<th>d10</th>\n<th>Encounter</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1–4</td>\n<td>2 <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/16792-awakened-tree\" data-tooltip-href=\"/monsters/16792-tooltip\">awakened trees</a>, pretending to be Feywild guardians and refusing to let students access an important academic area</td>\n</tr>\n<tr>\n<td>5–6</td>\n<td>1 <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/16801-basilisk\" data-tooltip-href=\"/monsters/16801-tooltip\">basilisk</a> accompanied by 2 <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/16868-gargoyle\" data-tooltip-href=\"/monsters/16868-tooltip\">gargoyles</a> that falsely insist the basilisk turned them to stone</td>\n</tr>\n<tr>\n<td>7–8</td>\n<td>1 <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/16973-otyugh\" data-tooltip-href=\"/monsters/16973-tooltip\">otyugh</a> who calls itself the Garbage King and is terrorizing campus facilities</td>\n</tr>\n<tr>\n<td>9–10</td>\n<td>1 <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/17040-troll\" data-tooltip-href=\"/monsters/17040-tooltip\">troll</a> and 1 <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/16860-ettin\" data-tooltip-href=\"/monsters/16860-tooltip\">ettin</a> who falsely insist they’re students</td>\n</tr>\n</tbody>\n</table>\n<h3 class=\"compendium-hr heading-anchor\" id=\"StudentSchedules\">Student Schedules</h3>\n<p>Before the adventure, have the players choose at least three courses their characters are taking this year, either by coming up with the courses or by rolling on the Second-Year Courses table. Inform them that the characters are also enrolled in a required course, Scrivening and Symbology.</p>\n<table id=\"SecondYearCourses\" class=\"table-compendium table--generic-dice table--left-last\">\n<caption class=\"heading-anchor\"><a href=\"#SecondYearCourses\"></a>Second-Year Courses</caption>\n<thead>\n<tr>\n<th>d10</th>\n<th>Course</th>\n<th>Offered By</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1</td>\n<td>Applied Computational Magic</td>\n<td>Quandrix</td>\n</tr>\n<tr>\n<td>2</td>\n<td>Basic Arcane Artifacts</td>\n<td>Lorehold</td>\n</tr>\n<tr>\n<td>3</td>\n<td>Electro-choreography</td>\n<td>Prismari</td>\n</tr>\n<tr>\n<td>4</td>\n<td>Historical Figures in Magic</td>\n<td>Lorehold</td>\n</tr>\n<tr>\n<td>5</td>\n<td>Introduction to Reanimation</td>\n<td>Witherbloom</td>\n</tr>\n<tr>\n<td>6</td>\n<td>Life Auras and Necrosis</td>\n<td>Witherbloom</td>\n</tr>\n<tr>\n<td>7</td>\n<td>Linguistics in Spellcasting</td>\n<td>Silverquill</td>\n</tr>\n<tr>\n<td>8</td>\n<td>Pyromancy and the Arts</td>\n<td>Prismari</td>\n</tr>\n<tr>\n<td>9</td>\n<td>Quantitative Arcano-physics</td>\n<td>Quandrix</td>\n</tr>\n<tr>\n<td>10</td>\n<td>Verbal Components and the Law</td>\n<td>Silverquill</td>\n</tr>\n</tbody>\n</table>\n<h2 class=\"compendium-hr heading-anchor\" id=\"BackinSession\">Back in Session</h2>\n<p>Once the characters have chosen their colleges and cemented their other second-year decisions, it’s time to kick off this adventure.</p>\n<div class=\"flexible-double-column\">\n<div class=\"flexible-double-column__column-width-45pct\">\n<figure class=\"compendium-image compendium-image-center\" id=\"StrixhavenFlyer\">\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/04-002.ticket.png\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/04-002.ticket.png\" class=\"ddb-lightbox-inner\" style=\"width: 370px;\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a></figure>\n</div>\n<div>\n<p>The academic year has barely dawned when the characters wrap up a day of their new courses and head toward Bow’s End Tavern on the central campus for some socializing.</p>\n<p>In this scene, the characters learn about the Battle of Strixhaven, a Mage Tower game. Another student is part of this scene—ideally a student the characters have interacted with, or you may choose another student from the “<a href=\"/chapters/strixhaven-relationships/#FellowStudents\" title=\"Fellow Students\">Fellow Students</a>” section in <a href=\"/chapters/strixhaven-relationships/\" title=\"chapter 3\">chapter 3</a>.</p>\n<p>When you’re ready to begin, read or paraphrase the following, altering the text to incorporate the student’s name or other details:</p>\n<aside class=\"read-aloud-text\" id=\"session-read-aloud-1\">\n<p>Your peers’ shouts of camaraderie punctuate the air as you finish your first second-year classes for the day. Nearby you see Bow’s End Tavern, where you’ll find friends waiting.</p>\n</aside>\n<p>A student runs up to the characters, shouting and waving a flyer. Pausing to catch their breath, the student grins and stuffs the flyer in a character’s hand. The student exclaims:</p>\n<aside class=\"read-aloud-text\" id=\"session-read-aloud-2\">\n<p>“It’s happening—the Mage Tower game! The professors invited the student body to field two Mage Tower teams for a game at the end of the year. It’s the Battle of Strixhaven, and the winners and their supporters get bragging rights for life! All of us think you’d make the best team. You’d win for sure!</p>\n<p>“If you’re in, you can register your team with Professor Sharpbeak. Come on—we’ll talk you into it over Curtie’s caster’s stew!”</p>\n</aside>\n<p>Show the players the Battle of Strixhaven flyer. As Strixhaven students, the characters are familiar with the game Mage Tower. Share the information below with the players.</p>\n</div></div>\n<h3 class=\"compendium-hr heading-anchor\" id=\"TheGameofMageTower\">The Game of Mage Tower</h3>\n<p>Mage Tower is one of Strixhaven’s most common student games. The Battle of Strixhaven is an intramural championship held every three years in Strixhaven Stadium for bragging rights among the student body. For more about this event, see the “<a href=\"/chapters/strixhaven-dangerous-knowledge/#BattleofStrixhaven\" title=\"Battle of Strixhaven\">Battle of Strixhaven</a>” section.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"MageTowersRules\">Mage Tower’s Rules</h4>\n<p>Here are the rules of Mage Tower:</p>\n<ul>\n<li>Each of the two teams has an equal number of students, usually not exceeding five.</li>\n<li>Each team is represented by a small mascot creature that reflects one of Strixhaven’s colleges, as described in the “<a href=\"/chapters/strixhaven-life-at-strixhaven/#Mascots\" title=\"Mascots\">Mascots</a>” section of <a href=\"/chapters/strixhaven-life-at-strixhaven/\" title=\"chapter 1\">chapter 1</a>.</li>\n<li>When the game begins, the two mascots are placed on high towers at opposite ends of the field of play.</li>\n<li>Each team tries to steal the opposing mascot and transport it back to the tower at their end of the field. Doing so scores one point.</li>\n<li>The game occurs in three phases of 20 minutes each.</li>\n<li>The team that scores the most points by the end of the third phase wins the game.</li>\n<li>Anything that could cause damage to a participant, mascot, or spectator or that would damage the field of play in any way is prohibited. Breaking this rule results in expulsion from the game.</li>\n<li>Questionable use of magic can be called as a foul by the game’s referee. A faculty member fills that post during official games.</li>\n<li>Participants who accumulate three fouls are ejected from the game. Teams may not replace participants who foul out.</li>\n</ul>\n<h3 class=\"compendium-hr heading-anchor\" id=\"FormingaTeam\">Forming a Team</h3>\n<p>Once the characters decide to form one of the two Mage Tower teams for the Battle of Strixhaven, they must register the team with Professor Mavinda Sharpbeak (campus counselor and owlin <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160332-silverquill-professor-of-radiance\" data-tooltip-href=\"/monsters/2160332-tooltip\">Silverquill professor of radiance</a>; see <a href=\"/chapters/strixhaven-friends-and-foes/#SilverquillProfessorofRadiance\" title=\"chapter 7\">chapter 7</a>). Their team includes all the characters; the characters might recruit student NPCs to join their team, although filling their roster up to five participants isn’t required. The opposing team has an equal number of participants. Multiple teams may register for the tournament; the faculty choose two to compete in the Battle of Strixhaven. The characters’ team is chosen to compete along with a team that consists of their Rivals and other NPCs.</p>\n<p>More information about the Battle of Strixhaven and the opposing team is provided later in this adventure. The Mage Tower game isn’t until the end of the academic year, but preparing for it plays a key role in this adventure.</p>\n<p>If you wish, roleplay the scene in which the characters register their team with Professor Sharpbeak. The owlin counselor can be found in the Biblioplex near the Hall of Oracles. There, she’s helping direct new first-year students to vital places on campus. For a description and map of the Biblioplex (<a href=\"/chapters/strixhaven-campus-kerfuffle/#Map31thebiblioplex\" title=\"map 3.1\">map 3.1</a>), see <a href=\"/chapters/strixhaven-campus-kerfuffle/\" title=\"chapter 3\">chapter 3</a>.</p>\n<p>If characters don’t immediately leap at the chance to form a Mage Tower team for the Battle of Strixhaven, emphasize that every peer they speak with wants to see them participate. In addition to social rewards, the characters learn that participating in the Battle of Strixhaven earns them a permanent commendation on their student record, as well as a monetary prize of half of their tuition for this academic year waived. Effectively, this means each character receives 400 gp if their team wins.</p>\n<h2 class=\"compendium-hr heading-anchor\" id=\"MascotsEverywhere\">Mascots Everywhere!</h2>\n<p>When the characters register their team name with Professor Sharpbeak, the owlin counselor’s eyes briefly dart about with trepidation. She asks the characters to walk with her outside the Biblioplex to discuss an important matter.</p>\n<p>She says the following in a confiding voice:</p>\n<aside class=\"read-aloud-text\" id=\"session-read-aloud-3\">\n<p>“It’s fortunate that you’ve found me now. This Mage Tower game is my event to organize, but everything is already going wrong.</p>\n<p>“You see, I need to tag the college mascots on campus—those little magical creatures that roam the grounds. We use them as mascots for our Mage Tower games. If the deans find out that some of the mascots aren’t cataloged, my reputation will be ruined!</p>\n<p>“Before classes began, I corralled the mascots on an island in Sedgemoor. But before I finished cataloging them, a half-dozen escaped and vanished. This morning, I heard students chattering about mascots causing a commotion on the outer grounds of Wiltroot Hall.”</p>\n</aside>\n<p>The professor rifles through her bag and pulls out a cheesecloth sack filled with small woven bands, each embroidered with a number. She continues:</p>\n<aside class=\"read-aloud-text\" id=\"session-read-aloud-4\">\n<p>“Each of them must be tagged with these bands. But I can’t do it myself. With the start of classes, I’m buried under work.</p>\n<p>“I’ve seen how you handle yourselves, and I’m impressed with your skills. Could you head to Wiltroot Hall on Witherbloom’s campus and discreetly slip these bands onto every mascot you find? I’d be grateful. What’s more, I’d owe you a favor. What do you say?”</p>\n</aside>\n<p>Encourage the characters to take on Professor Sharpbeak’s favor within the first few days of this adventure. For ease of running this adventure, it’s best that the characters complete this event before the “<a href=\"/chapters/strixhaven-party-at-the-rose-stage/#PracticeMakesPerfect\" title=\"Practice Makes Perfect\">Practice Makes Perfect</a>” section. If the characters are reluctant, reinforce that the mascots are bound to disperse eventually and that fulfilling Professor Sharpbeak’s request will become more difficult the longer they wait.</p>\n<p>When the characters are ready to act on Professor Sharpbeak’s request, move on to the description of Wiltroot Hall below.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"ChoosingaMageTowerMascot\">Choosing a Mage Tower Mascot</h3>\n<p>As mentioned in “<a href=\"#TheGameofMageTower\" title=\"The Game of Mage Tower\">The Game of Mage Tower</a>,” each team in a Mage Tower game chooses a mascot creature to represent them and to serve as a focal point of the game’s scoring. If the characters discuss finding a mascot to represent their team, Professor Sharpbeak assures them that any mascot they find at Wiltroot Hall could serve as their team mascot. If the characters don’t ask about mascots now, you can prompt them to choose a mascot later in the academic year, when the game approaches. Mascots don’t confer benefits in the game, although Mage Tower participants are often sentimental about their mascots.</p>\n<figure class=\"compendium-image\" id=\"imgmascots\">\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/04-003.mascots.png\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/04-003.mascots.png\" class=\"ddb-lightbox-inner compendium-center-banner-img\" style=\"width: 850px;\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a>\n<figcaption>Mascots are common sights on campus—and sometimes they gather and cause mischief</figcaption>\n</figure>\n<h3 class=\"compendium-hr heading-anchor\" id=\"WiltrootHall\">Wiltroot Hall</h3>\n<p>Despite its location on the outer grounds of Witherbloom College’s campus, Wiltroot Hall is normally a safe locale. But the activities of Murgaxor and his mage hunter servitors have drawn lurking dangers from more remote parts of the bayou.</p>\n<p>As he grows more proficient in his ability to siphon creatures’ energy to power his magic, Murgaxor is practicing lesser forms of the magic that will eventually culminate in his destructive ritual in <a href=\"/chapters/strixhaven-a-reckoning-in-ruins/\" title=\"chapter 6\">chapter 6</a>. Evidence of his magic persists in <a href=\"#W5SouthernClearing\" title=\"area W5\">area W5</a>. The strange energy of his magic has drawn creatures to the area around Wiltroot Hall and made them unusually aggressive. Professor Sharpbeak’s stray mascots have also been drawn to the area, though they are no more aggressive than usual.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"AStandaloneAdventure1\">A Standalone Adventure</h4>\n<p>If you’re running this chapter as a standalone adventure, the bayou creatures’ aggressive presence is a result of the mage hunters’ activity in the area, not Murgaxor’s magic. Characters can find traces of the mage hunters’ presence in area W5.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"MascotHunting\">Mascot Hunting</h4>\n<p>Six mascots escaped Professor Sharpbeak’s custody and fled to the grounds of Wiltroot Hall, drawn to the bog’s latent decay.</p>\n<p><em><strong>Finding.</strong></em> As described in the “<a href=\"#WiltrootHallLocationsW1W7\" title=\"Wiltroot Hall Locations\">Wiltroot Hall Locations</a>” section below, the six missing mascots can be found in areas <a href=\"#W2ObservationHutA\" title=\"W2\">W2</a>, <a href=\"#W3SouthwestClearing\" title=\"W3\">W3</a>, <a href=\"#W6SoutheasternClearing\" title=\"W6\">W6</a>, <a href=\"#W9ObservationHutC\" title=\"W9\">W9</a>, <a href=\"#W10ObservationHutD\" title=\"W10\">W10</a>, and <a href=\"#W11NorthwesternClearing\" title=\"W11\">W11</a>.</p>\n<p><em><strong>Cataloging.</strong></em> Affixing one of Professor Sharpbeak’s bands onto a mascot typically requires an action and a successful DC 14 Strength (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/2-tooltip\">Athletics</a>) or Dexterity (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/4-tooltip\">Sleight of Hand</a>) check, though you may allow other types of ability checks.</p>\n<p>For example, a character who tries to trick a mascot into approaching can make a Charisma (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/16-tooltip\">Deception</a>) check, or a character who uses gestures and a calm voice to convince a mascot to wear the band can make a Charisma (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/19-tooltip\">Persuasion</a>) check.</p>\n<p>The spirit statue in area W6 requires special coaxing to wear the band. See that area for more details.</p>\n<p><em><strong>Investigating.</strong></em> Once the characters catch their third mascot, a successful DC 16 Intelligence (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/6-tooltip\">Arcana</a> or <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/9-tooltip\">Nature</a>) check reveals that a sinister magical signature is drawing the mascots here—the sensation is something like a rotten-smelling tingle in the back of one’s nostrils. The exact nature of the unsettling latent magic isn’t clear, but it seems to fundamentally involve drawing energy from living creatures.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"WiltrootHallFeatures\">Wiltroot Hall Features</h4>\n<p>The hall and surrounding grounds have the following features (areas not numbered are easily traversable but devoid of significant features or creatures):</p>\n<p><strong>Building Ceilings.</strong> The ceiling of Wiltroot Hall (<a href=\"#W1HallandLearningPlatform\" title=\"area W1\">area W1</a>) is 40 feet high. The ceilings of the observation huts (areas <a href=\"#W2ObservationHutA\" title=\"W2\">W2</a>, <a href=\"#W7ObservationHutB\" title=\"W7\">W7</a>, <a href=\"#W9ObservationHutC\" title=\"W9\">W9</a>, <a href=\"#W10ObservationHutD\" title=\"W10\">W10</a>, and <a href=\"#W14ObservationHutE\" title=\"W14\">W14</a>) are 10 feet high.</p>\n<p><strong>Building Doors.</strong> The doors to Wiltroot Hall (area W1) and the observation huts (areas W2, W7, W9, W10, and W14) are unlocked.</p>\n<p><strong>Swampy Stinkbrush.</strong> The areas surrounding the clearings and walkways contain a mixture of nearly impassable, awful-smelling deep bog and thick undergrowth. These areas are difficult terrain if the characters want to explore them, but it’s clear that few creatures would intentionally pass through these areas.</p>\n<p><strong>Walkways.</strong> The walkways and the platform underneath the hall are made of magically reinforced wood and enclosed by short guard rails. The walkways are two feet above the swamp. Hopping over the guard rail into the bog or clearings below, or pulling oneself up onto a walkway from the ground below, requires an action but no ability check.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"WiltrootHallLocationsW1W7\">Wiltroot Hall Locations (W1-W7)</h3>\n<p>The following locations are keyed to map 4.1. All descriptions assume the characters are exploring this area during the day. There are no classes taking place here when the characters arrive, so the area is sparsely populated.</p>\n<figure id=\"Map41wiltroothallandoutergrounds\" class=\"compendium-image\">\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/map-4.1-wiltroot-hall-and-outer-grounds.jpg\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/map-4.1-wiltroot-hall-and-outer-grounds.jpg\" class=\"ddb-lightbox-inner compendium-center-banner-img\" style=\"width: 850px;\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a>\n<figcaption>Map 4.1: wiltroot hall and outer grounds <a class=\"ddb-lightbox-outer\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/map-4.1-wiltroot-hall-and-outer-grounds-player.jpg\" data-lightbox=\"1\" data-title=\"View Player Version\" id=\"session-player-map-1\">View Player Version</a></figcaption>\n</figure>\n<h4 class=\"compendium-hr heading-anchor\" id=\"W1HallandLearningPlatform\">W1. Hall and Learning Platform</h4>\n<aside class=\"read-aloud-text\" id=\"session-read-aloud-5\">\n<p>The trunk of an enormous dead tree rises nearly one hundred feet in the air. Near the ground, the wide trunk has been hollowed out and carved to form doors, windows, and a spacious learning center. Surrounding the tree is a wooden platform that overlooks the bog and walkways beyond.</p>\n</aside>\n<p>This area is devoid of faculty, staff, or students, leaving the building full of class supplies. Up to three <a class=\"tooltip-hover item-tooltip\" href=\"https://www.dndbeyond.com/equipment/123-herbalism-kit\" data-tooltip-href=\"/adventuring-gear/123-tooltip\">herbalism kits</a> or <a class=\"tooltip-hover item-tooltip\" href=\"https://www.dndbeyond.com/equipment/125-poisoners-kit\" data-tooltip-href=\"/adventuring-gear/125-tooltip\">poisoner’s kits</a> could be crafted from these materials, as well as up to three vials of <a class=\"tooltip-hover item-tooltip\" href=\"https://www.dndbeyond.com/equipment/204-antitoxin\" data-tooltip-href=\"/adventuring-gear/204-tooltip\">antitoxin</a> and two <a class=\"tooltip-hover item-tooltip\" href=\"https://www.dndbeyond.com/equipment/71-potion-of-healing\" data-tooltip-href=\"/adventuring-gear/71-tooltip\">potions of healing</a>.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"W2ObservationHutA\">W2. Observation Hut A</h4>\n<aside class=\"read-aloud-text\" id=\"session-read-aloud-6\">\n<p>The small hut in this clearing has a heavily thatched roof and a rickety door that swings open to reveal a sparse interior. A few wooden chairs and a heavy table with an attached cabinet make up the hut’s furnishings.</p>\n</aside>\n<p>The clearing outside the hut is uninhabited.</p>\n<p><em><strong>Mascot.</strong></em> Opening the table’s cabinet inside the hut reveals a <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160317-pest-mascot\" data-tooltip-href=\"/monsters/2160317-tooltip\">pest mascot</a> (see <a href=\"/chapters/strixhaven-friends-and-foes/#PestMascot\" title=\"chapter 7\">chapter 7</a>) gnawing on a cracked, strange-looking stone. The pest is one of the mascots the characters must catalog for Professor Sharpbeak, as mentioned in the “<a href=\"#MascotHunting\" title=\"Mascot Hunting\">Mascot Hunting</a>” section earlier.</p>\n<p><em><strong>Treasure.</strong></em> The cracked stone the pest is gnawing on is an <a class=\"tooltip-hover magic-item-tooltip\" href=\"https://www.dndbeyond.com/magic-items/4918-ioun-stone-of-awareness\" data-tooltip-href=\"/magic-items/4918-tooltip\">Ioun stone (awareness)</a>. The stone is malfunctioning and was discarded here. A character who tinkers with the <a class=\"tooltip-hover magic-item-tooltip\" href=\"https://www.dndbeyond.com/magic-items/4918-ioun-stone-of-awareness\" data-tooltip-href=\"/magic-items/4918-tooltip\">Ioun stone</a> for 1 minute and succeeds on a DC 16 Intelligence (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/6-tooltip\">Arcana</a>) check mends the item so it functions as intended.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"W3SouthwestClearing\">W3. Southwest Clearing</h4>\n<aside class=\"read-aloud-text\" id=\"session-read-aloud-7\">\n<p>Although the spongy ground here is covered in moss, it’s easily traversable in comparison to the surrounding brush. A raised wooden walkway nearby overlooks this open area.</p>\n</aside>\n<p>This clearing appears to be empty. However, a DC 13 Wisdom (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/14-tooltip\">Perception</a>) check reveals movement in the western part of the surrounding brush. If the characters linger here for a round, they catch the attention of two <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/16787-ankheg\" data-tooltip-href=\"/monsters/16787-tooltip\">ankhegs</a>. The aggressive creatures attack, retreating back into the brush only if the characters reduce one or both of them to 10 hit points or fewer.</p>\n<p><em><strong>Mascot.</strong></em> Once the ankhegs are dispatched, the characters see an <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160307-inkling-mascot\" data-tooltip-href=\"/monsters/2160307-tooltip\">inkling mascot</a> (see <a href=\"/chapters/strixhaven-friends-and-foes/#InklingMascot\" title=\"chapter 7\">chapter 7</a>) poke its head out from the underbrush nearby. The inkling is one of the mascots the characters must catalog for Professor Sharpbeak, as mentioned in the “<a href=\"#MascotHunting\" title=\"Mascot Hunting\">Mascot Hunting</a>” section earlier.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"W4SouthernOutskirts\">W4. Southern Outskirts</h4>\n<aside class=\"read-aloud-text\" id=\"session-read-aloud-8\">\n<p>This open clearing features a notable pool of black, sludgy refuse in the southern corner.</p>\n</aside>\n<p>If the characters approach the refuse, it reveals itself to be an aggressive <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/16808-black-pudding\" data-tooltip-href=\"/monsters/16808-tooltip\">black pudding</a>. The black pudding has eaten the remnants of creatures slain in this region recently, so it’s Huge. Its game statistics are otherwise the same. The black pudding tries to flee when reduced to 10 hit points or fewer, as do any puddings resulting from it splitting.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"W5SouthernClearing\">W5. Southern Clearing</h4>\n<aside class=\"read-aloud-text\" id=\"session-read-aloud-9\">\n<p>A ring of peat, decayed leaves, and beetle-infested animal skulls sit in the middle of this open clearing. The stench of rot is strong.</p>\n</aside>\n<p>This clearing holds two clues to the evil activity taking place in this part of the bayou.</p>\n<p><em><strong>Mage Hunter Chitin.</strong></em> A successful DC 15 Wisdom (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/14-tooltip\">Perception</a>) check reveals a piece of chipped chitin plating. This plating sloughed off the mage hunters while they lingered here, but the characters can identify it only if they’re familiar with mage hunters. If a character shows the plating to a faculty member, the faculty member says it could have come from a dangerous creature but is unsure of its origin.</p>\n<p><em><strong>Murgaxor’s Scrawls.</strong></em> A successful DC 17 Wisdom (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/14-tooltip\">Perception</a>) or Intelligence (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/8-tooltip\">Investigation</a>) check reveals illegible scrawls in the dirt that match the writing in the journal the characters found in Sedgemoor last academic year.</p>\n<figure id=\"imginsedgemoor\" class=\"compendium-image\">\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/04-004.pests-in-sedgemoor.png\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/04-004.pests-in-sedgemoor.png\" class=\"ddb-lightbox-inner compendium-center-banner-img\" style=\"width: 850px;\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a>\n<figcaption>Some pests in Sedgemoor, eluding capture, grow to prodigious size</figcaption>\n</figure>\n<h4 class=\"compendium-hr heading-anchor\" id=\"W6SoutheasternClearing\">W6. Southeastern Clearing</h4>\n<aside class=\"read-aloud-text\" id=\"session-read-aloud-10\">\n<p>Two lumps of slimy vegetation and moss stand prominently in the northeast corner of this clearing.</p>\n</aside>\n<p>If the characters approach the two lumps, a guttural gurgle emits from them in tandem. Rising to stand is a fungal, mossy beast that groans, “Disturbed! I am disturbed!” before it attacks the characters. This momentarily animated fungal mass is a Plant but otherwise uses the stat block of an <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/16860-ettin\" data-tooltip-href=\"/monsters/16860-tooltip\">ettin</a>. When it’s reduced to 0 hit points, the creature melts back into the spongy bog floor.</p>\n<p><em><strong>Mascot.</strong></em> Once the fungal mass is dispatched, the characters can see a <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160334-spirit-statue-mascot\" data-tooltip-href=\"/monsters/2160334-tooltip\">spirit statue mascot</a> (see <a href=\"/chapters/strixhaven-friends-and-foes/#SpiritStatueMascot\" title=\"chapter 7\">chapter 7</a>) poke its head out from the underbrush nearby. The statue chuckles and says, “I’m quite bored of behaving as Professor Sharpbeak says. From now on, it’s nothing but mischief! I’m a free spirit!” Convincing the statue that its work on campus is important and it should wear the band requires an action and a successful DC 14 Charisma (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/19-tooltip\">Persuasion</a>) check. The statue is one of the mascots the characters must catalog for Profession Sharpbeak, as mentioned in the “<a href=\"#MascotHunting\" title=\"Mascot Hunting\">Mascot Hunting</a>” section earlier.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"W7ObservationHutB\">W7. Observation Hut B</h4>\n<aside class=\"read-aloud-text\" id=\"session-read-aloud-11\">\n<p>A small hut, its thatched roof drooping heavily, languishes in the southern edge of this clearing. A canopy of ancient growth looms over it.</p>\n</aside>\n<p>If the characters approach the hut, it becomes clear that the leafy canopy is obscuring a <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/16892-giant-scorpion\" data-tooltip-href=\"/monsters/16892-tooltip\">giant scorpion</a>. The aggressive creature attacks, as does the <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/16787-ankheg\" data-tooltip-href=\"/monsters/16787-tooltip\">ankheg</a> that steps out from the brush behind it. The creatures fight alongside each other—another unusual event in this area. If the characters reduce either creature to 10 hit points or fewer, it tries to flee.</p>\n<p><em><strong>Treasure.</strong></em> Herbalism supplies cover a heavy table inside this hut—enough to assemble one <a class=\"tooltip-hover item-tooltip\" href=\"https://www.dndbeyond.com/equipment/123-herbalism-kit\" data-tooltip-href=\"/adventuring-gear/123-tooltip\">herbalism kit</a>.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"WiltrootHallLocationsW8W14\">Wiltroot Hall Locations (W8-W14)</h3>\n<h4 class=\"compendium-hr heading-anchor\" id=\"W8WesternClearing\">W8. Western Clearing</h4>\n<aside class=\"read-aloud-text\" id=\"session-read-aloud-12\">\n<p>You arrive at the clearing to find two of your classmates cautiously eying two large, yellow, viscous puddles oozing out from the underbrush near the west side of this clearing.</p>\n</aside>\n<p>The characters’ classmates Urzmaktok Grojsh and Melwythorne (two <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160338-witherbloom-apprentice\" data-tooltip-href=\"/monsters/2160338-tooltip\">Witherbloom apprentices</a>; see <a href=\"/chapters/strixhaven-relationships/#FellowStudents\" title=\"chapter 3\">chapter 3</a>) came here to explore the area. Ever the overachiever, Urzmaktok is taking advantage of the empty grounds to gather plant cuttings. He hopes to study them through the Fantastical Horticulture Club and petition his Witherbloom professors for extra credit if he successfully nurtures them. Timid for a third-year student, Urzmaktok convinced the lonely Melwythorne to accompany him to the grounds, both so Melwythorne might tell stories about his grove and so Melwythorne could protect him from any dangers.</p>\n<p>The two Witherbloom students had decided to approach the puddles when the characters discover them. When anyone steps toward the puddles, they jiggle and solidify into two <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/16967-ochre-jelly\" data-tooltip-href=\"/monsters/16967-tooltip\">ochre jellies</a>. If they see the characters, the jellies climb up onto the walkway in pursuit of prey. An ochre jelly reduced to 5 hit points or fewer tries to flee.</p>\n<p><em><strong>Witherbloom Peers.</strong></em> Once an altercation begins with the ochre jellies, Urzmaktok and Melwythorne flee to safety. After combat ends, any friendly word convinces them to help the characters track down and catalog the errant mascots. The characters have advantage on ability checks made to catalog a mascot if Urzmaktok or Melwythorne is present to lend assistance.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"W9ObservationHutC\">W9. Observation Hut C</h4>\n<aside class=\"read-aloud-text\" id=\"session-read-aloud-13\">\n<p>This large and well-maintained observation hut has one level above the walkway and another below it.</p>\n</aside>\n<p>When the characters enter this building, they smell the pungent algae within a large fountain bubbling up from the center of the floor of the lower level. This is a naturally occurring spring. A pockmarked stone carving in the shape of a stylized, anthropomorphic wave surrounds and collects the water.</p>\n<p>Javenesh Stoutclaw (neutral good owlin <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160308-lorehold-apprentice\" data-tooltip-href=\"/monsters/2160308-tooltip\">Lorehold apprentice</a>; see <a href=\"/chapters/strixhaven-relationships/#JaveneshStoutclaw\" title=\"chapter 3\">chapter 3</a>) stands next to the fountain, tilting his head in confusion and ruffling his feathers while seemingly talking to himself. If the characters approach the fountain, they see that Javenesh is speaking with a <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/17208-water-weird\" data-tooltip-href=\"/monsters/17208-tooltip\">water weird</a> submerged inside it. Unlike most water weirds, this creature, named Lothannep, can speak and understand Common.</p>\n<p>Lothannep lives in the fountain when the university isn’t in session. Lothannep was bound generations ago to a pool located in the wilds off Witherbloom’s campus. Lothannep’s mage master released it long ago, and it has been wandering about as it pleases since.</p>\n<figure class=\"compendium-image\" id=\"imgsedgemoor\">\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/04-005.sedgemoor.png\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/04-005.sedgemoor.png\" class=\"ddb-lightbox-inner compendium-center-banner-img\" style=\"width: 850px;\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a>\n<figcaption>Sedgemoor is expansive and can be intimidating even for older students who explore its grounds</figcaption>\n</figure>\n<p>Lothannep likes this hut but will be ejected once the Witherbloom faculty discovers the weird’s presence. A character can befriend Lothannep by engaging it in friendly conversation and succeeding on a DC 13 Charisma (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/19-tooltip\">Persuasion</a>) check, with advantage if the character is a Witherbloom student. The water weird can be persuaded to relocate to another body of water, but only if a character toward which it is friendly suggests it.</p>\n<p><em><strong>Lorehold Peer.</strong></em> Javenesh traipsed to this area on an errand for Tulk Tusktooth, the manager of Bow’s End Tavern. Tulk asked Javenesh to collect water from this fountain for use in Chef Curtie Axe­chucker’s special dish. Javenesh is trying and failing to explain to Lothannep why he needs the water when the characters arrive.</p>\n<p>A character who strikes up a friendship with the <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/17208-water-weird\" data-tooltip-href=\"/monsters/17208-tooltip\">water weird</a> can persuade Lothannep to leave the fountain long enough for Javenesh to fill his tankard. Whether or not the characters help Javenesh with his errand, the owlin is amenable to aiding them with their mission to find the lost mascots. A character has advantage on ability checks made to catalog a mascot if Javenesh is present to lend assistance.</p>\n<p><em><strong>Mascot.</strong></em> Once the characters have interacted with Lothannep, they see a <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160304-fractal-mascot\" data-tooltip-href=\"/monsters/2160304-tooltip\">fractal mascot</a> (see <a href=\"/chapters/strixhaven-friends-and-foes/#FractalMascot\" title=\"chapter 7\">chapter 7</a>) emerge from under a table in the hut. The fractal is one of the mascots the characters must catalog for Professor Sharpbeak, as mentioned in the “<a href=\"#MascotHunting\" title=\"Mascot Hunting\">Mascot Hunting</a>” section earlier.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"W10ObservationHutD\">W10. Observation Hut D</h4>\n<aside class=\"read-aloud-text\" id=\"session-read-aloud-14\">\n<p>Stained paint brushes and empty watercolor palettes are scattered on a table in this small thatched-roof hut, which has a view of large clearings to the north and south.</p>\n</aside>\n<p>The table in the building holds enough materials to create a set of <a class=\"tooltip-hover item-tooltip\" href=\"https://www.dndbeyond.com/equipment/113-painters-supplies\" data-tooltip-href=\"/adventuring-gear/113-tooltip\">painter’s supplies</a> and a set of <a class=\"tooltip-hover item-tooltip\" href=\"https://www.dndbeyond.com/equipment/104-calligraphers-supplies\" data-tooltip-href=\"/adventuring-gear/104-tooltip\">calligrapher’s supplies</a>.</p>\n<p><em><strong>Mascot.</strong></em> A mischievous <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160297-art-elemental-mascot\" data-tooltip-href=\"/monsters/2160297-tooltip\">art elemental mascot</a> (see <a href=\"/chapters/strixhaven-friends-and-foes/#ArtElementalMascot\" title=\"chapter 7\">chapter 7</a>) rests underneath the table. The art elemental is one of the mascots the characters must catalog for Professor Sharpbeak, as mentioned in the “<a href=\"#MascotHunting\" title=\"Mascot Hunting\">Mascot Hunting</a>” section earlier.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"W11NorthwesternClearing\">W11. Northwestern Clearing</h4>\n<aside class=\"read-aloud-text\" id=\"session-read-aloud-15\">\n<p>Tangled vines and trees draped with thick, hanging moss flank the northern edges of this large clearing. Movement in the foliage to the north gives the area a sense of being alive.</p>\n</aside>\n<p>When a character ventures toward the north end of this clearing, two <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/16882-giant-elk\" data-tooltip-href=\"/monsters/16882-tooltip\">giant elk</a> burst out of the foliage. The giant elk are angry and confused, and they attack. If an elk is reduced to 20 hit points or fewer, it regains its senses and tries to flee.</p>\n<p><em><strong>Mascot.</strong></em> Once the characters deal with the elk, they see a <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160317-pest-mascot\" data-tooltip-href=\"/monsters/2160317-tooltip\">pest mascot</a> (see <a href=\"/chapters/strixhaven-friends-and-foes/#PestMascot\" title=\"chapter 7\">chapter 7</a>) emerge from the underbrush near where the elk rested. The pest is one of the mascots the characters must catalog for Professor Sharpbeak, as mentioned in the “<a href=\"#MascotHunting\" title=\"Mascot Hunting\">Mascot Hunting</a>” section earlier.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"W12NorthernClearing\">W12. Northern Clearing</h4>\n<aside class=\"read-aloud-text\" id=\"session-read-aloud-16\">\n<p>The wide wooden walkway here runs alongside a small clearing in the bog. A thick bed of mushrooms grows along the clearing’s western edge.</p>\n</aside>\n<p>A character who moves toward the clearing’s western side sees a <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/16876-giant-boar\" data-tooltip-href=\"/monsters/16876-tooltip\">giant boar</a> munching on the mushrooms. Like the elk in area W11, the boar is angry and confused and initially attacks. If it’s reduced to 10 hit points or fewer, it tries to flee into the bog.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"W13NorthernOutskirts\">W13. Northern Outskirts</h4>\n<aside class=\"read-aloud-text\" id=\"session-read-aloud-17\">\n<p>The boggy ground here feels firmer than at many of the other clearings, and flowering plants fill the area. It’s a lovely, unexpected landscape within the marsh, as the delicate floral scents mix with those of peat and earth to perfume the air.</p>\n</aside>\n<p>This area is devoid of any creatures.</p>\n<p><em><strong>Treasure.</strong></em> If the characters search this area, a successful DC 15 Wisdom (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/14-tooltip\">Perception</a>) check reveals an emerald-colored glint in the stamen of a large pink flower. This is an <a class=\"tooltip-hover magic-item-tooltip\" href=\"https://www.dndbeyond.com/magic-items/4889-elemental-gem-emerald\" data-tooltip-href=\"/magic-items/4889-tooltip\">elemental gem (emerald)</a>, discarded or perhaps lost. If the characters speak to Witherbloom faculty members about it, the characters learn that no one has reported the lost item, so they’re permitted to keep it.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"W14ObservationHutE\">W14. Observation Hut E</h4>\n<aside class=\"read-aloud-text\" id=\"session-read-aloud-18\">\n<p>A small hut with a thatched roof sits beside the wooden walkway that cuts through this large clearing. Two bulbous masses of fungus and vegetation grow in the southeast corner behind the building.</p>\n</aside>\n<p>If a character approaches the southeast corner behind the observation hut, two <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160299-brackish-trudge\" data-tooltip-href=\"/monsters/2160299-tooltip\">brackish trudges</a> (see <a href=\"/chapters/strixhaven-friends-and-foes/#BrackishTrudge\" title=\"chapter 7\">chapter 7</a>) animate. Like the elk in <a href=\"#W11NorthwesternClearing\" title=\"area W11\">area W11</a> and the boar in <a href=\"#W12NorthernClearing\" title=\"area W12\">area W12</a>, the trudges are initially hostile and attack. However, if a trudge is reduced to 20 hit points or fewer, it regains its senses and tries to flee.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"ReportingtoProfSharpbeak\">Reporting to Prof. Sharpbeak</h3>\n<p>When the characters catalog one or more mascots for Professor Sharpbeak and want to report back to her, they find the counselor in the Biblioplex. If the characters tell her about the dangers that lurked near Wiltroot Hall, she expresses shock at the aggressive fauna and promises to have faculty members secure the area promptly.</p>\n<p>When the characters report the number of mascots they’ve cataloged, read:</p>\n<aside class=\"read-aloud-text\" id=\"session-read-aloud-19\">\n<p>Professor Sharpbeak smiles. “You’ve saved me a lot of effort, students,” she says. “Now I don’t need to track them all down! Thank you for your assistance.” She scribbles on a sheet of parchment and hands you the document.</p>\n</aside>\n<p>The document entitles the characters to one free uncommon magic item of their choice from the Biblioplex’s student store (area <a href=\"/chapters/strixhaven-campus-kerfuffle/#B5StudentStore\" title=\"B5\">B5</a> of map 3.1 in <a href=\"/chapters/strixhaven-campus-kerfuffle/\" title=\"chapter 3\">chapter 3</a>).</p>\n<h2 class=\"compendium-hr heading-anchor\" id=\"ScriveningandSymbologyExamGlyphofWarding\">Scrivening and Symbology Exam: Glyph of Warding</h2>\n<p>During their second year at Strixhaven, the characters are enrolled together in a course called Scrivening and Symbology, which is held in a lecture hall in the Biblioplex (one of the areas marked <a href=\"/chapters/strixhaven-campus-kerfuffle/#B7LectureHall\" title=\"B7\">B7</a> on <a href=\"/chapters/strixhaven-campus-kerfuffle/#Map31thebiblioplex\" title=\"map 3.1\">map 3.1</a> in <a href=\"/chapters/strixhaven-campus-kerfuffle/\" title=\"chapter 3\">chapter 3</a>). The course covers the basics of recognizing, deciphering, and understanding the magic behind arcane scripts and symbols. Over the course of the term, students learn how to tell scribbles and doodles from magically imbued symbols, and they study popular accounts of adventurers who’ve come across magic-based writing in their travels. They also learn about common spells that incorporate writing and symbology in their casting. The course’s professor is Brenneth Blackstone (chaotic good dhampir <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160333-silverquill-professor-of-shadow\" data-tooltip-href=\"/monsters/2160333-tooltip\">Silverquill professor of shadow</a>; see <a href=\"/chapters/strixhaven-friends-and-foes/#SilverquillProfessorofShadow\" title=\"chapter 7\">chapter 7</a>), a rising star in scriptology whose dynamic lectures are practically performance art.</p>\n<p>This course’s first Exam takes place a short while after the events of the “<a href=\"#MascotsEverywhere\" title=\"Mascots Everywhere!\">Mascots Everywhere!</a>” section and tests students on their knowledge of scrivening and symbology, as expressed in <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2125-glyph-of-warding\" data-tooltip-href=\"/spells/2125-tooltip\">glyph of warding</a> spells. For more information about the rules used for Exams, see <a href=\"/chapters/strixhaven-school-is-in-session/#Exams\" title=\"chapter 3\">chapter 3</a>.</p>\n<figure id=\"imgmagic\" class=\"compendium-image\">\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/04-006.scribing-magic.png\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/04-006.scribing-magic.png\" class=\"ddb-lightbox-inner compendium-center-banner-img\" style=\"width: 850px;\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a>\n<figcaption>Scribing magic is an important field of study at Strixhaven, as sloppiness can have strange effects</figcaption>\n</figure>\n<h3 class=\"compendium-hr heading-anchor\" id=\"StudyingPhase\">Studying Phase</h3>\n<p>The day before the Exam, the characters can study the course material. A character can use any ability check and skill during the Studying phase.</p>\n<p>Once you’ve asked each player how their character is approaching the Studying phase, resolve that phase by having each character who studies make a DC 15 ability check. Make sure players keep track of their characters’ rerolls and apply them during the Testing phase.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"TestingPhase\">Testing Phase</h3>\n<p>On the day of the Exam, each character makes two ability checks related to parts of the test:</p>\n<p><strong>Glyph of Warding Shapes.</strong> Identifying the shapes commonly used when a mage casts a <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2125-glyph-of-warding\" data-tooltip-href=\"/spells/2125-tooltip\">glyph of warding</a> requires a successful DC 15 Intelligence (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/8-tooltip\">Investigation</a>) check.</p>\n<p><strong>Common Glyph Effects.</strong> Writing an essay on common magical effects and triggers associated with <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2125-glyph-of-warding\" data-tooltip-href=\"/spells/2125-tooltip\">glyph of warding</a> spells requires a successful DC 15 Intelligence (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/6-tooltip\">Arcana</a>) check.</p>\n<p>Have each player note their character’s Exam results—how many Student Dice they gained and what skills they used during the test—on their copies of the tracking sheet.</p>\n<h2 class=\"compendium-hr heading-anchor\" id=\"Advanceto5thLevel\">Advance to 5th Level!</h2>\n<p>Each character advances to 5th level at the end of their first Scrivening and Symbology Exam.</p>"
+}

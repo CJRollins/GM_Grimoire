@@ -2,20 +2,34 @@
 import { getCollection } from 'astro:content';
 import GrimoireLayout from '../layouts/GrimoireLayout.astro';
 
-const chapters = (await getCollection('chapters')).sort((a, b) => a.data.order - b.data.order);
+const bookOrder = new Map([
+  ['eberron-forge-of-the-artificer', 0],
+  ['strixhaven-a-curriculum-of-chaos', 1],
+]);
+const chapters = (await getCollection('chapters')).sort((a, b) => {
+  const bookDifference = (bookOrder.get(a.data.bookSlug) ?? 99) - (bookOrder.get(b.data.bookSlug) ?? 99);
+  return bookDifference || a.data.order - b.data.order;
+});
 ---
 
 <GrimoireLayout title="Search" chapters={chapters}>
   <main id="reader-content" class="search-page">
     <p class="kicker">Command search</p>
-    <h1>Search the archive</h1>
-    <p>Search canonical reader text, then narrow by sourcebook, chapter, edition, creature, spell, location, or anomaly type.</p>
-    <noscript><p class="notice">Search requires JavaScript, but every chapter remains available from the book rail.</p></noscript>
+    <h1>Search both worlds</h1>
+    <p>Search the preserved reader text, then narrow by sourcebook, world, academic year, page type, audience, creature, spell, item, location, NPC, topic, or anomaly label.</p>
+    <div class="search-hints" aria-label="Search examples">
+      <span>Try</span>
+      <code>relationship checks</code>
+      <code>mage tower</code>
+      <code>artificer infusions</code>
+      <code>Murgaxor</code>
+    </div>
+    <noscript><p class="notice">Search requires JavaScript, but every reader page remains available from the sourcebook rail.</p></noscript>
     <pagefind-config faceted preload></pagefind-config>
     <div class="search-grid">
       <aside aria-label="Search filters"><pagefind-filter-pane expanded sort="count-desc"></pagefind-filter-pane></aside>
       <div>
-        <pagefind-input autofocus placeholder="Search spells, places, rules, or phrases…"></pagefind-input>
+        <pagefind-input autofocus placeholder="Search scenes, rules, people, places, or exact phrases…"></pagefind-input>
         <pagefind-summary></pagefind-summary>
         <pagefind-results></pagefind-results>
       </div>

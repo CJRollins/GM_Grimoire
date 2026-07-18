@@ -1,0 +1,33 @@
+{
+  "title": "Eberron: Forge of the Artificer",
+  "sourcebook": "Eberron: Forge of the Artificer",
+  "bookSlug": "eberron-forge-of-the-artificer",
+  "originalPath": "Eberron/Eberron- Forge of the Artificer.html",
+  "rawUrl": "/archive/eberron/Eberron-%20Forge%20of%20the%20Artificer.html",
+  "sourceHash": "d2274e7ee03ae352afd9970392b6411917a2cc5ebb855c010ce22b7785cf29b1",
+  "extractionDate": "2026-07-13T07:40:57.647Z",
+  "extractionVersion": 3,
+  "originalAnchors": [
+    {
+      "id": "Contents",
+      "text": "Contents",
+      "element": "h2"
+    },
+    {
+      "id": "Bestiary",
+      "text": "Bestiary",
+      "element": "h2"
+    }
+  ],
+  "transformations": [
+    "Selected the first .p-article-content element.",
+    "Removed scripts, styles, forms, iframes, hidden duplicate labels, and source navigation.",
+    "Removed event handlers and D&D Beyond content-chunk identifiers.",
+    "Rewrote archived sourcebook links to generated reader routes when a local target exists.",
+    "Added lazy image loading and asynchronous decoding hints.",
+    "Added derived IDs to read-aloud, rules, table, and stat-block elements for session navigation.",
+    "Indexed player-version map links as derived session metadata.",
+    "Preserved source wording and original heading IDs; derived metadata remains separate."
+  ],
+  "repairs": []
+}

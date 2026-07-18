@@ -1,0 +1,1231 @@
+{
+  "title": "Character Options",
+  "sourcebook": "Strixhaven: A Curriculum of Chaos",
+  "bookSlug": "strixhaven-a-curriculum-of-chaos",
+  "world": "Arcavios",
+  "edition": "2014 rules",
+  "chapter": "Character Options",
+  "chapterNumber": 2,
+  "order": 3,
+  "navGroup": "Reference",
+  "kind": "character-options",
+  "audience": "both",
+  "slug": "strixhaven-character-options",
+  "chapterSlug": "character-options",
+  "summary": "The campus of Strixhaven draws a student body from across the world—or many worlds. With your DM’s permission, you can create just about any Strixhaven character you can imagine, drawing on player character rules from the Player’s Handbook and other D&D books…",
+  "wordCount": 6336,
+  "originalPath": "Arcavios/Stixhaven/Chapter 3 - Character Options.html",
+  "rawUrl": "/archive/strixhaven/Chapter%203%20-%20Character%20Options.html",
+  "originalAnchors": [
+    {
+      "id": "CharacterOptions",
+      "text": "Character Options",
+      "element": "h1"
+    },
+    {
+      "id": "comp-next-nav",
+      "text": "",
+      "element": "div"
+    },
+    {
+      "id": "imgsplash",
+      "text": "A group of Strixhaven students—each from a differentcollege—descend into the depths below an ancient ruin",
+      "element": "figure"
+    },
+    {
+      "id": "RaceOption",
+      "text": "Race Option",
+      "element": "h2"
+    },
+    {
+      "id": "CreatingYourCharacter",
+      "text": "Creating Your Character",
+      "element": "h3"
+    },
+    {
+      "id": "AbilityScoreIncreases",
+      "text": "Ability Score Increases",
+      "element": "h4"
+    },
+    {
+      "id": "Languages",
+      "text": "Languages",
+      "element": "h4"
+    },
+    {
+      "id": "CreatureType",
+      "text": "Creature Type",
+      "element": "h4"
+    },
+    {
+      "id": "LifeSpan",
+      "text": "Life Span",
+      "element": "h4"
+    },
+    {
+      "id": "HeightandWeight",
+      "text": "Height and Weight",
+      "element": "h4"
+    },
+    {
+      "id": "Owlin",
+      "text": "Owlin",
+      "element": "h3"
+    },
+    {
+      "id": "imgowlin",
+      "text": "Owlin unleash magic in the sky above Strixhaven",
+      "element": "figure"
+    },
+    {
+      "id": "OwlinTraits",
+      "text": "Owlin Traits",
+      "element": "h4"
+    },
+    {
+      "id": "ChoosingaCollege",
+      "text": "Choosing a College",
+      "element": "h2"
+    },
+    {
+      "id": "AStrixhavenParty",
+      "text": "A STRIXHAVEN PARTY If you’re starting a Strixhaven campaign with the introductory adventure in chapter 3, that adventure gives all the advice you need to bring ",
+      "element": "aside"
+    },
+    {
+      "id": "StrixhavenBackgrounds",
+      "text": "Strixhaven Backgrounds",
+      "element": "h2"
+    },
+    {
+      "id": "LoreholdStudent",
+      "text": "Lorehold Student",
+      "element": "h3"
+    },
+    {
+      "id": "FeatureLoreholdInitiate",
+      "text": "Feature: Lorehold Initiate",
+      "element": "h4"
+    },
+    {
+      "id": "LoreholdSpells",
+      "text": "Lorehold Spells Spell Level Spells 1st Comprehend Languages, Identify 2nd Borrowed Knowledge (in this book), Locate Object 3rd Speak with Dead, Spirit Guardians",
+      "element": "table"
+    },
+    {
+      "id": "BuildingaLoreholdCharacter",
+      "text": "Building a Lorehold Character",
+      "element": "h4"
+    },
+    {
+      "id": "LoreholdPersonalityTraits",
+      "text": "Lorehold Personality Traits d6 Personality Trait 1 I thrive on esoteric lore. The more obscure the historical references I can include in everyday conversation,",
+      "element": "table"
+    },
+    {
+      "id": "LoreholdTrinkets",
+      "text": "Lorehold Trinkets d6 Trinket 1 A map made of concentric circles that can be rotated around the page 2 A puzzle box bedecked with amber 3 A dented brass compass ",
+      "element": "table"
+    },
+    {
+      "id": "PrismariStudent",
+      "text": "Prismari Student",
+      "element": "h3"
+    },
+    {
+      "id": "FeaturePrismariInitiate",
+      "text": "Feature: Prismari Initiate",
+      "element": "h4"
+    },
+    {
+      "id": "PrismariSpells",
+      "text": "Prismari Spells Spell Level Spells 1st Chromatic Orb, Thunderwave 2nd Flaming Sphere, Kinetic Jaunt (in this book) 3rd Haste, Water Walk 4th Freedom of Movement",
+      "element": "table"
+    },
+    {
+      "id": "imgprismaristudent",
+      "text": "An advanced Prismari student artfully harnesses fire",
+      "element": "figure"
+    },
+    {
+      "id": "BuildingaPrismariCharacter",
+      "text": "Building a Prismari Character",
+      "element": "h4"
+    },
+    {
+      "id": "PrismariPersonalityTraits",
+      "text": "Prismari Personality Traits d6 Personality Trait 1 I’m the life of the party, and I expect everyone’s attention when I walk into a room. 2 Two weeks ago, I was ",
+      "element": "table"
+    },
+    {
+      "id": "PrismariTrinkets",
+      "text": "Prismari Trinkets d6 Trinket 1 A pair of rose-tinted glasses with glittery frames 2 A stoppered glass bottle that, when opened, plays a brassy orchestral piece ",
+      "element": "table"
+    },
+    {
+      "id": "QuandrixStudent",
+      "text": "Quandrix Student",
+      "element": "h3"
+    },
+    {
+      "id": "FeatureQuandrixInitiate",
+      "text": "Feature: Quandrix Initiate",
+      "element": "h4"
+    },
+    {
+      "id": "QuandrixSpells",
+      "text": "Quandrix Spells Spell Level Spells 1st Entangle, Guiding Bolt 2nd Enlarge/Reduce, Vortex Warp (in this book) 3rd Aura of Vitality, Haste 4th Control Water, Free",
+      "element": "table"
+    },
+    {
+      "id": "imgquandrixstudent",
+      "text": "A Quandrix student magically gazes into the intricate patterns of nature",
+      "element": "figure"
+    },
+    {
+      "id": "BuildingaQuandrixCharacter",
+      "text": "Building a Quandrix Character",
+      "element": "h4"
+    },
+    {
+      "id": "QuandrixPersonalityTraits",
+      "text": "Quandrix Personality Traits d6 Personality Trait 1 When I find a subject I’m interested in, I won’t stop studying until I know everything about it. It keeps me ",
+      "element": "table"
+    },
+    {
+      "id": "QuandrixTrinkets",
+      "text": "Quandrix Trinkets d6 Trinket 1 A small succulent in a dodecahedral clay pot 2 A blue knit hat that looks a bit like a bottle folding in on itself 3 A model hype",
+      "element": "table"
+    },
+    {
+      "id": "SilverquillStudent",
+      "text": "Silverquill Student",
+      "element": "h3"
+    },
+    {
+      "id": "FeatureSilverquillInitiate",
+      "text": "Feature: Silverquill Initiate",
+      "element": "h4"
+    },
+    {
+      "id": "SilverquillSpells",
+      "text": "Silverquill Spells Spell Level Spells 1st Dissonant Whispers, Silvery Barbs (in this book) 2nd Calm Emotions, Darkness 3rd Beacon of Hope, Daylight 4th Compulsi",
+      "element": "table"
+    },
+    {
+      "id": "BuildingaSilverquillCharacter",
+      "text": "Building a Silverquill Character",
+      "element": "h4"
+    },
+    {
+      "id": "SilverquillPersonalityTraits",
+      "text": "Silverquill Personality Traits d6 Personality Trait 1 I’ll say whatever I need to in order to maintain my high social status. 2 I prefer saying the blunt truth ",
+      "element": "table"
+    },
+    {
+      "id": "SilverquillTrinkets",
+      "text": "Silverquill Trinkets d6 Trinket 1 A black leather notebook filled with half-finished poems 2 A set of flashcards detailing different colloquialisms and their me",
+      "element": "table"
+    },
+    {
+      "id": "WitherbloomStudent",
+      "text": "Witherbloom Student",
+      "element": "h3"
+    },
+    {
+      "id": "FeatureWitherbloomInitiate",
+      "text": "Feature: Witherbloom Initiate",
+      "element": "h4"
+    },
+    {
+      "id": "WitherbloomSpells",
+      "text": "Witherbloom Spells Spell Level Spells 1st Cure Wounds, Inflict Wounds 2nd Lesser Restoration, Wither and Bloom (in this book) 3rd Revivify, Vampiric Touch 4th B",
+      "element": "table"
+    },
+    {
+      "id": "BuildingaWitherbloomCharacter",
+      "text": "Building a Witherbloom Character",
+      "element": "h4"
+    },
+    {
+      "id": "WitherbloomPersonalityTraits",
+      "text": "Witherbloom Personality Traits",
+      "element": "caption"
+    },
+    {
+      "id": "WitherbloomTrinkets",
+      "text": "Witherbloom Trinkets",
+      "element": "caption"
+    },
+    {
+      "id": "Feats",
+      "text": "Feats",
+      "element": "h2"
+    },
+    {
+      "id": "FeatDescriptions",
+      "text": "Feat Descriptions",
+      "element": "h3"
+    },
+    {
+      "id": "StrixhavenInitiate",
+      "text": "Strixhaven Initiate",
+      "element": "h4"
+    },
+    {
+      "id": "StrixhavenSpells",
+      "text": "Strixhaven Spells",
+      "element": "caption"
+    },
+    {
+      "id": "StrixhavenMascot",
+      "text": "Strixhaven Mascot",
+      "element": "h4"
+    },
+    {
+      "id": "Spells",
+      "text": "Spells",
+      "element": "h2"
+    },
+    {
+      "id": "SpellsTable",
+      "text": "Spells Level Spell School Class 1st Silvery Barbs Enchantment Bard, Sorcerer, Wizard 2nd Borrowed Knowledge Divination Bard, Cleric, Warlock, Wizard 2nd Kinetic",
+      "element": "table"
+    },
+    {
+      "id": "Spells2",
+      "text": "Spells",
+      "element": "caption"
+    },
+    {
+      "id": "SpellDescriptions",
+      "text": "Spell Descriptions",
+      "element": "h3"
+    },
+    {
+      "id": "BorrowedKnowledge",
+      "text": "Borrowed Knowledge",
+      "element": "h4"
+    },
+    {
+      "id": "KineticJaunt",
+      "text": "Kinetic Jaunt",
+      "element": "h4"
+    },
+    {
+      "id": "SilveryBarbs",
+      "text": "Silvery Barbs",
+      "element": "h4"
+    },
+    {
+      "id": "VortexWarp",
+      "text": "Vortex Warp",
+      "element": "h4"
+    },
+    {
+      "id": "WitherandBloom",
+      "text": "Wither and Bloom",
+      "element": "h4"
+    },
+    {
+      "id": "MagicItems",
+      "text": "Magic Items",
+      "element": "h2"
+    },
+    {
+      "id": "MagicItemsforSale",
+      "text": "Magic Items for Sale Item Rarity Cost Bottle of Boundless Coffee Common 100 gp Cuddly Strixhaven Mascot Common 100 gp Lorehold Primer Uncommon 300 gp Prismari P",
+      "element": "table"
+    },
+    {
+      "id": "MagicItemsForSale",
+      "text": "Magic Items for Sale",
+      "element": "caption"
+    },
+    {
+      "id": "MagicItemDescriptions",
+      "text": "Magic Item Descriptions",
+      "element": "h3"
+    },
+    {
+      "id": "BottleofBoundlessCoffee",
+      "text": "Bottle of Boundless Coffee",
+      "element": "h4"
+    },
+    {
+      "id": "CuddlyStrixhavenMascot",
+      "text": "Cuddly Strixhaven Mascot",
+      "element": "h4"
+    },
+    {
+      "id": "LoreholdPrimer",
+      "text": "Lorehold Primer",
+      "element": "h4"
+    },
+    {
+      "id": "PrismariPrimer",
+      "text": "Prismari Primer",
+      "element": "h4"
+    },
+    {
+      "id": "QuandrixPrimer",
+      "text": "Quandrix Primer",
+      "element": "h4"
+    },
+    {
+      "id": "SilverquillPrimer",
+      "text": "Silverquill Primer",
+      "element": "h4"
+    },
+    {
+      "id": "StrixhavenPennant",
+      "text": "Strixhaven Pennant",
+      "element": "h4"
+    },
+    {
+      "id": "WitherbloomPrimer",
+      "text": "Witherbloom Primer",
+      "element": "h4"
+    }
+  ],
+  "sourceHash": "f8c11ba15586ff3ddc066deb647da87d3869dc7b91dede8ac0ff8440f231c0de",
+  "extractionDate": "2026-07-13T07:40:57.647Z",
+  "extractionVersion": 3,
+  "headings": [
+    {
+      "depth": 1,
+      "id": "CharacterOptions",
+      "text": "Character Options"
+    },
+    {
+      "depth": 2,
+      "id": "RaceOption",
+      "text": "Race Option"
+    },
+    {
+      "depth": 3,
+      "id": "CreatingYourCharacter",
+      "text": "Creating Your Character"
+    },
+    {
+      "depth": 4,
+      "id": "AbilityScoreIncreases",
+      "text": "Ability Score Increases"
+    },
+    {
+      "depth": 4,
+      "id": "Languages",
+      "text": "Languages"
+    },
+    {
+      "depth": 4,
+      "id": "CreatureType",
+      "text": "Creature Type"
+    },
+    {
+      "depth": 4,
+      "id": "LifeSpan",
+      "text": "Life Span"
+    },
+    {
+      "depth": 4,
+      "id": "HeightandWeight",
+      "text": "Height and Weight"
+    },
+    {
+      "depth": 3,
+      "id": "Owlin",
+      "text": "Owlin"
+    },
+    {
+      "depth": 4,
+      "id": "OwlinTraits",
+      "text": "Owlin Traits"
+    },
+    {
+      "depth": 2,
+      "id": "ChoosingaCollege",
+      "text": "Choosing a College"
+    },
+    {
+      "depth": 2,
+      "id": "StrixhavenBackgrounds",
+      "text": "Strixhaven Backgrounds"
+    },
+    {
+      "depth": 3,
+      "id": "LoreholdStudent",
+      "text": "Lorehold Student"
+    },
+    {
+      "depth": 4,
+      "id": "FeatureLoreholdInitiate",
+      "text": "Feature: Lorehold Initiate"
+    },
+    {
+      "depth": 4,
+      "id": "BuildingaLoreholdCharacter",
+      "text": "Building a Lorehold Character"
+    },
+    {
+      "depth": 3,
+      "id": "PrismariStudent",
+      "text": "Prismari Student"
+    },
+    {
+      "depth": 4,
+      "id": "FeaturePrismariInitiate",
+      "text": "Feature: Prismari Initiate"
+    },
+    {
+      "depth": 4,
+      "id": "BuildingaPrismariCharacter",
+      "text": "Building a Prismari Character"
+    },
+    {
+      "depth": 3,
+      "id": "QuandrixStudent",
+      "text": "Quandrix Student"
+    },
+    {
+      "depth": 4,
+      "id": "FeatureQuandrixInitiate",
+      "text": "Feature: Quandrix Initiate"
+    },
+    {
+      "depth": 4,
+      "id": "BuildingaQuandrixCharacter",
+      "text": "Building a Quandrix Character"
+    },
+    {
+      "depth": 3,
+      "id": "SilverquillStudent",
+      "text": "Silverquill Student"
+    },
+    {
+      "depth": 4,
+      "id": "FeatureSilverquillInitiate",
+      "text": "Feature: Silverquill Initiate"
+    },
+    {
+      "depth": 4,
+      "id": "BuildingaSilverquillCharacter",
+      "text": "Building a Silverquill Character"
+    },
+    {
+      "depth": 3,
+      "id": "WitherbloomStudent",
+      "text": "Witherbloom Student"
+    },
+    {
+      "depth": 4,
+      "id": "FeatureWitherbloomInitiate",
+      "text": "Feature: Witherbloom Initiate"
+    },
+    {
+      "depth": 4,
+      "id": "BuildingaWitherbloomCharacter",
+      "text": "Building a Witherbloom Character"
+    },
+    {
+      "depth": 2,
+      "id": "Feats",
+      "text": "Feats"
+    },
+    {
+      "depth": 3,
+      "id": "FeatDescriptions",
+      "text": "Feat Descriptions"
+    },
+    {
+      "depth": 4,
+      "id": "StrixhavenInitiate",
+      "text": "Strixhaven Initiate"
+    },
+    {
+      "depth": 4,
+      "id": "StrixhavenMascot",
+      "text": "Strixhaven Mascot"
+    },
+    {
+      "depth": 2,
+      "id": "Spells",
+      "text": "Spells"
+    },
+    {
+      "depth": 3,
+      "id": "SpellDescriptions",
+      "text": "Spell Descriptions"
+    },
+    {
+      "depth": 4,
+      "id": "BorrowedKnowledge",
+      "text": "Borrowed Knowledge"
+    },
+    {
+      "depth": 4,
+      "id": "KineticJaunt",
+      "text": "Kinetic Jaunt"
+    },
+    {
+      "depth": 4,
+      "id": "SilveryBarbs",
+      "text": "Silvery Barbs"
+    },
+    {
+      "depth": 4,
+      "id": "VortexWarp",
+      "text": "Vortex Warp"
+    },
+    {
+      "depth": 4,
+      "id": "WitherandBloom",
+      "text": "Wither and Bloom"
+    },
+    {
+      "depth": 2,
+      "id": "MagicItems",
+      "text": "Magic Items"
+    },
+    {
+      "depth": 3,
+      "id": "MagicItemDescriptions",
+      "text": "Magic Item Descriptions"
+    },
+    {
+      "depth": 4,
+      "id": "BottleofBoundlessCoffee",
+      "text": "Bottle of Boundless Coffee"
+    },
+    {
+      "depth": 4,
+      "id": "CuddlyStrixhavenMascot",
+      "text": "Cuddly Strixhaven Mascot"
+    },
+    {
+      "depth": 4,
+      "id": "LoreholdPrimer",
+      "text": "Lorehold Primer"
+    },
+    {
+      "depth": 4,
+      "id": "PrismariPrimer",
+      "text": "Prismari Primer"
+    },
+    {
+      "depth": 4,
+      "id": "QuandrixPrimer",
+      "text": "Quandrix Primer"
+    },
+    {
+      "depth": 4,
+      "id": "SilverquillPrimer",
+      "text": "Silverquill Primer"
+    },
+    {
+      "depth": 4,
+      "id": "StrixhavenPennant",
+      "text": "Strixhaven Pennant"
+    },
+    {
+      "depth": 4,
+      "id": "WitherbloomPrimer",
+      "text": "Witherbloom Primer"
+    }
+  ],
+  "tags": {
+    "creatures": [
+      "art elemental mascot",
+      "fractal mascot",
+      "inkling mascot",
+      "pest mascot",
+      "spirit statue mascot"
+    ],
+    "spells": [
+      "Antilife Shell",
+      "Arcane Eye",
+      "Aura of Vitality",
+      "Beacon of Hope",
+      "Blight",
+      "Borrowed Knowledge",
+      "Calm Emotions",
+      "chill touch",
+      "Chromatic Orb",
+      "Circle of Power",
+      "Comprehend Languages",
+      "Compulsion",
+      "Cone of Cold",
+      "Confusion",
+      "Conjure Elemental",
+      "Control Water",
+      "cure wounds",
+      "Cure Wounds",
+      "Darkness",
+      "Daylight",
+      "Death Ward",
+      "Dissonant Whispers",
+      "Dominate Person",
+      "druid­craft",
+      "Enlarge/Reduce",
+      "Entangle",
+      "find familiar",
+      "fire bolt",
+      "Flame Strike",
+      "Flaming Sphere",
+      "Freedom of Movement",
+      "Greater Restoration",
+      "guidance",
+      "Guiding Bolt",
+      "Haste",
+      "Identify",
+      "Inflict Wounds",
+      "Kinetic Jaunt",
+      "Legend Lore",
+      "Lesser Restoration",
+      "light",
+      "Locate Object",
+      "mage hand",
+      "Passwall",
+      "prestidigitation",
+      "Rary’s Telepathic Bond",
+      "ray of frost",
+      "Revivify",
+      "sacred flame",
+      "Silvery Barbs",
+      "spare the dying",
+      "Speak with Dead",
+      "Spirit Guardians",
+      "Stone Shape",
+      "thauma­turgy",
+      "thaumaturgy",
+      "Thunderwave",
+      "Vampiric Touch",
+      "vicious mockery",
+      "Vortex Warp",
+      "Wall of Fire",
+      "Water Walk",
+      "Wither and Bloom"
+    ],
+    "items": [
+      "abacus",
+      "bottle of black ink",
+      "Bottle of Boundless Coffee",
+      "Cuddly Strixhaven Mascot",
+      "hammer",
+      "herbalism kit",
+      "hooded lantern",
+      "ink pen",
+      "iron pot",
+      "Lorehold Primer",
+      "Prismari Primer",
+      "Quandrix Primer",
+      "Silverquill Primer",
+      "Spell Scroll",
+      "Strixhaven Pennant",
+      "tinderbox",
+      "Weapon, +1",
+      "Witherbloom Primer"
+    ],
+    "locations": [
+      "Lorehold",
+      "Prismari",
+      "Quandrix",
+      "Silverquill",
+      "Strixhaven",
+      "Witherbloom"
+    ],
+    "npcs": [],
+    "topics": [
+      "campus-life",
+      "character-options",
+      "tables"
+    ]
+  },
+  "session": {
+    "readAloud": [],
+    "rules": [
+      {
+        "id": "AStrixhavenParty",
+        "label": "Rule box 1",
+        "excerpt": "A STRIXHAVEN PARTY If you’re starting a Strixhaven campaign with the introductory adventure in chapter 3, that adventure gives all the advice you need to bring a party of characte…"
+      }
+    ],
+    "tables": [
+      {
+        "id": "LoreholdSpells",
+        "label": "Lorehold Spells",
+        "excerpt": "Lorehold Spells Spell Level Spells 1st Comprehend Languages, Identify 2nd Borrowed Knowledge (in this book), Locate Object 3rd Speak with Dead, Spirit Guardians 4th Arcane Eye, St…"
+      },
+      {
+        "id": "LoreholdPersonalityTraits",
+        "label": "Lorehold Personality Traits",
+        "excerpt": "Lorehold Personality Traits d6 Personality Trait 1 I thrive on esoteric lore. The more obscure the historical references I can include in everyday conversation, the better. 2 By s…"
+      },
+      {
+        "id": "LoreholdTrinkets",
+        "label": "Lorehold Trinkets",
+        "excerpt": "Lorehold Trinkets d6 Trinket 1 A map made of concentric circles that can be rotated around the page 2 A puzzle box bedecked with amber 3 A dented brass compass with a red needle 4…"
+      },
+      {
+        "id": "PrismariSpells",
+        "label": "Prismari Spells",
+        "excerpt": "Prismari Spells Spell Level Spells 1st Chromatic Orb, Thunderwave 2nd Flaming Sphere, Kinetic Jaunt (in this book) 3rd Haste, Water Walk 4th Freedom of Movement, Wall of Fire 5th …"
+      },
+      {
+        "id": "PrismariPersonalityTraits",
+        "label": "Prismari Personality Traits",
+        "excerpt": "Prismari Personality Traits d6 Personality Trait 1 I’m the life of the party, and I expect everyone’s attention when I walk into a room. 2 Two weeks ago, I was enthralled with my …"
+      },
+      {
+        "id": "PrismariTrinkets",
+        "label": "Prismari Trinkets",
+        "excerpt": "Prismari Trinkets d6 Trinket 1 A pair of rose-tinted glasses with glittery frames 2 A stoppered glass bottle that, when opened, plays a brassy orchestral piece 3 A quartet of hove…"
+      },
+      {
+        "id": "QuandrixSpells",
+        "label": "Quandrix Spells",
+        "excerpt": "Quandrix Spells Spell Level Spells 1st Entangle, Guiding Bolt 2nd Enlarge/Reduce, Vortex Warp (in this book) 3rd Aura of Vitality, Haste 4th Control Water, Freedom of Movement 5th…"
+      },
+      {
+        "id": "QuandrixPersonalityTraits",
+        "label": "Quandrix Personality Traits",
+        "excerpt": "Quandrix Personality Traits d6 Personality Trait 1 When I find a subject I’m interested in, I won’t stop studying until I know everything about it. It keeps me up at night. 2 I ho…"
+      },
+      {
+        "id": "QuandrixTrinkets",
+        "label": "Quandrix Trinkets",
+        "excerpt": "Quandrix Trinkets d6 Trinket 1 A small succulent in a dodecahedral clay pot 2 A blue knit hat that looks a bit like a bottle folding in on itself 3 A model hypercube carved from g…"
+      },
+      {
+        "id": "SilverquillSpells",
+        "label": "Silverquill Spells",
+        "excerpt": "Silverquill Spells Spell Level Spells 1st Dissonant Whispers, Silvery Barbs (in this book) 2nd Calm Emotions, Darkness 3rd Beacon of Hope, Daylight 4th Compulsion, Confusion 5th D…"
+      },
+      {
+        "id": "SilverquillPersonalityTraits",
+        "label": "Silverquill Personality Traits",
+        "excerpt": "Silverquill Personality Traits d6 Personality Trait 1 I’ll say whatever I need to in order to maintain my high social status. 2 I prefer saying the blunt truth over a pretty lie, …"
+      },
+      {
+        "id": "SilverquillTrinkets",
+        "label": "Silverquill Trinkets",
+        "excerpt": "Silverquill Trinkets d6 Trinket 1 A black leather notebook filled with half-finished poems 2 A set of flashcards detailing different colloquialisms and their meanings 3 A canteen …"
+      },
+      {
+        "id": "WitherbloomSpells",
+        "label": "Witherbloom Spells",
+        "excerpt": "Witherbloom Spells Spell Level Spells 1st Cure Wounds, Inflict Wounds 2nd Lesser Restoration, Wither and Bloom (in this book) 3rd Revivify, Vampiric Touch 4th Blight, Death Ward 5…"
+      },
+      {
+        "id": "session-table-14",
+        "label": "Witherbloom Personality Traits",
+        "excerpt": "Witherbloom Personality Traits d6 Personality Trait 1 I love brewing up a new recipe, even if some might be repulsed by my choice of ingredients. Or the final product. Or both. 2 …"
+      },
+      {
+        "id": "session-table-15",
+        "label": "Witherbloom Trinkets",
+        "excerpt": "Witherbloom Trinkets d6 Trinket 1 A black bird-shaped mask, trimmed with glowing green thread 2 A set of rabbit bones 3 A pair of thick knee-high waders, stained with muck and mos…"
+      },
+      {
+        "id": "session-table-16",
+        "label": "Strixhaven Spells",
+        "excerpt": "Strixhaven Spells College Cantrips 1st-Level Spell Lorehold Choose two from light, sacred flame, and thauma­turgy. Choose one 1st-level cleric or wizard spell. Prismari Choose two…"
+      },
+      {
+        "id": "SpellsTable",
+        "label": "Spells",
+        "excerpt": "Spells Level Spell School Class 1st Silvery Barbs Enchantment Bard, Sorcerer, Wizard 2nd Borrowed Knowledge Divination Bard, Cleric, Warlock, Wizard 2nd Kinetic Jaunt Transmutatio…"
+      },
+      {
+        "id": "MagicItemsforSale",
+        "label": "Magic Items for Sale",
+        "excerpt": "Magic Items for Sale Item Rarity Cost Bottle of Boundless Coffee Common 100 gp Cuddly Strixhaven Mascot Common 100 gp Lorehold Primer Uncommon 300 gp Prismari Primer Uncommon 300 …"
+      }
+    ],
+    "statBlocks": [],
+    "maps": [],
+    "quickLinks": [
+      {
+        "depth": 2,
+        "id": "RaceOption",
+        "text": "Race Option",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "CreatingYourCharacter",
+        "text": "Creating Your Character",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "AbilityScoreIncreases",
+        "text": "Ability Score Increases",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "Languages",
+        "text": "Languages",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "CreatureType",
+        "text": "Creature Type",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "LifeSpan",
+        "text": "Life Span",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "HeightandWeight",
+        "text": "Height and Weight",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "Owlin",
+        "text": "Owlin",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "OwlinTraits",
+        "text": "Owlin Traits",
+        "type": "reference"
+      },
+      {
+        "depth": 2,
+        "id": "ChoosingaCollege",
+        "text": "Choosing a College",
+        "type": "reference"
+      },
+      {
+        "depth": 2,
+        "id": "StrixhavenBackgrounds",
+        "text": "Strixhaven Backgrounds",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "LoreholdStudent",
+        "text": "Lorehold Student",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "FeatureLoreholdInitiate",
+        "text": "Feature: Lorehold Initiate",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "BuildingaLoreholdCharacter",
+        "text": "Building a Lorehold Character",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "PrismariStudent",
+        "text": "Prismari Student",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "FeaturePrismariInitiate",
+        "text": "Feature: Prismari Initiate",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "BuildingaPrismariCharacter",
+        "text": "Building a Prismari Character",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "QuandrixStudent",
+        "text": "Quandrix Student",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "FeatureQuandrixInitiate",
+        "text": "Feature: Quandrix Initiate",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "BuildingaQuandrixCharacter",
+        "text": "Building a Quandrix Character",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "SilverquillStudent",
+        "text": "Silverquill Student",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "FeatureSilverquillInitiate",
+        "text": "Feature: Silverquill Initiate",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "BuildingaSilverquillCharacter",
+        "text": "Building a Silverquill Character",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "WitherbloomStudent",
+        "text": "Witherbloom Student",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "FeatureWitherbloomInitiate",
+        "text": "Feature: Witherbloom Initiate",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "BuildingaWitherbloomCharacter",
+        "text": "Building a Witherbloom Character",
+        "type": "reference"
+      },
+      {
+        "depth": 2,
+        "id": "Feats",
+        "text": "Feats",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "FeatDescriptions",
+        "text": "Feat Descriptions",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "StrixhavenInitiate",
+        "text": "Strixhaven Initiate",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "StrixhavenMascot",
+        "text": "Strixhaven Mascot",
+        "type": "reference"
+      },
+      {
+        "depth": 2,
+        "id": "Spells",
+        "text": "Spells",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "SpellDescriptions",
+        "text": "Spell Descriptions",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "BorrowedKnowledge",
+        "text": "Borrowed Knowledge",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "KineticJaunt",
+        "text": "Kinetic Jaunt",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "SilveryBarbs",
+        "text": "Silvery Barbs",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "VortexWarp",
+        "text": "Vortex Warp",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "WitherandBloom",
+        "text": "Wither and Bloom",
+        "type": "reference"
+      },
+      {
+        "depth": 2,
+        "id": "MagicItems",
+        "text": "Magic Items",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "MagicItemDescriptions",
+        "text": "Magic Item Descriptions",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "BottleofBoundlessCoffee",
+        "text": "Bottle of Boundless Coffee",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "CuddlyStrixhavenMascot",
+        "text": "Cuddly Strixhaven Mascot",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "LoreholdPrimer",
+        "text": "Lorehold Primer",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "PrismariPrimer",
+        "text": "Prismari Primer",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "QuandrixPrimer",
+        "text": "Quandrix Primer",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "SilverquillPrimer",
+        "text": "Silverquill Primer",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "StrixhavenPennant",
+        "text": "Strixhaven Pennant",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "WitherbloomPrimer",
+        "text": "Witherbloom Primer",
+        "type": "reference"
+      }
+    ]
+  },
+  "anomalyFlags": [
+    {
+      "type": "reader-address",
+      "passage": "With your DM’s permission, you can create just about any Strixhaven character you can imagine, drawing on player character rules from the Player’s Handbook and other D&D books.",
+      "location": "Character Options",
+      "anchor": "CharacterOptions",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "If you create an owlin character, follow these additional rules during character creation.",
+      "location": "Creating Your Character",
+      "anchor": "CreatingYourCharacter",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "When determining your character’s ability scores, increase one of those scores by 2 and increase a different score by 1, or increase three different scores by 1.",
+      "location": "Ability Score Increases",
+      "anchor": "AbilityScoreIncreases",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "Follow this rule regardless of the method you use to determine the scores, such as rolling or point buy.",
+      "location": "Ability Score Increases",
+      "anchor": "AbilityScoreIncreases",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "The “Quick Build” section for your character’s class offers suggestions on which scores to increase.",
+      "location": "Ability Score Increases",
+      "anchor": "AbilityScoreIncreases",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "You’re free to follow those suggestions or to ignore them.",
+      "location": "Ability Score Increases",
+      "anchor": "AbilityScoreIncreases",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "Whichever scores you decide to increase, none of the scores can be raised above 20.",
+      "location": "Ability Score Increases",
+      "anchor": "AbilityScoreIncreases",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "Your character can speak, read, and write Common and one other language that you and your DM agree is appropriate for the character.",
+      "location": "Languages",
+      "anchor": "Languages",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "If you’d like to determine your character’s height or weight randomly, consult the Random Height and Weight table in the Player’s Handbook, and choose the row in the table that best represents the build you imagine for your character.",
+      "location": "Height and Weight",
+      "anchor": "HeightandWeight",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "Like owls, owlin are graced with feathers that make no sound when they move or fly, making it easy for them to sneak up on you in the library.",
+      "location": "Owlin",
+      "anchor": "Owlin",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "hidden-actor",
+      "passage": "Now, I think it’s garbage and deserves to be destroyed.",
+      "location": "Building a Prismari Character",
+      "anchor": "BuildingaPrismariCharacter",
+      "confidence": 0.68,
+      "reason": "A passive construction may conceal who performs the action."
+    },
+    {
+      "type": "hidden-actor",
+      "passage": "This section presents some magic items that are created at Strixhaven.",
+      "location": "Magic Items",
+      "anchor": "MagicItems",
+      "confidence": 0.68,
+      "reason": "A passive construction may conceal who performs the action."
+    }
+  ],
+  "contentHtml": "<h1 class=\"compendium-hr\" id=\"CharacterOptions\">Character Options</h1>\n\n<p>The campus of Strixhaven draws a student body from across the world—or many worlds. With your DM’s permission, you can create just about any Strixhaven character you can imagine, drawing on player character rules from the <a class=\"sourcebook\" href=\"https://www.dndbeyond.com/sources/phb\" title=\"Player’s Handbook\">Player’s Handbook</a> and other D&amp;D books. This chapter adds to that wealth of options with the material in the following sections:</p>\n<p><strong>“<a href=\"#RaceOption\" title=\"Race Option\">Race Option</a>”</strong> presents the owlin, a character race option perfect for playing an owl-like student.</p>\n<p><strong>“<a href=\"#ChoosingaCollege\" title=\"Choosing a College\">Choosing a College</a>”</strong> gives advice on building a character for adventuring in Strixhaven.</p>\n<p><strong>“<a href=\"#StrixhavenBackgrounds\" title=\"Strixhaven Backgrounds\">Strixhaven Backgrounds</a>”</strong> presents a background option for each Strixhaven college, linking a character to one of the five colleges.</p>\n<p><strong>“<a href=\"#Feats\" title=\"Feats\">Feats</a>”</strong> offers Strixhaven-themed feats for use with <em>A Curriculum of Chaos</em> and other adventures.</p>\n<p><strong>“<a href=\"#Spells\" title=\"Spells\">Spells</a>”</strong> reveals some spells that were developed at the university.</p>\n<p><strong>“<a href=\"#MagicItems\" title=\"Magic Items\">Magic Items</a>”</strong> collects magic items that Strixhaven students might acquire on their adventures.</p>\n<figure id=\"imgsplash\" class=\"compendium-image\">\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/02-001.chapter-splash.jpg\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/02-001.chapter-splash.jpg\" class=\"ddb-lightbox-inner\" style=\"width: 650px;\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a>\n<figcaption>A group of Strixhaven students—each from a different<br>college—descend into the depths below an ancient ruin</figcaption>\n</figure>\n<h2 class=\"compendium-hr heading-anchor\" id=\"RaceOption\">Race Option</h2>\n<p>The owlin is a race option for player characters in Strixhaven and other D&amp;D settings.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"CreatingYourCharacter\">Creating Your Character</h3>\n<p>If you create an owlin character, follow these additional rules during character creation.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"AbilityScoreIncreases\">Ability Score Increases</h4>\n<p>When determining your character’s ability scores, increase one of those scores by 2 and increase a different score by 1, or increase three different scores by 1. Follow this rule regardless of the method you use to determine the scores, such as rolling or point buy.</p>\n<p>The “Quick Build” section for your character’s class offers suggestions on which scores to increase. You’re free to follow those suggestions or to ignore them. Whichever scores you decide to increase, none of the scores can be raised above 20.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"Languages\">Languages</h4>\n<p>Your character can speak, read, and write Common and one other language that you and your DM agree is appropriate for the character. The <a class=\"sourcebook\" href=\"https://www.dndbeyond.com/sources/phb\" title=\"Player’s Handbook\">Player’s Handbook</a> offers a list of widespread languages to choose from. The DM is free to add or remove languages from that list for a particular campaign.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"CreatureType\">Creature Type</h4>\n<p>Every creature in D&amp;D, including every player character, has a special tag in the rules that identifies the type of creature they are. Most player characters, including owlin, are of the Humanoid type. Creature types don’t have rules themselves, but some rules in the game affect creatures of certain types in different ways. For example, the text of the <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2056-cure-wounds\" data-tooltip-href=\"/spells/2056-tooltip\">cure wounds</a> spell specifies that the spell doesn’t work on a creature that has the Construct type.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"LifeSpan\">Life Span</h4>\n<p>The typical life span of a player character in D&amp;D is about a century, assuming the character doesn’t meet a violent end on an adventure.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"HeightandWeight\">Height and Weight</h4>\n<p>Player characters, including owlin, typically fall into the same ranges of height and weight that humans have in our world. If you’d like to determine your character’s height or weight randomly, consult the <a href=\"https://www.dndbeyond.com/sources/phb/personality-and-background#RandomHeightandWeightTable\" title=\"Random Height and Weight\">Random Height and Weight</a> table in the <a class=\"sourcebook\" href=\"https://www.dndbeyond.com/sources/phb\" title=\"Player’s Handbook\">Player’s Handbook</a>, and choose the row in the table that best represents the build you imagine for your character.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"Owlin\">Owlin</h3>\n<p>Distant kin of giant owls from the Feywild, owlin come in many shapes and sizes, from petite and fluffy to wide-winged and majestic. Owlin have arms and legs like other Humanoids, as well as wings that extend from their back and shoulders.</p>\n<figure class=\"compendium-image\" id=\"imgowlin\">\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/02-002.owlin.png\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/02-002.owlin.png\" class=\"ddb-lightbox-inner compendium-center-banner-img\" style=\"width: 850px;\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a>\n<figcaption>Owlin unleash magic in the sky above Strixhaven</figcaption>\n</figure>\n<p>Like owls, owlin are graced with feathers that make no sound when they move or fly, making it easy for them to sneak up on you in the library.</p>\n<p>Your owlin character might be nocturnal. Or perhaps your character is simply prone to rise later, embodying the common nickname of night owl.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"OwlinTraits\">Owlin Traits</h4>\n<p>You have the following racial traits.</p>\n<p><em><strong>Creature Type.</strong></em> You are a Humanoid.</p>\n<p><em><strong>Size.</strong></em> You are Medium or Small. You choose the size when you select this race.</p>\n<p><em><strong>Speed.</strong></em> Your walking speed is 30 feet.</p>\n<p><em><strong>Darkvision.</strong></em> You can see in dim light within 120 feet of yourself as if it were bright light and in darkness as if it were dim light. You discern colors in that darkness only as shades of gray.</p>\n<p><em><strong>Flight.</strong></em> Thanks to your wings, you have a flying speed equal to your walking speed. You can’t use this flying speed if you’re wearing medium or heavy armor.</p>\n<p><em><strong>Silent Feathers.</strong></em> You have proficiency in the <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/5-tooltip\">Stealth</a> skill.</p>\n<h2 class=\"compendium-hr heading-anchor\" id=\"ChoosingaCollege\">Choosing a College</h2>\n<p>At Strixhaven, students choose their colleges at the start of their second year. But even during a character’s first year, you make college-related decisions for your character, such as a background choice. From the start, your character is making decisions that will lead to their eventual college choice.</p>\n<p><a href=\"/chapters/strixhaven-life-at-strixhaven/\" title=\"Chapter 1\">Chapter 1</a> describes each of the colleges. How do you decide which of these colleges is right for your character? Consider these approaches:</p>\n<ul>\n<li>Read the college descriptions in chapter 1, and choose the college that appeals to you.</li>\n<li>Read the descriptions of <a href=\"#StrixhavenBackgrounds\" title=\"backgrounds\">backgrounds</a> and <a href=\"#Feats\" title=\"feats\">feats</a> in this chapter. If one of them catches your eye, choose that college.</li>\n<li>If you have access to Magic: The Gathering cards from the Strixhaven set, find a card that appeals to you and build that character.</li>\n</ul>\n<aside class=\"rules-text\" id=\"AStrixhavenParty\">\n<p>A STRIXHAVEN PARTY</p>\n<p>If you’re starting a Strixhaven campaign with the introductory adventure in <a href=\"/chapters/strixhaven-campus-kerfuffle/\" title=\"chapter 3\">chapter 3</a>, that adventure gives all the advice you need to bring a party of characters together. The adventure assumes that the characters are first-year students who are participating in orientation activities together.</p>\n<p>If you start the campaign at higher level, using one of the adventures in later chapters of this book (or an adventure of your DM’s creation), give some thought to what has brought your characters together as a group. The easiest explanation is that you met as first-year students, perhaps living in the same residence hall or taking the same classes, or united by a common extracurricular interest.</p>\n<p>It’s also possible that your characters are just meeting for the first time. The events of the adventure might throw you together more or less at random. You could all be taking the same class, you might be working the same campus job, or you could be introduced by mutual friends.</p>\n</aside>\n<h2 class=\"compendium-hr heading-anchor\" id=\"StrixhavenBackgrounds\">Strixhaven Backgrounds</h2>\n<p>This section presents five backgrounds that you can choose to reflect your character’s studies preparing to enter one of Strixhaven’s colleges. You aren’t limited to these backgrounds in a Strixhaven campaign; they’re just one way you can choose to dive deeply into your character’s college affiliation.</p>\n<p>If you do choose one of these backgrounds, you can assume that your life to this point has been consumed by the education that has made enrolling at Strixhaven possible for you, and you might not have much experience of the world beyond that preparatory work. You’re ready to excel as a student—and that, in turn, will prepare you to excel at whatever path comes after graduation.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"LoreholdStudent\">Lorehold Student</h3>\n<p>You have spent your youth preparing to be a student of Lorehold College, reading every book on the college’s recommended reading list for prospective students. Your academic passions are in the broad field of history. You might dream of using magic to contact great historical figures or your own ancestors or of recreating the mighty magic of a distant age.</p>\n<p><strong>Skill Proficiencies:</strong> <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/7-tooltip\">History</a>, <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/10-tooltip\">Religion</a></p>\n<p><strong>Languages:</strong> Two of your choice</p>\n<p><strong>Equipment:</strong> A <a class=\"tooltip-hover item-tooltip\" href=\"https://www.dndbeyond.com/equipment/9-ink-1-ounce-bottle\" data-tooltip-href=\"/adventuring-gear/9-tooltip\">bottle of black ink</a>, an <a class=\"tooltip-hover item-tooltip\" href=\"https://www.dndbeyond.com/equipment/11-ink-pen\" data-tooltip-href=\"/adventuring-gear/11-tooltip\">ink pen</a>, a <a class=\"tooltip-hover item-tooltip\" href=\"https://www.dndbeyond.com/equipment/47-hammer\" data-tooltip-href=\"/adventuring-gear/47-tooltip\">hammer</a>, a <a class=\"tooltip-hover item-tooltip\" href=\"https://www.dndbeyond.com/equipment/57-lantern-hooded\" data-tooltip-href=\"/adventuring-gear/57-tooltip\">hooded lantern</a>, a <a class=\"tooltip-hover item-tooltip\" href=\"https://www.dndbeyond.com/equipment/90-tinderbox\" data-tooltip-href=\"/adventuring-gear/90-tooltip\">tinderbox</a>, a tome of history, a school uniform, and a pouch containing 15 gp</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"FeatureLoreholdInitiate\">Feature: Lorehold Initiate</h4>\n<p>You gain the Strixhaven Initiate feat (presented <a href=\"#StrixhavenInitiate\" title=\"later\">later</a> in the chapter) and must choose Lorehold within it.</p>\n<p>In addition, if you have the Spellcasting or Pact Magic feature, the spells on the Lorehold Spells table are added to the spell list of your spellcasting class. (If you are a multiclass character with multiple spell lists, these spells are added to all of them.)</p>\n<table id=\"LoreholdSpells\" class=\"table-compendium table--left-col2\">\n<caption class=\"compendium-hr heading-anchor\"><a href=\"#LoreholdSpells\"></a>Lorehold Spells</caption>\n<thead>\n<tr>\n<th>Spell Level</th>\n<th>Spells</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1st</td>\n<td><a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2035-comprehend-languages\" data-tooltip-href=\"/spells/2035-tooltip\">Comprehend Languages</a>, <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2152-identify\" data-tooltip-href=\"/spells/2152-tooltip\">Identify</a></td>\n</tr>\n<tr>\n<td>2nd</td>\n<td><a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/1239802-borrowed-knowledge\" data-tooltip-href=\"/spells/1239802-tooltip\">Borrowed Knowledge</a> (<a href=\"#BorrowedKnowledge\" title=\"in this book\">in this book</a>), <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2170-locate-object\" data-tooltip-href=\"/spells/2170-tooltip\">Locate Object</a></td>\n</tr>\n<tr>\n<td>3rd</td>\n<td><a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2259-speak-with-dead\" data-tooltip-href=\"/spells/2259-tooltip\">Speak with Dead</a>, <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2264-spirit-guardians\" data-tooltip-href=\"/spells/2264-tooltip\">Spirit Guardians</a></td>\n</tr>\n<tr>\n<td>4th</td>\n<td><a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2001-arcane-eye\" data-tooltip-href=\"/spells/2001-tooltip\">Arcane Eye</a>, <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2267-stone-shape\" data-tooltip-href=\"/spells/2267-tooltip\">Stone Shape</a></td>\n</tr>\n<tr>\n<td>5th</td>\n<td><a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2107-flame-strike\" data-tooltip-href=\"/spells/2107-tooltip\">Flame Strike</a>, <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2163-legend-lore\" data-tooltip-href=\"/spells/2163-tooltip\">Legend Lore</a></td>\n</tr>\n</tbody>\n</table>\n<p>Consider customizing how your spells look when you cast them. Your Lorehold spells might create displays of golden light. You might use a tome or a scroll as a spellcasting focus, and your spell effects might reflect the appearance of the reference books you study.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"BuildingaLoreholdCharacter\">Building a Lorehold Character</h4>\n<p>Any class or subclass that deals with knowledge of the past can be a good fit in Lorehold. Bards thrive in Lorehold, and wizards (particularly those of the <a href=\"https://www.dndbeyond.com/subclasses/school-of-divination\" title=\"School of Divination\">School of Divination</a>) are numerous among its students. Clerics (often with the <a href=\"https://www.dndbeyond.com/subclasses/knowledge-domain\" title=\"Knowledge\">Knowledge</a> or <a href=\"https://www.dndbeyond.com/subclasses/light-domain\" title=\"Light\">Light</a> domains) are also quite common.</p>\n<p>For a more unusual take on a Lorehold student, you could consider playing a barbarian with a primal connection to the past (perhaps adopting the <a href=\"https://www.dndbeyond.com/subclasses/path-of-the-ancestral-guardian\" title=\"Path of the Ancestral Guardian\">Path of the Ancestral Guardian</a> from <a class=\"sourcebook\" href=\"https://www.dndbeyond.com/sources/xgte\" title=\"Xanathar’s Guide to Everything\">Xanathar’s Guide to Everything</a>) or a paladin whose <a href=\"https://www.dndbeyond.com/subclasses/oath-of-the-ancients\" title=\"Oath of the Ancients\">Oath of the Ancients</a> gives a concrete link to history.</p>\n<p><em><strong>Suggested Characteristics.</strong></em> Methodical historians and daring adventurers alike can be found among the ranks of Lorehold college. The Lorehold Personality Traits table suggests a variety of traits you might adopt for your character.</p>\n<table id=\"LoreholdPersonalityTraits\" class=\"table-compendium table--generic-dice\">\n<caption class=\"compendium-hr heading-anchor\"><a href=\"#LoreholdPersonalityTraits\"></a>Lorehold Personality Traits</caption>\n<thead>\n<tr>\n<th>d6</th>\n<th>Personality Trait</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1</td>\n<td>I thrive on esoteric lore. The more obscure the historical references I can include in everyday conversation, the better.</td>\n</tr>\n<tr>\n<td>2</td>\n<td>By searching for these lost artifacts, I hope to find who I really am along the way.</td>\n</tr>\n<tr>\n<td>3</td>\n<td>I can barely go a minute without talking about my research. I have so much knowledge in my head, and it needs to be let out somewhere!</td>\n</tr>\n<tr>\n<td>4</td>\n<td>The spirits of the dead are so much more interesting to talk with than living classmates.</td>\n</tr>\n<tr>\n<td>5</td>\n<td>I can speak eloquently about the historical ramifications of an ancient war. But ask me to add two-digit numbers together, and I’m a mess.</td>\n</tr>\n<tr>\n<td>6</td>\n<td>In the end, it’s all just entropy. Everything falls apart someday.</td>\n</tr>\n</tbody>\n</table>\n<p><em><strong>Lorehold Trinkets.</strong></em> When you make your character, you may roll once on the Lorehold Trinkets table, instead of on the <a href=\"https://www.dndbeyond.com/sources/phb/equipment#SampleTrinkets\" title=\"Trinkets table\">Trinkets table</a> in the <a class=\"sourcebook\" href=\"https://www.dndbeyond.com/sources/phb\" title=\"Player’s Handbook\">Player’s Handbook</a>, for your starting trinket.</p>\n<table id=\"LoreholdTrinkets\" class=\"table-compendium table--generic-dice\">\n<caption class=\"compendium-hr heading-anchor\"><a href=\"#LoreholdTrinkets\"></a>Lorehold Trinkets</caption>\n<thead>\n<tr>\n<th>d6</th>\n<th>Trinket</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1</td>\n<td>A map made of concentric circles that can be rotated around the page</td>\n</tr>\n<tr>\n<td>2</td>\n<td>A puzzle box bedecked with amber</td>\n</tr>\n<tr>\n<td>3</td>\n<td>A dented brass compass with a red needle</td>\n</tr>\n<tr>\n<td>4</td>\n<td>The head of a broken statue that houses the consciousness of a snarky sage</td>\n</tr>\n<tr>\n<td>5</td>\n<td>A sheet of parchment embossed with tactile lettering, glowing red</td>\n</tr>\n<tr>\n<td>6</td>\n<td>A broken dagger with a wavy blade and a serpentine hilt</td>\n</tr>\n</tbody>\n</table>\n<h3 class=\"compendium-hr heading-anchor\" id=\"PrismariStudent\">Prismari Student</h3>\n<p>You are an artist, and you have been preparing to hone your craft according to the traditions of Prismari College. Whatever your medium—sculpture, dance, paint, music, drama, architecture, or any other field—you have grand visions of bringing your art to life in a fusion of magic and creativity.</p>\n<p><strong>Skill Proficiencies:</strong> <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/3-tooltip\">Acrobatics</a>, <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/18-tooltip\">Performance</a></p>\n<p><strong>Tool Proficiencies:</strong> One type of musical instrument or artisan’s tools</p>\n<p><strong>Languages:</strong> One of your choice</p>\n<p><strong>Equipment:</strong> A <a class=\"tooltip-hover item-tooltip\" href=\"https://www.dndbeyond.com/equipment/9-ink-1-ounce-bottle\" data-tooltip-href=\"/adventuring-gear/9-tooltip\">bottle of black ink</a>, an <a class=\"tooltip-hover item-tooltip\" href=\"https://www.dndbeyond.com/equipment/11-ink-pen\" data-tooltip-href=\"/adventuring-gear/11-tooltip\">ink pen</a>, a set of artisan’s tools or a musical instrument (one of your choice), a school uniform, and a pouch containing 10 gp</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"FeaturePrismariInitiate\">Feature: Prismari Initiate</h4>\n<p>You gain the Strixhaven Initiate feat (presented <a href=\"#StrixhavenInitiate\" title=\"later\">later</a> in the chapter) and must choose Prismari within it.</p>\n<p>In addition, if you have the Spellcasting or Pact Magic feature, the spells on the Prismari Spells table are added to the spell list of your spellcasting class. (If you are a multiclass character with multiple spell lists, these spells are added to all of them.)</p>\n<table id=\"PrismariSpells\" class=\"table-compendium table--left-col2\">\n<caption class=\"compendium-hr heading-anchor\"><a href=\"#PrismariSpells\"></a>Prismari Spells</caption>\n<thead>\n<tr>\n<th>Spell Level</th>\n<th>Spells</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1st</td>\n<td><a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2312-chromatic-orb\" data-tooltip-href=\"/spells/2312-tooltip\">Chromatic Orb</a>, <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2278-thunderwave\" data-tooltip-href=\"/spells/2278-tooltip\">Thunderwave</a></td>\n</tr>\n<tr>\n<td>2nd</td>\n<td><a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2108-flaming-sphere\" data-tooltip-href=\"/spells/2108-tooltip\">Flaming Sphere</a>, <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/1239803-kinetic-jaunt\" data-tooltip-href=\"/spells/1239803-tooltip\">Kinetic Jaunt</a> (<a href=\"#KineticJaunt\" title=\"in this book\">in this book</a>)</td>\n</tr>\n<tr>\n<td>3rd</td>\n<td><a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2138-haste\" data-tooltip-href=\"/spells/2138-tooltip\">Haste</a>, <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2298-water-walk\" data-tooltip-href=\"/spells/2298-tooltip\">Water Walk</a></td>\n</tr>\n<tr>\n<td>4th</td>\n<td><a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2116-freedom-of-movement\" data-tooltip-href=\"/spells/2116-tooltip\">Freedom of Movement</a>, <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2291-wall-of-fire\" data-tooltip-href=\"/spells/2291-tooltip\">Wall of Fire</a></td>\n</tr>\n<tr>\n<td>5th</td>\n<td><a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2037-cone-of-cold\" data-tooltip-href=\"/spells/2037-tooltip\">Cone of Cold</a>, <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2041-conjure-elemental\" data-tooltip-href=\"/spells/2041-tooltip\">Conjure Elemental</a></td>\n</tr>\n</tbody>\n</table>\n<p>Consider customizing how your spells look when you cast them. You might wield your Prismari spells with dynamic, gestural movement—as much dance as somatic component. Even a blast of fire in your hands is a sculpted work of art; elemental forces make grand designs as you hurl spells. These forces might linger on your body or in your clothes as decorative elements after your spells are dissipated, as sparks dance in your hair and your touch leaves tracings of frost on whatever you touch.</p>\n<figure class=\"compendium-image\" id=\"imgprismaristudent\">\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/02-003.png\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/02-003.png\" class=\"ddb-lightbox-inner compendium-center-banner-img\" style=\"width: 850px;\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a>\n<figcaption>An advanced Prismari student artfully harnesses fire</figcaption>\n</figure>\n<h4 class=\"compendium-hr heading-anchor\" id=\"BuildingaPrismariCharacter\">Building a Prismari Character</h4>\n<p>Any class or subclass that wields elemental forces of cold, fire, lightning, and wind can be a good fit in Prismari. Druids and sorcerers are common in Prismari, and wizards who study the Schools of <a href=\"https://www.dndbeyond.com/subclasses/school-of-evocation\" title=\"Evocation\">Evocation</a> or <a href=\"https://www.dndbeyond.com/subclasses/school-of-transmutation\" title=\"Transmutation\">Transmutation</a> are also well represented. Clerics aren’t very common in this school, but some with the <a href=\"https://www.dndbeyond.com/subclasses/tempest-domain\" title=\"Tempest domain\">Tempest domain</a> end up here.</p>\n<p>Beyond the ranks of traditional spellcasters, Prismari students also include monks who follow the <a href=\"https://www.dndbeyond.com/subclasses/way-of-the-four-elements\" title=\"Way of the Four Elements\">Way of the Four Elements</a>. Some acrobatic rogues and fighters (including those who emulate the archetype of the <a href=\"https://www.dndbeyond.com/subclasses/eldritch-knight\" title=\"Eldritch Knight\">Eldritch Knight</a>) also delight in the athleticism of Prismari performance.</p>\n<p><em><strong>Suggested Characteristics.</strong></em> Though the curriculum of Prismari College attracts many outgoing and driven artists, the school has no shortage of shy scholars and lackadaisical blowhards among its ranks. The Prismari Personality Traits table suggests a variety of traits you might adopt for your character.</p>\n<table id=\"PrismariPersonalityTraits\" class=\"table-compendium table--generic-dice\">\n<caption class=\"compendium-hr heading-anchor\"><a href=\"#PrismariPersonalityTraits\"></a>Prismari Personality Traits</caption>\n<thead>\n<tr>\n<th>d6</th>\n<th>Personality Trait</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1</td>\n<td>I’m the life of the party, and I expect everyone’s attention when I walk into a room.</td>\n</tr>\n<tr>\n<td>2</td>\n<td>Two weeks ago, I was enthralled with my latest project. Now, I think it’s garbage and deserves to be destroyed.</td>\n</tr>\n<tr>\n<td>3</td>\n<td>I believe everyone has the ability to express their truest selves through art, and I’m happy to quietly push them in the right direction.</td>\n</tr>\n<tr>\n<td>4</td>\n<td>Everyone is a critic, and I work to win them all over.</td>\n</tr>\n<tr>\n<td>5</td>\n<td>I’m beset with such an overwhelming sense of ennui regarding my art. Nothing quite captures my attention anymore.</td>\n</tr>\n<tr>\n<td>6</td>\n<td>Instead of confronting my negative emotions, I channel them into explosive artistic displays.</td>\n</tr>\n</tbody>\n</table>\n<p><em><strong>Prismari Trinkets.</strong></em> When you make your character, you may roll once on the Prismari Trinkets table, instead of on the <a href=\"https://www.dndbeyond.com/sources/phb/equipment#SampleTrinkets\" title=\"Trinkets table\">Trinkets table</a> in the <a class=\"sourcebook\" href=\"https://www.dndbeyond.com/sources/phb\" title=\"Player’s Handbook\">Player’s Handbook</a>, for your starting trinket.</p>\n<table id=\"PrismariTrinkets\" class=\"table-compendium table--generic-dice\">\n<caption class=\"compendium-hr heading-anchor\"><a href=\"#PrismariTrinkets\"></a>Prismari Trinkets</caption>\n<thead>\n<tr>\n<th>d6</th>\n<th>Trinket</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1</td>\n<td>A pair of rose-tinted glasses with glittery frames</td>\n</tr>\n<tr>\n<td>2</td>\n<td>A stoppered glass bottle that, when opened, plays a brassy orchestral piece</td>\n</tr>\n<tr>\n<td>3</td>\n<td>A quartet of hovering water motes in a vial</td>\n</tr>\n<tr>\n<td>4</td>\n<td>A bandolier of watercolor paints</td>\n</tr>\n<tr>\n<td>5</td>\n<td>A tiara capped with a crystal that crackles with harmless lightning</td>\n</tr>\n<tr>\n<td>6</td>\n<td>An iridescent quill</td>\n</tr>\n</tbody>\n</table>\n<h3 class=\"compendium-hr heading-anchor\" id=\"QuandrixStudent\">Quandrix Student</h3>\n<p>In preparation to become a student of Quandrix College, you have spent years working through the college’s math problems for prospective students. Your interests concentrate on the mathematical principles and patterns found in the natural world. You might lean more toward mathematics or physics, or you delve into more abstract studies of metaphysics, arcana, or logic.</p>\n<p><strong>Skill Proficiencies:</strong> <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/6-tooltip\">Arcana</a>, <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/9-tooltip\">Nature</a></p>\n<p><strong>Tool Proficiencies:</strong> One type of artisan’s tools</p>\n<p><strong>Languages:</strong> One of your choice</p>\n<p><strong>Equipment:</strong> A <a class=\"tooltip-hover item-tooltip\" href=\"https://www.dndbeyond.com/equipment/9-ink-1-ounce-bottle\" data-tooltip-href=\"/adventuring-gear/9-tooltip\">bottle of black ink</a>, an <a class=\"tooltip-hover item-tooltip\" href=\"https://www.dndbeyond.com/equipment/11-ink-pen\" data-tooltip-href=\"/adventuring-gear/11-tooltip\">ink pen</a>, an <a class=\"tooltip-hover item-tooltip\" href=\"https://www.dndbeyond.com/equipment/6-abacus\" data-tooltip-href=\"/adventuring-gear/6-tooltip\">abacus</a>, a book of arcane theory, a school uniform, and a pouch containing 15 gp</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"FeatureQuandrixInitiate\">Feature: Quandrix Initiate</h4>\n<p>You gain the Strixhaven Initiate feat (presented <a href=\"#StrixhavenInitiate\" title=\"later\">later</a> in the chapter) and must choose Quandrix within it.</p>\n<p>In addition, if you have the Spellcasting or Pact Magic feature, the spells on the Quandrix Spells table are added to the spell list of your spellcasting class. (If you are a multiclass character with multiple spell lists, these spells are added to all of them.)</p>\n<table id=\"QuandrixSpells\" class=\"table-compendium table--left-col2\">\n<caption class=\"compendium-hr heading-anchor\"><a href=\"#QuandrixSpells\"></a>Quandrix Spells</caption>\n<thead>\n<tr>\n<th>Spell Level</th>\n<th>Spells</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1st</td>\n<td><a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2085-entangle\" data-tooltip-href=\"/spells/2085-tooltip\">Entangle</a>, <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2133-guiding-bolt\" data-tooltip-href=\"/spells/2133-tooltip\">Guiding Bolt</a></td>\n</tr>\n<tr>\n<td>2nd</td>\n<td><a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2084-enlarge-reduce\" data-tooltip-href=\"/spells/2084-tooltip\">Enlarge/Reduce</a>, <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/1239805-vortex-warp\" data-tooltip-href=\"/spells/1239805-tooltip\">Vortex Warp</a> (<a href=\"#VortexWarp\" title=\"in this book\">in this book</a>)</td>\n</tr>\n<tr>\n<td>3rd</td>\n<td><a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2333-aura-of-vitality\" data-tooltip-href=\"/spells/2333-tooltip\">Aura of Vitality</a>, <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2138-haste\" data-tooltip-href=\"/spells/2138-tooltip\">Haste</a></td>\n</tr>\n<tr>\n<td>4th</td>\n<td><a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2049-control-water\" data-tooltip-href=\"/spells/2049-tooltip\">Control Water</a>, <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2116-freedom-of-movement\" data-tooltip-href=\"/spells/2116-tooltip\">Freedom of Movement</a></td>\n</tr>\n<tr>\n<td>5th</td>\n<td><a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2353-circle-of-power\" data-tooltip-href=\"/spells/2353-tooltip\">Circle of Power</a>, <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2200-passwall\" data-tooltip-href=\"/spells/2200-tooltip\">Passwall</a></td>\n</tr>\n</tbody>\n</table>\n<p>Consider customizing how your spells look when you cast them. Your Quandrix spells might manifest amid kaleidoscopic swirls of fractal patterns, amplifying the tiniest movements of your somatic components. When your magic creates or alters creatures, it might briefly surround the targets with shimmering fractal designs or tessellated patterns.</p>\n<figure class=\"compendium-image\" id=\"imgquandrixstudent\">\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/02-004.png\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/02-004.png\" class=\"ddb-lightbox-inner compendium-center-banner-img\" style=\"width: 850px;\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a>\n<figcaption>A Quandrix student magically gazes into the intricate patterns of nature</figcaption>\n</figure>\n<h4 class=\"compendium-hr heading-anchor\" id=\"BuildingaQuandrixCharacter\">Building a Quandrix Character</h4>\n<p>Any spellcasting class or subclass can work well for a Quandrix character. Both the scholarly focus of wizards (especially those who study the Schools of <a href=\"https://www.dndbeyond.com/subclasses/school-of-abjuration\" title=\"Abjuration\">Abjuration</a>, <a href=\"https://www.dndbeyond.com/subclasses/school-of-illusion\" title=\"Illusion\">Illusion</a>, or <a href=\"https://www.dndbeyond.com/subclasses/school-of-transmutation\" title=\"Transmutation\">Transmutation</a>) and the metamagic manipulations of sorcerers are welcome in Quandrix, and many druids explore the patterns of nature in Quandrix as well. A few clerics, particularly those with the <a href=\"https://www.dndbeyond.com/subclasses/knowledge-domain\" title=\"Knowledge\">Knowledge</a> or <a href=\"https://www.dndbeyond.com/subclasses/nature-domain\" title=\"Nature\">Nature</a> domains, study in Quandrix as well.</p>\n<p>Aside from traditional spellcasters, a few characters of other classes find homes in Quandrix. Some fighters, monks, rangers, and rogues study here, using Quandrix principles to train their minds.</p>\n<p><em><strong>Suggested Characteristics.</strong></em> With subjects ranging from the physical and tangible to the paradoxical and strange, the student body of Quandrix College includes an eclectic mix of individuals. The Quandrix Personality Traits table suggests a variety of traits you might adopt for your character.</p>\n<table id=\"QuandrixPersonalityTraits\" class=\"table-compendium table--generic-dice\">\n<caption class=\"compendium-hr heading-anchor\"><a href=\"#QuandrixPersonalityTraits\"></a>Quandrix Personality Traits</caption>\n<thead>\n<tr>\n<th>d6</th>\n<th>Personality Trait</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1</td>\n<td>When I find a subject I’m interested in, I won’t stop studying until I know everything about it. It keeps me up at night.</td>\n</tr>\n<tr>\n<td>2</td>\n<td>I hope this all makes sense to me one day. Until then, I’m going to keep faking it.</td>\n</tr>\n<tr>\n<td>3</td>\n<td>Equations and patterns come naturally to my mind. I wish friendship came just as easily.</td>\n</tr>\n<tr>\n<td>4</td>\n<td>I believe I’m always the smartest person in the room. And I’ll prove it, even if no one asks me to.</td>\n</tr>\n<tr>\n<td>5</td>\n<td>If these classes have taught me anything, it’s that reality is a lie, and nothing matters. So why bother?</td>\n</tr>\n<tr>\n<td>6</td>\n<td>Before I graduate, I want to achieve something mathematically impossible. I must leave a legacy!</td>\n</tr>\n</tbody>\n</table>\n<p><em><strong>Quandrix Trinkets.</strong></em> When you make your character, you may roll once on the Quandrix Trinkets table, instead of on the <a href=\"https://www.dndbeyond.com/sources/phb/equipment#SampleTrinkets\" title=\"Trinkets table\">Trinkets table</a> in the <a class=\"sourcebook\" href=\"https://www.dndbeyond.com/sources/phb\" title=\"Player’s Handbook\">Player’s Handbook</a>, for your starting trinket.</p>\n<table id=\"QuandrixTrinkets\" class=\"table-compendium table--generic-dice\">\n<caption class=\"compendium-hr heading-anchor\"><a href=\"#QuandrixTrinkets\"></a>Quandrix Trinkets</caption>\n<thead>\n<tr>\n<th>d6</th>\n<th>Trinket</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1</td>\n<td>A small succulent in a dodecahedral clay pot</td>\n</tr>\n<tr>\n<td>2</td>\n<td>A blue knit hat that looks a bit like a bottle folding in on itself</td>\n</tr>\n<tr>\n<td>3</td>\n<td>A model hypercube carved from green crystal, showcasing the fourth dimension</td>\n</tr>\n<tr>\n<td>4</td>\n<td>A crumpled test on the theory of gravity manipulation, with a failing grade on the front and the name of a famous Quandrix professor</td>\n</tr>\n<tr>\n<td>5</td>\n<td>A blue tetrahedron that, when tapped twice, projects a recording of an old mathematics lecture</td>\n</tr>\n<tr>\n<td>6</td>\n<td>A round bread roll cut so that someone could spread butter on both halves without ever lifting the knife</td>\n</tr>\n</tbody>\n</table>\n<h3 class=\"compendium-hr heading-anchor\" id=\"SilverquillStudent\">Silverquill Student</h3>\n<p>You have spent years practicing your writing and oration in the hope of becoming a student of Silverquill College. Your studies focus on language, literature, and the power of words, both magical and otherwise. The metaphorical power of words to illuminate or conceal is joined with the literal ability of magic to do the same in your academic pursuits.</p>\n<p><strong>Skill Proficiencies:</strong> <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/17-tooltip\">Intimidation</a>, <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/19-tooltip\">Persuasion</a></p>\n<p><strong>Languages:</strong> Two of your choice</p>\n<p><strong>Equipment:</strong> A <a class=\"tooltip-hover item-tooltip\" href=\"https://www.dndbeyond.com/equipment/9-ink-1-ounce-bottle\" data-tooltip-href=\"/adventuring-gear/9-tooltip\">bottle of black ink</a>, an <a class=\"tooltip-hover item-tooltip\" href=\"https://www.dndbeyond.com/equipment/11-ink-pen\" data-tooltip-href=\"/adventuring-gear/11-tooltip\">ink pen</a>, a book of poetry, a school uniform, and a pouch containing 15 gp</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"FeatureSilverquillInitiate\">Feature: Silverquill Initiate</h4>\n<p>You gain the Strixhaven Initiate feat (presented <a href=\"#StrixhavenInitiate\" title=\"later\">later</a> in the chapter) and must choose Silverquill within it.</p>\n<p>In addition, if you have the Spellcasting or Pact Magic feature, the spells on the Silverquill Spells table are added to the spell list of your spellcasting class. (If you are a multiclass character with multiple spell lists, these spells are added to all of them.)</p>\n<table id=\"SilverquillSpells\" class=\"table-compendium table--left-col2\">\n<caption class=\"compendium-hr heading-anchor\"><a href=\"#SilverquillSpells\"></a>Silverquill Spells</caption>\n<thead>\n<tr>\n<th>Spell Level</th>\n<th>Spells</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1st</td>\n<td><a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2314-dissonant-whispers\" data-tooltip-href=\"/spells/2314-tooltip\">Dissonant Whispers</a>, <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/1239804-silvery-barbs\" data-tooltip-href=\"/spells/1239804-tooltip\">Silvery Barbs</a> (<a href=\"#SilveryBarbs\" title=\"in this book\">in this book</a>)</td>\n</tr>\n<tr>\n<td>2nd</td>\n<td><a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2023-calm-emotions\" data-tooltip-href=\"/spells/2023-tooltip\">Calm Emotions</a>, <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2058-darkness\" data-tooltip-href=\"/spells/2058-tooltip\">Darkness</a></td>\n</tr>\n<tr>\n<td>3rd</td>\n<td><a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2012-beacon-of-hope\" data-tooltip-href=\"/spells/2012-tooltip\">Beacon of Hope</a>, <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2060-daylight\" data-tooltip-href=\"/spells/2060-tooltip\">Daylight</a></td>\n</tr>\n<tr>\n<td>4th</td>\n<td><a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2036-compulsion\" data-tooltip-href=\"/spells/2036-tooltip\">Compulsion</a>, <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2038-confusion\" data-tooltip-href=\"/spells/2038-tooltip\">Confusion</a></td>\n</tr>\n<tr>\n<td>5th</td>\n<td><a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2078-dominate-person\" data-tooltip-href=\"/spells/2078-tooltip\">Dominate Person</a>, <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2356-rarys-telepathic-bond\" data-tooltip-href=\"/spells/2356-tooltip\">Rary’s Telepathic Bond</a></td>\n</tr>\n</tbody>\n</table>\n<p>Consider customizing how your spells look when you cast them. Your Silverquill spells might be accompanied by visual effects resembling splotches of ink or radiating ripples of golden light. Any auditory effects of your spells often sound like amplified echoes of your own voice speaking the spells’ verbal components—even amid the crash of lightning or a fiery eruption.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"BuildingaSilverquillCharacter\">Building a Silverquill Character</h4>\n<p>Many bards find a home in Silverquill, putting the power of their voices to use with Silverquill magic. Wizards (especially those who study the Schools of <a href=\"https://www.dndbeyond.com/subclasses/school-of-illusion\" title=\"Illusion\">Illusion</a> and <a href=\"https://www.dndbeyond.com/subclasses/school-of-enchantment\" title=\"Enchantment\">Enchantment</a>) are common in Silverquill, as are warlocks. Clerics with the Divine Domains of <a href=\"https://www.dndbeyond.com/subclasses/light-domain\" title=\"Light\">Light</a> and <a href=\"https://www.dndbeyond.com/subclasses/trickery-domain\" title=\"Trickery\">Trickery</a> also fit in well among the mages of Silverquill.</p>\n<p>A number of both paladins and rogues attend Silverquill College as well, highlighting the diversity of the student body.</p>\n<p><em><strong>Suggested Characteristics.</strong></em> With the college’s intense standards looming over them, Silverquill students range from cocky and cutthroat to overwhelmed perfectionists. The Silverquill Personality Traits table suggests a variety of traits you might adopt for your character.</p>\n<table id=\"SilverquillPersonalityTraits\" class=\"table-compendium table--generic-dice\">\n<caption class=\"compendium-hr heading-anchor\"><a href=\"#SilverquillPersonalityTraits\"></a>Silverquill Personality Traits</caption>\n<thead>\n<tr>\n<th>d6</th>\n<th>Personality Trait</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1</td>\n<td>I’ll say whatever I need to in order to maintain my high social status.</td>\n</tr>\n<tr>\n<td>2</td>\n<td>I prefer saying the blunt truth over a pretty lie, and I don’t particularly care whose feelings I hurt.</td>\n</tr>\n<tr>\n<td>3</td>\n<td>I believe that uplifting my peers is the best way to succeed.</td>\n</tr>\n<tr>\n<td>4</td>\n<td>I’ve mastered the art of using humor as a defense, and I always have a charming joke ready.</td>\n</tr>\n<tr>\n<td>5</td>\n<td>I always wait before speaking, analyzing the situation for whichever angle is most advantageous to my goals.</td>\n</tr>\n<tr>\n<td>6</td>\n<td>No one knows about the all-nighters I’ve pulled to keep my magic looking effortless, and I’m going to keep it that way.</td>\n</tr>\n</tbody>\n</table>\n<p><em><strong>Silverquill Trinkets.</strong></em> When you make your character, you may roll once on the Silverquill Trinkets table, instead of on the <a href=\"https://www.dndbeyond.com/sources/phb/equipment#SampleTrinkets\" title=\"Trinkets table\">Trinkets table</a> in the <a class=\"sourcebook\" href=\"https://www.dndbeyond.com/sources/phb\" title=\"Player’s Handbook\">Player’s Handbook</a>, for your starting trinket.</p>\n<table id=\"SilverquillTrinkets\" class=\"table-compendium table--generic-dice\">\n<caption class=\"compendium-hr heading-anchor\"><a href=\"#SilverquillTrinkets\"></a>Silverquill Trinkets</caption>\n<thead>\n<tr>\n<th>d6</th>\n<th>Trinket</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1</td>\n<td>A black leather notebook filled with half-finished poems</td>\n</tr>\n<tr>\n<td>2</td>\n<td>A set of flashcards detailing different colloquialisms and their meanings</td>\n</tr>\n<tr>\n<td>3</td>\n<td>A canteen that makes any liquid drunk from it taste sweet</td>\n</tr>\n<tr>\n<td>4</td>\n<td>A forged permission slip granting access to the special archives of Strixhaven’s libraries</td>\n</tr>\n<tr>\n<td>5</td>\n<td>A stylish silver pin that references a famous series of novels about warlocks</td>\n</tr>\n<tr>\n<td>6</td>\n<td>A stack of small pieces of parchment, each enchanted to stick to whatever surface it’s pressed against and peel off easily</td>\n</tr>\n</tbody>\n</table>\n<h3 class=\"compendium-hr heading-anchor\" id=\"WitherbloomStudent\">Witherbloom Student</h3>\n<p>You filled your childhood with rudimentary alchemical experiments, all in the hope of becoming a student of Witherbloom College. The life sciences are the focus of your reading, which include biology and necromancy. Brewing strange concoctions with medicinal properties, exploring the anatomies of monsters, and cataloging swamp flora are the kinds of studies you might pursue at Witherbloom College.</p>\n<p><strong>Skill Proficiencies:</strong> <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/9-tooltip\">Nature</a>, <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/15-tooltip\">Survival</a></p>\n<p><strong>Tool Proficiencies:</strong> Herbalism kit</p>\n<p><strong>Languages:</strong> One of your choice</p>\n<p><strong>Equipment:</strong> A <a class=\"tooltip-hover item-tooltip\" href=\"https://www.dndbeyond.com/equipment/9-ink-1-ounce-bottle\" data-tooltip-href=\"/adventuring-gear/9-tooltip\">bottle of black ink</a>, an <a class=\"tooltip-hover item-tooltip\" href=\"https://www.dndbeyond.com/equipment/11-ink-pen\" data-tooltip-href=\"/adventuring-gear/11-tooltip\">ink pen</a>, a book about plant identification, an <a class=\"tooltip-hover item-tooltip\" href=\"https://www.dndbeyond.com/equipment/70-pot-iron\" data-tooltip-href=\"/adventuring-gear/70-tooltip\">iron pot</a>, an <a class=\"tooltip-hover item-tooltip\" href=\"https://www.dndbeyond.com/equipment/123-herbalism-kit\" data-tooltip-href=\"/adventuring-gear/123-tooltip\">herbalism kit</a>, a school uniform, and a pouch containing 15 gp</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"FeatureWitherbloomInitiate\">Feature: Witherbloom Initiate</h4>\n<p>You gain the Strixhaven Initiate feat (presented <a href=\"#StrixhavenInitiate\" title=\"later\">later</a> in the chapter) and must choose Witherbloom within it.</p>\n<p>In addition, if you have the Spellcasting or Pact Magic feature, the spells on the Witherbloom Spells table are added to the spell list of your spellcasting class. (If you are a multiclass character with multiple spell lists, these spells are added to all of them.)</p>\n<table id=\"WitherbloomSpells\" class=\"table-compendium table--left-col2\">\n<caption class=\"compendium-hr heading-anchor\"><a href=\"#WitherbloomSpells\"></a>Witherbloom Spells</caption>\n<thead>\n<tr>\n<th>Spell Level</th>\n<th>Spells</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1st</td>\n<td><a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2056-cure-wounds\" data-tooltip-href=\"/spells/2056-tooltip\">Cure Wounds</a>, <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2156-inflict-wounds\" data-tooltip-href=\"/spells/2156-tooltip\">Inflict Wounds</a></td>\n</tr>\n<tr>\n<td>2nd</td>\n<td><a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2164-lesser-restoration\" data-tooltip-href=\"/spells/2164-tooltip\">Lesser Restoration</a>, <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/1239806-wither-and-bloom\" data-tooltip-href=\"/spells/1239806-tooltip\">Wither and Bloom</a> (<a href=\"#WitherandBloom\" title=\"in this book\">in this book</a>)</td>\n</tr>\n<tr>\n<td>3rd</td>\n<td><a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2234-revivify\" data-tooltip-href=\"/spells/2234-tooltip\">Revivify</a>, <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2289-vampiric-touch\" data-tooltip-href=\"/spells/2289-tooltip\">Vampiric Touch</a></td>\n</tr>\n<tr>\n<td>4th</td>\n<td><a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2017-blight\" data-tooltip-href=\"/spells/2017-tooltip\">Blight</a>, <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2061-death-ward\" data-tooltip-href=\"/spells/2061-tooltip\">Death Ward</a></td>\n</tr>\n<tr>\n<td>5th</td>\n<td><a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/1998-antilife-shell\" data-tooltip-href=\"/spells/1998-tooltip\">Antilife Shell</a>, <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2129-greater-restoration\" data-tooltip-href=\"/spells/2129-tooltip\">Greater Restoration</a></td>\n</tr>\n</tbody>\n</table>\n<p>Consider customizing how your spells look when you cast them. Your Witherbloom spells might rely on material components or a spellcasting focus drawn from the swamp environment of Witherbloom, and your spells might take on an appearance suggesting those natural elements. Spectral shapes of swamp animals or plants might form amid your spell effects.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"BuildingaWitherbloomCharacter\">Building a Witherbloom Character</h4>\n<p>Druids and warlocks make up most of Witherbloom’s student body. A few wizards (mostly those who study the <a href=\"https://www.dndbeyond.com/subclasses/school-of-necromancy\" title=\"School of Necromancy\">School of Necromancy</a>) and clerics (including those with the Divine Domains of <a href=\"https://www.dndbeyond.com/subclasses/life-domain\" title=\"Life\">Life</a> or <a href=\"https://www.dndbeyond.com/subclasses/nature-domain\" title=\"Nature\">Nature</a>) also find their home in Witherbloom.</p>\n<p>A number of rangers and barbarians study at Witherbloom as well, and some rogues learn how to create and use poisons during their studies at this college.</p>\n<p><em><strong>Suggested Characteristics.</strong></em> Students of Witherbloom College are equally likely to be found picking herbs for a healing tincture or riding zombified swamp beasts through the bayou. The Witherbloom Personality Traits table suggests a variety of traits you might adopt for your character.</p>\n<table class=\"table-compendium table--generic-dice\" id=\"session-table-14\">\n<caption class=\"compendium-hr heading-anchor\" id=\"WitherbloomPersonalityTraits\"><a href=\"#WitherbloomPersonalityTraits\"></a>Witherbloom Personality Traits</caption>\n<thead>\n<tr>\n<th>d6</th>\n<th>Personality Trait</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1</td>\n<td>I love brewing up a new recipe, even if some might be repulsed by my choice of ingredients. Or the final product. Or both.</td>\n</tr>\n<tr>\n<td>2</td>\n<td>My fashion sense is like my garden: withered, black, and weird.</td>\n</tr>\n<tr>\n<td>3</td>\n<td>I’m going to befriend every single monster in this swamp if it’s the last thing I do.</td>\n</tr>\n<tr>\n<td>4</td>\n<td>Everything in this world dies eventually. The question is, what will you do with the time you have left?</td>\n</tr>\n<tr>\n<td>5</td>\n<td>I know we just met, but when you die, may I have your bones? For research.</td>\n</tr>\n<tr>\n<td>6</td>\n<td>Don’t interrupt me; I’m brooding.</td>\n</tr>\n</tbody>\n</table>\n<p><em><strong>Witherbloom Trinkets.</strong></em> When you make your character, you may roll once on the Witherbloom Trinkets table, instead of on the <a href=\"https://www.dndbeyond.com/sources/phb/equipment#SampleTrinkets\" title=\"Trinkets table\">Trinkets table</a> in the <a class=\"sourcebook\" href=\"https://www.dndbeyond.com/sources/phb\" title=\"Player’s Handbook\">Player’s Handbook</a>, for your starting trinket.</p>\n<table class=\"table-compendium table--generic-dice\" id=\"session-table-15\">\n<caption class=\"compendium-hr heading-anchor\" id=\"WitherbloomTrinkets\"><a href=\"#WitherbloomTrinkets\"></a>Witherbloom Trinkets</caption>\n<thead>\n<tr>\n<th>d6</th>\n<th>Trinket</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1</td>\n<td>A black bird-shaped mask, trimmed with glowing green thread</td>\n</tr>\n<tr>\n<td>2</td>\n<td>A set of rabbit bones</td>\n</tr>\n<tr>\n<td>3</td>\n<td>A pair of thick knee-high waders, stained with muck and moss</td>\n</tr>\n<tr>\n<td>4</td>\n<td>A slimy green tentacle, which occasionally wriggles</td>\n</tr>\n<tr>\n<td>5</td>\n<td>A notebook containing waterproof paper</td>\n</tr>\n<tr>\n<td>6</td>\n<td>A necklace of five small vials, each filled with luminescent white liquid</td>\n</tr>\n</tbody>\n</table>\n<h2 class=\"compendium-hr heading-anchor\" id=\"Feats\">Feats</h2>\n<p>This section introduces feats that give your character benefits associated with the colleges of Strixhaven. These feats are available to you whenever you normally choose a feat, and they follow the <a href=\"https://www.dndbeyond.com/sources/phb/customization-options#Feats\" title=\"feat rules\">feat rules</a> in the <a class=\"sourcebook\" href=\"https://www.dndbeyond.com/sources/phb\" title=\"Player’s Handbook\">Player’s Handbook</a>.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"FeatDescriptions\">Feat Descriptions</h3>\n<p>These feats are presented in alphabetical order.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"StrixhavenInitiate\">Strixhaven Initiate</h4>\n<p>You have studied some magical theory and have learned a few spells associated with Strixhaven University.</p>\n<p>Choose one of Strixhaven’s colleges: Lorehold, Prismari, Quandrix, Silverquill, or Witherbloom. You learn two cantrips and one 1st-level spell based on the college you choose, as specified in the Strixhaven Spells table.</p>\n<p>You can cast the chosen 1st-level spell without a spell slot, and you must finish a long rest before you can cast it in this way again. You can also cast the spell using any spell slots you have.</p>\n<p>Your spellcasting ability for this feat’s spells is Intelligence, Wisdom, or Charisma (choose when you select this feat).</p>\n<table class=\"table-compendium table--left-all\" id=\"session-table-16\">\n<caption class=\"compendium-hr heading-anchor\" id=\"StrixhavenSpells\"><a href=\"#StrixhavenSpells\"></a>Strixhaven Spells</caption>\n<thead>\n<tr>\n<th>College</th>\n<th>Cantrips</th>\n<th>1st-Level Spell</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Lorehold</td>\n<td>Choose two from <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2166-light\" data-tooltip-href=\"/spells/2166-tooltip\">light</a>, <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2236-sacred-flame\" data-tooltip-href=\"/spells/2236-tooltip\">sacred flame</a>, and <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2277-thaumaturgy\" data-tooltip-href=\"/spells/2277-tooltip\">thauma­turgy</a>.</td>\n<td>Choose one 1st-level cleric or wizard spell.</td>\n</tr>\n<tr>\n<td>Prismari</td>\n<td>Choose two from <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2103-fire-bolt\" data-tooltip-href=\"/spells/2103-tooltip\">fire bolt</a>, <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2213-prestidigitation\" data-tooltip-href=\"/spells/2213-tooltip\">prestidigitation</a>, and <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2226-ray-of-frost\" data-tooltip-href=\"/spells/2226-tooltip\">ray of frost</a>.</td>\n<td>Choose one 1st-level bard or sorcerer spell.</td>\n</tr>\n<tr>\n<td>Quandrix</td>\n<td>Choose two from <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2080-druidcraft\" data-tooltip-href=\"/spells/2080-tooltip\">druid­craft</a>, <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2132-guidance\" data-tooltip-href=\"/spells/2132-tooltip\">guidance</a>, and <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2173-mage-hand\" data-tooltip-href=\"/spells/2173-tooltip\">mage hand</a>.</td>\n<td>Choose one 1st-level druid or wizard spell.</td>\n</tr>\n<tr>\n<td>Silverquill</td>\n<td>Choose two from <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2236-sacred-flame\" data-tooltip-href=\"/spells/2236-tooltip\">sacred flame</a>, <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2277-thaumaturgy\" data-tooltip-href=\"/spells/2277-tooltip\">thaumaturgy</a>, and <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2290-vicious-mockery\" data-tooltip-href=\"/spells/2290-tooltip\">vicious mockery</a>.</td>\n<td>Choose one 1st-level bard or cleric spell.</td>\n</tr>\n<tr>\n<td>Witherbloom</td>\n<td>Choose two from <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2026-chill-touch\" data-tooltip-href=\"/spells/2026-tooltip\">chill touch</a>, <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2080-druidcraft\" data-tooltip-href=\"/spells/2080-tooltip\">druid­craft</a>, and <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2257-spare-the-dying\" data-tooltip-href=\"/spells/2257-tooltip\">spare the dying</a>.</td>\n<td>Choose one 1st-level druid or wizard spell.</td>\n</tr>\n</tbody>\n</table>\n<h4 class=\"compendium-hr heading-anchor\" id=\"StrixhavenMascot\">Strixhaven Mascot</h4>\n<p><em>Prerequisite: 4th Level, Strixhaven Initiate Feat</em></p>\n<p>You have learned how to summon a Strixhaven mascot to assist you, granting you these benefits:</p>\n<ul>\n<li>You can cast the <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2097-find-familiar\" data-tooltip-href=\"/spells/2097-tooltip\">find familiar</a> spell as a ritual. Your familiar can take the form of the mascot associated with the college you chose for the Strixhaven Initiate feat: a <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160334-spirit-statue-mascot\" data-tooltip-href=\"/monsters/2160334-tooltip\">spirit statue mascot</a> (Lorehold), an <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160297-art-elemental-mascot\" data-tooltip-href=\"/monsters/2160297-tooltip\">art elemental mascot</a> (Prismari), a <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160304-fractal-mascot\" data-tooltip-href=\"/monsters/2160304-tooltip\">fractal mascot</a> (Quandrix), an <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160307-inkling-mascot\" data-tooltip-href=\"/monsters/2160307-tooltip\">inkling mascot</a> (Silverquill), or a <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160317-pest-mascot\" data-tooltip-href=\"/monsters/2160317-tooltip\">pest mascot</a> (Witherbloom). Stat blocks for these creatures appear in <a href=\"/chapters/strixhaven-friends-and-foes/\" title=\"chapter 7\">chapter 7</a>.</li>\n<li>When you take the <a class=\"tooltip-hover action-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#AttackAction\" data-tooltip-href=\"/actions/1-tooltip\">Attack</a> action on your turn, you can forgo one attack to allow your mascot familiar to make one attack of its own with its reaction.</li>\n<li>If your mascot familiar is within 60 feet of you, you can teleport as an action, swapping places with the familiar. If your destination space is too small for you to occupy, the teleportation fails and is wasted. Once you teleport in this way, you can’t do so again until you finish a long rest, unless you expend a spell slot of 2nd level or higher to do it again.</li>\n</ul>\n<h2 class=\"compendium-hr heading-anchor\" id=\"Spells\">Spells</h2>\n<p>Created at Strixhaven, the spells presented in this section are available to the backgrounds offered in this chapter. The spells also appear on the class spell lists indicated in the Spells table below.</p>\n<table class=\"table-compendium table--left-col2 table--left-col3 table--left-col4\" id=\"SpellsTable\">\n<caption class=\"compendium-hr heading-anchor\" id=\"Spells2\"><a href=\"#Spells2\"></a>Spells</caption>\n<thead>\n<tr>\n<th>Level</th>\n<th>Spell</th>\n<th>School</th>\n<th>Class</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1st</td>\n<td><a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/1239804-silvery-barbs\" data-tooltip-href=\"/spells/1239804-tooltip\">Silvery Barbs</a></td>\n<td>Enchantment</td>\n<td>Bard, Sorcerer, Wizard</td>\n</tr>\n<tr>\n<td>2nd</td>\n<td><a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/1239802-borrowed-knowledge\" data-tooltip-href=\"/spells/1239802-tooltip\">Borrowed Knowledge</a></td>\n<td>Divination</td>\n<td>Bard, Cleric, Warlock, Wizard</td>\n</tr>\n<tr>\n<td>2nd</td>\n<td><a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/1239803-kinetic-jaunt\" data-tooltip-href=\"/spells/1239803-tooltip\">Kinetic Jaunt</a></td>\n<td>Transmutation</td>\n<td>Artificer,* Bard, Sorcerer, Wizard</td>\n</tr>\n<tr>\n<td>2nd</td>\n<td><a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/1239805-vortex-warp\" data-tooltip-href=\"/spells/1239805-tooltip\">Vortex Warp</a></td>\n<td>Conjuration</td>\n<td>Artificer,* Sorcerer, Wizard</td>\n</tr>\n<tr>\n<td>2nd</td>\n<td><a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/1239806-wither-and-bloom\" data-tooltip-href=\"/spells/1239806-tooltip\">Wither and Bloom</a></td>\n<td>Necromancy</td>\n<td>Druid, Sorcerer, Wizard</td>\n</tr>\n</tbody>\n</table>\n<p>*The artificer class appears in <a class=\"sourcebook\" href=\"https://www.dndbeyond.com/sources/tcoe\" title=\"Tasha’s Cauldron of Everything\">Tasha’s Cauldron of Everything</a> and <a class=\"sourcebook\" href=\"https://www.dndbeyond.com/sources/erftlw\" title=\"Eberron: Rising from the Last War\">Eberron: Rising from the Last War</a>.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"SpellDescriptions\">Spell Descriptions</h3>\n<p>These spells are presented in alphabetical order.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"BorrowedKnowledge\"><a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/1239802-borrowed-knowledge\" data-tooltip-href=\"/spells/1239802-tooltip\">Borrowed Knowledge</a></h4>\n<p><em>2nd-Level Divination</em></p>\n<p><strong>Casting Time:</strong> 1 action</p>\n<p><strong>Range:</strong> Self</p>\n<p><strong>Components:</strong> V, S, M (a book worth at least 25 gp)</p>\n<p><strong>Duration:</strong> 1 hour</p>\n<p>You draw on knowledge from spirits of the past. Choose one skill in which you lack proficiency. For the spell’s duration, you have proficiency in the chosen skill. The spell ends early if you cast it again.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"KineticJaunt\"><a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/1239803-kinetic-jaunt\" data-tooltip-href=\"/spells/1239803-tooltip\">Kinetic Jaunt</a></h4>\n<p><em>2nd-Level Transmutation</em></p>\n<p><strong>Casting Time:</strong> 1 bonus action</p>\n<p><strong>Range:</strong> Self</p>\n<p><strong>Components:</strong> S</p>\n<p><strong>Duration:</strong> Concentration, up to 1 minute</p>\n<p>You magically empower your movement with dance-like steps, giving yourself the following benefits for the duration:</p>\n<ul>\n<li>Your walking speed increases by 10 feet.</li>\n<li>You don’t provoke opportunity attacks.</li>\n<li>You can move through the space of another creature, and it doesn’t count as <a class=\"tooltip-hover rule-tooltip\" href=\"https://www.dndbeyond.com/sources/basic-rules/adventuring#DifficultTerrain\" data-tooltip-href=\"/rules/86-tooltip\">difficult terrain</a>. If you end your turn in another creature’s space, you are shunted to the last unoccupied space you occupied, and you take 1d8 force damage.</li>\n</ul>\n<h4 class=\"compendium-hr heading-anchor\" id=\"SilveryBarbs\"><a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/1239804-silvery-barbs\" data-tooltip-href=\"/spells/1239804-tooltip\">Silvery Barbs</a></h4>\n<p><em>1st-Level Enchantment</em></p>\n<p><strong>Casting Time:</strong> 1 reaction, which you take when a creature you can see within 60 feet of yourself succeeds on an attack roll, an ability check, or a saving throw</p>\n<p><strong>Range:</strong> 60 feet</p>\n<p><strong>Components:</strong> V</p>\n<p><strong>Duration:</strong> Instantaneous</p>\n<p>You magically distract the triggering creature and turn its momentary uncertainty into encouragement for another creature. The triggering creature must reroll the d20 and use the lower roll.</p>\n<p>You can then choose a different creature you can see within range (you can choose yourself). The chosen creature has advantage on the next attack roll, ability check, or saving throw it makes within 1 minute. A creature can be empowered by only one use of this spell at a time.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"VortexWarp\"><a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/1239805-vortex-warp\" data-tooltip-href=\"/spells/1239805-tooltip\">Vortex Warp</a></h4>\n<p><em>2nd-Level Conjuration</em></p>\n<p><strong>Casting Time:</strong> 1 action</p>\n<p><strong>Range:</strong> 90 feet</p>\n<p><strong>Components:</strong> V, S</p>\n<p><strong>Duration:</strong> Instantaneous</p>\n<p>You magically twist space around another creature you can see within range. The target must succeed on a Constitution saving throw (the target can choose to fail), or the target is teleported to an unoccupied space of your choice that you can see within range. The chosen space must be on a surface or in a liquid that can support the target without the target having to squeeze.</p>\n<p><em><strong>At Higher Levels.</strong></em> When you cast this spell using a spell slot of 3rd level or higher, the range of the spell increases by 30 feet for each slot level above 2nd.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"WitherandBloom\"><a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/1239806-wither-and-bloom\" data-tooltip-href=\"/spells/1239806-tooltip\">Wither and Bloom</a></h4>\n<p><em>2nd-Level Necromancy</em></p>\n<p><strong>Casting Time:</strong> 1 action</p>\n<p><strong>Range:</strong> 60 feet</p>\n<p><strong>Components:</strong> V, S, M (a withered vine twisted into a loop)</p>\n<p><strong>Duration:</strong> Instantaneous</p>\n<p>You invoke both death and life upon a 10-foot-radius sphere centered on a point within range. Each creature of your choice in that area must make a Constitution saving throw, taking 2d6 necrotic damage on a failed save, or half as much damage on a successful one. Nonmagical vegetation in that area withers.</p>\n<p>In addition, one creature of your choice in that area can spend and roll one of its unspent Hit Dice and regain a number of hit points equal to the roll plus your spellcasting ability modifier.</p>\n<p><em><strong>At Higher Levels.</strong></em> When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d6 for each slot above 2nd, and the number of Hit Dice that can be spent and added to the healing roll increases by one for each slot above 2nd.</p>\n<h2 class=\"compendium-hr heading-anchor\" id=\"MagicItems\">Magic Items</h2>\n<p>This section presents some magic items that are created at Strixhaven. These items, along with a few from the <a class=\"sourcebook\" href=\"https://www.dndbeyond.com/sources/dmg\" title=\"Dungeon Master’s Guide\">Dungeon Master’s Guide</a> (<em>DMG</em>), can be purchased on campus using the prices in the Magic Items for Sale table.</p>\n<table class=\"table-compendium table--left-all\" id=\"MagicItemsforSale\">\n<caption class=\"compendium-hr heading-anchor\" id=\"MagicItemsForSale\"><a href=\"#MagicItemsForSale\"></a>Magic Items for Sale</caption>\n<thead>\n<tr>\n<th>Item</th>\n<th>Rarity</th>\n<th>Cost</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><a class=\"tooltip-hover magic-item-tooltip\" href=\"https://www.dndbeyond.com/magic-items/4239816-bottle-of-boundless-coffee\" data-tooltip-href=\"/magic-items/4239816-tooltip\">Bottle of Boundless Coffee</a></td>\n<td>Common</td>\n<td>100 gp</td>\n</tr>\n<tr>\n<td><a class=\"tooltip-hover magic-item-tooltip\" href=\"https://www.dndbeyond.com/magic-items/4239817-cuddly-strixhaven-mascot\" data-tooltip-href=\"/magic-items/4239817-tooltip\">Cuddly Strixhaven Mascot</a></td>\n<td>Common</td>\n<td>100 gp</td>\n</tr>\n<tr>\n<td><a class=\"tooltip-hover magic-item-tooltip\" href=\"https://www.dndbeyond.com/magic-items/4239818-lorehold-primer\" data-tooltip-href=\"/magic-items/4239818-tooltip\">Lorehold Primer</a></td>\n<td>Uncommon</td>\n<td>300 gp</td>\n</tr>\n<tr>\n<td><a class=\"tooltip-hover magic-item-tooltip\" href=\"https://www.dndbeyond.com/magic-items/4239821-prismari-primer\" data-tooltip-href=\"/magic-items/4239821-tooltip\">Prismari Primer</a></td>\n<td>Uncommon</td>\n<td>300 gp</td>\n</tr>\n<tr>\n<td><a class=\"tooltip-hover magic-item-tooltip\" href=\"https://www.dndbeyond.com/magic-items/4239822-quandrix-primer\" data-tooltip-href=\"/magic-items/4239822-tooltip\">Quandrix Primer</a></td>\n<td>Uncommon</td>\n<td>300 gp</td>\n</tr>\n<tr>\n<td><a class=\"tooltip-hover magic-item-tooltip\" href=\"https://www.dndbeyond.com/magic-items/4239823-silverquill-primer\" data-tooltip-href=\"/magic-items/4239823-tooltip\">Silverquill Primer</a></td>\n<td>Uncommon</td>\n<td>300 gp</td>\n</tr>\n<tr>\n<td><a class=\"tooltip-hover magic-item-tooltip\" href=\"https://www.dndbeyond.com/magic-items/5161-spell-scroll-1st-level\" data-tooltip-href=\"/magic-items/5161-tooltip\">Spell Scroll</a> (1st-Level Spell; <a class=\"sourcebook\" title=\"Dungeon Master’s Guide\" href=\"https://www.dndbeyond.com/sources/dmg\">DMG</a>)</td>\n<td>Common</td>\n<td>50 gp</td>\n</tr>\n<tr>\n<td><a class=\"tooltip-hover magic-item-tooltip\" href=\"https://www.dndbeyond.com/magic-items/4239824-strixhaven-pennant\" data-tooltip-href=\"/magic-items/4239824-tooltip\">Strixhaven Pennant</a></td>\n<td>Common</td>\n<td>100 gp</td>\n</tr>\n<tr>\n<td><a class=\"tooltip-hover magic-item-tooltip\" href=\"https://www.dndbeyond.com/magic-items/5400-weapon-1\" data-tooltip-href=\"/magic-items/5400-tooltip\">Weapon, +1</a> (<a class=\"sourcebook\" title=\"Dungeon Master’s Guide\" href=\"https://www.dndbeyond.com/sources/dmg\">DMG</a>)</td>\n<td>Uncommon</td>\n<td>300 gp</td>\n</tr>\n<tr>\n<td><a class=\"tooltip-hover magic-item-tooltip\" href=\"https://www.dndbeyond.com/magic-items/4239825-witherbloom-primer\" data-tooltip-href=\"/magic-items/4239825-tooltip\">Witherbloom Primer</a></td>\n<td>Uncommon</td>\n<td>300 gp</td>\n</tr>\n</tbody>\n</table>\n<h3 class=\"compendium-hr heading-anchor\" id=\"MagicItemDescriptions\">Magic Item Descriptions</h3>\n<p>These items are presented in alphabetical order.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"BottleofBoundlessCoffee\"><a class=\"tooltip-hover magic-item-tooltip\" href=\"https://www.dndbeyond.com/magic-items/4239816-bottle-of-boundless-coffee\" data-tooltip-href=\"/magic-items/4239816-tooltip\">Bottle of Boundless Coffee</a></h4>\n<p><em>Wondrous Item, Common</em></p>\n<p>This metal bottle carries delicious, warm coffee. The bottle comes with a stopper, which is attached to the bottle by a little chain. Even when open, the bottle won’t accept any liquid other than the coffee it produces. The coffee inside is always comfortably warm, and none of the heat can be felt through the bottle.</p>\n<p>Each time you drink the coffee, roll a d20. On a 1, the bottle refuses to dispense coffee for the next hour. If you pour coffee from the bottle, rather than drinking from it, the coffee vanishes the moment it leaves the bottle.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"CuddlyStrixhavenMascot\"><a class=\"tooltip-hover magic-item-tooltip\" href=\"https://www.dndbeyond.com/magic-items/4239817-cuddly-strixhaven-mascot\" data-tooltip-href=\"/magic-items/4239817-tooltip\">Cuddly Strixhaven Mascot</a></h4>\n<p><em>Wondrous Item, Common</em></p>\n<p>Representing one of the mascots of Strixhaven, this soft, Tiny, magic toy is perfect for cuddling. If you press it to your arm, shoulder, or leg as an action, the toy stays attached there for 1 hour or until you use an action to remove it.</p>\n<p>This toy can also be used to fight off fear. When you make a saving throw to avoid or end the <a class=\"tooltip-hover condition-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#FrightenedCondition\" data-tooltip-href=\"/conditions/5-tooltip\">frightened</a> condition on yourself, you can give yourself advantage on the roll if the toy is on your person. You must decide to do so before rolling the d20. If the save succeeds, you can’t use the toy in this way again until you finish a long rest.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"LoreholdPrimer\"><a class=\"tooltip-hover magic-item-tooltip\" href=\"https://www.dndbeyond.com/magic-items/4239818-lorehold-primer\" data-tooltip-href=\"/magic-items/4239818-tooltip\">Lorehold Primer</a></h4>\n<p><em>Wondrous Item, Uncommon (Requires Attunement by a Spellcaster)</em></p>\n<p>The <a class=\"tooltip-hover magic-item-tooltip\" href=\"https://www.dndbeyond.com/magic-items/4239818-lorehold-primer\" data-tooltip-href=\"/magic-items/4239818-tooltip\">Lorehold Primer</a> is a magic textbook created at Strixhaven’s Lorehold College. The primer has 3 charges, and it regains 1d3 expended charges daily at dawn. If you make an Intelligence (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/7-tooltip\">History</a>) or an Intelligence (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/10-tooltip\">Religion</a>) check while holding the primer, you can expend 1 charge to give yourself a 1d4 bonus to the check, immediately after you roll the d20.</p>\n<p>In addition, if you study the primer at the end of a long rest, you can choose one 1st-level spell from the cleric or wizard spell list. Before you finish your next long rest, you can cast the chosen spell once without a spell slot if you are holding the primer. Your spellcasting ability for this spell is your choice of Intelligence, Wisdom, or Charisma.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"PrismariPrimer\"><a class=\"tooltip-hover magic-item-tooltip\" href=\"https://www.dndbeyond.com/magic-items/4239821-prismari-primer\" data-tooltip-href=\"/magic-items/4239821-tooltip\">Prismari Primer</a></h4>\n<p><em>Wondrous Item, Uncommon (Requires Attunement by a Spellcaster)</em></p>\n<p>The <a class=\"tooltip-hover magic-item-tooltip\" href=\"https://www.dndbeyond.com/magic-items/4239821-prismari-primer\" data-tooltip-href=\"/magic-items/4239821-tooltip\">Prismari Primer</a> is a magic textbook created at Strixhaven’s Prismari College. The primer has 3 charges, and it regains 1d3 expended charges daily at dawn. If you make a Dexterity (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/3-tooltip\">Acrobatics</a>) or a Charisma (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/18-tooltip\">Performance</a>) check while holding the primer, you can expend 1 charge to give yourself a 1d4 bonus to the check, immediately after you roll the d20.</p>\n<p>In addition, if you study the primer at the end of a long rest, you can choose one 1st-level spell from the bard or sorcerer spell list. Before you finish your next long rest, you can cast the chosen spell once without a spell slot if you are holding the primer. Your spellcasting ability for this spell is your choice of Intelligence, Wisdom, or Charisma.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"QuandrixPrimer\"><a class=\"tooltip-hover magic-item-tooltip\" href=\"https://www.dndbeyond.com/magic-items/4239822-quandrix-primer\" data-tooltip-href=\"/magic-items/4239822-tooltip\">Quandrix Primer</a></h4>\n<p><em>Wondrous Item, Uncommon (Requires Attunement by a Spellcaster)</em></p>\n<p>The <a class=\"tooltip-hover magic-item-tooltip\" href=\"https://www.dndbeyond.com/magic-items/4239822-quandrix-primer\" data-tooltip-href=\"/magic-items/4239822-tooltip\">Quandrix Primer</a> is a magic textbook created at Strixhaven’s Quandrix College. The primer has 3 charges, and it regains 1d3 expended charges daily at dawn. If you make an Intelligence (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/6-tooltip\">Arcana</a>) or an Intelligence (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/9-tooltip\">Nature</a>) check while holding the primer, you can expend 1 charge to give yourself a 1d4 bonus to the check, immediately after you roll the d20.</p>\n<p>In addition, if you study the primer at the end of a long rest, you can choose one 1st-level spell from the druid or wizard spell list. Before you finish your next long rest, you can cast the chosen spell once without a spell slot if you are holding the primer. Your spellcasting ability for this spell is your choice of Intelligence, Wisdom, or Charisma.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"SilverquillPrimer\"><a class=\"tooltip-hover magic-item-tooltip\" href=\"https://www.dndbeyond.com/magic-items/4239823-silverquill-primer\" data-tooltip-href=\"/magic-items/4239823-tooltip\">Silverquill Primer</a></h4>\n<p><em>Wondrous Item, Uncommon (Requires Attunement by a Spellcaster)</em></p>\n<p>The <a class=\"tooltip-hover magic-item-tooltip\" href=\"https://www.dndbeyond.com/magic-items/4239823-silverquill-primer\" data-tooltip-href=\"/magic-items/4239823-tooltip\">Silverquill Primer</a> is a magic textbook created at Strixhaven’s Silverquill College. The primer has 3 charges, and it regains 1d3 expended charges daily at dawn. If you make a Charisma (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/17-tooltip\">Intimidation</a>) or a Charisma (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/19-tooltip\">Persuasion</a>) check while holding the primer, you can expend 1 charge to give yourself a 1d4 bonus to the check, immediately after you roll the d20.</p>\n<p>In addition, if you study the primer at the end of a long rest, you can choose one 1st-level spell from the bard or cleric spell list. Before you finish your next long rest, you can cast the chosen spell once without a spell slot if you are holding the primer. Your spellcasting ability for this spell is your choice of Intelligence, Wisdom, or Charisma.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"StrixhavenPennant\"><a class=\"tooltip-hover magic-item-tooltip\" href=\"https://www.dndbeyond.com/magic-items/4239824-strixhaven-pennant\" data-tooltip-href=\"/magic-items/4239824-tooltip\">Strixhaven Pennant</a></h4>\n<p><em>Wondrous Item, Common</em></p>\n<p>This magic pennant bears the symbol of Strixhaven or one of its colleges: Lorehold, Prismari, Quandrix, Silverquill, or Witherbloom. While you wave the pennant, the symbol on it glitters, and the pennant sheds bright light in a 10-foot radius and dim light for an additional 10 feet.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"WitherbloomPrimer\"><a class=\"tooltip-hover magic-item-tooltip\" href=\"https://www.dndbeyond.com/magic-items/4239825-witherbloom-primer\" data-tooltip-href=\"/magic-items/4239825-tooltip\">Witherbloom Primer</a></h4>\n<p><em>Wondrous Item, Uncommon (Requires Attunement by a Spellcaster)</em></p>\n<p>The <a class=\"tooltip-hover magic-item-tooltip\" href=\"https://www.dndbeyond.com/magic-items/4239825-witherbloom-primer\" data-tooltip-href=\"/magic-items/4239825-tooltip\">Witherbloom Primer</a> is a magic textbook created at Strixhaven’s Witherbloom College. The primer has 3 charges, and it regains 1d3 expended charges daily at dawn. If you make an Intelligence (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/9-tooltip\">Nature</a>) or Wisdom (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/15-tooltip\">Survival</a>) check while holding the primer, you can expend 1 charge to give yourself a 1d4 bonus to the check, immediately after you roll the d20.</p>\n<p>In addition, if you study the primer at the end of a long rest, you can choose one 1st-level spell from the druid or wizard spell list. Before you finish your next long rest, you can cast the chosen spell once without a spell slot if you are holding the primer. Your spellcasting ability for this spell is your choice of Intelligence, Wisdom, or Charisma.</p>"
+}

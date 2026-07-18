@@ -1,91 +1,283 @@
 {
-  "sourcebook": "Eberron: Forge of the Artificer",
-  "edition": "2024 rules",
-  "generatedAt": "2026-07-10T13:12:14.997Z",
-  "chapters": [
+  "extractionVersion": 3,
+  "generatedAt": "2026-07-13T07:40:57.647Z",
+  "generationPolicy": "Timestamps advance when a source hash or extraction version changes.",
+  "books": [
     {
-      "slug": "forge-of-the-artificer",
-      "title": "Eberron: Forge of the Artificer",
-      "originalPath": "Eberron/Eberron- Forge of the Artificer.html",
-      "sourceHash": "d2274e7ee03ae352afd9970392b6411917a2cc5ebb855c010ce22b7785cf29b1",
-      "extractionDate": "2026-07-10T13:12:14.663Z"
+      "bookSlug": "eberron-forge-of-the-artificer",
+      "sourcebook": "Eberron: Forge of the Artificer",
+      "world": "Eberron",
+      "edition": "2024 rules",
+      "archiveSlug": "eberron",
+      "sourceFileCount": 14,
+      "chapters": [
+        {
+          "slug": "forge-of-the-artificer",
+          "chapterSlug": "forge-of-the-artificer",
+          "title": "Eberron: Forge of the Artificer",
+          "originalPath": "Eberron/Eberron- Forge of the Artificer.html",
+          "sourceHash": "d2274e7ee03ae352afd9970392b6411917a2cc5ebb855c010ce22b7785cf29b1",
+          "extractionDate": "2026-07-13T07:40:57.647Z"
+        },
+        {
+          "slug": "credits",
+          "chapterSlug": "credits",
+          "title": "Credits",
+          "originalPath": "Eberron/Credits.html",
+          "sourceHash": "c9c6e385bd2e20bba1d7f2ea52fae0060b71c75b2b185f9361267cdf3e01ca19",
+          "extractionDate": "2026-07-13T07:40:57.647Z"
+        },
+        {
+          "slug": "introduction",
+          "chapterSlug": "introduction",
+          "title": "Forge of the Artificer",
+          "originalPath": "Eberron/Chapter 1.html",
+          "sourceHash": "bf144699d9ef6005e1fcea55ca169d1888df6defb84cdf3cf5c92c58a9ebfbbd",
+          "extractionDate": "2026-07-13T07:40:57.647Z"
+        },
+        {
+          "slug": "the-artificer",
+          "chapterSlug": "the-artificer",
+          "title": "The Artificer",
+          "originalPath": "Eberron/Artificer.html",
+          "sourceHash": "31b0c8d91d275bf53b5762a96c45c5a577b353635ae35b66c3de5d888bb5c0c9",
+          "extractionDate": "2026-07-13T07:40:57.647Z"
+        },
+        {
+          "slug": "character-options",
+          "chapterSlug": "character-options",
+          "title": "Character Options",
+          "originalPath": "Eberron/Chapter 2.html",
+          "sourceHash": "f41a11c49481d0c4060ddd6989928f55a006d3316afba47cb2c7f911cbc49102",
+          "extractionDate": "2026-07-13T07:40:57.647Z"
+        },
+        {
+          "slug": "bastions-in-khorvaire",
+          "chapterSlug": "bastions-in-khorvaire",
+          "title": "Bastions in Khorvaire",
+          "originalPath": "Eberron/Chapter 3.html",
+          "sourceHash": "4a594b59b705fb8979674d9c408f77ceae10230adc882ead71f65310011b3d0c",
+          "extractionDate": "2026-07-13T07:40:57.647Z"
+        },
+        {
+          "slug": "eberron-gazetteer",
+          "chapterSlug": "eberron-gazetteer",
+          "title": "Sharn Inquisitives",
+          "originalPath": "Eberron/Chapter 4.html",
+          "sourceHash": "c30e780417b2a951b67f87b2455435977ae2c82861c1fd5d989342c54da0990d",
+          "extractionDate": "2026-07-13T07:40:57.647Z"
+        },
+        {
+          "slug": "dragonmarks",
+          "chapterSlug": "dragonmarks",
+          "title": "Dragonmarked Intrigue",
+          "originalPath": "Eberron/Chapter 5.html",
+          "sourceHash": "dc9bff734833091d726fef82221857155a50f5439b3795530c0f0834cc8c8d26",
+          "extractionDate": "2026-07-13T07:40:57.647Z"
+        },
+        {
+          "slug": "friends-and-foes",
+          "chapterSlug": "friends-and-foes",
+          "title": "Morgrave Expeditions",
+          "originalPath": "Eberron/Chapter 6.html",
+          "sourceHash": "6c9adb91282a523c9a745e26bee4b406f4dfda195496e546dcf172f3f71ecdf4",
+          "extractionDate": "2026-07-13T07:40:57.647Z"
+        },
+        {
+          "slug": "magic-items",
+          "chapterSlug": "magic-items",
+          "title": "Elemental Airships",
+          "originalPath": "Eberron/Chapter 7.html",
+          "sourceHash": "2ab9d5d95757083e4e5ac63d69df64683841bafd9950777a64f3c58314eb2c04",
+          "extractionDate": "2026-07-13T07:40:57.647Z"
+        },
+        {
+          "slug": "new-spells",
+          "chapterSlug": "new-spells",
+          "title": "Magic Items",
+          "originalPath": "Eberron/Chapter 8.html",
+          "sourceHash": "0a0fdf64a57d68e21cb243ca5181e0f085cf5b640614fd12382a06f5f9c900b8",
+          "extractionDate": "2026-07-13T07:40:57.647Z"
+        },
+        {
+          "slug": "art-of-eberron",
+          "chapterSlug": "art-of-eberron",
+          "title": "Appendix: Art of Eberron",
+          "originalPath": "Eberron/Appendix_Art.html",
+          "sourceHash": "214682989307321e9c812837dce4ebf742eb0fee12936352c7cbdcb835aed024",
+          "extractionDate": "2026-07-13T07:40:57.647Z"
+        }
+      ]
     },
     {
-      "slug": "credits",
-      "title": "Credits",
-      "originalPath": "Eberron/Credits.html",
-      "sourceHash": "c9c6e385bd2e20bba1d7f2ea52fae0060b71c75b2b185f9361267cdf3e01ca19",
-      "extractionDate": "2026-07-10T13:12:14.697Z"
-    },
-    {
-      "slug": "introduction",
-      "title": "Forge of the Artificer",
-      "originalPath": "Eberron/Chapter 1.html",
-      "sourceHash": "bf144699d9ef6005e1fcea55ca169d1888df6defb84cdf3cf5c92c58a9ebfbbd",
-      "extractionDate": "2026-07-10T13:12:14.709Z"
-    },
-    {
-      "slug": "the-artificer",
-      "title": "The Artificer",
-      "originalPath": "Eberron/Artificer.html",
-      "sourceHash": "31b0c8d91d275bf53b5762a96c45c5a577b353635ae35b66c3de5d888bb5c0c9",
-      "extractionDate": "2026-07-10T13:12:14.724Z"
-    },
-    {
-      "slug": "character-options",
-      "title": "Character Options",
-      "originalPath": "Eberron/Chapter 2.html",
-      "sourceHash": "f41a11c49481d0c4060ddd6989928f55a006d3316afba47cb2c7f911cbc49102",
-      "extractionDate": "2026-07-10T13:12:14.771Z"
-    },
-    {
-      "slug": "bastions-in-khorvaire",
-      "title": "Bastions in Khorvaire",
-      "originalPath": "Eberron/Chapter 3.html",
-      "sourceHash": "4a594b59b705fb8979674d9c408f77ceae10230adc882ead71f65310011b3d0c",
-      "extractionDate": "2026-07-10T13:12:14.847Z"
-    },
-    {
-      "slug": "eberron-gazetteer",
-      "title": "Sharn Inquisitives",
-      "originalPath": "Eberron/Chapter 4.html",
-      "sourceHash": "c30e780417b2a951b67f87b2455435977ae2c82861c1fd5d989342c54da0990d",
-      "extractionDate": "2026-07-10T13:12:14.867Z"
-    },
-    {
-      "slug": "dragonmarks",
-      "title": "Dragonmarked Intrigue",
-      "originalPath": "Eberron/Chapter 5.html",
-      "sourceHash": "dc9bff734833091d726fef82221857155a50f5439b3795530c0f0834cc8c8d26",
-      "extractionDate": "2026-07-10T13:12:14.894Z"
-    },
-    {
-      "slug": "friends-and-foes",
-      "title": "Morgrave Expeditions",
-      "originalPath": "Eberron/Chapter 6.html",
-      "sourceHash": "6c9adb91282a523c9a745e26bee4b406f4dfda195496e546dcf172f3f71ecdf4",
-      "extractionDate": "2026-07-10T13:12:14.938Z"
-    },
-    {
-      "slug": "magic-items",
-      "title": "Elemental Airships",
-      "originalPath": "Eberron/Chapter 7.html",
-      "sourceHash": "2ab9d5d95757083e4e5ac63d69df64683841bafd9950777a64f3c58314eb2c04",
-      "extractionDate": "2026-07-10T13:12:14.969Z"
-    },
-    {
-      "slug": "new-spells",
-      "title": "Magic Items",
-      "originalPath": "Eberron/Chapter 8.html",
-      "sourceHash": "0a0fdf64a57d68e21cb243ca5181e0f085cf5b640614fd12382a06f5f9c900b8",
-      "extractionDate": "2026-07-10T13:12:14.988Z"
-    },
-    {
-      "slug": "art-of-eberron",
-      "title": "Appendix: Art of Eberron",
-      "originalPath": "Eberron/Appendix_Art.html",
-      "sourceHash": "214682989307321e9c812837dce4ebf742eb0fee12936352c7cbdcb835aed024",
-      "extractionDate": "2026-07-10T13:12:14.997Z"
+      "bookSlug": "strixhaven-a-curriculum-of-chaos",
+      "sourcebook": "Strixhaven: A Curriculum of Chaos",
+      "world": "Arcavios",
+      "edition": "2014 rules",
+      "archiveSlug": "strixhaven",
+      "sourceFileCount": 20,
+      "chapters": [
+        {
+          "slug": "strixhaven-campus-map",
+          "chapterSlug": "campus-map",
+          "title": "Campus Map",
+          "originalPath": "Arcavios/Stixhaven/Campus Map.html",
+          "sourceHash": "5f5447f27bca8250d0117823e4dc76cef0891f998acf6587c75442e91f6e744f",
+          "extractionDate": "2026-07-13T07:40:57.647Z"
+        },
+        {
+          "slug": "strixhaven-welcome-to-strixhaven",
+          "chapterSlug": "welcome-to-strixhaven",
+          "title": "Welcome to Strixhaven",
+          "originalPath": "Arcavios/Stixhaven/Chapter 1 - Welcome to Strixhaven.html",
+          "sourceHash": "948d0f95f68cae4bbf64e393c47b91a3828bc29acf4f30c75e16b6ab88e21409",
+          "extractionDate": "2026-07-13T07:40:57.647Z"
+        },
+        {
+          "slug": "strixhaven-life-at-strixhaven",
+          "chapterSlug": "life-at-strixhaven",
+          "title": "Life at Strixhaven",
+          "originalPath": "Arcavios/Stixhaven/Chapter 2 - Life At Strixhaven.html",
+          "sourceHash": "be30994f1f4f3d54920d1de2697042890c2af6255b6eaebea742f71be8b34e5a",
+          "extractionDate": "2026-07-13T07:40:57.647Z"
+        },
+        {
+          "slug": "strixhaven-character-options",
+          "chapterSlug": "character-options",
+          "title": "Character Options",
+          "originalPath": "Arcavios/Stixhaven/Chapter 3 - Character Options.html",
+          "sourceHash": "f8c11ba15586ff3ddc066deb647da87d3869dc7b91dede8ac0ff8440f231c0de",
+          "extractionDate": "2026-07-13T07:40:57.647Z"
+        },
+        {
+          "slug": "strixhaven-school-is-in-session",
+          "chapterSlug": "school-is-in-session",
+          "title": "School Is in Session",
+          "originalPath": "Arcavios/Stixhaven/Chapter 4 - School Is In Session",
+          "sourceHash": "d9445a55e408574b1f5b29121420c0011b01d85cb0bac2f4980b42ad4a133505",
+          "extractionDate": "2026-07-13T07:40:57.647Z"
+        },
+        {
+          "slug": "strixhaven-relationships",
+          "chapterSlug": "relationships",
+          "title": "Relationships",
+          "originalPath": "Arcavios/Stixhaven/Chapter 5 - Relationships.html",
+          "sourceHash": "c49f77c2942e32103fb1a434fc61eccfefba4f094cd520079fde2d28b9670e99",
+          "extractionDate": "2026-07-13T07:40:57.647Z"
+        },
+        {
+          "slug": "strixhaven-campus-kerfuffle",
+          "chapterSlug": "campus-kerfuffle",
+          "title": "Campus Kerfuffle",
+          "originalPath": "Arcavios/Stixhaven/Chapter 6 - Campus Kerfuffle",
+          "sourceHash": "08272802c6d845d0307154108da20c5b71bb11d86ed0939f9ff74fa8dc325c8f",
+          "extractionDate": "2026-07-13T07:40:57.647Z"
+        },
+        {
+          "slug": "strixhaven-work-hard-play-harder",
+          "chapterSlug": "work-hard-play-harder",
+          "title": "Work Hard, Play Harder",
+          "originalPath": "Arcavios/Stixhaven/Chapter 7 - Work Hard, Play Harder.html",
+          "sourceHash": "b354ca395eb2a1703ac8bb679d3457aa08e84e179afae367bb4398e9ff588a52",
+          "extractionDate": "2026-07-13T07:40:57.647Z"
+        },
+        {
+          "slug": "strixhaven-all-the-worlds-a-stage",
+          "chapterSlug": "all-the-worlds-a-stage",
+          "title": "All the World’s a Stage",
+          "originalPath": "Arcavios/Stixhaven/Chapter 8 - All The World's A Stage.html",
+          "sourceHash": "12ddb426c47133ff4947f02725ab1ca63b1101d9457a8c9bea4ede0dbdda61b9",
+          "extractionDate": "2026-07-13T07:40:57.647Z"
+        },
+        {
+          "slug": "strixhaven-hunt-for-mage-tower",
+          "chapterSlug": "hunt-for-mage-tower",
+          "title": "Hunt for Mage Tower",
+          "originalPath": "Arcavios/Stixhaven/Chapter 9 - Hunt For Mage Tower.html",
+          "sourceHash": "d7d79a9ead9a7069e75262a1038b8b034c337eb262b3d9f34d241eb5d2ebe1ae",
+          "extractionDate": "2026-07-13T07:40:57.647Z"
+        },
+        {
+          "slug": "strixhaven-party-at-the-rose-stage",
+          "chapterSlug": "party-at-the-rose-stage",
+          "title": "Party at the Rose Stage",
+          "originalPath": "Arcavios/Stixhaven/Chapter 10 - Party at the Rose Stage.html",
+          "sourceHash": "482d2333093153bb2b68cce7be4eee520515e10bd5a8b9625443aab29c48f03b",
+          "extractionDate": "2026-07-13T07:40:57.647Z"
+        },
+        {
+          "slug": "strixhaven-dangerous-knowledge",
+          "chapterSlug": "dangerous-knowledge",
+          "title": "Dangerous Knowledge",
+          "originalPath": "Arcavios/Stixhaven/Chapter 11 - Dangerous Knowledge.html",
+          "sourceHash": "5dae60f0aebb6ccb88da2c7d2c6c28e5f8eeb7f0bb7208e9112c71d3ab2eb496",
+          "extractionDate": "2026-07-13T07:40:57.647Z"
+        },
+        {
+          "slug": "strixhaven-the-magisters-masquerade",
+          "chapterSlug": "the-magisters-masquerade",
+          "title": "The Magister’s Masquerade",
+          "originalPath": "Arcavios/Stixhaven/Chapter 12 - The Magister's Masquerade.html",
+          "sourceHash": "f01acc3cc19e876d5a9a9d78c391de7a3b20abd39175f1582cab8392744ead4a",
+          "extractionDate": "2026-07-13T07:40:57.647Z"
+        },
+        {
+          "slug": "strixhaven-dressing-for-success",
+          "chapterSlug": "dressing-for-success",
+          "title": "Dressing for Success",
+          "originalPath": "Arcavios/Stixhaven/Chapter 13 - Dressing For Success.html",
+          "sourceHash": "9b17b561865e7b0438c78e02b6a4e8ef93f74a941d5cc4c1a2d960009d3b6375",
+          "extractionDate": "2026-07-13T07:40:57.647Z"
+        },
+        {
+          "slug": "strixhaven-a-starlit-night",
+          "chapterSlug": "a-starlit-night",
+          "title": "A Starlit Night",
+          "originalPath": "Arcavios/Stixhaven/Chapter 14 - A Starlit Night.html",
+          "sourceHash": "b96105abd1631dd00973ad6854ff9fb135e17165d23f96ab64861596770f39c2",
+          "extractionDate": "2026-07-13T07:40:57.647Z"
+        },
+        {
+          "slug": "strixhaven-a-reckoning-in-ruins",
+          "chapterSlug": "a-reckoning-in-ruins",
+          "title": "A Reckoning in Ruins",
+          "originalPath": "Arcavios/Stixhaven/Chapter 15 - A Reckoning In Ruin.html",
+          "sourceHash": "62b5d807b111dbbbfbd771ed7a42f07512f35a3d31baf22cc5d70da1da2f1dc9",
+          "extractionDate": "2026-07-13T07:40:57.647Z"
+        },
+        {
+          "slug": "strixhaven-no-time-to-lose",
+          "chapterSlug": "no-time-to-lose",
+          "title": "No Time to Lose",
+          "originalPath": "Arcavios/Stixhaven/Chapter 16 - No Time To Lose.html",
+          "sourceHash": "ceea8a7d63b8cbe02c9ad0dfa0bffeb1694daa8698ea16b4d5a539bb60e75522",
+          "extractionDate": "2026-07-13T07:40:57.647Z"
+        },
+        {
+          "slug": "strixhaven-confronting-murgaxor",
+          "chapterSlug": "confronting-murgaxor",
+          "title": "Confronting Murgaxor",
+          "originalPath": "Arcavios/Stixhaven/Chapter 17 - Confronting Murgaxor.html",
+          "sourceHash": "0e255d0bf341130ace26e8bd20ae4a5f550411f4bb0b386f762461e9a7be0edc",
+          "extractionDate": "2026-07-13T07:40:57.647Z"
+        },
+        {
+          "slug": "strixhaven-friends-and-foes",
+          "chapterSlug": "friends-and-foes",
+          "title": "Friends and Foes",
+          "originalPath": "Arcavios/Stixhaven/Chapter 18 - Friends And Foes.html",
+          "sourceHash": "b761c697a77608e4af49b6b912bb5dc0de9bcd797a4a8b820cbbbc55809d6af8",
+          "extractionDate": "2026-07-13T07:40:57.647Z"
+        },
+        {
+          "slug": "strixhaven-credits",
+          "chapterSlug": "credits",
+          "title": "Credits",
+          "originalPath": "Arcavios/Stixhaven/Credits.html",
+          "sourceHash": "0892743d06b0cf8e55da03b3ddf38a25e1ceb75ae7cf9fd0e1f011db6a77faa0",
+          "extractionDate": "2026-07-13T07:40:57.647Z"
+        }
+      ]
     }
   ]
 }

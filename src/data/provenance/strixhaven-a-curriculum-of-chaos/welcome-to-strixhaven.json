@@ -1,0 +1,98 @@
+{
+  "title": "Welcome to Strixhaven",
+  "sourcebook": "Strixhaven: A Curriculum of Chaos",
+  "bookSlug": "strixhaven-a-curriculum-of-chaos",
+  "originalPath": "Arcavios/Stixhaven/Chapter 1 - Welcome to Strixhaven.html",
+  "rawUrl": "/archive/strixhaven/Chapter%201%20-%20Welcome%20to%20Strixhaven.html",
+  "sourceHash": "948d0f95f68cae4bbf64e393c47b91a3828bc29acf4f30c75e16b6ab88e21409",
+  "extractionDate": "2026-07-13T07:40:57.647Z",
+  "extractionVersion": 3,
+  "originalAnchors": [
+    {
+      "id": "WelcometoStrixhaven",
+      "text": "Welcome to Strixhaven",
+      "element": "h1"
+    },
+    {
+      "id": "comp-next-nav",
+      "text": "",
+      "element": "div"
+    },
+    {
+      "id": "imgsplash",
+      "text": "",
+      "element": "figure"
+    },
+    {
+      "id": "CollegesofStrixhavenTable",
+      "text": "Colleges of Strixhaven College Description Lorehold Explores the past and preserves its lessons for future generations. Also called the College of Archaeomancy.",
+      "element": "table"
+    },
+    {
+      "id": "AboutThisBook",
+      "text": "About This Book",
+      "element": "h2"
+    },
+    {
+      "id": "Orientation",
+      "text": "Orientation",
+      "element": "h2"
+    },
+    {
+      "id": "StrixhavenIsaUniversity",
+      "text": "Strixhaven Is a University",
+      "element": "h3"
+    },
+    {
+      "id": "ItsanAcademyofMages",
+      "text": "It’s an Academy of Mages",
+      "element": "h3"
+    },
+    {
+      "id": "ItsCosmopolitan",
+      "text": "It’s Cosmopolitan",
+      "element": "h3"
+    },
+    {
+      "id": "StrixhavensWorld",
+      "text": "Strixhaven’s World",
+      "element": "h2"
+    },
+    {
+      "id": "SnarlsandStarArches",
+      "text": "Snarls and Star Arches",
+      "element": "h3"
+    },
+    {
+      "id": "FounderDragons",
+      "text": "Founder Dragons",
+      "element": "h3"
+    },
+    {
+      "id": "FounderDragonsTable",
+      "text": "Founder Dragons College Founder Lorehold Velomachus Lorehold Prismari Galazeth Prismari Quandrix Tanazir Quandrix Silverquill Shadrix Silverquill Witherbloom Be",
+      "element": "table"
+    },
+    {
+      "id": "ArchaicsandtheOracle",
+      "text": "Archaics and the Oracle",
+      "element": "h3"
+    },
+    {
+      "id": "imguniversity",
+      "text": "Strixhaven University, with the (Center) Biblioplex Surrounded by (Top) Silverquilland (Going Clockwise) Quandrix, Witherbloom, Prismari, and Lorehold",
+      "element": "figure"
+    }
+  ],
+  "transformations": [
+    "Selected the first .p-article-content element.",
+    "Removed scripts, styles, forms, iframes, hidden duplicate labels, and source navigation.",
+    "Removed event handlers and D&D Beyond content-chunk identifiers.",
+    "Rewrote archived sourcebook links to generated reader routes when a local target exists.",
+    "Added lazy image loading and asynchronous decoding hints.",
+    "Added derived IDs to read-aloud, rules, table, and stat-block elements for session navigation.",
+    "Indexed player-version map links as derived session metadata.",
+    "Preserved source wording and original heading IDs; derived metadata remains separate."
+  ],
+  "repairs": []
+}

@@ -1,0 +1,798 @@
+{
+  "title": "Dangerous Knowledge",
+  "sourcebook": "Strixhaven: A Curriculum of Chaos",
+  "bookSlug": "strixhaven-a-curriculum-of-chaos",
+  "world": "Arcavios",
+  "edition": "2014 rules",
+  "chapter": "Dangerous Knowledge",
+  "chapterNumber": 4,
+  "order": 11,
+  "navGroup": "Year Two",
+  "kind": "adventure",
+  "audience": "gm",
+  "slug": "strixhaven-dangerous-knowledge",
+  "chapterSlug": "dangerous-knowledge",
+  "summary": "When the characters are ready to search for the tome Professor Blackstone needs—or if they’re eager to investigate the strange occurrences they’ve experienced recently—they can head to the Scriptoria Collections.",
+  "wordCount": 3451,
+  "originalPath": "Arcavios/Stixhaven/Chapter 11 - Dangerous Knowledge.html",
+  "rawUrl": "/archive/strixhaven/Chapter%2011%20-%20Dangerous%20Knowledge.html",
+  "originalAnchors": [
+    {
+      "id": "DangerousKnowledge",
+      "text": "Dangerous Knowledge",
+      "element": "h1"
+    },
+    {
+      "id": "comp-next-nav",
+      "text": "",
+      "element": "div"
+    },
+    {
+      "id": "imgprecision",
+      "text": "Precision is key. Saying “books on mage hunters” isn’t the same as saying “books about mage hunters”",
+      "element": "figure"
+    },
+    {
+      "id": "ScriptoriaCollections",
+      "text": "Scriptoria Collections",
+      "element": "h2"
+    },
+    {
+      "id": "ScriptoriaCollectionsFeatures",
+      "text": "Scriptoria Collections Features",
+      "element": "h3"
+    },
+    {
+      "id": "Map43scriptoriacollections",
+      "text": "Map 4.3: scriptoria collections View Player Version",
+      "element": "figure"
+    },
+    {
+      "id": "SeekingtheProfessorsTome",
+      "text": "Seeking the Professor’s Tome",
+      "element": "h3"
+    },
+    {
+      "id": "MageHunters",
+      "text": "Mage Hunters",
+      "element": "h4"
+    },
+    {
+      "id": "QuenthornesHistory",
+      "text": "Quenthorne’s History",
+      "element": "h4"
+    },
+    {
+      "id": "IsThatAstrolabeBreathing",
+      "text": "Is That Astrolabe Breathing?",
+      "element": "h3"
+    },
+    {
+      "id": "ExaminingtheScene1",
+      "text": "Examining the Scene",
+      "element": "h4"
+    },
+    {
+      "id": "DeliveringtheProfessorsTome",
+      "text": "Delivering the Professor’s Tome",
+      "element": "h3"
+    },
+    {
+      "id": "ScriveningandSymbologyExamAugury",
+      "text": "Scrivening and Symbology Exam: Augury",
+      "element": "h2"
+    },
+    {
+      "id": "StudyingPhase2",
+      "text": "Studying Phase",
+      "element": "h3"
+    },
+    {
+      "id": "TestingPhase2",
+      "text": "Testing Phase",
+      "element": "h3"
+    },
+    {
+      "id": "TellUsInSong",
+      "text": "Tell Us In Song!",
+      "element": "h2"
+    },
+    {
+      "id": "imgsong",
+      "text": "Some students live for performing and burst into song",
+      "element": "figure"
+    },
+    {
+      "id": "TheOpposingTeam",
+      "text": "The Opposing Team",
+      "element": "h3"
+    },
+    {
+      "id": "ItsaSingoff",
+      "text": "It’s a Sing-off!",
+      "element": "h3"
+    },
+    {
+      "id": "TheSingOff",
+      "text": "The Sing-Off",
+      "element": "h4"
+    },
+    {
+      "id": "DeterminingtheWinner",
+      "text": "Determining the Winner",
+      "element": "h4"
+    },
+    {
+      "id": "TheCrowdScatters",
+      "text": "The Crowd Scatters",
+      "element": "h4"
+    },
+    {
+      "id": "RelationshipEncounter2",
+      "text": "Relationship Encounter",
+      "element": "h4"
+    },
+    {
+      "id": "BattleofStrixhaven",
+      "text": "Battle of Strixhaven",
+      "element": "h2"
+    },
+    {
+      "id": "StrixhavenStadiumLocations",
+      "text": "Strixhaven Stadium Locations",
+      "element": "h3"
+    },
+    {
+      "id": "Map44strixhavenstadium",
+      "text": "Map 4.4: strixhaven stadium View Player Version",
+      "element": "figure"
+    },
+    {
+      "id": "X1StrixhavenField",
+      "text": "X1. Strixhaven Field",
+      "element": "h4"
+    },
+    {
+      "id": "X2LockerRoom",
+      "text": "X2. Locker Room",
+      "element": "h4"
+    },
+    {
+      "id": "BeforetheBattle",
+      "text": "Before the Battle",
+      "element": "h3"
+    },
+    {
+      "id": "TheBattleBegins",
+      "text": "The Battle Begins",
+      "element": "h3"
+    },
+    {
+      "id": "ResolvingtheBattle",
+      "text": "Resolving the Battle",
+      "element": "h3"
+    },
+    {
+      "id": "battleofstrixhaven",
+      "text": "The Battle of Strixhaven is among the most storied events on campus.Games are often talked about for years after they’re played",
+      "element": "figure"
+    },
+    {
+      "id": "Phase1",
+      "text": "Phase 1",
+      "element": "h4"
+    },
+    {
+      "id": "Phase2",
+      "text": "Phase 2",
+      "element": "h4"
+    },
+    {
+      "id": "Phase3",
+      "text": "Phase 3",
+      "element": "h4"
+    },
+    {
+      "id": "UsingMagic",
+      "text": "Using Magic",
+      "element": "h4"
+    },
+    {
+      "id": "DecidingtheWinner",
+      "text": "Deciding the Winner",
+      "element": "h4"
+    },
+    {
+      "id": "ReturningtotheLockerRoom",
+      "text": "Returning to the Locker Room",
+      "element": "h3"
+    },
+    {
+      "id": "ExaminingtheMageHunters",
+      "text": "Examining the Mage Hunters",
+      "element": "h4"
+    },
+    {
+      "id": "EndoftheYear",
+      "text": "End of the Year",
+      "element": "h3"
+    },
+    {
+      "id": "Advanceto6thLevel",
+      "text": "Advance to 6th Level!",
+      "element": "h2"
+    }
+  ],
+  "sourceHash": "5dae60f0aebb6ccb88da2c7d2c6c28e5f8eeb7f0bb7208e9112c71d3ab2eb496",
+  "extractionDate": "2026-07-13T07:40:57.647Z",
+  "extractionVersion": 3,
+  "headings": [
+    {
+      "depth": 1,
+      "id": "DangerousKnowledge",
+      "text": "Dangerous Knowledge"
+    },
+    {
+      "depth": 2,
+      "id": "ScriptoriaCollections",
+      "text": "Scriptoria Collections"
+    },
+    {
+      "depth": 3,
+      "id": "ScriptoriaCollectionsFeatures",
+      "text": "Scriptoria Collections Features"
+    },
+    {
+      "depth": 3,
+      "id": "SeekingtheProfessorsTome",
+      "text": "Seeking the Professor’s Tome"
+    },
+    {
+      "depth": 4,
+      "id": "MageHunters",
+      "text": "Mage Hunters"
+    },
+    {
+      "depth": 4,
+      "id": "QuenthornesHistory",
+      "text": "Quenthorne’s History"
+    },
+    {
+      "depth": 3,
+      "id": "IsThatAstrolabeBreathing",
+      "text": "Is That Astrolabe Breathing?"
+    },
+    {
+      "depth": 4,
+      "id": "ExaminingtheScene1",
+      "text": "Examining the Scene"
+    },
+    {
+      "depth": 3,
+      "id": "DeliveringtheProfessorsTome",
+      "text": "Delivering the Professor’s Tome"
+    },
+    {
+      "depth": 2,
+      "id": "ScriveningandSymbologyExamAugury",
+      "text": "Scrivening and Symbology Exam: Augury"
+    },
+    {
+      "depth": 3,
+      "id": "StudyingPhase2",
+      "text": "Studying Phase"
+    },
+    {
+      "depth": 3,
+      "id": "TestingPhase2",
+      "text": "Testing Phase"
+    },
+    {
+      "depth": 2,
+      "id": "TellUsInSong",
+      "text": "Tell Us In Song!"
+    },
+    {
+      "depth": 3,
+      "id": "TheOpposingTeam",
+      "text": "The Opposing Team"
+    },
+    {
+      "depth": 3,
+      "id": "ItsaSingoff",
+      "text": "It’s a Sing-off!"
+    },
+    {
+      "depth": 4,
+      "id": "TheSingOff",
+      "text": "The Sing-Off"
+    },
+    {
+      "depth": 4,
+      "id": "DeterminingtheWinner",
+      "text": "Determining the Winner"
+    },
+    {
+      "depth": 4,
+      "id": "TheCrowdScatters",
+      "text": "The Crowd Scatters"
+    },
+    {
+      "depth": 4,
+      "id": "RelationshipEncounter2",
+      "text": "Relationship Encounter"
+    },
+    {
+      "depth": 2,
+      "id": "BattleofStrixhaven",
+      "text": "Battle of Strixhaven"
+    },
+    {
+      "depth": 3,
+      "id": "StrixhavenStadiumLocations",
+      "text": "Strixhaven Stadium Locations"
+    },
+    {
+      "depth": 4,
+      "id": "X1StrixhavenField",
+      "text": "X1. Strixhaven Field"
+    },
+    {
+      "depth": 4,
+      "id": "X2LockerRoom",
+      "text": "X2. Locker Room"
+    },
+    {
+      "depth": 3,
+      "id": "BeforetheBattle",
+      "text": "Before the Battle"
+    },
+    {
+      "depth": 3,
+      "id": "TheBattleBegins",
+      "text": "The Battle Begins"
+    },
+    {
+      "depth": 3,
+      "id": "ResolvingtheBattle",
+      "text": "Resolving the Battle"
+    },
+    {
+      "depth": 4,
+      "id": "Phase1",
+      "text": "Phase 1"
+    },
+    {
+      "depth": 4,
+      "id": "Phase2",
+      "text": "Phase 2"
+    },
+    {
+      "depth": 4,
+      "id": "Phase3",
+      "text": "Phase 3"
+    },
+    {
+      "depth": 4,
+      "id": "UsingMagic",
+      "text": "Using Magic"
+    },
+    {
+      "depth": 4,
+      "id": "DecidingtheWinner",
+      "text": "Deciding the Winner"
+    },
+    {
+      "depth": 3,
+      "id": "ReturningtotheLockerRoom",
+      "text": "Returning to the Locker Room"
+    },
+    {
+      "depth": 4,
+      "id": "ExaminingtheMageHunters",
+      "text": "Examining the Mage Hunters"
+    },
+    {
+      "depth": 3,
+      "id": "EndoftheYear",
+      "text": "End of the Year"
+    },
+    {
+      "depth": 2,
+      "id": "Advanceto6thLevel",
+      "text": "Advance to 6th Level!"
+    }
+  ],
+  "tags": {
+    "creatures": [
+      "art elemental",
+      "fractal",
+      "grick alpha",
+      "inkling",
+      "mage hunters",
+      "pest",
+      "spirit statue"
+    ],
+    "spells": [
+      "arcane lock",
+      "augury"
+    ],
+    "items": [
+      "potions of invisibility"
+    ],
+    "locations": [
+      "Biblioplex",
+      "Locker Room",
+      "Lorehold",
+      "Prismari",
+      "Quandrix",
+      "Rose Stage",
+      "Scriptoria Collections",
+      "Silverquill",
+      "Strixhaven",
+      "Strixhaven Field",
+      "Strixhaven Stadium",
+      "Wiltroot Hall",
+      "Witherbloom"
+    ],
+    "npcs": [],
+    "topics": [
+      "adventure",
+      "campus-life",
+      "exams",
+      "gm-tools",
+      "read-aloud",
+      "relationships"
+    ]
+  },
+  "session": {
+    "readAloud": [
+      {
+        "id": "session-read-aloud-1",
+        "label": "Read aloud 1",
+        "excerpt": "As you make your way down the winding staircase, the passage’s gloom gives way to a warm light. The room before you is spacious and comfortable, with gleaming bookcases, wide tabl…"
+      },
+      {
+        "id": "session-read-aloud-2",
+        "label": "Read aloud 2",
+        "excerpt": "A groan echoes throughout the quiet room, like metal grinding upon metal. You spot movement from the largest astrolabe along the north wall, as the device’s overlapping copper rin…"
+      },
+      {
+        "id": "session-read-aloud-3",
+        "label": "Read aloud 3",
+        "excerpt": "You hear enthusiastic chanting and clapping. In the library’s main area, students ring the eastern group of tables. Standing on them are familiar faces, who look like they’re abou…"
+      },
+      {
+        "id": "session-read-aloud-4",
+        "label": "Read aloud 4",
+        "excerpt": "“That’s the other Mage Tower team! They’re trying to steal your fans!”"
+      },
+      {
+        "id": "session-read-aloud-5",
+        "label": "Read aloud 5",
+        "excerpt": "“Oh, look, everyone—if it isn’t the big kids on campus. They think they’re going to wipe the floor with us at the Battle of Strixhaven, don’t they? Well, we’ve got something to sa…"
+      },
+      {
+        "id": "session-read-aloud-6",
+        "label": "Read aloud 6",
+        "excerpt": "The last day of the term has finally arrived, and it’s time for you to crush your opponents at Mage Tower or face ignominious defeat. You’ve prepared all year for this—the Battle …"
+      },
+      {
+        "id": "session-read-aloud-7",
+        "label": "Read aloud 7",
+        "excerpt": "Strixhaven Stadium is enormous. The circular, bright-green field is covered with small hills, and forty-foot towers rise up at either end of the field. The surrounding bleachers s…"
+      },
+      {
+        "id": "session-read-aloud-8",
+        "label": "Read aloud 8",
+        "excerpt": "“Students and teachers. Staff and friends. Welcome to the Battle of Strixhaven! Today, two teams of Strixhaven’s finest will battle for the right to call themselves champions. The…"
+      }
+    ],
+    "rules": [],
+    "tables": [],
+    "statBlocks": [],
+    "maps": [
+      {
+        "id": "session-player-map-1",
+        "label": "Map 4.3: scriptoria collections",
+        "dmUrl": "https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/map-4.3-scriptoria-collections.jpg",
+        "playerUrl": "https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/map-4.3-scriptoria-collections-player.jpg"
+      },
+      {
+        "id": "session-player-map-2",
+        "label": "Map 4.4: strixhaven stadium",
+        "dmUrl": "https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/map-4.4-strixhaven-stadium.jpg",
+        "playerUrl": "https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/map-4.4-strixhaven-stadium-player.jpg"
+      }
+    ],
+    "quickLinks": [
+      {
+        "depth": 2,
+        "id": "ScriptoriaCollections",
+        "text": "Scriptoria Collections",
+        "type": "scene"
+      },
+      {
+        "depth": 3,
+        "id": "ScriptoriaCollectionsFeatures",
+        "text": "Scriptoria Collections Features",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "SeekingtheProfessorsTome",
+        "text": "Seeking the Professor’s Tome",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "MageHunters",
+        "text": "Mage Hunters",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "QuenthornesHistory",
+        "text": "Quenthorne’s History",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "IsThatAstrolabeBreathing",
+        "text": "Is That Astrolabe Breathing?",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "ExaminingtheScene1",
+        "text": "Examining the Scene",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "DeliveringtheProfessorsTome",
+        "text": "Delivering the Professor’s Tome",
+        "type": "reference"
+      },
+      {
+        "depth": 2,
+        "id": "ScriveningandSymbologyExamAugury",
+        "text": "Scrivening and Symbology Exam: Augury",
+        "type": "exam"
+      },
+      {
+        "depth": 3,
+        "id": "StudyingPhase2",
+        "text": "Studying Phase",
+        "type": "exam"
+      },
+      {
+        "depth": 3,
+        "id": "TestingPhase2",
+        "text": "Testing Phase",
+        "type": "exam"
+      },
+      {
+        "depth": 2,
+        "id": "TellUsInSong",
+        "text": "Tell Us In Song!",
+        "type": "scene"
+      },
+      {
+        "depth": 3,
+        "id": "TheOpposingTeam",
+        "text": "The Opposing Team",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "ItsaSingoff",
+        "text": "It’s a Sing-off!",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "TheSingOff",
+        "text": "The Sing-Off",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "DeterminingtheWinner",
+        "text": "Determining the Winner",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "TheCrowdScatters",
+        "text": "The Crowd Scatters",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "RelationshipEncounter2",
+        "text": "Relationship Encounter",
+        "type": "relationship"
+      },
+      {
+        "depth": 2,
+        "id": "BattleofStrixhaven",
+        "text": "Battle of Strixhaven",
+        "type": "encounter"
+      },
+      {
+        "depth": 3,
+        "id": "StrixhavenStadiumLocations",
+        "text": "Strixhaven Stadium Locations",
+        "type": "location"
+      },
+      {
+        "depth": 4,
+        "id": "X1StrixhavenField",
+        "text": "X1. Strixhaven Field",
+        "type": "location"
+      },
+      {
+        "depth": 4,
+        "id": "X2LockerRoom",
+        "text": "X2. Locker Room",
+        "type": "location"
+      },
+      {
+        "depth": 3,
+        "id": "BeforetheBattle",
+        "text": "Before the Battle",
+        "type": "encounter"
+      },
+      {
+        "depth": 3,
+        "id": "TheBattleBegins",
+        "text": "The Battle Begins",
+        "type": "encounter"
+      },
+      {
+        "depth": 3,
+        "id": "ResolvingtheBattle",
+        "text": "Resolving the Battle",
+        "type": "encounter"
+      },
+      {
+        "depth": 4,
+        "id": "Phase1",
+        "text": "Phase 1",
+        "type": "encounter"
+      },
+      {
+        "depth": 4,
+        "id": "Phase2",
+        "text": "Phase 2",
+        "type": "encounter"
+      },
+      {
+        "depth": 4,
+        "id": "Phase3",
+        "text": "Phase 3",
+        "type": "encounter"
+      },
+      {
+        "depth": 4,
+        "id": "UsingMagic",
+        "text": "Using Magic",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "DecidingtheWinner",
+        "text": "Deciding the Winner",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "ReturningtotheLockerRoom",
+        "text": "Returning to the Locker Room",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "ExaminingtheMageHunters",
+        "text": "Examining the Mage Hunters",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "EndoftheYear",
+        "text": "End of the Year",
+        "type": "reference"
+      },
+      {
+        "depth": 2,
+        "id": "Advanceto6thLevel",
+        "text": "Advance to 6th Level!",
+        "type": "scene"
+      }
+    ]
+  },
+  "anomalyFlags": [
+    {
+      "type": "reader-address",
+      "passage": "If the characters ask the librarians or anyone else about strange chitinous creatures (if you’re running this as a standalone) or the magical signature they’ve found all over campus (if you’re running this as a campaign), no one knows anything about either subject.",
+      "location": "Dangerous Knowledge",
+      "anchor": "DangerousKnowledge",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "As you make your way down the winding staircase, the passage’s gloom gives way to a warm light.",
+      "location": "Scriptoria Collections",
+      "anchor": "ScriptoriaCollections",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "The room before you is spacious and comfortable, with gleaming bookcases, wide tables, luxurious chairs, an inviting lounge, and a hearth.",
+      "location": "Scriptoria Collections",
+      "anchor": "ScriptoriaCollections",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "You spot movement from the largest astrolabe along the north wall, as the device’s overlapping copper rings become lashing, barbed tentacles!",
+      "location": "Is That Astrolabe Breathing?",
+      "anchor": "IsThatAstrolabeBreathing",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "“Oh, the time you’ve saved me!",
+      "location": "Delivering the Professor’s Tome",
+      "anchor": "DeliveringtheProfessorsTome",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "“Thank you, students.",
+      "location": "Delivering the Professor’s Tome",
+      "anchor": "DeliveringtheProfessorsTome",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "I won’t forget this—as promised, extra credit on the next exam is yours!",
+      "location": "Delivering the Professor’s Tome",
+      "anchor": "DeliveringtheProfessorsTome",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "Once you’ve asked each player how their character is approaching the Studying phase, resolve that phase by having each character who studies make a DC 17 ability check.",
+      "location": "Studying Phase",
+      "anchor": "StudyingPhase2",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "Another student is part of this scene—ideally a student the characters have interacted with, or you may choose another student from the “Fellow Students” section in chapter 3.",
+      "location": "Tell Us In Song!",
+      "anchor": "TellUsInSong",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "You hear enthusiastic chanting and clapping.",
+      "location": "Tell Us In Song!",
+      "anchor": "TellUsInSong",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    }
+  ],
+  "contentHtml": "<h1 class=\"compendium-hr\" id=\"DangerousKnowledge\">Dangerous Knowledge</h1>\n\n<p>When the characters are ready to search for the tome Professor Blackstone needs—or if they’re eager to investigate the strange occurrences they’ve experienced recently—they can head to the Scriptoria Collections.</p>\n<p>The Scriptoria Collections lie below the main level of the Biblioplex. The reference librarian (<a href=\"/chapters/strixhaven-campus-kerfuffle/#B4InformationDesk\" title=\"area B4\">area B4</a> on <a href=\"/chapters/strixhaven-campus-kerfuffle/#Map31thebiblioplex\" title=\"map 3.1\">map 3.1</a> in <a href=\"/chapters/strixhaven-campus-kerfuffle/\" title=\"chapter 3\">chapter 3</a>) can point them in the right direction, as can a faculty member or student.</p>\n<p>Characters can ask anyone in the Biblioplex, including the librarians, about the title Professor Blackstone mentioned—<em>Weale or Woe: An Interpretive Sketch</em>. The librarians confirm that the book is located in the Scriptoria Collections, but they’re unsure exactly how it was cataloged, so the characters need to track it down. If the characters ask the librarians or anyone else about strange chitinous creatures (if you’re running this as a standalone) or the magical signature they’ve found all over campus (if you’re running this as a campaign), no one knows anything about either subject.</p>\n<figure class=\"compendium-image\" id=\"imgprecision\">\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/04-010.precision.png\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/04-010.precision.png\" class=\"ddb-lightbox-inner compendium-center-banner-img\" style=\"width: 850px;\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a>\n<figcaption>Precision is key. Saying “books on mage hunters” isn’t the same as saying “books about mage hunters”</figcaption>\n</figure>\n<h2 class=\"compendium-hr heading-anchor\" id=\"ScriptoriaCollections\">Scriptoria Collections</h2>\n<p>When the characters head down the stairs to the Scriptoria Collections, read or paraphrase the following:</p>\n<aside class=\"read-aloud-text\" id=\"session-read-aloud-1\">\n<p>As you make your way down the winding staircase, the passage’s gloom gives way to a warm light. The room before you is spacious and comfortable, with gleaming bookcases, wide tables, luxurious chairs, an inviting lounge, and a hearth. Oil paintings of breathtaking landscapes and heroic spellcasters line the walls, and antique spherical astrolabes are proudly displayed along the northern wall.</p>\n</aside>\n<p>This spacious room below the main floor of the Biblioplex was built two centuries ago, long after the construction of the main library. The great elven scholar and Strixhaven alumnus Arick Quenthorne donated the collection’s initial materials. He went on to become a powerful director at Strixhaven.</p>\n<p>Director Quenthorne was a leading occult scholar who specialized in studying the esoteric power inherent in physical objects, especially written words and symbols. Later in his career, Quenthorne shifted his interest to the evolution of magical creatures, especially those associated with spellcasters, so the records contain a dazzling assortment of information.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"ScriptoriaCollectionsFeatures\">Scriptoria Collections Features</h3>\n<p>The room has the following features:</p>\n<figure id=\"Map43scriptoriacollections\" class=\"compendium-image\">\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/map-4.3-scriptoria-collections.jpg\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/map-4.3-scriptoria-collections.jpg\" class=\"ddb-lightbox-inner compendium-center-banner-img\" style=\"width: 850px;\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a>\n<figcaption>Map 4.3: scriptoria collections <a class=\"ddb-lightbox-outer\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/map-4.3-scriptoria-collections-player.jpg\" data-lightbox=\"1\" data-title=\"View Player Version\" id=\"session-player-map-1\">View Player Version</a></figcaption>\n</figure>\n<p><strong>Astrolabes.</strong> These spherical copper devices were a gift to Director Quenthorne from a society of diviners. Most are situated along the northern wall in the middle and to the west, near the hearth. Magically enchanted to help the director see into other worlds and beyond, the centermost astrolabe has been corrupted as described in the “<a href=\"#IsThatAstrolabeBreathing\" title=\"Is That Astrolabe Breathing?\">Is That Astrolabe Breathing?</a>” section. If any character examines this central astrolabe for 1 round or more, skip directly to that section.</p>\n<p><strong>Bookshelves.</strong> The sturdy bookshelves here are bolted in place. Climbing a bookshelf requires a successful DC 12 Strength (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/2-tooltip\">Athletics</a>) check.</p>\n<p><strong>Ceiling.</strong> The ceiling is 30 feet high.</p>\n<p><strong>Door.</strong> Only one door leads in and out of the collections. It’s unlocked during the day while the Biblioplex is open. At night, the door is closed, locked, and further sealed with an <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2003-arcane-lock\" data-tooltip-href=\"/spells/2003-tooltip\">arcane lock</a> spell. A character using thieves’ tools can open the door with a successful DC 25 Dexterity check (DC 35 while the <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2003-arcane-lock\" data-tooltip-href=\"/spells/2003-tooltip\">arcane lock</a> spell is in effect).</p>\n<p><strong>Hearth.</strong> The hearth in the northwest corner of the room is decorated with antique diviner’s tools. Two comfortable chairs flank it in front of a smaller spherical astrolabe to the east and a table to the south that is covered in knickknacks and artifacts from Strixhaven’s earlier days.</p>\n<p><strong>Lounge.</strong> The lounge to the northwest includes several plush sofas and comfortable chairs, along with a heavy table covered in tomes and sheets of parchment left by a previous study group. The sharp letter openers on the table can be used as silvered daggers in a fight.</p>\n<p><strong>Tables and Chairs.</strong> The room’s chairs can be moved, but its sturdy tables are bolted to the floor.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"SeekingtheProfessorsTome\">Seeking the Professor’s Tome</h3>\n<p>To find <em>Weale or Woe: An Interpretive Sketch</em> for Professor Blackstone or any other text in the room, the characters must take time to search the bookshelves. A character who searches the bookshelves for 1 hour can, at the end of that time, make a DC 13 Intelligence (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/8-tooltip\">Investigation</a>) check, finding whatever book they seek on a success.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"MageHunters\">Mage Hunters</h4>\n<p>Among the other books in the collection is a tome about magical creatures, penned by Arick Quenthorne himself. Any character who spends at least 10 minutes studying this tome learns that during his time as an administrator, Director Quenthorne discovered creatures lurking off campus called mage hunters. The tome provides sketches of chitinous plates matching those the characters found.</p>\n<p>The tome states that pairs of mage hunters break with their allies to hunt specific individuals who catch their attention. With this information, the characters should realize that a pair of <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160312-mage-hunter\" data-tooltip-href=\"/monsters/2160312-tooltip\">mage hunters</a> is after them.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"QuenthornesHistory\">Quenthorne’s History</h4>\n<p>A character who spends at least 10 minutes studying either of Director Quenthorne’s tomes discovers information that sheds some light on the current situation. Director Quenthorne wrote about a student who practiced bizarre magic while attending Strixhaven during Quenthorne’s tenure as an administrator 200 years ago. This student used magic to siphon energy and life from creatures. The tome describes the strange magic’s lingering aura, which is identical to the magic the characters have observed. This student was censured repeatedly for breaking the university’s bylaws and was expelled. The tome states that the student left and never returned to campus. The name of the student is blacked out or illegible in all mentions. Attempts at restoring the name (magical or otherwise) are ineffective.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"IsThatAstrolabeBreathing\">Is That Astrolabe Breathing?</h3>\n<p>After the characters find the tome for Professor Blackstone and gather any information they wish, or if they closely examine the central astrolabe, the astrolabe reveals itself to be a monster.</p>\n<p>The mage hunters stalking the characters stumbled across this creature on the outskirts of campus. After imbibing <a class=\"tooltip-hover magic-item-tooltip\" href=\"https://www.dndbeyond.com/magic-items/4710-potion-of-invisibility\" data-tooltip-href=\"/magic-items/4710-tooltip\">potions of invisibility</a> and feeding one to the creature to sneak it into the Scriptoria Collections, they told it to ambush the characters.</p>\n<p>Read or paraphrase the following:</p>\n<aside class=\"read-aloud-text\" id=\"session-read-aloud-2\">\n<p>A groan echoes throughout the quiet room, like metal grinding upon metal. You spot movement from the largest astrolabe along the north wall, as the device’s overlapping copper rings become lashing, barbed tentacles!</p>\n</aside>\n<p>The astrolabe uses the stat block of a <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/17158-grick-alpha\" data-tooltip-href=\"/monsters/17158-tooltip\">grick alpha</a>, except it doesn’t have a beak attack. The creature was waiting for an opportune time to attack the characters as instructed. The creature fights until reduced to 10 hit points or fewer, when it tries to lumber up the stairs and run away.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"ExaminingtheScene1\">Examining the Scene</h4>\n<p>Once the creature is dealt with, the characters can examine it for more information. A successful DC 16 Wisdom (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/14-tooltip\">Perception</a> or <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/15-tooltip\">Survival</a>) check reveals the presence of chipped chitin embedded in claw wounds on the creature. Characters who notice this realize it’s the same material they found near Wiltroot Hall and on the Rose Stage. They can also conclude that the mage hunters subdued this creature before forcing it to ambush the characters.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"DeliveringtheProfessorsTome\">Delivering the Professor’s Tome</h3>\n<p>So long as the characters deliver <em>Weale or Woe: An Interpretive Sketch</em> to Professor Blackstone before the third Exam, he lights up with relief. “Oh, the time you’ve saved me!” Professor Blackstone exclaims. “Thank you, students. I won’t forget this—as promised, extra credit on the next exam is yours!”</p>\n<h2 class=\"compendium-hr heading-anchor\" id=\"ScriveningandSymbologyExamAugury\">Scrivening and Symbology Exam: Augury</h2>\n<p>The characters’ third Exam in Scrivening and Symbology takes place a couple of weeks after the incidents in the Scriptoria Collections. It tests students on their knowledge of divining strategies and techniques tied to the <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2007-augury\" data-tooltip-href=\"/spells/2007-tooltip\">augury</a> spell, as well as methods of interpreting the spell’s opaque results.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"StudyingPhase2\">Studying Phase</h3>\n<p>The day before the Exam, the characters can study the course material. A character can use any ability check and skill during the Studying phase.</p>\n<p>Once you’ve asked each player how their character is approaching the Studying phase, resolve that phase by having each character who studies make a DC 17 ability check. Make sure players keep track of their characters’ rerolls and apply them during the Testing phase.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"TestingPhase2\">Testing Phase</h3>\n<p>On the day of the Exam, each character makes two ability checks related to parts of the test:</p>\n<p><strong>Augury Tools and Methods.</strong> Choosing the most effective tools and methods for casting <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2007-augury\" data-tooltip-href=\"/spells/2007-tooltip\">augury</a> requires a successful DC 17 Intelligence (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/7-tooltip\">History</a>) check.</p>\n<p><strong>Interpreting Weals and Woes.</strong> Reasoning out meaningful interpretations of cryptic scenarios paired with the results of auguries requires a successful DC 17 Wisdom (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/12-tooltip\">Insight</a>) check.</p>\n<p>Have each player note their character’s Exam results—how many Student Dice they gained and what skills they used during the test—on their copies of the tracking sheet.</p>\n<p>If the characters gave <em>Weale or Woe: An Interpretive Sketch</em> to Professor Blackstone before the Exam, their Exam results are adjusted as follows:</p>\n<ul>\n<li>If they failed the Exam, they pass instead.</li>\n<li>If they passed the Exam, they ace it instead.</li>\n<li>If they aced the Exam, they receive three Student Dice, instead of two.</li>\n</ul>\n<h2 class=\"compendium-hr heading-anchor\" id=\"TellUsInSong\">Tell Us In Song!</h2>\n<p>The next time the characters are in the Biblioplex, they’re challenged to a sing-off. Another student is part of this scene—ideally a student the characters have interacted with, or you may choose another student from the “<a href=\"/chapters/strixhaven-relationships/#FellowStudents\" title=\"Fellow Students\">Fellow Students</a>” section in <a href=\"/chapters/strixhaven-relationships/\" title=\"chapter 3\">chapter 3</a>. Read or paraphrase the following:</p>\n<aside class=\"read-aloud-text\" id=\"session-read-aloud-3\">\n<p>You hear enthusiastic chanting and clapping. In the library’s main area, students ring the eastern group of tables. Standing on them are familiar faces, who look like they’re about to burst into song.</p>\n</aside>\n<p>One of the characters’ peers rushes from the study area and calls out to the characters:</p>\n<aside class=\"read-aloud-text\" id=\"session-read-aloud-4\">\n<p>“That’s the other Mage Tower team! They’re trying to steal your fans!”</p>\n</aside>\n<p>The opposing Mage Tower team challenges the characters to a singing contest to win over the student body. This event takes place in the easternmost portion of <a href=\"/chapters/strixhaven-campus-kerfuffle/#B8StudyArea\" title=\"area B8\">area B8</a> (see <a href=\"/chapters/strixhaven-campus-kerfuffle/#Map31thebiblioplex\" title=\"map 3.1\">map 3.1</a> in <a href=\"/chapters/strixhaven-campus-kerfuffle/\" title=\"chapter 3\">chapter 3</a>). Though rowdiness isn’t allowed in the library, the librarians are fascinated by the challenge and want to see how the characters handle this situation.</p>\n<figure class=\"compendium-image\" id=\"imgsong\">\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/04-011.song.png\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/04-011.song.png\" class=\"ddb-lightbox-inner compendium-center-banner-img\" style=\"width: 850px;\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a>\n<figcaption>Some students live for performing and burst into song</figcaption>\n</figure>\n<h3 class=\"compendium-hr heading-anchor\" id=\"TheOpposingTeam\">The Opposing Team</h3>\n<p>The opposing team has as many members are there are player characters. If the characters have Rivals, those students are members of the opposing team. Choose the rest of the opposing team’s members from the “<a href=\"/chapters/strixhaven-relationships/#FellowStudents\" title=\"Fellow Students\">Fellow Students</a>” section in <a href=\"/chapters/strixhaven-relationships/\" title=\"chapter 3\">chapter 3</a> or create new students of your own to round out the team.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"ItsaSingoff\">It’s a Sing-off!</h3>\n<p>When the characters approach the study area where the opposing Mage Tower team waits, a student from the opposing team claps sardonically and challenges them.</p>\n<aside class=\"read-aloud-text\" id=\"session-read-aloud-5\">\n<p>“Oh, look, everyone—if it isn’t the big kids on campus. They think they’re going to wipe the floor with us at the Battle of Strixhaven, don’t they? Well, we’ve got something to say about that!</p>\n<p>“We challenge you to a sing-off! We’ll crush you in song before we crush you on the field!”</p>\n</aside>\n<p>If the characters participate in the sing-off, they’ll gain an edge during the Battle of Strixhaven; see the “Determining the Winner” section below.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"TheSingOff\">The Sing-Off</h4>\n<p>The sing-off takes place in two phases.</p>\n<p><strong><em>Phase 1.</em></strong> During the first phase, the opposing team creates a group performance centered around a song. Depending on the students involved, at least one NPC sings while the others beatbox, hum harmonies, drum on tables, clap books together, tumble or dance, or perform other accompaniment. The audience is wowed at their smack-talking!</p>\n<p><strong><em>Phase 2.</em></strong> During the second phase, the characters are in the spotlight, and they need to create a killer performance to win back the crowd. At least one character must sing, rap, chant, or otherwise vocalize lyrics. Doing so in a crowd-pleasing way requires a successful DC 15 Charisma (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/18-tooltip\">Performance</a>) check.</p>\n<p>The other characters can assist the performance. They can use any skill so long as it makes sense in the context of the sing-off. A character might bench press a huge stack of books to the song’s beat while lying on a table, making a Strength (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/2-tooltip\">Athletics</a>) check. Or a character might leap about gymnastically in time to the song, making a Dexterity (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/3-tooltip\">Acrobatics</a>) check.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"DeterminingtheWinner\">Determining the Winner</h4>\n<p>If at least two characters’ ability checks during the competition succeed, the characters win this sing-off and humble their opponents. If the characters win, they each gain advantage on one ability check of their choice made during the Mage Tower game at the upcoming Battle of Strixhaven.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"TheCrowdScatters\">The Crowd Scatters</h4>\n<p>Once this event is resolved, the reference librarians shoo the students away, reminding them of the standing edict to avoid tomfoolery in the Biblioplex.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"RelationshipEncounter2\">Relationship Encounter</h4>\n<p>During the sing-off, characters might mingle with the other students. If there are students the characters wish to earn Relationship Points with, treat this as a Relationship encounter, as described in the rules found in the “Relationships” section in <a href=\"/chapters/strixhaven-relationships/\" title=\"chapter 3\">chapter 3</a>. Have players note the results of this encounter on their tracking sheets.</p>\n<h2 class=\"compendium-hr heading-anchor\" id=\"BattleofStrixhaven\">Battle of Strixhaven</h2>\n<p>Before the day of the Battle of Strixhaven dawns, allow the players plenty of time to tie up any loose ends their characters currently have on campus. If they haven’t chosen a mascot to play the Mage Tower game with, prompt them to do so now. They need to choose whether they’re playing the game with an <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160297-art-elemental-mascot\" data-tooltip-href=\"/monsters/2160297-tooltip\">art elemental</a> from Prismari, a <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160304-fractal-mascot\" data-tooltip-href=\"/monsters/2160304-tooltip\">fractal</a> from Quandrix, an <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160307-inkling-mascot\" data-tooltip-href=\"/monsters/2160307-tooltip\">inkling</a> from Silverquill, a <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160317-pest-mascot\" data-tooltip-href=\"/monsters/2160317-tooltip\">pest</a> from Witherbloom, or a <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160334-spirit-statue-mascot\" data-tooltip-href=\"/monsters/2160334-tooltip\">spirit statue</a> from Lorehold. The characters need to bring the mascot with them when they report to Strixhaven Stadium for the game.</p>\n<p>This event is the climax of this adventure. Once you’re ready to begin, read the following:</p>\n<aside class=\"read-aloud-text\" id=\"session-read-aloud-6\">\n<p>The last day of the term has finally arrived, and it’s time for you to crush your opponents at Mage Tower or face ignominious defeat. You’ve prepared all year for this—the Battle of Strixhaven is upon you!</p>\n<p>Gathering your gear, you hustle toward Strixhaven Stadium. Time to show everyone what you’re made of!</p>\n</aside>\n<p>When the characters are ready, usher them into their locker room with their chosen mascot to prepare for the game.</p>\n<p>Regardless of the results, the characters are expected to play the game and then return to the locker room afterward to await a visit from Professor Sharpbeak, who’s officiating. Remind them that Professor Sharpbeak promised to grant each of the winners half of their tuition for this term. Effectively, the characters will receive 400 gp apiece if they win the game. Even if they don’t win, they’re expected to return to the locker room in a show of good sportsmanship.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"StrixhavenStadiumLocations\">Strixhaven Stadium Locations</h3>\n<p>Built less than a century ago, Strixhaven Stadium is a monument to the status and legacy of the university. Important games of Mage Tower are played here, including the famous Battle of Strixhaven. The battle takes place only every three years, so the characters can experience it only once.</p>\n<p>The following locations are keyed to map 4.4.</p>\n<figure id=\"Map44strixhavenstadium\" class=\"compendium-image\">\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/map-4.4-strixhaven-stadium.jpg\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/map-4.4-strixhaven-stadium.jpg\" class=\"ddb-lightbox-inner\" style=\"width: 700px;\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a>\n<figcaption>Map 4.4: strixhaven stadium <a class=\"ddb-lightbox-outer\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/map-4.4-strixhaven-stadium-player.jpg\" data-lightbox=\"1\" data-title=\"View Player Version\" id=\"session-player-map-2\">View Player Version</a></figcaption>\n</figure>\n<h4 class=\"compendium-hr heading-anchor\" id=\"X1StrixhavenField\">X1. Strixhaven Field</h4>\n<aside class=\"read-aloud-text\" id=\"session-read-aloud-7\">\n<p>Strixhaven Stadium is enormous. The circular, bright-green field is covered with small hills, and forty-foot towers rise up at either end of the field. The surrounding bleachers stretch fifty feet into the air. Five spires each fly the flag of a Strixhaven colleges, and a sixth flies a banner displaying the Strixhaven star.</p>\n</aside>\n<p>The entire field is <a class=\"tooltip-hover rule-tooltip\" href=\"https://www.dndbeyond.com/sources/basic-rules/adventuring#DifficultTerrain\" data-tooltip-href=\"/rules/86-tooltip\">difficult terrain</a> owing to the hills built into the playing field. (This encourages flying and other magical means of transportation as the teams each try to ferry their opponents’ mascot back to their own end of the field.) The bleachers are filled with hundreds of students and teachers.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"X2LockerRoom\">X2. Locker Room</h4>\n<p>When the characters arrive for the Battle of Strixhaven, they must head to their locker room to dress and wait for the game to begin.</p>\n<p>There are two stadium locker rooms: one at the north end of the field and another at the south end. The characters are assigned to the southernmost locker room, while their opponents are assigned the northernmost one. Lockers line each room, as do racks of uniforms and field equipment.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"BeforetheBattle\">Before the Battle</h3>\n<p>Before the game, both teams and their mascots are expected to stay in their respective locker rooms. They must wait until they’re called onto the field before they can level sarcastic comments at members of the opposing team. Feel free to roleplay this situation as appropriate. However, if the mood turns hostile, interrupt it with the start of the game.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"TheBattleBegins\">The Battle Begins</h3>\n<p>When it’s time for the game to begin, the magically enhanced voice of Professor Sharpbeak overwhelms all conversation, even flooding into the locker rooms.</p>\n<aside class=\"read-aloud-text\" id=\"session-read-aloud-8\">\n<p>“Students and teachers. Staff and friends. Welcome to the Battle of Strixhaven! Today, two teams of Strixhaven’s finest will battle for the right to call themselves champions. They’ve practiced and you’ve waited—now, let the game begin!”</p>\n</aside>\n<p>Once the announcement ends, the teams are required to move from the locker rooms onto the main field. When both teams meet Professor Sharpbeak at the center of the field, Professor Sharpbeak snags the characters’ mascot, flies it to the southern end of the field, and places it there. She then flies the opposing team’s mascot to the field’s north end.</p>\n<p>Returning to the center of the field, she reminds the teams that magic is allowed, but harming other participants, the mascots, the audience, and the facility is not. After a breathless pause, she then blows her whistle. The game is on!</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"ResolvingtheBattle\">Resolving the Battle</h3>\n<p>The game takes place over three phases. In each phase, you should make ability checks for the student NPCs on the opposing team.</p>\n<figure id=\"battleofstrixhaven\" class=\"compendium-image\">\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/04-012.battle-of-strixhaven.png\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/04-012.battle-of-strixhaven.png\" class=\"ddb-lightbox-inner compendium-center-banner-img\" style=\"width: 850px;\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a>\n<figcaption>The Battle of Strixhaven is among the most storied events on campus.<br>Games are often talked about for years after they’re played</figcaption>\n</figure>\n<h4 class=\"compendium-hr heading-anchor\" id=\"Phase1\">Phase 1</h4>\n<p>Each participant must make a DC 16 Dexterity (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/3-tooltip\">Acrobatics</a>) check to dash past opposing team members and grab their mascot, and a DC 16 Wisdom (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/12-tooltip\">Insight</a>) check to anticipate the opposing team’s tactical ploys.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"Phase2\">Phase 2</h4>\n<p>Each participant must make a DC 16 Intelligence (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/6-tooltip\">Arcana</a>) check to not be faked out by the opposing team’s spells or mock spells, and a DC 16 Charisma (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/16-tooltip\">Deception</a>) check to fake out their opponents with spells or mock spells of their own.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"Phase3\">Phase 3</h4>\n<p>Each participant must make a DC 16 Wisdom (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/14-tooltip\">Perception</a>) check to catch a stealthy opponent trying to sneak off with their mascot, and a DC 16 Strength (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/2-tooltip\">Athletics</a>) check to wrest their mascot away from the opponents.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"UsingMagic\">Using Magic</h4>\n<p>Instead of making an ability check, a character can cast a spell. The level of the spell determines the benefit:</p>\n<p><strong>1st or 2nd Level.</strong> Casting a 1st- or 2nd-level spell gives another team member of the character’s choice advantage on their next ability check made during the game.</p>\n<p><strong>3rd Level or Higher.</strong> Casting a spell of 3rd level or higher counts as a successful ability check for the purpose of determining the winning team.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"DecidingtheWinner\">Deciding the Winner</h4>\n<p>The team with the highest total of successful ability checks wins the Battle of Strixhaven.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"ReturningtotheLockerRoom\">Returning to the Locker Room</h3>\n<p>When the characters return to their locker room, allow some roleplaying banter to take place.</p>\n<p>Without warning, two <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160312-mage-hunter\" data-tooltip-href=\"/monsters/2160312-tooltip\">mage hunters</a> (see <a href=\"/chapters/strixhaven-friends-and-foes/#MageHunter\" title=\"chapter 7\">chapter 7</a>) emerge from hiding places in the locker room and attack. The mage hunters entered the locker room unnoticed during the Mage Tower game and have been lying in wait for the characters to return.</p>\n<p>Professor Sharpbeak is nowhere in sight, and it’s up to the characters to save themselves. The mage hunters fight to the death.</p>\n<p>Stuck in technical conversations on the field, Professor Sharpbeak doesn’t return until the altercation with the mage hunters is over.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"ExaminingtheMageHunters\">Examining the Mage Hunters</h4>\n<p>Examining the mage hunters reveals that these are the creatures that have been stalking the characters throughout this academic year. Their chitin matches the type the characters found near Wiltroot Hall, the Rose Stage, Aerojaunt Field, and the Scriptoria Collections. Characters who read the tome in the Scriptoria Collections, which mentioned that mage hunters work in pairs, should feel reassured that the threat has ended on Strixhaven’s campus.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"EndoftheYear\">End of the Year</h3>\n<p>Once word gets out about what happened in the locker room, the characters are celebrated as heroes on campus. Feel free to add roleplaying scenes that reinforce how the characters’ actions kept calamity away from Strixhaven.</p>\n<p>If you’re running this adventure as part of a Strixhaven campaign, the characters move toward their third year at Strixhaven as admired students on campus. They haven’t yet learned Murgaxor’s identity or what his ultimate plan is, but that information will surface soon enough. For now, the students can bask in their achievements, even as they look toward adventures to come.</p>\n<h2 class=\"compendium-hr heading-anchor\" id=\"Advanceto6thLevel\">Advance to 6th Level!</h2>\n<p>Each character advances to 6th level at the end of this adventure.</p>"
+}

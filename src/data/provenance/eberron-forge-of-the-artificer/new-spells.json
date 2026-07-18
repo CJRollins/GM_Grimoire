@@ -1,0 +1,83 @@
+{
+  "title": "Magic Items",
+  "sourcebook": "Eberron: Forge of the Artificer",
+  "bookSlug": "eberron-forge-of-the-artificer",
+  "originalPath": "Eberron/Chapter 8.html",
+  "rawUrl": "/archive/eberron/Chapter%208.html",
+  "sourceHash": "0a0fdf64a57d68e21cb243ca5181e0f085cf5b640614fd12382a06f5f9c900b8",
+  "extractionDate": "2026-07-13T07:40:57.647Z",
+  "extractionVersion": 3,
+  "originalAnchors": [
+    {
+      "id": "AppendixMagicItems",
+      "text": "Magic Items",
+      "element": "h1"
+    },
+    {
+      "id": "comp-next-nav",
+      "text": "Previous ← Chapter 7: Elemental Airships Book Contents Next Appendix: Art of Eberron →",
+      "element": "div"
+    },
+    {
+      "id": "img",
+      "text": "Leroy Steinmann",
+      "element": "figure"
+    },
+    {
+      "id": "BootsoftheWindingPath",
+      "text": "Boots of the Winding Path",
+      "element": "h2"
+    },
+    {
+      "id": "DazzlingWeapon",
+      "text": "Dazzling Weapon",
+      "element": "h2"
+    },
+    {
+      "id": "HelmofAwareness",
+      "text": "Helm of Awareness",
+      "element": "h2"
+    },
+    {
+      "id": "ManifoldTool",
+      "text": "Manifold Tool",
+      "element": "h2"
+    },
+    {
+      "id": "MindSharpener",
+      "text": "Mind Sharpener",
+      "element": "h2"
+    },
+    {
+      "id": "RepeatingShot",
+      "text": "Repeating Shot",
+      "element": "h2"
+    },
+    {
+      "id": "RepulsionShield",
+      "text": "Repulsion Shield",
+      "element": "h2"
+    },
+    {
+      "id": "ReturningWeapon",
+      "text": "Returning Weapon",
+      "element": "h2"
+    },
+    {
+      "id": "SpellRefuelingRing",
+      "text": "Spell-Refueling Ring",
+      "element": "h2"
+    }
+  ],
+  "transformations": [
+    "Selected the first .p-article-content element.",
+    "Removed scripts, styles, forms, iframes, hidden duplicate labels, and source navigation.",
+    "Removed event handlers and D&D Beyond content-chunk identifiers.",
+    "Rewrote archived sourcebook links to generated reader routes when a local target exists.",
+    "Added lazy image loading and asynchronous decoding hints.",
+    "Added derived IDs to read-aloud, rules, table, and stat-block elements for session navigation.",
+    "Indexed player-version map links as derived session metadata.",
+    "Preserved source wording and original heading IDs; derived metadata remains separate."
+  ],
+  "repairs": []
+}

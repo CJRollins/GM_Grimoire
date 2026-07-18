@@ -1,0 +1,368 @@
+{
+  "title": "Work Hard, Play Harder",
+  "sourcebook": "Strixhaven: A Curriculum of Chaos",
+  "bookSlug": "strixhaven-a-curriculum-of-chaos",
+  "originalPath": "Arcavios/Stixhaven/Chapter 7 - Work Hard, Play Harder.html",
+  "rawUrl": "/archive/strixhaven/Chapter%207%20-%20Work%20Hard%2C%20Play%20Harder.html",
+  "sourceHash": "b354ca395eb2a1703ac8bb679d3457aa08e84e179afae367bb4398e9ff588a52",
+  "extractionDate": "2026-07-13T07:40:57.647Z",
+  "extractionVersion": 3,
+  "originalAnchors": [
+    {
+      "id": "WorkHardPlayHarder",
+      "text": "Work Hard, Play Harder",
+      "element": "h1"
+    },
+    {
+      "id": "comp-next-nav",
+      "text": "",
+      "element": "div"
+    },
+    {
+      "id": "BowsEndTavern1",
+      "text": "Bow’s End Tavern",
+      "element": "h2"
+    },
+    {
+      "id": "BowsEndTavernFeatures",
+      "text": "Bow’s End Tavern Features",
+      "element": "h3"
+    },
+    {
+      "id": "BowsEndTavernLocations",
+      "text": "Bow’s End Tavern Locations",
+      "element": "h3"
+    },
+    {
+      "id": "Map33bowsendtavern",
+      "text": "Map 3.3: bows end tavern View Player Version",
+      "element": "figure"
+    },
+    {
+      "id": "E1PatioSeating",
+      "text": "E1. Patio Seating",
+      "element": "h4"
+    },
+    {
+      "id": "E2MainDiningRoom",
+      "text": "E2. Main Dining Room",
+      "element": "h4"
+    },
+    {
+      "id": "E3ServersStationandBar",
+      "text": "E3. Servers’ Station and Bar",
+      "element": "h4"
+    },
+    {
+      "id": "BowsEndTavernMenu",
+      "text": "Bow’s End Tavern Menu Food or Beverage Cost Water Free Coffee, cola, or tea 1 cp Premium fare 4 cp Caster’s stew 2 sp Curtie’s special 2 sp",
+      "element": "table"
+    },
+    {
+      "id": "E4OverflowSeating",
+      "text": "E4. Overflow Seating",
+      "element": "h4"
+    },
+    {
+      "id": "E5BackExit",
+      "text": "E5. Back Exit",
+      "element": "h4"
+    },
+    {
+      "id": "E6Kitchen",
+      "text": "E6. Kitchen",
+      "element": "h4"
+    },
+    {
+      "id": "WizardGizzard",
+      "text": "Wizard Gizzard!",
+      "element": "h3"
+    },
+    {
+      "id": "PlayingtheGame",
+      "text": "Playing the Game",
+      "element": "h4"
+    },
+    {
+      "id": "imgtavern",
+      "text": "Bow’s End Tavern caters to a wide range of tastes and dietary needs",
+      "element": "figure"
+    },
+    {
+      "id": "RelationshipEncounter1",
+      "text": "Relationship Encounter",
+      "element": "h4"
+    },
+    {
+      "id": "ChaosintheKitchen",
+      "text": "Chaos in the Kitchen",
+      "element": "h3"
+    },
+    {
+      "id": "EndingtheThreat2",
+      "text": "Ending the Threat",
+      "element": "h4"
+    },
+    {
+      "id": "ExaminingtheCauldrons",
+      "text": "Examining the Cauldrons",
+      "element": "h3"
+    },
+    {
+      "id": "MagicalPhysiologiesExamOwlbears",
+      "text": "Magical Physiologies Exam: Owlbears",
+      "element": "h2"
+    },
+    {
+      "id": "StudyingPhase2",
+      "text": "Studying Phase",
+      "element": "h3"
+    },
+    {
+      "id": "TestingPhase2",
+      "text": "Testing Phase",
+      "element": "h3"
+    },
+    {
+      "id": "AllaboutOwlbears",
+      "text": "ALL ABOUT OWLBEARS To give this Exam more flavor, describe some of the facts the characters are trying to memorize, such as the following: Owlbears are aggressi",
+      "element": "aside"
+    },
+    {
+      "id": "ClassroomGossip",
+      "text": "Classroom Gossip",
+      "element": "h3"
+    },
+    {
+      "id": "ChatterDetails",
+      "text": "Chatter Details",
+      "element": "h4"
+    },
+    {
+      "id": "imgassistants",
+      "text": "Students keep the biblioplex assistants busy with their many requests while studying",
+      "element": "figure"
+    },
+    {
+      "id": "CampusDaredevils",
+      "text": "Campus Daredevils",
+      "element": "h2"
+    },
+    {
+      "id": "SassySallyJane",
+      "text": "Sassy Sally Jane",
+      "element": "h3"
+    },
+    {
+      "id": "AnExclusiveEnclave",
+      "text": "An Exclusive Enclave",
+      "element": "h3"
+    },
+    {
+      "id": "RecoverSassySallyJane",
+      "text": "Recover Sassy Sally Jane",
+      "element": "h3"
+    },
+    {
+      "id": "ExtraIncentive",
+      "text": "Extra Incentive",
+      "element": "h4"
+    },
+    {
+      "id": "CaptainDapplewingsManor",
+      "text": "Captain Dapplewing’s Manor",
+      "element": "h3"
+    },
+    {
+      "id": "TheJigIsUp",
+      "text": "THE JIG IS UP! If the characters alert security to their unauthorized presence at the manor, they are caught when the professors arrive. The professors force th",
+      "element": "aside"
+    },
+    {
+      "id": "EnteringtheManor",
+      "text": "Entering the Manor",
+      "element": "h4"
+    },
+    {
+      "id": "CaptainDapplewingsManorFeatures",
+      "text": "Captain Dapplewing’s Manor Features",
+      "element": "h4"
+    },
+    {
+      "id": "JustaLittleVandalism",
+      "text": "JUST A LITTLE VANDALISM? If the characters are on their best behavior, avoiding combat and trying not to break anything, they should be able to have fun in this",
+      "element": "aside"
+    },
+    {
+      "id": "ManorLocationsC1C10",
+      "text": "Manor Locations (C1-C10)",
+      "element": "h3"
+    },
+    {
+      "id": "Map34captaindapplewingsmanor",
+      "text": "Map 3.4: captain dapplewing’s manor View Player Version",
+      "element": "figure"
+    },
+    {
+      "id": "C1Veranda",
+      "text": "C1. Veranda",
+      "element": "h4"
+    },
+    {
+      "id": "C2Foyer",
+      "text": "C2. Foyer",
+      "element": "h4"
+    },
+    {
+      "id": "C3GrandHall",
+      "text": "C3. Grand Hall",
+      "element": "h4"
+    },
+    {
+      "id": "C4DiningHall",
+      "text": "C4. Dining Hall",
+      "element": "h4"
+    },
+    {
+      "id": "C5PortraitSalon",
+      "text": "C5. Portrait Salon",
+      "element": "h4"
+    },
+    {
+      "id": "C6DrawingRoom",
+      "text": "C6. Drawing Room",
+      "element": "h4"
+    },
+    {
+      "id": "C7HallofBeauty",
+      "text": "C7. Hall of Beauty",
+      "element": "h4"
+    },
+    {
+      "id": "imgstudentcaught",
+      "text": "Students caught breaking into Captain Dapplewing’s Manor after hours face punishment",
+      "element": "figure"
+    },
+    {
+      "id": "C8Kitchen",
+      "text": "C8. Kitchen",
+      "element": "h4"
+    },
+    {
+      "id": "C9CurioRoom",
+      "text": "C9. Curio Room",
+      "element": "h4"
+    },
+    {
+      "id": "C10GrandDeck",
+      "text": "C10. Grand Deck",
+      "element": "h4"
+    },
+    {
+      "id": "ManorLocationsC11C20",
+      "text": "Manor Locations (C11-C20)",
+      "element": "h3"
+    },
+    {
+      "id": "C11SideDeck",
+      "text": "C11. Side Deck",
+      "element": "h4"
+    },
+    {
+      "id": "C12FacultyOffice",
+      "text": "C12. Faculty Office",
+      "element": "h4"
+    },
+    {
+      "id": "C13CaptainDapplewingsStudy",
+      "text": "C13. Captain Dapplewing’s Study",
+      "element": "h4"
+    },
+    {
+      "id": "C14CentralPassageway",
+      "text": "C14. Central Passageway",
+      "element": "h4"
+    },
+    {
+      "id": "C15FacultyStorage",
+      "text": "C15. Faculty Storage",
+      "element": "h4"
+    },
+    {
+      "id": "C16ReflectionRoom",
+      "text": "C16. Reflection Room",
+      "element": "h4"
+    },
+    {
+      "id": "C17GrandLounge",
+      "text": "C17. Grand Lounge",
+      "element": "h4"
+    },
+    {
+      "id": "C18TeaRoom",
+      "text": "C18. Tea Room",
+      "element": "h4"
+    },
+    {
+      "id": "C19StudentStorage",
+      "text": "C19. Student Storage",
+      "element": "h4"
+    },
+    {
+      "id": "C20Attic",
+      "text": "C20. Attic",
+      "element": "h4"
+    },
+    {
+      "id": "SassySallyJanesPhrases",
+      "text": "Sassy Sally Jane’s Phrases",
+      "element": "h4"
+    },
+    {
+      "id": "Phrases",
+      "text": "Phrases d6 Phrase 1 “Really? In those robes?” 2 “G-R-O-S-S. Gross.” 3 “I heard you snack on owlbear pellets.” 4 “If you say so.” 5 “How about ‘Hells, no!’” 6 “N",
+      "element": "table"
+    },
+    {
+      "id": "PostQuest",
+      "text": "Post Quest",
+      "element": "h3"
+    },
+    {
+      "id": "Advanceto3rdLevel",
+      "text": "Advance to 3rd Level!",
+      "element": "h2"
+    },
+    {
+      "id": "MagicalPhysiologiesExamOtyughs",
+      "text": "Magical Physiologies Exam: Otyughs",
+      "element": "h2"
+    },
+    {
+      "id": "StudyingPhase3",
+      "text": "Studying Phase",
+      "element": "h3"
+    },
+    {
+      "id": "TestingPhase3",
+      "text": "Testing Phase",
+      "element": "h3"
+    },
+    {
+      "id": "AllaboutOtyughs",
+      "text": "ALL ABOUT OTYUGHS To give this Exam more flavor, describe some of the facts the characters are trying to memorize, such as the following: If a place is disgusti",
+      "element": "aside"
+    }
+  ],
+  "transformations": [
+    "Selected the first .p-article-content element.",
+    "Removed scripts, styles, forms, iframes, hidden duplicate labels, and source navigation.",
+    "Removed event handlers and D&D Beyond content-chunk identifiers.",
+    "Rewrote archived sourcebook links to generated reader routes when a local target exists.",
+    "Added lazy image loading and asynchronous decoding hints.",
+    "Added derived IDs to read-aloud, rules, table, and stat-block elements for session navigation.",
+    "Indexed player-version map links as derived session metadata.",
+    "Preserved source wording and original heading IDs; derived metadata remains separate."
+  ],
+  "repairs": []
+}

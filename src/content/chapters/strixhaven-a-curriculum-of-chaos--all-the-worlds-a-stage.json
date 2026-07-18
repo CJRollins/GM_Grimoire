@@ -1,0 +1,880 @@
+{
+  "title": "All the World’s a Stage",
+  "sourcebook": "Strixhaven: A Curriculum of Chaos",
+  "bookSlug": "strixhaven-a-curriculum-of-chaos",
+  "world": "Arcavios",
+  "edition": "2014 rules",
+  "chapter": "All the World’s a Stage",
+  "chapterNumber": 3,
+  "order": 8,
+  "navGroup": "Year One",
+  "kind": "adventure",
+  "audience": "gm",
+  "slug": "strixhaven-all-the-worlds-a-stage",
+  "chapterSlug": "all-the-worlds-a-stage",
+  "summary": "A short while after their third Exam, the characters become aware of the buzz on campus regarding the Rose Stage Festival. Held every year, the Rose Stage Festival blends performing arts and improvisation to produce a new play. The entire student body is invi…",
+  "wordCount": 4219,
+  "originalPath": "Arcavios/Stixhaven/Chapter 8 - All The World's A Stage.html",
+  "rawUrl": "/archive/strixhaven/Chapter%208%20-%20All%20The%20World's%20A%20Stage.html",
+  "originalAnchors": [
+    {
+      "id": "AlltheWorldsaStage",
+      "text": "All the World’s a Stage",
+      "element": "h1"
+    },
+    {
+      "id": "comp-next-nav",
+      "text": "",
+      "element": "div"
+    },
+    {
+      "id": "imgrosestage",
+      "text": "The Rose Stage hosts everything from intimate poetry readings to grandiose multimedia performances",
+      "element": "figure"
+    },
+    {
+      "id": "TheRoseStage",
+      "text": "The Rose Stage",
+      "element": "h2"
+    },
+    {
+      "id": "SettingupSedgemoor",
+      "text": "SETTING UP SEDGEMOOR The characters will have heard about Sedgemoor during their first year at Strixhaven, but they have likely had no reason to explore the bay",
+      "element": "aside"
+    },
+    {
+      "id": "RoseStageLocations",
+      "text": "Rose Stage Locations",
+      "element": "h3"
+    },
+    {
+      "id": "Map35therosestage",
+      "text": "Map 3.5: the rose stage View Player Version",
+      "element": "figure"
+    },
+    {
+      "id": "R1GeneralSeating",
+      "text": "R1. General Seating",
+      "element": "h4"
+    },
+    {
+      "id": "R2OrchestraPit",
+      "text": "R2. Orchestra Pit",
+      "element": "h4"
+    },
+    {
+      "id": "R3MainStage",
+      "text": "R3. Main Stage",
+      "element": "h4"
+    },
+    {
+      "id": "R4BackstageDoors",
+      "text": "R4. Backstage Doors",
+      "element": "h4"
+    },
+    {
+      "id": "R5RoseRoom",
+      "text": "R5. Rose Room",
+      "element": "h4"
+    },
+    {
+      "id": "R6StorageHall",
+      "text": "R6. Storage Hall",
+      "element": "h4"
+    },
+    {
+      "id": "R7StageStorageArea",
+      "text": "R7. Stage Storage Area",
+      "element": "h4"
+    },
+    {
+      "id": "RoseStageFestival",
+      "text": "Rose Stage Festival",
+      "element": "h3"
+    },
+    {
+      "id": "TheShow",
+      "text": "The Show",
+      "element": "h4"
+    },
+    {
+      "id": "PerformonStage",
+      "text": "Perform on Stage",
+      "element": "h4"
+    },
+    {
+      "id": "FestivalCharacterPrompts",
+      "text": "Festival Character Prompts d12 Prompt 1 Cowardly monarch 2 Brilliant but exasperated knight 3 Rampaging but erudite sea serpent 4 Furious ship’s captain 5 Paran",
+      "element": "table"
+    },
+    {
+      "id": "HandleProps",
+      "text": "Handle Props",
+      "element": "h4"
+    },
+    {
+      "id": "FestivalProps",
+      "text": "Festival Props d8 Prop 1 Wooden cutouts on wheels of an owlbear, a basilisk, and a chimera 2 Wooden cutouts of painted waves 3 A large wooden cutout of a ship 4",
+      "element": "table"
+    },
+    {
+      "id": "AccompanywithKazoo",
+      "text": "Accompany with Kazoo",
+      "element": "h4"
+    },
+    {
+      "id": "EncourageaPerformer",
+      "text": "Encourage a Performer",
+      "element": "h4"
+    },
+    {
+      "id": "HeckleaPerformer",
+      "text": "Heckle a Performer",
+      "element": "h4"
+    },
+    {
+      "id": "RelationshipEncounter2",
+      "text": "Relationship Encounter",
+      "element": "h4"
+    },
+    {
+      "id": "imgconcerts",
+      "text": "World-class concerts happen regularly on the Rose Stage",
+      "element": "figure"
+    },
+    {
+      "id": "ExitPursuedbyanOwlbear",
+      "text": "Exit, Pursued by an Owlbear",
+      "element": "h3"
+    },
+    {
+      "id": "EndingtheThreat3",
+      "text": "Ending the Threat",
+      "element": "h4"
+    },
+    {
+      "id": "AProfessorsAppreciation",
+      "text": "A Professor’s Appreciation",
+      "element": "h3"
+    },
+    {
+      "id": "ExaminingtheOwlbear",
+      "text": "Examining the Owlbear",
+      "element": "h3"
+    },
+    {
+      "id": "SecretsinSedgemoor",
+      "text": "Secrets in Sedgemoor",
+      "element": "h2"
+    },
+    {
+      "id": "CollectingSpellComponents",
+      "text": "Collecting Spell Components",
+      "element": "h3"
+    },
+    {
+      "id": "Sedgemoor",
+      "text": "Sedgemoor",
+      "element": "h3"
+    },
+    {
+      "id": "SedgemoorFeatures",
+      "text": "Sedgemoor Features",
+      "element": "h4"
+    },
+    {
+      "id": "SedgemoorLocations",
+      "text": "Sedgemoor Locations",
+      "element": "h3"
+    },
+    {
+      "id": "Map36sedgemoor",
+      "text": "Map 3.6: sedgemoor View Player Version",
+      "element": "figure"
+    },
+    {
+      "id": "S1MarshBanks",
+      "text": "S1. Marsh Banks",
+      "element": "h4"
+    },
+    {
+      "id": "S2SouthIslet",
+      "text": "S2. South Islet",
+      "element": "h4"
+    },
+    {
+      "id": "S3CentralIslet",
+      "text": "S3. Central Islet",
+      "element": "h4"
+    },
+    {
+      "id": "S4SouthResearchShed",
+      "text": "S4. South Research Shed",
+      "element": "h4"
+    },
+    {
+      "id": "S5NorthResearchShed",
+      "text": "S5. North Research Shed",
+      "element": "h4"
+    },
+    {
+      "id": "S6EastIslet",
+      "text": "S6. East Islet",
+      "element": "h4"
+    },
+    {
+      "id": "S7UnderwaterSpring",
+      "text": "S7. Underwater Spring",
+      "element": "h4"
+    },
+    {
+      "id": "imgcreatures",
+      "text": "Strange creatures live in the swampy areas of Strixhaven’scampus. Sometimes those creatures are dangerous",
+      "element": "figure"
+    },
+    {
+      "id": "EndoftheYear",
+      "text": "End of the Year",
+      "element": "h3"
+    },
+    {
+      "id": "CampusHeroes",
+      "text": "Campus Heroes",
+      "element": "h4"
+    },
+    {
+      "id": "Advanceto4thLevel",
+      "text": "Advance to 4th Level!",
+      "element": "h2"
+    }
+  ],
+  "sourceHash": "12ddb426c47133ff4947f02725ab1ca63b1101d9457a8c9bea4ede0dbdda61b9",
+  "extractionDate": "2026-07-13T07:40:57.647Z",
+  "extractionVersion": 3,
+  "headings": [
+    {
+      "depth": 1,
+      "id": "AlltheWorldsaStage",
+      "text": "All the World’s a Stage"
+    },
+    {
+      "depth": 2,
+      "id": "TheRoseStage",
+      "text": "The Rose Stage"
+    },
+    {
+      "depth": 3,
+      "id": "RoseStageLocations",
+      "text": "Rose Stage Locations"
+    },
+    {
+      "depth": 4,
+      "id": "R1GeneralSeating",
+      "text": "R1. General Seating"
+    },
+    {
+      "depth": 4,
+      "id": "R2OrchestraPit",
+      "text": "R2. Orchestra Pit"
+    },
+    {
+      "depth": 4,
+      "id": "R3MainStage",
+      "text": "R3. Main Stage"
+    },
+    {
+      "depth": 4,
+      "id": "R4BackstageDoors",
+      "text": "R4. Backstage Doors"
+    },
+    {
+      "depth": 4,
+      "id": "R5RoseRoom",
+      "text": "R5. Rose Room"
+    },
+    {
+      "depth": 4,
+      "id": "R6StorageHall",
+      "text": "R6. Storage Hall"
+    },
+    {
+      "depth": 4,
+      "id": "R7StageStorageArea",
+      "text": "R7. Stage Storage Area"
+    },
+    {
+      "depth": 3,
+      "id": "RoseStageFestival",
+      "text": "Rose Stage Festival"
+    },
+    {
+      "depth": 4,
+      "id": "TheShow",
+      "text": "The Show"
+    },
+    {
+      "depth": 4,
+      "id": "PerformonStage",
+      "text": "Perform on Stage"
+    },
+    {
+      "depth": 4,
+      "id": "HandleProps",
+      "text": "Handle Props"
+    },
+    {
+      "depth": 4,
+      "id": "AccompanywithKazoo",
+      "text": "Accompany with Kazoo"
+    },
+    {
+      "depth": 4,
+      "id": "EncourageaPerformer",
+      "text": "Encourage a Performer"
+    },
+    {
+      "depth": 4,
+      "id": "HeckleaPerformer",
+      "text": "Heckle a Performer"
+    },
+    {
+      "depth": 4,
+      "id": "RelationshipEncounter2",
+      "text": "Relationship Encounter"
+    },
+    {
+      "depth": 3,
+      "id": "ExitPursuedbyanOwlbear",
+      "text": "Exit, Pursued by an Owlbear"
+    },
+    {
+      "depth": 4,
+      "id": "EndingtheThreat3",
+      "text": "Ending the Threat"
+    },
+    {
+      "depth": 3,
+      "id": "AProfessorsAppreciation",
+      "text": "A Professor’s Appreciation"
+    },
+    {
+      "depth": 3,
+      "id": "ExaminingtheOwlbear",
+      "text": "Examining the Owlbear"
+    },
+    {
+      "depth": 2,
+      "id": "SecretsinSedgemoor",
+      "text": "Secrets in Sedgemoor"
+    },
+    {
+      "depth": 3,
+      "id": "CollectingSpellComponents",
+      "text": "Collecting Spell Components"
+    },
+    {
+      "depth": 3,
+      "id": "Sedgemoor",
+      "text": "Sedgemoor"
+    },
+    {
+      "depth": 4,
+      "id": "SedgemoorFeatures",
+      "text": "Sedgemoor Features"
+    },
+    {
+      "depth": 3,
+      "id": "SedgemoorLocations",
+      "text": "Sedgemoor Locations"
+    },
+    {
+      "depth": 4,
+      "id": "S1MarshBanks",
+      "text": "S1. Marsh Banks"
+    },
+    {
+      "depth": 4,
+      "id": "S2SouthIslet",
+      "text": "S2. South Islet"
+    },
+    {
+      "depth": 4,
+      "id": "S3CentralIslet",
+      "text": "S3. Central Islet"
+    },
+    {
+      "depth": 4,
+      "id": "S4SouthResearchShed",
+      "text": "S4. South Research Shed"
+    },
+    {
+      "depth": 4,
+      "id": "S5NorthResearchShed",
+      "text": "S5. North Research Shed"
+    },
+    {
+      "depth": 4,
+      "id": "S6EastIslet",
+      "text": "S6. East Islet"
+    },
+    {
+      "depth": 4,
+      "id": "S7UnderwaterSpring",
+      "text": "S7. Underwater Spring"
+    },
+    {
+      "depth": 3,
+      "id": "EndoftheYear",
+      "text": "End of the Year"
+    },
+    {
+      "depth": 4,
+      "id": "CampusHeroes",
+      "text": "Campus Heroes"
+    },
+    {
+      "depth": 2,
+      "id": "Advanceto4thLevel",
+      "text": "Advance to 4th Level!"
+    }
+  ],
+  "tags": {
+    "creatures": [
+      "first-year student",
+      "first-year students",
+      "giant scorpion",
+      "Murgaxor",
+      "owlbear",
+      "Silverquill professor of shadow",
+      "swarm of poisonous snakes",
+      "worgs"
+    ],
+    "spells": [],
+    "items": [
+      "bag of holding",
+      "cloak of protection",
+      "flask of holy water",
+      "holy water",
+      "potions of healing",
+      "Silverquill primer"
+    ],
+    "locations": [
+      "Backstage Doors",
+      "Bow’s End Tavern",
+      "Central Islet",
+      "East Islet",
+      "Firejolt Café",
+      "General Seating",
+      "Main Stage",
+      "Marsh Banks",
+      "North Research Shed",
+      "Orchestra Pit",
+      "Rose Room",
+      "Rose Stage",
+      "Sedgemoor",
+      "Silverquill",
+      "South Islet",
+      "South Research Shed",
+      "Stage Storage Area",
+      "Storage Hall",
+      "Strixhaven",
+      "Underwater Spring",
+      "Witherbloom",
+      "Witherbloom Campus"
+    ],
+    "npcs": [],
+    "topics": [
+      "adventure",
+      "campus-life",
+      "exams",
+      "gm-tools",
+      "read-aloud",
+      "relationships",
+      "tables"
+    ]
+  },
+  "session": {
+    "readAloud": [
+      {
+        "id": "session-read-aloud-1",
+        "label": "Read aloud 1",
+        "excerpt": "Yodeling, mocking chants, dramatic intonations, baritone singing, and other enthusiastic sounds reach your ears as a rowdy, laughing group of students comes into view."
+      },
+      {
+        "id": "session-read-aloud-2",
+        "label": "Read aloud 2",
+        "excerpt": "“We’re on our way to the Rose Stage over on Silverquill’s campus. The Rose Stage Festival is finally here! Everyone’s already practicing their performances!” “The festival is all …"
+      },
+      {
+        "id": "session-read-aloud-3",
+        "label": "Read aloud 3",
+        "excerpt": "Cheers, jeers, and the buzzing of kazoos ring out as you draw near the Rose Stage on Silverquill College’s campus. On the main stage, several students playact histrionically. One …"
+      },
+      {
+        "id": "session-read-aloud-4",
+        "label": "Read aloud 4",
+        "excerpt": "“You here to act? Or maybe just to watch? Or maybe you’re the musical talent? Either way, this is going to be great! I can’t wait to see what you try!”"
+      },
+      {
+        "id": "session-read-aloud-5",
+        "label": "Read aloud 5",
+        "excerpt": "The crowd roars with laughter and the festival appears to be reaching its height—when suddenly, confused guffaws followed by screams of terror ring out. One of the stage props bar…"
+      },
+      {
+        "id": "session-read-aloud-6",
+        "label": "Read aloud 6",
+        "excerpt": "Your expedition has brought you to one of the more dismal parts of Sedgemoor, the bayou that encompasses the Witherbloom campus. Muddy swamp water flows between raised islets cove…"
+      },
+      {
+        "id": "session-read-aloud-7",
+        "label": "Read aloud 7",
+        "excerpt": "Beyond some scrubby bushes, the solid ground here gives way to the muddy swamp. Rickety wooden docks jut into the water, but there are no rafts or boats nearby."
+      },
+      {
+        "id": "session-read-aloud-8",
+        "label": "Read aloud 8",
+        "excerpt": "The largest islet in this part of the swamp, this landmass features two wooden research sheds with an ancient tree stump between them."
+      },
+      {
+        "id": "session-read-aloud-9",
+        "label": "Read aloud 9",
+        "excerpt": "A steady, burbling flow of water disturbs the surface of the swamp just to the north of this small islet."
+      }
+    ],
+    "rules": [
+      {
+        "id": "SettingupSedgemoor",
+        "label": "Rule box 1",
+        "excerpt": "SETTING UP SEDGEMOOR The characters will have heard about Sedgemoor during their first year at Strixhaven, but they have likely had no reason to explore the bayou surrounding the …"
+      }
+    ],
+    "tables": [
+      {
+        "id": "FestivalCharacterPrompts",
+        "label": "Festival Character Prompts",
+        "excerpt": "Festival Character Prompts d12 Prompt 1 Cowardly monarch 2 Brilliant but exasperated knight 3 Rampaging but erudite sea serpent 4 Furious ship’s captain 5 Paranoid wizard 6 Busine…"
+      },
+      {
+        "id": "FestivalProps",
+        "label": "Festival Props",
+        "excerpt": "Festival Props d8 Prop 1 Wooden cutouts on wheels of an owlbear, a basilisk, and a chimera 2 Wooden cutouts of painted waves 3 A large wooden cutout of a ship 4 Rainclouds with gl…"
+      }
+    ],
+    "statBlocks": [],
+    "maps": [
+      {
+        "id": "session-player-map-1",
+        "label": "Map 3.5: the rose stage",
+        "dmUrl": "https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/map-3.5-the-rose-stage.jpg",
+        "playerUrl": "https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/map-3.5-the-rose-stage-player.jpg"
+      },
+      {
+        "id": "session-player-map-2",
+        "label": "Map 3.6: sedgemoor",
+        "dmUrl": "https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/map-3.6-sedgemoor.jpg",
+        "playerUrl": "https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/map-3.6-sedgemoor-player.jpg"
+      }
+    ],
+    "quickLinks": [
+      {
+        "depth": 2,
+        "id": "TheRoseStage",
+        "text": "The Rose Stage",
+        "type": "scene"
+      },
+      {
+        "depth": 3,
+        "id": "RoseStageLocations",
+        "text": "Rose Stage Locations",
+        "type": "location"
+      },
+      {
+        "depth": 4,
+        "id": "R1GeneralSeating",
+        "text": "R1. General Seating",
+        "type": "location"
+      },
+      {
+        "depth": 4,
+        "id": "R2OrchestraPit",
+        "text": "R2. Orchestra Pit",
+        "type": "location"
+      },
+      {
+        "depth": 4,
+        "id": "R3MainStage",
+        "text": "R3. Main Stage",
+        "type": "location"
+      },
+      {
+        "depth": 4,
+        "id": "R4BackstageDoors",
+        "text": "R4. Backstage Doors",
+        "type": "location"
+      },
+      {
+        "depth": 4,
+        "id": "R5RoseRoom",
+        "text": "R5. Rose Room",
+        "type": "location"
+      },
+      {
+        "depth": 4,
+        "id": "R6StorageHall",
+        "text": "R6. Storage Hall",
+        "type": "location"
+      },
+      {
+        "depth": 4,
+        "id": "R7StageStorageArea",
+        "text": "R7. Stage Storage Area",
+        "type": "location"
+      },
+      {
+        "depth": 3,
+        "id": "RoseStageFestival",
+        "text": "Rose Stage Festival",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "TheShow",
+        "text": "The Show",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "PerformonStage",
+        "text": "Perform on Stage",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "HandleProps",
+        "text": "Handle Props",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "AccompanywithKazoo",
+        "text": "Accompany with Kazoo",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "EncourageaPerformer",
+        "text": "Encourage a Performer",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "HeckleaPerformer",
+        "text": "Heckle a Performer",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "RelationshipEncounter2",
+        "text": "Relationship Encounter",
+        "type": "relationship"
+      },
+      {
+        "depth": 3,
+        "id": "ExitPursuedbyanOwlbear",
+        "text": "Exit, Pursued by an Owlbear",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "EndingtheThreat3",
+        "text": "Ending the Threat",
+        "type": "encounter"
+      },
+      {
+        "depth": 3,
+        "id": "AProfessorsAppreciation",
+        "text": "A Professor’s Appreciation",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "ExaminingtheOwlbear",
+        "text": "Examining the Owlbear",
+        "type": "reference"
+      },
+      {
+        "depth": 2,
+        "id": "SecretsinSedgemoor",
+        "text": "Secrets in Sedgemoor",
+        "type": "scene"
+      },
+      {
+        "depth": 3,
+        "id": "CollectingSpellComponents",
+        "text": "Collecting Spell Components",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "Sedgemoor",
+        "text": "Sedgemoor",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "SedgemoorFeatures",
+        "text": "Sedgemoor Features",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "SedgemoorLocations",
+        "text": "Sedgemoor Locations",
+        "type": "location"
+      },
+      {
+        "depth": 4,
+        "id": "S1MarshBanks",
+        "text": "S1. Marsh Banks",
+        "type": "location"
+      },
+      {
+        "depth": 4,
+        "id": "S2SouthIslet",
+        "text": "S2. South Islet",
+        "type": "location"
+      },
+      {
+        "depth": 4,
+        "id": "S3CentralIslet",
+        "text": "S3. Central Islet",
+        "type": "location"
+      },
+      {
+        "depth": 4,
+        "id": "S4SouthResearchShed",
+        "text": "S4. South Research Shed",
+        "type": "location"
+      },
+      {
+        "depth": 4,
+        "id": "S5NorthResearchShed",
+        "text": "S5. North Research Shed",
+        "type": "location"
+      },
+      {
+        "depth": 4,
+        "id": "S6EastIslet",
+        "text": "S6. East Islet",
+        "type": "location"
+      },
+      {
+        "depth": 4,
+        "id": "S7UnderwaterSpring",
+        "text": "S7. Underwater Spring",
+        "type": "location"
+      },
+      {
+        "depth": 3,
+        "id": "EndoftheYear",
+        "text": "End of the Year",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "CampusHeroes",
+        "text": "Campus Heroes",
+        "type": "reference"
+      },
+      {
+        "depth": 2,
+        "id": "Advanceto4thLevel",
+        "text": "Advance to 4th Level!",
+        "type": "scene"
+      }
+    ]
+  },
+  "anomalyFlags": [
+    {
+      "type": "reader-address",
+      "passage": "Another student is part of this scene—ideally a student the characters have interacted with, or you may choose another student from the “Fellow Students” section.",
+      "location": "All the World’s a Stage",
+      "anchor": "AlltheWorldsaStage",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "When you’re ready to begin this event, read or paraphrase the following:",
+      "location": "All the World’s a Stage",
+      "anchor": "AlltheWorldsaStage",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "Yodeling, mocking chants, dramatic intonations, baritone singing, and other enthusiastic sounds reach your ears as a rowdy, laughing group of students comes into view.",
+      "location": "All the World’s a Stage",
+      "anchor": "AlltheWorldsaStage",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "It’s hilarious—you’ve got to come check it out!",
+      "location": "All the World’s a Stage",
+      "anchor": "AlltheWorldsaStage",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "Cheers, jeers, and the buzzing of kazoos ring out as you draw near the Rose Stage on Silverquill College’s campus.",
+      "location": "Rose Stage Festival",
+      "anchor": "RoseStageFestival",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "“You here to act?",
+      "location": "Rose Stage Festival",
+      "anchor": "RoseStageFestival",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "Or maybe you’re the musical talent?",
+      "location": "Rose Stage Festival",
+      "anchor": "RoseStageFestival",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "I can’t wait to see what you try!",
+      "location": "Rose Stage Festival",
+      "anchor": "RoseStageFestival",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "To increase the level of the challenge—and the fun—you might have interested players roll their characters’ prompts randomly on the Festival Character Prompts table.",
+      "location": "Perform on Stage",
+      "anchor": "PerformonStage",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "What used to be a comically posed owlbear painted on wood is transforming into a real and enraged owlbear, and it’s rampaging right toward you!",
+      "location": "Exit, Pursued by an Owlbear",
+      "anchor": "ExitPursuedbyanOwlbear",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    }
+  ],
+  "contentHtml": "<h1 class=\"compendium-hr\" id=\"AlltheWorldsaStage\">All the World’s a Stage</h1>\n\n<p>A short while after their third Exam, the characters become aware of the buzz on campus regarding the Rose Stage Festival. Held every year, the Rose Stage Festival blends performing arts and improvisation to produce a new play. The entire student body is invited to participate or spectate as they wish. (For more about the festival, see the “<a href=\"#RoseStageFestival\" title=\"Rose Stage Festival\">Rose Stage Festival</a>” section below.)</p>\n<p>Another student is part of this scene—ideally a student the characters have interacted with, or you may choose another student from the “<a href=\"/chapters/strixhaven-relationships/#FellowStudents\" title=\"Fellow Students\">Fellow Students</a>” section.</p>\n<p>When you’re ready to begin this event, read or paraphrase the following:</p>\n<aside class=\"read-aloud-text\" id=\"session-read-aloud-1\">\n<p>Yodeling, mocking chants, dramatic intonations, baritone singing, and other enthusiastic sounds reach your ears as a rowdy, laughing group of students comes into view.</p>\n</aside>\n<p>A student sees the characters and shouts a greeting. Beckoning the characters closer, the student says:</p>\n<aside class=\"read-aloud-text\" id=\"session-read-aloud-2\">\n<p>“We’re on our way to the Rose Stage over on Silverquill’s campus. The Rose Stage Festival is finally here! Everyone’s already practicing their performances!”</p>\n<p>“The festival is all about improv. The drama guild gives out prompts, and anyone who wants can take the stage and deliver their lines however they please. It’s hilarious—you’ve got to come check it out!”</p>\n</aside>\n<figure class=\"compendium-image\" id=\"imgrosestage\">\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/03-035.png\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/03-035.png\" class=\"ddb-lightbox-inner compendium-center-banner-img\" style=\"width: 850px;\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a>\n<figcaption>The Rose Stage hosts everything from intimate poetry readings to grandiose multimedia performances</figcaption>\n</figure>\n<h2 class=\"compendium-hr heading-anchor\" id=\"TheRoseStage\">The Rose Stage</h2>\n<p>A popular outdoor performing space, the Rose Stage holds benches for spectators, an orchestra pit, and a large main stage decorated with a huge rose. An enclosed annex building behind the main stage serves as a preparation area for performers, as well as a storage area for stage equipment and props.</p>\n<p>The Rose Stage is available to any group or course on campus. The Playactors Drama Guild often uses the stage to rehearse and perform, and other amateur groups and courses with a performance component regularly do so as well. The Playactors Drama Guild is organizing the festival.</p>\n<p>Students of all years and colleges can be found in and around the Rose Stage, as can professors from all parts of Strixhaven. See <a href=\"/chapters/strixhaven-friends-and-foes/\" title=\"chapter 7\">chapter 7</a> for stat blocks for <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160303-first-year-student\" data-tooltip-href=\"/monsters/2160303-tooltip\">first-year students</a>, and for apprentices, pledgemages, and professors from the different colleges.</p>\n<aside class=\"rules-text\" id=\"SettingupSedgemoor\">\n<p>SETTING UP SEDGEMOOR</p>\n<p>The characters will have heard about Sedgemoor during their first year at Strixhaven, but they have likely had no reason to explore the bayou surrounding the Witherbloom College campus. That changes when Verelda Lang (the characters’ Magical Physiologies professor) assigns them to collect material components in Sedgemoor for her spells. Set up this assignment in the course of preparing for this event, so that the characters have the task already in mind when they learn of the connections between Sedgemoor and the strange magic plaguing the campus.</p>\n</aside>\n<h3 class=\"compendium-hr heading-anchor\" id=\"RoseStageLocations\">Rose Stage Locations</h3>\n<p>The following locations are keyed to map 3.5. All descriptions assume the characters are present in daylight hours during the Rose Stage Festival. At night, the area is devoid of students and the doors to the annex building are locked.</p>\n<figure id=\"Map35therosestage\" class=\"compendium-image\">\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/map-3.5-the-rose-stage.jpg\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/map-3.5-the-rose-stage.jpg\" class=\"ddb-lightbox-inner compendium-center-banner-img\" style=\"width: 850px;\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a>\n<figcaption>Map 3.5: the rose stage <a class=\"ddb-lightbox-outer\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/map-3.5-the-rose-stage-player.jpg\" data-lightbox=\"1\" data-title=\"View Player Version\" id=\"session-player-map-1\">View Player Version</a></figcaption>\n</figure>\n<h4 class=\"compendium-hr heading-anchor\" id=\"R1GeneralSeating\">R1. General Seating</h4>\n<p>This area contains rows of benches, magically treated to resist the elements, and with low-sloping ramps set between them. During the festival, some fifty students can be found in this area, sitting, chatting, and watching the performances.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"R2OrchestraPit\">R2. Orchestra Pit</h4>\n<p>This sunken area is reserved for the student or professional musicians who accompany musical productions or provide ambient music for other stage shows. During the festival, members of the Strixhaven Show Band Association hand out kazoos from this spot to any spectators who wish to accompany the improvised performances.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"R3MainStage\">R3. Main Stage</h4>\n<p>This impressively large oval stage has ample room for performers, props, and other set pieces. A wide set of magic steps rises 5 feet to the stage; sections of it are enchanted to move and reshape themselves for full accessibility. Pillars to the east and west of the stage are used by production groups to rig backdrops and other set pieces.</p>\n<p>All improvisational acting during the festival must take place on the stage. Members of the Playactors Drama Guild are set up to the south of the stage, handing out random character prompts. (See the “<a href=\"#RoseStageFestival\" title=\"Rose Stage Festival\">Rose Stage Festival</a>” section for more information.)</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"R4BackstageDoors\">R4. Backstage Doors</h4>\n<p>When regular plays are being performed at the Rose Stage, these doors open up to an area where student performers wait for their cues before discreetly ascending to the main stage. During the festival, this area is empty.</p>\n<p>Although the doors are locked at night, any character who is a member of the Playactors Drama Guild has a key that opens the doors, or a character can pick the lock with a successful DC 25 Dexterity check using thieves’ tools.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"R5RoseRoom\">R5. Rose Room</h4>\n<p>Normally used for performers to dress, apply makeup, and make other preparations before a show, this area is empty during the festival.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"R6StorageHall\">R6. Storage Hall</h4>\n<p>These short hallways connect the main areas of the annex building to its two storage rooms.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"R7StageStorageArea\">R7. Stage Storage Area</h4>\n<p>These areas hold props, equipment, and supplies used for the Rose Stage’s productions. Most of what’s here is marked “Property of the Playactors Drama Guild,” though a few items and boxes are unmarked.</p>\n<p><em><strong>Treasure.</strong></em> A thorough search and a successful DC 15 Wisdom (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/14-tooltip\">Perception</a>) check reveals several valuable items in each storage area. An unmarked box in the west storage area holds three <a class=\"tooltip-hover item-tooltip\" href=\"https://www.dndbeyond.com/equipment/71-potion-of-healing\" data-tooltip-href=\"/adventuring-gear/71-tooltip\">potions of healing</a>, held in reserve in case performers are accidentally injured while on stage. In the east storage area, lying forgotten under an unmarked crate, is a <a class=\"tooltip-hover magic-item-tooltip\" href=\"https://www.dndbeyond.com/magic-items/4581-bag-of-holding\" data-tooltip-href=\"/magic-items/4581-tooltip\">bag of holding</a> and a <a class=\"tooltip-hover magic-item-tooltip\" href=\"https://www.dndbeyond.com/magic-items/4239823-silverquill-primer\" data-tooltip-href=\"/magic-items/4239823-tooltip\">Silverquill primer</a> (see <a href=\"/chapters/strixhaven-character-options/#SilverquillPrimer\" title=\"chapter 2\">chapter 2</a>).</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"RoseStageFestival\">Rose Stage Festival</h3>\n<p>Characters following the student who got their attention can make their way to the Rose Stage for the festival, where another student catches their attention. This person should also be a student the characters have interacted with previously. Read or paraphrase the following, altering the text to incorporate the student’s name or other details:</p>\n<aside class=\"read-aloud-text\" id=\"session-read-aloud-3\">\n<p>Cheers, jeers, and the buzzing of kazoos ring out as you draw near the Rose Stage on Silverquill College’s campus. On the main stage, several students playact histrionically. One wears a flamboyant noble’s costume, another wears a felt dragon’s head, and a third wears a court jester’s pantaloons. The audience roars with laughter as the scene plays out.</p>\n</aside>\n<p>A familiar smiling figure approaches the characters. Brandishing a kazoo and laughing, the student says:</p>\n<aside class=\"read-aloud-text\" id=\"session-read-aloud-4\">\n<p>“You here to act? Or maybe just to watch? Or maybe you’re the musical talent? Either way, this is going to be great! I can’t wait to see what you try!”</p>\n</aside>\n<p>The Rose Stage Festival is an improvisational performance that the Playactors Drama Guild puts together every year, and everyone on campus is invited to participate. The goal is to create as much hilarity and fun as possible, and the antics of some festivals are talked about on campus for years.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"TheShow\">The Show</h4>\n<p>Members of the Playactors Drama Guild hand out lists of random character prompts to anyone who wants to try acting. Anyone who wishes to play a character on stage chooses a prompt, dons a few costume elements from the trunks of costumes provided by the Playactors Drama Guild, and lines up on the east end of the main stage (<a href=\"#R3MainStage\" title=\"area R3\">area R3</a>). There, Quentillius Antiphiun Melentor III (neutral human <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160303-first-year-student\" data-tooltip-href=\"/monsters/2160303-tooltip\">first-year student</a>; see the “<a href=\"/chapters/strixhaven-relationships/#QuentilliusAntiphiunMelentorIII\" title=\"Fellow Students\">Fellow Students</a>” section) instructs a waiting participant to “tag in” to the ongoing performance and “tag out” someone currently on stage. Quentillius keeps the transitions narratively clean, while members of the crowd cheer, jeer, and shout ideas to the improvising actors. Other participants work the random props, set pieces, and sound effects the Playactors Drama Guild has strewn about the stage area to augment the improvised events.</p>\n<p>Members of the crowd might play kazoos to musically accompany the drama on stage. A number of members of the Strixhaven Show Band Association are handing out kazoos from the orchestra pit (<a href=\"#R2OrchestraPit\" title=\"area R2\">area R2</a>), including student conductor Rubina Larkingdale (lawful neutral human <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160303-first-year-student\" data-tooltip-href=\"/monsters/2160303-tooltip\">first-year student</a>; see the “<a href=\"/chapters/strixhaven-relationships/#RubinaLarkingdale\" title=\"Fellow Students\">Fellow Students</a>” section).</p>\n<p>The festival’s improvised play continues until all volunteer performers have exhausted their prompts. More frequently, however, a faculty member needs to shut down the festival, which becomes increasingly rowdy later into the night.</p>\n<p>The following subsections detail the ways in which the characters can join the fun.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"PerformonStage\">Perform on Stage</h4>\n<p>A character who wants to perform chooses a character prompt and whatever costume pieces catch their eye and then heads to the east side of the stage (<a href=\"#R3MainStage\" title=\"area R3\">area R3</a>). After waiting a short while, Quentillius signals a break in the action so that the new performer can take the stage. The player character can act out their improv character in the performance any way they like. Raising the creativity beyond just acting to incorporate singing, rapping, or dancing is encouraged! No matter what approach the player takes to their character’s performance, impressing the crowd also requires a successful DC 13 Charisma (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/18-tooltip\">Performance</a>) check. (If another ability check or skill feels applicable to an unconventional performance, feel free to let the character make that check instead.) A successful ability check results in the crowd’s cheering and whistling, while a failed check results in boos and jeers. Further, the character whose Charisma (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/18-tooltip\">Performance</a>) check is highest earns a valuable reward from an appreciative professor after this event ends; see “<a href=\"#AProfessorsAppreciation\" title=\"A Professor’s Appreciation\">A Professor’s Appreciation</a>.”</p>\n<p>To increase the level of the challenge—and the fun—you might have interested players roll their characters’ prompts randomly on the Festival Character Prompts table.</p>\n<table id=\"FestivalCharacterPrompts\" class=\"table-compendium table--generic-dice\">\n<caption class=\"heading-anchor\"><a href=\"#FestivalCharacterPrompts\"></a>Festival Character Prompts</caption>\n<thead>\n<tr>\n<th>d12</th>\n<th>Prompt</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1</td>\n<td>Cowardly monarch</td>\n</tr>\n<tr>\n<td>2</td>\n<td>Brilliant but exasperated knight</td>\n</tr>\n<tr>\n<td>3</td>\n<td>Rampaging but erudite sea serpent</td>\n</tr>\n<tr>\n<td>4</td>\n<td>Furious ship’s captain</td>\n</tr>\n<tr>\n<td>5</td>\n<td>Paranoid wizard</td>\n</tr>\n<tr>\n<td>6</td>\n<td>Businessperson transformed into a cat</td>\n</tr>\n<tr>\n<td>7</td>\n<td>Swashbuckling servant</td>\n</tr>\n<tr>\n<td>8</td>\n<td>Bawdy noble</td>\n</tr>\n<tr>\n<td>9</td>\n<td>Mage who can’t control their magic</td>\n</tr>\n<tr>\n<td>10</td>\n<td>Toddler in an adult’s body</td>\n</tr>\n<tr>\n<td>11</td>\n<td>Adult in a toddler’s body</td>\n</tr>\n<tr>\n<td>12</td>\n<td>Very hungry monster</td>\n</tr>\n</tbody>\n</table>\n<h4 class=\"compendium-hr heading-anchor\" id=\"HandleProps\">Handle Props</h4>\n<p>A character who doesn’t want to perform can handle props from the ends of the stage. When Quentillius cues them, the character can bring one of the many prepared stage props to the performers, move a set piece around the stage, or improvise sound effects to augment the improvised play. This might include carrying wooden cutouts of painted waves during a nautical scene, rolling fake monsters near the actors when danger threatens and impersonating the monsters’ snarls, handing dueling actors improbable “weapons,” or the like. Responding to the cues in a way that complements the action on stage requires a successful DC 13 Wisdom (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/12-tooltip\">Insight</a>) check.</p>\n<p>When a character handles props, allow them to choose the props they like most from the Festival Props table or have them roll on that table. These props are scattered around the outer stage.</p>\n<p>Though prop-handling characters have no way to know it, one of the wooden cutout monsters turns into a real owlbear in the next section!</p>\n<table id=\"FestivalProps\" class=\"table-compendium table--generic-dice\">\n<caption class=\"heading-anchor\"><a href=\"#FestivalProps\"></a>Festival Props</caption>\n<thead>\n<tr>\n<th>d8</th>\n<th>Prop</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1</td>\n<td>Wooden cutouts on wheels of an owlbear, a basilisk, and a chimera</td>\n</tr>\n<tr>\n<td>2</td>\n<td>Wooden cutouts of painted waves</td>\n</tr>\n<tr>\n<td>3</td>\n<td>A large wooden cutout of a ship</td>\n</tr>\n<tr>\n<td>4</td>\n<td>Rainclouds with glittery raindrops</td>\n</tr>\n<tr>\n<td>5</td>\n<td>Wooden cutouts of random elemental spells</td>\n</tr>\n<tr>\n<td>6</td>\n<td>Three enormous, baggy bodysuits made out of felt with hoods that look like teeth</td>\n</tr>\n<tr>\n<td>7</td>\n<td>Several out-of-tune instruments, including a hurdy-gurdy, a zither, and a mandolin</td>\n</tr>\n<tr>\n<td>8</td>\n<td>Six four-foot-tall scepters made of aluminum inlaid with “gems” made of shiny glass</td>\n</tr>\n</tbody>\n</table>\n<h4 class=\"compendium-hr heading-anchor\" id=\"AccompanywithKazoo\">Accompany with Kazoo</h4>\n<p>A character might highlight a performance by their friends—or razz an adversary—using one of the kazoos that Rubina and other members of the Strixhaven Show Band Association are handing out at <a href=\"#R2OrchestraPit\" title=\"area R2\">area R2</a>. Highlighting the antics on stage effectively requires a successful DC 13 Charisma (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/18-tooltip\">Performance</a>) check (though another skill might be more applicable, depending on the character’s goal). A successful check grants one character performing on stage advantage or disadvantage on their Charisma (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/18-tooltip\">Performance</a>) check to perform.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"EncourageaPerformer\">Encourage a Performer</h4>\n<p>If a character shouts encouragement to another player character performing on stage, the on-stage character has advantage on their ability check to perform.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"HeckleaPerformer\">Heckle a Performer</h4>\n<p>A character might jeer at a performer on the stage. If they taunt a player character or the NPC partner of a player character, that character has disadvantage on their ability check to perform.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"RelationshipEncounter2\">Relationship Encounter</h4>\n<p>During the festival, characters might mingle with other students. If there are students the characters wish to earn Relationship Points with, treat this as a Relationship encounter, as described earlier in the chapter. Have players note the results of this encounter on their tracking sheets.</p>\n<figure class=\"compendium-image\" id=\"imgconcerts\">\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/03-036.concerts.png\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/03-036.concerts.png\" class=\"ddb-lightbox-inner compendium-center-banner-img\" style=\"width: 850px;\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a>\n<figcaption>World-class concerts happen regularly on the Rose Stage</figcaption>\n</figure>\n<h3 class=\"compendium-hr heading-anchor\" id=\"ExitPursuedbyanOwlbear\">Exit, Pursued by an Owlbear</h3>\n<p>After the characters have all had a chance to take part in the performance, read or paraphrase the following:</p>\n<aside class=\"read-aloud-text\" id=\"session-read-aloud-5\">\n<p>The crowd roars with laughter and the festival appears to be reaching its height—when suddenly, confused guffaws followed by screams of terror ring out.</p>\n<p>One of the stage props barrels away from its handler, monstrous shrieks coming from its frothing beak. What used to be a comically posed owlbear painted on wood is transforming into a real and enraged owlbear, and it’s rampaging right toward you!</p>\n</aside>\n<p>The owlbear prop turns into an actual attacking <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/16975-owlbear\" data-tooltip-href=\"/monsters/16975-tooltip\">owlbear</a>. Assume the owlbear is on whichever side of the stage is closest to the most characters. The player characters must jump into action quickly to defend the other students. When they do, if a character made a successful ability check during the Rose Stage Festival, they have advantage on their first attack against the owlbear.</p>\n<p>Further, because the characters learned about owlbears in their <a href=\"/chapters/strixhaven-work-hard-play-harder/#MagicalPhysiologiesExamOwlbears\" title=\"second Exam\">second Exam</a> event of the term, any character who aced that Exam has advantage on all attack rolls during this encounter.</p>\n<p>At the same time the characters are dealing with the owlbear, the other performers and stage crew step up in the background to deal with lesser threats as other props animate and begin to fly around the stage.</p>\n<p>Once the characters defeat the owlbear, it turns back into a wooden prop and the magic infecting other objects in the area ends.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"EndingtheThreat3\">Ending the Threat</h4>\n<p>If all the characters fall <a class=\"tooltip-hover condition-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#UnconsciousCondition\" data-tooltip-href=\"/conditions/15-tooltip\">unconscious</a> during this fight, Professor Johenne Totsky (neutral human <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160333-silverquill-professor-of-shadow\" data-tooltip-href=\"/monsters/2160333-tooltip\">Silverquill professor of shadow</a>; see <a href=\"/chapters/strixhaven-friends-and-foes/#SilverquillProfessorofShadow\" title=\"chapter 7\">chapter 7</a>) appears at the start of the next round and dispatches the threat. The professor, who was lingering in the area watching the performance, is as baffled as the characters as to why a stage prop would turn into a real monster.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"AProfessorsAppreciation\">A Professor’s Appreciation</h3>\n<p>Once the characters have participated in the Rose Stage Festival and dispatched the owlbear threat, if she’s not already on the scene, Professor Totsky approaches the characters and applauds them. She thanks them for dispatching the threat, and she compliments any character who made a successful ability check during the performance. A lover of theater who is immaculately dressed, the professor tells the characters that she recently commissioned a new cloak; she offers the cloak she’s wearing in appreciation of the character whose Charisma (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/18-tooltip\">Performance</a>) check to perform on stage was highest. The cloak is a <a class=\"tooltip-hover magic-item-tooltip\" href=\"https://www.dndbeyond.com/magic-items/4607-cloak-of-protection\" data-tooltip-href=\"/magic-items/4607-tooltip\">cloak of protection</a>.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"ExaminingtheOwlbear\">Examining the Owlbear</h3>\n<p>Once the threat is ended, the characters can examine the owlbear to learn more about this incident. If they do, they find the same oily substance they might have found on the trunk during orientation, seen belched out by the frogs before the Firejolt Café race, or spotted on the cauldrons in Bow’s End Tavern.</p>\n<p>If she hasn’t already entered the scene, Professor Totsky arrives while the characters examine the substance. She initially shrugs it off as irrelevant, given that its magic has already faded. But if the characters explain everything they’ve seen at the past year’s strange events to reveal the unseen connections between those events, Professor Totsky realizes what’s going on.</p>\n<p>She explains eldritch balm to the characters and says she believes it’s likely that the Sedgemoor waters used to brew the latest batch of eldritch balm were corrupted in some way. She doesn’t necessarily suspect foul play but mentions that, in the past, students have been caught practicing forbidden magic in the more remote parts of Sedgemoor, the bayou that encompasses Witherbloom College’s campus. Such sinister magic might be responsible for the balm’s corruption, but a random surge of wild magic is an equally likely explanation in her mind. In any case, this corruption must have caused objects treated with the eldritch balm and creatures that came into contact with it to take on temporary—and dangerous—magical properties.</p>\n<p>Professor Totsky gives the characters a <a class=\"tooltip-hover item-tooltip\" href=\"https://www.dndbeyond.com/equipment/50-holy-water-flask\" data-tooltip-href=\"/adventuring-gear/50-tooltip\">flask of holy water</a> and explains that pouring it into the underwater spring whose waters are used to create eldritch balm will settle the waters and prevent further corruption. She describes the location of the spring (<a href=\"#S7UnderwaterSpring\" title=\"area S7\">area S7</a> on <a href=\"#Map36sedgemoor\" title=\"map 3.6\">map 3.6</a>) to help the characters find it. She urges the characters to take on this task so she can immediately track down the rest of the contaminated balm and remove it from objects on campus.</p>\n<h2 class=\"compendium-hr heading-anchor\" id=\"SecretsinSedgemoor\">Secrets in Sedgemoor</h2>\n<p>The day after the incident at the Rose Stage Festival, the characters are scheduled to collect spell components from Sedgemoor and bring those samples back to Professor Lang, who teaches their Magical Physiologies course. This gives them a convenient opportunity to investigate that area on behalf of Professor Totsky.</p>\n<p>The characters know that they must pour the flask of holy water given to them by Professor Totsky into an underwater spring somewhere in area S7. Doing so should prevent future flare-ups of the wild magic that tainted the eldritch balm behind all the strange campus mishaps. In addition, they can find Murgaxor’s journal, which points to a spellcaster’s troublesome meddling, in <a href=\"#S7UnderwaterSpring\" title=\"area S7\">area S7</a>.</p>\n<p>When the characters venture into Sedgemoor, read or paraphrase the following to set the scene:</p>\n<aside class=\"read-aloud-text\" id=\"session-read-aloud-6\">\n<p>Your expedition has brought you to one of the more dismal parts of Sedgemoor, the bayou that encompasses the Witherbloom campus. Muddy swamp water flows between raised islets covered with fungi and foliage. Large tree stumps jut out of the water in random places. A pair of rickety wooden docks and two wooden huts are the only indication that people ever come here.</p>\n</aside>\n<h3 class=\"compendium-hr heading-anchor\" id=\"CollectingSpellComponents\">Collecting Spell Components</h3>\n<p>The characters start out at the southeast corner (<a href=\"#S1MarshBanks\" title=\"area S1\">area S1</a>) of the Sedgemoor map. They can collect the spell components from areas <a href=\"#S2SouthIslet\" title=\"S2\">S2</a>, <a href=\"#S3CentralIslet\" title=\"S3\">S3</a>, and <a href=\"#S7UnderwaterSpring\" title=\"S7\">S7</a>. At the start, allow only one successful check per islet, to encourage the characters to explore. Once all three islets are explored, the characters can make any number of attempts to gather components on any islet.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"Sedgemoor\">Sedgemoor</h3>\n<p>Encompassing Witherbloom College’s campus, Sedgemoor is a wild bayou known for the range of strange creatures that call it home. It is also a rich source of fungi, herbs, spider silk, and other prime components for spells and potions.</p>\n<p>Sedgemoor isn’t usually dangerous, and it’s routine for students to be sent here as part of their coursework.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"SedgemoorFeatures\">Sedgemoor Features</h4>\n<p>Sedgemoor has the following features:</p>\n<p><strong>Building Doors.</strong> The doors to the research sheds (<a href=\"#S4SouthResearchShed\" title=\"areas S4\">areas S4</a> and <a href=\"#S5NorthResearchShed\" title=\"S5\">S5</a>) are unlocked.</p>\n<p><strong>Swamp Water.</strong> The watery areas on the map are shallow along the shore, growing deeper off the map. Characters walking between islets and tree stumps sink several inches in mud and water, making all these areas <a class=\"tooltip-hover rule-tooltip\" href=\"https://www.dndbeyond.com/sources/basic-rules/adventuring#DifficultTerrain\" data-tooltip-href=\"/rules/86-tooltip\">difficult terrain</a>.</p>\n<p><strong>Tree Stumps.</strong> Stumps protrude 5 feet above the surface of the water. Their slippery and unstable surfaces mean that climbing onto a stump without falling requires a successful DC 15 Strength (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/2-tooltip\">Athletics</a>) check as part of the move.</p>\n<h3 class=\"compendium-hr heading-anchor\" id=\"SedgemoorLocations\">Sedgemoor Locations</h3>\n<p>The following locations are keyed to map 3.6. All descriptions assume the characters are exploring this area during the day.</p>\n<p><a href=\"#S7UnderwaterSpring\" title=\"Area S7\">Area S7</a> holds the contaminated spring that is the root cause of the strange manifestations of magic on campus over the previous months. If you’re running this as a campaign, Murgaxor’s journal is also in area S7. As the characters explore, you can have them spot the bubbling of the underwater spring in that area to draw them in.</p>\n<figure id=\"Map36sedgemoor\" class=\"compendium-image\">\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/map-3.6-sedgemoor.jpg\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/map-3.6-sedgemoor.jpg\" class=\"ddb-lightbox-inner compendium-center-banner-img\" style=\"width: 850px;\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a>\n<figcaption>Map 3.6: sedgemoor <a class=\"ddb-lightbox-outer\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/map-3.6-sedgemoor-player.jpg\" data-lightbox=\"1\" data-title=\"View Player Version\" id=\"session-player-map-2\">View Player Version</a></figcaption>\n</figure>\n<h4 class=\"compendium-hr heading-anchor\" id=\"S1MarshBanks\">S1. Marsh Banks</h4>\n<aside class=\"read-aloud-text\" id=\"session-read-aloud-7\">\n<p>Beyond some scrubby bushes, the solid ground here gives way to the muddy swamp. Rickety wooden docks jut into the water, but there are no rafts or boats nearby.</p>\n</aside>\n<p>Rafts and shallow-bottomed punts are normally kept here, but they are all currently in use by Witherbloom students on assignments farther out on the water. The characters need to make their way into Sedgemoor on foot or by other means.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"S2SouthIslet\">S2. South Islet</h4>\n<p>This is one of the three islets (along with areas S3 and <a href=\"#S7UnderwaterSpring\" title=\"S7\">S7</a>) where the characters can collect spell components for Professor Lang.</p>\n<p>Any character who ventures into the swamp on the west side of this islet stumbles into an area of quicksand. See <a href=\"https://www.dndbeyond.com/sources/dmg/adventure-environments#Quicksand\" title=\"chapter 5\">chapter 5</a> of the <a class=\"sourcebook\" href=\"https://www.dndbeyond.com/sources/dmg\" title=\"Dungeon Master’s Guide\">Dungeon Master’s Guide</a> for details.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"S3CentralIslet\">S3. Central Islet</h4>\n<aside class=\"read-aloud-text\" id=\"session-read-aloud-8\">\n<p>The largest islet in this part of the swamp, this landmass features two wooden research sheds with an ancient tree stump between them.</p>\n</aside>\n<p>This is one of the three islets (along with areas S2 and S7) where the characters can collect spell components for Professor Lang.</p>\n<p>Hiding behind the tree stump in the center of this islet are two snarling <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/17063-worg\" data-tooltip-href=\"/monsters/17063-tooltip\">worgs</a>, which were drawn here by the strange magic in the area. The worgs are hostile and attack as soon as any character sets foot on the island, snarling, “The dark magic! Give it to us!” They run off if the characters reduce one or both of them to 13 or fewer hit points.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"S4SouthResearchShed\">S4. South Research Shed</h4>\n<p>One of two small research sheds on the central islet, this building holds supplies and equipment for Witherbloom students and faculty doing research in Sedgemoor. Moss and fungi harvesting kits can be found here. Each kit weighs 1 pound, consists of various cutting and collecting tools, and grants advantage on a character’s Intelligence (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/9-tooltip\">Nature</a>) checks to harvest spell components.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"S5NorthResearchShed\">S5. North Research Shed</h4>\n<p>The second of two small research sheds serves as a gathering area for Witherbloom students and faculty when classes take place in the bayou.</p>\n<p><em><strong>Treasure.</strong></em> Any search of this area turns up two <a class=\"tooltip-hover item-tooltip\" href=\"https://www.dndbeyond.com/equipment/71-potion-of-healing\" data-tooltip-href=\"/adventuring-gear/71-tooltip\">potions of healing</a>.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"S6EastIslet\">S6. East Islet</h4>\n<p>This is one of the three islets (along with areas <a href=\"#S2SouthIslet\" title=\"S2\">S2</a> and <a href=\"#S3CentralIslet\" title=\"S3\">S3</a>) where the characters can collect spell components for Professor Lang.</p>\n<p>A <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/17030-swarm-of-poisonous-snakes\" data-tooltip-href=\"/monsters/17030-tooltip\">swarm of poisonous snakes</a> nests on this island. It attacks when a character sets foot on this islet, though the snakes disperse and flee if the swarm is reduced to 5 hit points or fewer.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"S7UnderwaterSpring\">S7. Underwater Spring</h4>\n<aside class=\"read-aloud-text\" id=\"session-read-aloud-9\">\n<p>A steady, burbling flow of water disturbs the surface of the swamp just to the north of this small islet.</p>\n</aside>\n<p>An underground spring flows here. If the characters are quiet for a moment when they are within 20 feet of this area, they can hear the spring burbling (and tell which direction the sound is coming from).</p>\n<p>After the characters arrive in this area, have each of them make a DC 16 Wisdom (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/14-tooltip\">Perception</a>) check. Those who succeed notice the waters in this area rippling unnaturally. The muddy Sedgemoor waters suddenly spray into the sky like a geyser and a mighty chittering echoes throughout the swamp. A <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/16892-giant-scorpion\" data-tooltip-href=\"/monsters/16892-tooltip\">giant scorpion</a>, corrupted by the same menace the characters are hoping to stop, was lurking here to ambush prey. If all the characters failed the Wisdom (<a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/14-tooltip\">Perception</a>) checks, the scorpion has advantage on its first attack roll against each of those characters. The scorpion is berserk and fights to the death.</p>\n<p><em><strong>Clearing the Waters.</strong></em> With the scorpion defeated, the characters must pour their <a class=\"tooltip-hover item-tooltip\" href=\"https://www.dndbeyond.com/equipment/50-holy-water-flask\" data-tooltip-href=\"/adventuring-gear/50-tooltip\">holy water</a> from Professor Totsky into the spring. When they do, the liquid from Totsky’s flask purifies the spring, ending the threat of corruption.</p>\n<p><em><strong>Murgaxor’s Journal.</strong></em> If you’re running all four adventures in this book as a campaign, a character spots a small, oilskin-wrapped journal sitting atop a small stump. Water damage has rendered much of the journal unreadable, but what remains reveals sinister thoughts. It’s clear that some nefarious personality has been experimenting with life-draining magic in the marsh and has been doing so for some time.</p>\n<p>The journal belonged to the evil <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/2160313-murgaxor\" data-tooltip-href=\"/monsters/2160313-tooltip\">Murgaxor</a>; it slipped out of his pocket while he practiced the corrupting magic that caused this academic year’s mishaps. The journal notes that Murgaxor’s last step in this scheme involved the Rose Stage Festival, so it’s clear he has no more immediate plans to threaten campus. However, this isn’t the end of his villainy—the true extent becomes clear in later adventures.</p>\n<figure id=\"imgcreatures\" class=\"compendium-image\">\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/03-037.strange-creatures.png\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/sacoc/zBbqVwSoOPBn2DCM/03-037.strange-creatures.png\" class=\"ddb-lightbox-inner compendium-center-banner-img\" style=\"width: 850px;\" alt=\"\" loading=\"lazy\" decoding=\"async\"></a>\n<figcaption>Strange creatures live in the swampy areas of Strixhaven’s<br>campus. Sometimes those creatures are dangerous</figcaption>\n</figure>\n<h3 class=\"compendium-hr heading-anchor\" id=\"EndoftheYear\">End of the Year</h3>\n<p>After the characters complete their investigation of the Sedgemoor spring, no more significant events happen before the end of the year. Wrap up any ongoing roleplaying scenes or Relationship interests the characters are pursuing this academic year.</p>\n<h4 class=\"compendium-hr heading-anchor\" id=\"CampusHeroes\">Campus Heroes</h4>\n<p>Thanks to the central role they played in dealing with the outbreaks of kerfuffles, the characters have become well known across the entire campus. Professors thank them for their bravery, and the characters are named Students of the Year in a lavish ceremony on the central campus attended by their Friends, Rivals, and Beloveds, as well as any professors they’ve encountered this academic year. They’re also vaunted in the <em>Strixhaven Star</em> newspaper as heroes. Feel free to use additional roleplaying scenes and other details to reinforce how the characters’ actions have made a name for them!</p>\n<h2 class=\"compendium-hr heading-anchor\" id=\"Advanceto4thLevel\">Advance to 4th Level!</h2>\n<p>Each character advances to 4th level at the end of this adventure.</p>"
+}

@@ -1,0 +1,473 @@
+{
+  "title": "Friends and Foes",
+  "sourcebook": "Strixhaven: A Curriculum of Chaos",
+  "bookSlug": "strixhaven-a-curriculum-of-chaos",
+  "originalPath": "Arcavios/Stixhaven/Chapter 18 - Friends And Foes.html",
+  "rawUrl": "/archive/strixhaven/Chapter%2018%20-%20Friends%20And%20Foes.html",
+  "sourceHash": "b761c697a77608e4af49b6b912bb5dc0de9bcd797a4a8b820cbbbc55809d6af8",
+  "extractionDate": "2026-07-13T07:40:57.647Z",
+  "extractionVersion": 3,
+  "originalAnchors": [
+    {
+      "id": "FriendsandFoes",
+      "text": "Friends and Foes",
+      "element": "h1"
+    },
+    {
+      "id": "comp-next-nav",
+      "text": "",
+      "element": "div"
+    },
+    {
+      "id": "imgsplash",
+      "text": "Strixhaven students battle a mage hunter and an Oriq recruiter",
+      "element": "figure"
+    },
+    {
+      "id": "StrixhavenCreatures",
+      "text": "Strixhaven Creatures Creature Creature Type CR Archaic Celestial 18 Art Elemental Mascot Elemental 1/4 Beledros Witherbloom Dragon 24 Brackish Trudge Plant 3 Co",
+      "element": "table"
+    },
+    {
+      "id": "UsingaStatBlock",
+      "text": "Using a Stat Block",
+      "element": "h2"
+    },
+    {
+      "id": "UnusualAttacksandMagic",
+      "text": "Unusual Attacks and Magic",
+      "element": "h3"
+    },
+    {
+      "id": "MeetingMagicItemPrerequisites",
+      "text": "Meeting Magic Item Prerequisites",
+      "element": "h3"
+    },
+    {
+      "id": "MonstersAM",
+      "text": "Monsters (A-M)",
+      "element": "h2"
+    },
+    {
+      "id": "Archaic",
+      "text": "Archaic",
+      "element": "h3"
+    },
+    {
+      "id": "ArtElementalMascot",
+      "text": "Art Elemental Mascot",
+      "element": "h3"
+    },
+    {
+      "id": "BeledrosWitherbloom",
+      "text": "Beledros Witherbloom",
+      "element": "h3"
+    },
+    {
+      "id": "imgbeledros",
+      "text": "",
+      "element": "figure"
+    },
+    {
+      "id": "BrackishTrudge",
+      "text": "Brackish Trudge",
+      "element": "h3"
+    },
+    {
+      "id": "CogworkArchivist",
+      "text": "Cogwork Archivist",
+      "element": "h3"
+    },
+    {
+      "id": "Daemogoth",
+      "text": "Daemogoth",
+      "element": "h3"
+    },
+    {
+      "id": "imgdaemgoth",
+      "text": "",
+      "element": "figure"
+    },
+    {
+      "id": "DaemogothTitan",
+      "text": "Daemogoth Titan",
+      "element": "h3"
+    },
+    {
+      "id": "BarbedGifts",
+      "text": "Barbed Gifts",
+      "element": "h4"
+    },
+    {
+      "id": "FirstYearStudent",
+      "text": "First-Year Student",
+      "element": "h3"
+    },
+    {
+      "id": "FractalMascot",
+      "text": "Fractal Mascot",
+      "element": "h3"
+    },
+    {
+      "id": "GalazethPrismari",
+      "text": "Galazeth Prismari",
+      "element": "h3"
+    },
+    {
+      "id": "imgprismari",
+      "text": "",
+      "element": "figure"
+    },
+    {
+      "id": "Groff",
+      "text": "Groff",
+      "element": "h3"
+    },
+    {
+      "id": "InklingMascot",
+      "text": "Inkling Mascot",
+      "element": "h3"
+    },
+    {
+      "id": "LoreholdScholars",
+      "text": "Lorehold Scholars",
+      "element": "h3"
+    },
+    {
+      "id": "LoreholdStudents",
+      "text": "Lorehold Students",
+      "element": "h4"
+    },
+    {
+      "id": "imgapprentice",
+      "text": "Lorehold Apprentice",
+      "element": "figure"
+    },
+    {
+      "id": "LoreholdApprentice",
+      "text": "Lorehold Apprentice",
+      "element": "h4"
+    },
+    {
+      "id": "LoreholdPledgemage",
+      "text": "Lorehold Pledgemage",
+      "element": "h4"
+    },
+    {
+      "id": "LoreholdProfessorofChaos",
+      "text": "Lorehold Professor of Chaos",
+      "element": "h4"
+    },
+    {
+      "id": "LoreholdProfessorofOrder",
+      "text": "Lorehold Professor of Order",
+      "element": "h4"
+    },
+    {
+      "id": "MageHunter",
+      "text": "Mage Hunter",
+      "element": "h3"
+    },
+    {
+      "id": "imghunter",
+      "text": "Mage Hunters in Hunter Form",
+      "element": "figure"
+    },
+    {
+      "id": "MonstersOZ",
+      "text": "Monsters (O-Z)",
+      "element": "h2"
+    },
+    {
+      "id": "OracleofStrixhaven",
+      "text": "Oracle of Strixhaven",
+      "element": "h3"
+    },
+    {
+      "id": "Oriq",
+      "text": "Oriq",
+      "element": "h3"
+    },
+    {
+      "id": "imgbloodmage",
+      "text": "",
+      "element": "figure"
+    },
+    {
+      "id": "OriqBloodMage",
+      "text": "Oriq Blood Mage",
+      "element": "h4"
+    },
+    {
+      "id": "OriqRecruiter",
+      "text": "Oriq Recruiter",
+      "element": "h4"
+    },
+    {
+      "id": "imgrecruiter",
+      "text": "",
+      "element": "figure"
+    },
+    {
+      "id": "PestMascot",
+      "text": "Pest Mascot",
+      "element": "h3"
+    },
+    {
+      "id": "PrismariScholars",
+      "text": "Prismari Scholars",
+      "element": "h3"
+    },
+    {
+      "id": "imgscholars",
+      "text": "",
+      "element": "figure"
+    },
+    {
+      "id": "PrismariStudents",
+      "text": "Prismari Students",
+      "element": "h4"
+    },
+    {
+      "id": "imgprismariapprentice",
+      "text": "Prismari Apprentice",
+      "element": "figure"
+    },
+    {
+      "id": "PrismariApprentice",
+      "text": "Prismari Apprentice",
+      "element": "h4"
+    },
+    {
+      "id": "PrismariPledgemage",
+      "text": "Prismari Pledgemage",
+      "element": "h4"
+    },
+    {
+      "id": "PrismariProfessorofExpression",
+      "text": "Prismari Professor of Expression",
+      "element": "h4"
+    },
+    {
+      "id": "imglandscape",
+      "text": "",
+      "element": "figure"
+    },
+    {
+      "id": "PrismariProfessorofPerfection",
+      "text": "Prismari Professor of Perfection",
+      "element": "h4"
+    },
+    {
+      "id": "QuandrixScholars",
+      "text": "Quandrix Scholars",
+      "element": "h3"
+    },
+    {
+      "id": "imgquandrixstudents",
+      "text": "",
+      "element": "figure"
+    },
+    {
+      "id": "QuandrixStudents",
+      "text": "Quandrix Students",
+      "element": "h4"
+    },
+    {
+      "id": "quandriximgapprentice",
+      "text": "Quandrix Apprentice",
+      "element": "figure"
+    },
+    {
+      "id": "QuandrixApprentice",
+      "text": "Quandrix Apprentice",
+      "element": "h4"
+    },
+    {
+      "id": "QuandrixPledgemage",
+      "text": "Quandrix Pledgemage",
+      "element": "h4"
+    },
+    {
+      "id": "QuandrixProfessorofSubstance",
+      "text": "Quandrix Professor of Substance",
+      "element": "h4"
+    },
+    {
+      "id": "QuandrixProfessorofTheory",
+      "text": "Quandrix Professor of Theory",
+      "element": "h4"
+    },
+    {
+      "id": "RelicSloth",
+      "text": "Relic Sloth",
+      "element": "h3"
+    },
+    {
+      "id": "imgsloth",
+      "text": "",
+      "element": "figure"
+    },
+    {
+      "id": "RuinGrinder",
+      "text": "Ruin Grinder",
+      "element": "h3"
+    },
+    {
+      "id": "imggrinder",
+      "text": "",
+      "element": "figure"
+    },
+    {
+      "id": "ShadrixSilverquill",
+      "text": "Shadrix Silverquill",
+      "element": "h3"
+    },
+    {
+      "id": "imgsilverquill",
+      "text": "",
+      "element": "figure"
+    },
+    {
+      "id": "SilverquillScholars",
+      "text": "Silverquill Scholars",
+      "element": "h3"
+    },
+    {
+      "id": "imgsilverquillscholars",
+      "text": "",
+      "element": "figure"
+    },
+    {
+      "id": "SilverquillStudents",
+      "text": "Silverquill Students",
+      "element": "h4"
+    },
+    {
+      "id": "imgsilverquillapprentice",
+      "text": "Silverquill Apprentice",
+      "element": "figure"
+    },
+    {
+      "id": "SilverquillApprentice",
+      "text": "Silverquill Apprentice",
+      "element": "h4"
+    },
+    {
+      "id": "imgpledgemage",
+      "text": "Silverquill Pledgemage",
+      "element": "figure"
+    },
+    {
+      "id": "SilverquillPledgemage",
+      "text": "Silverquill Pledgemage",
+      "element": "h4"
+    },
+    {
+      "id": "SilverquillProfessorofRadiance",
+      "text": "Silverquill Professor of Radiance",
+      "element": "h4"
+    },
+    {
+      "id": "SilverquillProfessorofShadow",
+      "text": "Silverquill Professor of Shadow",
+      "element": "h4"
+    },
+    {
+      "id": "SpiritStatueMascot",
+      "text": "Spirit Statue Mascot",
+      "element": "h3"
+    },
+    {
+      "id": "imgstatuemascot",
+      "text": "",
+      "element": "figure"
+    },
+    {
+      "id": "StrixhavenCampusGuide",
+      "text": "Strixhaven Campus Guide",
+      "element": "h3"
+    },
+    {
+      "id": "TanazirQuandrix",
+      "text": "Tanazir Quandrix",
+      "element": "h3"
+    },
+    {
+      "id": "imgquandrix",
+      "text": "",
+      "element": "figure"
+    },
+    {
+      "id": "VelomachusLorehold",
+      "text": "Velomachus Lorehold",
+      "element": "h3"
+    },
+    {
+      "id": "imglorehold",
+      "text": "",
+      "element": "figure"
+    },
+    {
+      "id": "WitherbloomScholars",
+      "text": "Witherbloom Scholars",
+      "element": "h3"
+    },
+    {
+      "id": "imgwitherbloomscholars",
+      "text": "",
+      "element": "figure"
+    },
+    {
+      "id": "WitherbloomStudents",
+      "text": "Witherbloom Students",
+      "element": "h4"
+    },
+    {
+      "id": "imgwitherbloomapprentice",
+      "text": "",
+      "element": "figure"
+    },
+    {
+      "id": "WitherbloomApprentice",
+      "text": "Witherbloom Apprentice",
+      "element": "h4"
+    },
+    {
+      "id": "imgwitherbloompledgemage",
+      "text": "A Witherbloom pledgemage transforms into an avatar of nature",
+      "element": "figure"
+    },
+    {
+      "id": "WitherbloomPledgemage",
+      "text": "Witherbloom Pledgemage",
+      "element": "h4"
+    },
+    {
+      "id": "WitherbloomProfessorofDecay",
+      "text": "Witherbloom Professor of Decay",
+      "element": "h4"
+    },
+    {
+      "id": "imgprofessorofdecay",
+      "text": "",
+      "element": "figure"
+    },
+    {
+      "id": "WitherbloomProfessorofGrowth",
+      "text": "Witherbloom Professor of Growth",
+      "element": "h4"
+    }
+  ],
+  "transformations": [
+    "Selected the first .p-article-content element.",
+    "Removed scripts, styles, forms, iframes, hidden duplicate labels, and source navigation.",
+    "Removed event handlers and D&D Beyond content-chunk identifiers.",
+    "Rewrote archived sourcebook links to generated reader routes when a local target exists.",
+    "Added lazy image loading and asynchronous decoding hints.",
+    "Added derived IDs to read-aloud, rules, table, and stat-block elements for session navigation.",
+    "Indexed player-version map links as derived session metadata.",
+    "Preserved source wording and original heading IDs; derived metadata remains separate."
+  ],
+  "repairs": []
+}

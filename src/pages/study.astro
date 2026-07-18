@@ -1,0 +1,296 @@
+---
+import { getCollection, type CollectionEntry } from 'astro:content';
+import GrimoireLayout from '../layouts/GrimoireLayout.astro';
+
+type Chapter = CollectionEntry<'chapters'>;
+
+const chapters = (await getCollection('chapters')).sort((a, b) =>
+  a.data.sourcebook.localeCompare(b.data.sourcebook) || a.data.order - b.data.order
+);
+
+const books = Array.from(
+  chapters.reduce((index, chapter) => {
+    const group = index.get(chapter.data.sourcebook) ?? [];
+    group.push(chapter);
+    index.set(chapter.data.sourcebook, group);
+    return index;
+  }, new Map<string, Chapter[]>())
+).map(([sourcebook, bookChapters]) => ({
+  sourcebook,
+  chapters: bookChapters,
+  groups: Array.from(
+    bookChapters.reduce((index, chapter) => {
+      const group = index.get(chapter.data.navGroup) ?? [];
+      group.push(chapter);
+      index.set(chapter.data.navGroup, group);
+      return index;
+    }, new Map<string, Chapter[]>())
+  ).map(([name, groupChapters]) => ({ name, chapters: groupChapters })),
+}));
+
+const chapterBySlug = new Map(chapters.map((chapter) => [chapter.data.slug, chapter]));
+const studyPaths = [
+  {
+    title: 'Learn the campus',
+    description: 'Build the setting model players encounter first: its colleges, landmarks, and daily texture.',
+    slugs: [
+      'strixhaven-welcome-to-strixhaven',
+      'strixhaven-life-at-strixhaven',
+      'strixhaven-campus-map',
+    ],
+  },
+  {
+    title: 'Learn the student game',
+    description: 'Study the rules that make school life matter between adventures.',
+    slugs: [
+      'strixhaven-character-options',
+      'strixhaven-school-is-in-session',
+      'strixhaven-relationships',
+    ],
+  },
+  {
+    title: 'Prepare Year One',
+    description: 'Read the first-year arc in running order, from orientation through the Rose Stage.',
+    slugs: [
+      'strixhaven-campus-kerfuffle',
+      'strixhaven-work-hard-play-harder',
+      'strixhaven-all-the-worlds-a-stage',
+    ],
+  },
+  {
+    title: 'Know the opposition',
+    description: 'Use the bestiary as a visual and mechanical review after reading an adventure.',
+    slugs: ['strixhaven-friends-and-foes'],
+  },
+].map((path) => ({
+  ...path,
+  chapters: path.slugs
+    .map((slug) => chapterBySlug.get(slug))
+    .filter((chapter): chapter is Chapter => Boolean(chapter)),
+}));
+
+const totalWords = chapters.reduce((total, chapter) => total + chapter.data.wordCount, 0);
+const number = new Intl.NumberFormat('en-US');
+---
+
+<GrimoireLayout
+  title="Study desk"
+  description="Reading paths, chapter summaries, and review progress for the Grimoire archive."
+  chapters={chapters}
+>
+  <main id="reader-content" class="study-page dashboard-page">
+    <header class="dashboard-hero">
+      <p class="kicker">Study desk</p>
+      <h1>Turn the archive into working knowledge.</h1>
+      <p>
+        Choose a short reading path or work through the complete shelf. Review marks stay in this
+        browser, so you can leave and resume without changing the preserved books.
+      </p>
+      <dl class="dashboard-stats" aria-label="Archive study totals">
+        <div><dt>{chapters.length}</dt><dd>reader records</dd></div>
+        <div><dt>{number.format(totalWords)}</dt><dd>words indexed</dd></div>
+        <div><dt id="study-complete-count">0</dt><dd>reviewed</dd></div>
+      </dl>
+    </header>
+
+    <section class="progress-panel" aria-labelledby="progress-heading">
+      <div>
+        <p class="eyebrow" id="progress-heading">Your progress</p>
+        <p id="study-progress-copy" aria-live="polite">No chapters reviewed yet.</p>
+      </div>
+      <progress id="study-progress" max={chapters.length} value="0">0%</progress>
+      <label class="compact-toggle">
+        <input id="hide-reviewed" type="checkbox" />
+        Show only unread records
+      </label>
+    </section>
+
+    <section aria-labelledby="paths-heading">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">Guided reading</p>
+          <h2 id="paths-heading">Useful ways into Strixhaven</h2>
+        </div>
+        <a href="/session/">Switch to session prep</a>
+      </div>
+      <div class="path-grid">
+        {studyPaths.map((path) => (
+          <article class="study-path">
+            <h3>{path.title}</h3>
+            <p>{path.description}</p>
+            <ol>
+              {path.chapters.map((chapter) => (
+                <li>
+                  <a href={`/chapters/${chapter.data.slug}/`}>{chapter.data.title}</a>
+                  <span>{number.format(chapter.data.wordCount)} words</span>
+                </li>
+              ))}
+            </ol>
+          </article>
+        ))}
+      </div>
+    </section>
+
+    <section class="complete-shelf" aria-labelledby="shelf-heading">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">Complete shelf</p>
+          <h2 id="shelf-heading">Review every record</h2>
+        </div>
+        <button id="clear-study-progress" class="text-button" type="button">Clear review marks</button>
+      </div>
+
+      {books.map((book) => (
+        <section class="study-book" id={book.chapters[0]?.data.bookSlug} data-study-book>
+          <header>
+            <h3>{book.sourcebook}</h3>
+            <span>{book.chapters.length} records</span>
+          </header>
+          {book.groups.map((group) => (
+            <section class="study-group" data-study-group>
+              <h4>{group.name}</h4>
+              <div class="chapter-study-grid">
+                {group.chapters.map((chapter) => (
+                  <article class="chapter-study-card" data-study-card={chapter.data.slug}>
+                    <label class="review-control">
+                      <input type="checkbox" data-study-slug={chapter.data.slug} />
+                      <span>Reviewed</span>
+                    </label>
+                    <p class="card-kind">{chapter.data.kind} · {chapter.data.audience === 'gm' ? 'GM' : chapter.data.audience}</p>
+                    <h5><a href={`/chapters/${chapter.data.slug}/`}>{chapter.data.title}</a></h5>
+                    <p>{chapter.data.summary}</p>
+                    <dl>
+                      <div><dt>Words</dt><dd>{number.format(chapter.data.wordCount)}</dd></div>
+                      <div><dt>Headings</dt><dd>{chapter.data.headings.length}</dd></div>
+                      <div><dt>Tables</dt><dd>{chapter.data.session.tables.length}</dd></div>
+                    </dl>
+                  </article>
+                ))}
+              </div>
+            </section>
+          ))}
+        </section>
+      ))}
+    </section>
+  </main>
+
+  <script is:inline>
+    (() => {
+      const storageKey = 'grimoire-study-progress';
+      const inputs = Array.from(document.querySelectorAll('[data-study-slug]'));
+      const progress = document.querySelector('#study-progress');
+      const progressCopy = document.querySelector('#study-progress-copy');
+      const completeCount = document.querySelector('#study-complete-count');
+      const hideReviewed = document.querySelector('#hide-reviewed');
+
+      const load = () => {
+        try {
+          const value = JSON.parse(localStorage.getItem(storageKey) || '[]');
+          if (Array.isArray(value)) return new Set(value);
+          if (value && typeof value === 'object') {
+            return new Set(Object.entries(value).filter(([, done]) => done).map(([slug]) => slug));
+          }
+        } catch {}
+        return new Set();
+      };
+
+      let completed = load();
+
+      const update = () => {
+        const validSlugs = new Set(inputs.map((input) => input.dataset.studySlug));
+        completed = new Set([...completed].filter((slug) => validSlugs.has(slug)));
+        inputs.forEach((input) => {
+          const done = completed.has(input.dataset.studySlug);
+          input.checked = done;
+          input.closest('[data-study-card]')?.toggleAttribute('data-reviewed', done);
+          input.closest('[data-study-card]')?.toggleAttribute('hidden', Boolean(hideReviewed?.checked && done));
+        });
+
+        document.querySelectorAll('[data-study-group], [data-study-book]').forEach((group) => {
+          const visible = group.querySelector('[data-study-card]:not([hidden])');
+          group.toggleAttribute('hidden', Boolean(hideReviewed?.checked && !visible));
+        });
+
+        const count = completed.size;
+        const percent = inputs.length ? Math.round((count / inputs.length) * 100) : 0;
+        if (progress) progress.value = count;
+        if (progressCopy) progressCopy.textContent = count
+          ? `${count} of ${inputs.length} records reviewed (${percent}%).`
+          : 'No chapters reviewed yet.';
+        if (completeCount) completeCount.textContent = String(count);
+      };
+
+      inputs.forEach((input) => input.addEventListener('change', () => {
+        if (input.checked) completed.add(input.dataset.studySlug);
+        else completed.delete(input.dataset.studySlug);
+        localStorage.setItem(
+          storageKey,
+          JSON.stringify(Object.fromEntries([...completed].map((slug) => [slug, true]))),
+        );
+        update();
+      }));
+
+      hideReviewed?.addEventListener('change', update);
+      document.querySelector('#clear-study-progress')?.addEventListener('click', () => {
+        completed.clear();
+        localStorage.removeItem(storageKey);
+        update();
+      });
+      update();
+    })();
+  </script>
+</GrimoireLayout>
+
+<style>
+  .dashboard-page { max-width: 1160px; margin: 2rem auto 0; }
+  .dashboard-hero { max-width: 860px; }
+  .dashboard-hero h1 { margin: .2rem 0 1rem; font: 600 clamp(2.4rem, 6vw, 4.8rem)/1.02 var(--display); }
+  .dashboard-hero > p:last-of-type { max-width: 720px; color: var(--ink-dim); font-size: 1.08rem; line-height: 1.65; }
+  .dashboard-stats { display: flex; gap: clamp(1.5rem, 5vw, 4rem); margin: 2rem 0 0; padding: 1.25rem 0; border-block: 1px solid var(--line); }
+  .dashboard-stats div { display: flex; flex-direction: column; }
+  .dashboard-stats dt { color: var(--gold-bright); font: 600 1.6rem var(--display); }
+  .dashboard-stats dd { margin: .2rem 0 0; color: var(--ink-dim); font-size: .75rem; }
+  .progress-panel { display: grid; grid-template-columns: minmax(170px, 1fr) minmax(180px, 2fr) auto; align-items: center; gap: 1.25rem; margin: 2rem 0 4rem; padding: 1rem 1.2rem; border: 1px solid var(--line); background: rgba(41, 37, 29, .72); }
+  .progress-panel p { margin: 0; }
+  .progress-panel .eyebrow { margin-bottom: .3rem; }
+  progress { width: 100%; height: .75rem; accent-color: var(--gold); }
+  .compact-toggle { display: flex; align-items: center; gap: .55rem; color: var(--ink-dim); font-size: .82rem; }
+  .section-heading { display: flex; justify-content: space-between; align-items: end; gap: 1rem; margin-bottom: 1.3rem; }
+  .section-heading h2 { margin: 0; font: 600 clamp(1.7rem, 3vw, 2.4rem) var(--display); }
+  .path-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1rem; }
+  .study-path { padding: 1.2rem; border: 1px solid var(--line); background: linear-gradient(145deg, rgba(116, 167, 161, .08), rgba(41, 37, 29, .75)); }
+  .study-path h3 { margin: 0 0 .5rem; color: var(--gold-bright); font-family: var(--display); }
+  .study-path > p { min-height: 3em; color: var(--ink-dim); line-height: 1.5; }
+  .study-path ol { margin: 1rem 0 0; padding-left: 1.3rem; }
+  .study-path li { margin: .7rem 0; padding-left: .2rem; }
+  .study-path li span { display: block; margin-top: .15rem; color: #776d59; font-size: .7rem; }
+  .complete-shelf { margin-top: 4.5rem; }
+  .text-button { border: 0; padding: .4rem; color: var(--gold-bright); background: transparent; text-decoration: underline; text-underline-offset: .2em; cursor: pointer; }
+  .study-book { margin-top: 2.5rem; }
+  .study-book > header { display: flex; justify-content: space-between; align-items: baseline; gap: 1rem; padding-bottom: .65rem; border-bottom: 1px solid var(--gold); }
+  .study-book > header h3 { margin: 0; font: 600 1.45rem var(--display); }
+  .study-book > header span { color: var(--ink-dim); font-size: .75rem; }
+  .study-group { margin-top: 1.6rem; }
+  .study-group > h4 { margin: 0 0 .7rem; color: var(--gold); font: 600 .73rem var(--display); letter-spacing: .14em; text-transform: uppercase; }
+  .chapter-study-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: .85rem; }
+  .chapter-study-card { position: relative; min-width: 0; padding: 1rem; border: 1px solid var(--line); background: rgba(33, 30, 24, .82); }
+  .chapter-study-card[data-reviewed] { opacity: .7; border-color: rgba(116, 167, 161, .55); }
+  .chapter-study-card h5 { margin: .3rem 7rem .55rem 0; font: 600 1.12rem var(--display); }
+  .chapter-study-card > p:not(.card-kind) { margin: 0; color: var(--ink-dim); font-size: .86rem; line-height: 1.5; }
+  .card-kind { margin: 0; color: #776d59; font: .62rem var(--display); letter-spacing: .1em; text-transform: uppercase; }
+  .review-control { position: absolute; top: .85rem; right: .85rem; display: flex; gap: .35rem; align-items: center; color: var(--ink-dim); font-size: .72rem; }
+  .chapter-study-card dl { display: flex; gap: 1.2rem; margin: 1rem 0 0; padding-top: .7rem; border-top: 1px solid rgba(74, 65, 47, .65); }
+  .chapter-study-card dl div { display: flex; gap: .3rem; }
+  .chapter-study-card dt { color: #776d59; font-size: .68rem; }
+  .chapter-study-card dd { margin: 0; color: var(--aether); font-size: .68rem; }
+  [hidden] { display: none !important; }
+
+  @media (max-width: 760px) {
+    .dashboard-page { margin-top: .5rem; }
+    .dashboard-stats { gap: 1rem; justify-content: space-between; }
+    .dashboard-stats dt { font-size: 1.25rem; }
+    .progress-panel { grid-template-columns: 1fr; }
+    .path-grid, .chapter-study-grid { grid-template-columns: 1fr; }
+    .section-heading { align-items: start; flex-direction: column; }
+  }
+</style>

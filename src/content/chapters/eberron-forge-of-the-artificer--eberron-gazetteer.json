@@ -1,0 +1,1084 @@
+{
+  "title": "Sharn Inquisitives",
+  "sourcebook": "Eberron: Forge of the Artificer",
+  "bookSlug": "eberron-forge-of-the-artificer",
+  "world": "Eberron",
+  "edition": "2024 rules",
+  "chapter": "Chapter 4: Sharn Inquisitives",
+  "chapterNumber": 4,
+  "order": 6,
+  "navGroup": "Adventures",
+  "kind": "adventure",
+  "audience": "gm",
+  "slug": "eberron-gazetteer",
+  "chapterSlug": "eberron-gazetteer",
+  "summary": "The inquisitives of Sharn are a distinctive breed of adventurers: part private investigator, part police detective, and part spy. To them, adventure means investigating crimes and making sure the criminals get their due. Inquisitives probe murders, find missi…",
+  "wordCount": 7670,
+  "originalPath": "Eberron/Chapter 4.html",
+  "rawUrl": "/archive/eberron/Chapter%204.html",
+  "originalAnchors": [
+    {
+      "id": "Chapter4SharnInquisitives",
+      "text": "Sharn Inquisitives",
+      "element": "h1"
+    },
+    {
+      "id": "comp-next-nav",
+      "text": "Previous ← Chapter 3: Bastions in Khorvaire Book Contents Next Chapter 5: Dragonmarked Intrigue →",
+      "element": "div"
+    },
+    {
+      "id": "AdventureIntro",
+      "text": "Adventure Genre: Film Noir Pop Culture: Philip Marlowe, Sam Spade, Mike Hammer, Dick Tracy",
+      "element": "aside"
+    },
+    {
+      "id": "imgSharnInquisitivesOpenerIllo",
+      "text": "Kuno A Battle Smith inquisitive trails his quarry through the streets and towers of Sharn",
+      "element": "figure"
+    },
+    {
+      "id": "InquisitiveCharacters",
+      "text": "Inquisitive Characters",
+      "element": "h2"
+    },
+    {
+      "id": "InquisitiveAgenciesofSharn",
+      "text": "Inquisitive Agencies of Sharn",
+      "element": "h3"
+    },
+    {
+      "id": "imginInquisitivesKeepingWatch",
+      "text": "Kuno Inquisitives in Sharn keep constant watch over criminal activity in the city, no matter where it occurs",
+      "element": "figure"
+    },
+    {
+      "id": "AgencyLocation",
+      "text": "Agency Location",
+      "element": "h4"
+    },
+    {
+      "id": "FindersGuildWarning",
+      "text": "Finders Guild and Warning Guild Four Tharashk inquisitives with the Mark of Finding each lead a Finders Guild agency in a different part of the city. The dragon",
+      "element": "aside"
+    },
+    {
+      "id": "GuildAffiliation",
+      "text": "Guild Affiliation",
+      "element": "h4"
+    },
+    {
+      "id": "OtherDetails",
+      "text": "Other Details",
+      "element": "h4"
+    },
+    {
+      "id": "SharnInquisitivesConflicts",
+      "text": "Sharn Inquisitives Conflicts",
+      "element": "h2"
+    },
+    {
+      "id": "TheBoromarClan",
+      "text": "The Boromar Clan",
+      "element": "h3"
+    },
+    {
+      "id": "imgCriminalsOfSharn",
+      "text": "Jordan Kerbow The criminals of Sharn come in different shapes, in different sizes, and from different planes of existence",
+      "element": "figure"
+    },
+    {
+      "id": "GoalsoftheBoromarClan",
+      "text": "Goals of the Boromar Clan",
+      "element": "h4"
+    },
+    {
+      "id": "ABoromarClanArc",
+      "text": "A Boromar Clan Arc",
+      "element": "h4"
+    },
+    {
+      "id": "BoromarOperatives",
+      "text": "Boromar Operatives",
+      "element": "h4"
+    },
+    {
+      "id": "BoromarSmuggler",
+      "text": "Boromar Smuggler",
+      "element": "h4"
+    },
+    {
+      "id": "BoromarUnderboss",
+      "text": "Boromar Underboss",
+      "element": "h4"
+    },
+    {
+      "id": "Daask",
+      "text": "Daask",
+      "element": "h3"
+    },
+    {
+      "id": "GoalsofDaask",
+      "text": "Goals of Daask",
+      "element": "h4"
+    },
+    {
+      "id": "ADaaskArc",
+      "text": "A Daask Arc",
+      "element": "h4"
+    },
+    {
+      "id": "DaaskEnforcers",
+      "text": "Daask Enforcers",
+      "element": "h4"
+    },
+    {
+      "id": "DaaskBruiser",
+      "text": "Daask Bruiser",
+      "element": "h4"
+    },
+    {
+      "id": "DaaskRaider",
+      "text": "Daask Raider",
+      "element": "h4"
+    },
+    {
+      "id": "TheDreamingDark",
+      "text": "The Dreaming Dark",
+      "element": "h3"
+    },
+    {
+      "id": "GoalsoftheDreamingDark",
+      "text": "Goals of the Dreaming Dark",
+      "element": "h4"
+    },
+    {
+      "id": "ADreamingDarkArc",
+      "text": "A Dreaming Dark Arc",
+      "element": "h4"
+    },
+    {
+      "id": "DreamingDarkAgents",
+      "text": "Dreaming Dark Agents",
+      "element": "h4"
+    },
+    {
+      "id": "DreamingDarkInfiltrator",
+      "text": "Dreaming Dark Infiltrator",
+      "element": "h4"
+    },
+    {
+      "id": "DreamingDarkMindkiller",
+      "text": "Dreaming Dark Mindkiller",
+      "element": "h4"
+    },
+    {
+      "id": "SharnNeighborhoods",
+      "text": "Sharn Neighborhoods",
+      "element": "h2"
+    },
+    {
+      "id": "imgCityOfTowers",
+      "text": "Kuno Something is always happening in the shadows of the City of Towers",
+      "element": "figure"
+    },
+    {
+      "id": "UpperCentral",
+      "text": "Upper Central",
+      "element": "h3"
+    },
+    {
+      "id": "MiddleCentral",
+      "text": "Middle Central",
+      "element": "h3"
+    },
+    {
+      "id": "GlobeInformationAgency",
+      "text": "Globe Information Agency",
+      "element": "h4"
+    },
+    {
+      "id": "LowerCentral",
+      "text": "Lower Central",
+      "element": "h3"
+    },
+    {
+      "id": "CityoftheDead",
+      "text": "City of the Dead",
+      "element": "h3"
+    },
+    {
+      "id": "Cliffside",
+      "text": "Cliffside",
+      "element": "h3"
+    },
+    {
+      "id": "TheCogs",
+      "text": "The Cogs",
+      "element": "h3"
+    },
+    {
+      "id": "UpperDura",
+      "text": "Upper Dura",
+      "element": "h3"
+    },
+    {
+      "id": "MiddleDura",
+      "text": "Middle Dura",
+      "element": "h3"
+    },
+    {
+      "id": "InformationAcquisition",
+      "text": "Information Acquisition",
+      "element": "h4"
+    },
+    {
+      "id": "LowerDura",
+      "text": "Lower Dura",
+      "element": "h3"
+    },
+    {
+      "id": "UpperMenthis",
+      "text": "Upper Menthis",
+      "element": "h3"
+    },
+    {
+      "id": "MiddleMenthis",
+      "text": "Middle Menthis",
+      "element": "h3"
+    },
+    {
+      "id": "ThurannedVelderansInvestigativeServices",
+      "text": "Thuranne d’Velderan’s Investigative Services",
+      "element": "h4"
+    },
+    {
+      "id": "LowerMenthis",
+      "text": "Lower Menthis",
+      "element": "h3"
+    },
+    {
+      "id": "UpperNorthedge",
+      "text": "Upper Northedge",
+      "element": "h3"
+    },
+    {
+      "id": "MiddleNorthedge",
+      "text": "Middle Northedge",
+      "element": "h3"
+    },
+    {
+      "id": "LowerNorthedge",
+      "text": "Lower Northedge",
+      "element": "h3"
+    },
+    {
+      "id": "Skyway",
+      "text": "Skyway",
+      "element": "h3"
+    },
+    {
+      "id": "UpperTavicksLanding",
+      "text": "Upper Tavick’s Landing",
+      "element": "h3"
+    },
+    {
+      "id": "MiddleTavicksLanding",
+      "text": "Middle Tavick’s Landing",
+      "element": "h3"
+    },
+    {
+      "id": "KarrAashtasInvestigations",
+      "text": "Karr’Aashta’s Investigations",
+      "element": "h4"
+    },
+    {
+      "id": "LowerTavicksLanding",
+      "text": "Lower Tavick’s Landing",
+      "element": "h3"
+    },
+    {
+      "id": "InquisitiveAdventure",
+      "text": "Inquisitive Adventure",
+      "element": "h3"
+    },
+    {
+      "id": "TheEnemyofMyEnemy",
+      "text": "The Enemy of My Enemy",
+      "element": "h2"
+    },
+    {
+      "id": "EnemyOfMyEnemyQuote",
+      "text": "THESHARN INQUISITIVE Gold Dragon Burns! THE PEACEFUL GOLD DRAGON INN NESTLED IN THE LOWER TOWERS OF TERMINUS IS ABLAZE, AND VICIOUS MARAUDERS ARE ATTACKING PATR",
+      "element": "aside"
+    },
+    {
+      "id": "Encounters",
+      "text": "Encounters",
+      "element": "h3"
+    }
+  ],
+  "sourceHash": "c30e780417b2a951b67f87b2455435977ae2c82861c1fd5d989342c54da0990d",
+  "extractionDate": "2026-07-13T07:40:57.647Z",
+  "extractionVersion": 3,
+  "headings": [
+    {
+      "depth": 1,
+      "id": "Chapter4SharnInquisitives",
+      "text": "Sharn Inquisitives"
+    },
+    {
+      "depth": 2,
+      "id": "InquisitiveCharacters",
+      "text": "Inquisitive Characters"
+    },
+    {
+      "depth": 3,
+      "id": "InquisitiveAgenciesofSharn",
+      "text": "Inquisitive Agencies of Sharn"
+    },
+    {
+      "depth": 4,
+      "id": "AgencyLocation",
+      "text": "Agency Location"
+    },
+    {
+      "depth": 4,
+      "id": "GuildAffiliation",
+      "text": "Guild Affiliation"
+    },
+    {
+      "depth": 4,
+      "id": "OtherDetails",
+      "text": "Other Details"
+    },
+    {
+      "depth": 2,
+      "id": "SharnInquisitivesConflicts",
+      "text": "Sharn Inquisitives Conflicts"
+    },
+    {
+      "depth": 3,
+      "id": "TheBoromarClan",
+      "text": "The Boromar Clan"
+    },
+    {
+      "depth": 4,
+      "id": "GoalsoftheBoromarClan",
+      "text": "Goals of the Boromar Clan"
+    },
+    {
+      "depth": 4,
+      "id": "ABoromarClanArc",
+      "text": "A Boromar Clan Arc"
+    },
+    {
+      "depth": 4,
+      "id": "BoromarOperatives",
+      "text": "Boromar Operatives"
+    },
+    {
+      "depth": 4,
+      "id": "BoromarSmuggler",
+      "text": "Boromar Smuggler"
+    },
+    {
+      "depth": 4,
+      "id": "BoromarUnderboss",
+      "text": "Boromar Underboss"
+    },
+    {
+      "depth": 3,
+      "id": "Daask",
+      "text": "Daask"
+    },
+    {
+      "depth": 4,
+      "id": "GoalsofDaask",
+      "text": "Goals of Daask"
+    },
+    {
+      "depth": 4,
+      "id": "ADaaskArc",
+      "text": "A Daask Arc"
+    },
+    {
+      "depth": 4,
+      "id": "DaaskEnforcers",
+      "text": "Daask Enforcers"
+    },
+    {
+      "depth": 4,
+      "id": "DaaskBruiser",
+      "text": "Daask Bruiser"
+    },
+    {
+      "depth": 4,
+      "id": "DaaskRaider",
+      "text": "Daask Raider"
+    },
+    {
+      "depth": 3,
+      "id": "TheDreamingDark",
+      "text": "The Dreaming Dark"
+    },
+    {
+      "depth": 4,
+      "id": "GoalsoftheDreamingDark",
+      "text": "Goals of the Dreaming Dark"
+    },
+    {
+      "depth": 4,
+      "id": "ADreamingDarkArc",
+      "text": "A Dreaming Dark Arc"
+    },
+    {
+      "depth": 4,
+      "id": "DreamingDarkAgents",
+      "text": "Dreaming Dark Agents"
+    },
+    {
+      "depth": 4,
+      "id": "DreamingDarkInfiltrator",
+      "text": "Dreaming Dark Infiltrator"
+    },
+    {
+      "depth": 4,
+      "id": "DreamingDarkMindkiller",
+      "text": "Dreaming Dark Mindkiller"
+    },
+    {
+      "depth": 2,
+      "id": "SharnNeighborhoods",
+      "text": "Sharn Neighborhoods"
+    },
+    {
+      "depth": 3,
+      "id": "UpperCentral",
+      "text": "Upper Central"
+    },
+    {
+      "depth": 3,
+      "id": "MiddleCentral",
+      "text": "Middle Central"
+    },
+    {
+      "depth": 4,
+      "id": "GlobeInformationAgency",
+      "text": "Globe Information Agency"
+    },
+    {
+      "depth": 3,
+      "id": "LowerCentral",
+      "text": "Lower Central"
+    },
+    {
+      "depth": 3,
+      "id": "CityoftheDead",
+      "text": "City of the Dead"
+    },
+    {
+      "depth": 3,
+      "id": "Cliffside",
+      "text": "Cliffside"
+    },
+    {
+      "depth": 3,
+      "id": "TheCogs",
+      "text": "The Cogs"
+    },
+    {
+      "depth": 3,
+      "id": "UpperDura",
+      "text": "Upper Dura"
+    },
+    {
+      "depth": 3,
+      "id": "MiddleDura",
+      "text": "Middle Dura"
+    },
+    {
+      "depth": 4,
+      "id": "InformationAcquisition",
+      "text": "Information Acquisition"
+    },
+    {
+      "depth": 3,
+      "id": "LowerDura",
+      "text": "Lower Dura"
+    },
+    {
+      "depth": 3,
+      "id": "UpperMenthis",
+      "text": "Upper Menthis"
+    },
+    {
+      "depth": 3,
+      "id": "MiddleMenthis",
+      "text": "Middle Menthis"
+    },
+    {
+      "depth": 4,
+      "id": "ThurannedVelderansInvestigativeServices",
+      "text": "Thuranne d’Velderan’s Investigative Services"
+    },
+    {
+      "depth": 3,
+      "id": "LowerMenthis",
+      "text": "Lower Menthis"
+    },
+    {
+      "depth": 3,
+      "id": "UpperNorthedge",
+      "text": "Upper Northedge"
+    },
+    {
+      "depth": 3,
+      "id": "MiddleNorthedge",
+      "text": "Middle Northedge"
+    },
+    {
+      "depth": 3,
+      "id": "LowerNorthedge",
+      "text": "Lower Northedge"
+    },
+    {
+      "depth": 3,
+      "id": "Skyway",
+      "text": "Skyway"
+    },
+    {
+      "depth": 3,
+      "id": "UpperTavicksLanding",
+      "text": "Upper Tavick’s Landing"
+    },
+    {
+      "depth": 3,
+      "id": "MiddleTavicksLanding",
+      "text": "Middle Tavick’s Landing"
+    },
+    {
+      "depth": 4,
+      "id": "KarrAashtasInvestigations",
+      "text": "Karr’Aashta’s Investigations"
+    },
+    {
+      "depth": 3,
+      "id": "LowerTavicksLanding",
+      "text": "Lower Tavick’s Landing"
+    },
+    {
+      "depth": 3,
+      "id": "InquisitiveAdventure",
+      "text": "Inquisitive Adventure"
+    },
+    {
+      "depth": 2,
+      "id": "TheEnemyofMyEnemy",
+      "text": "The Enemy of My Enemy"
+    },
+    {
+      "depth": 3,
+      "id": "Encounters",
+      "text": "Encounters"
+    }
+  ],
+  "tags": {
+    "creatures": [
+      "Boromar Smuggler",
+      "Daask Raiders",
+      "Dreaming Dark infiltrators",
+      "Harpies",
+      "Hell Hounds",
+      "Ogre",
+      "Sentinel Marshal",
+      "Spy"
+    ],
+    "spells": [
+      "Detect Thoughts",
+      "Dominate Person",
+      "Speak with Dead",
+      "Synaptic Static"
+    ],
+    "items": [],
+    "locations": [
+      "Aundair",
+      "Cyre",
+      "Droaam",
+      "Eberron",
+      "Karrnath",
+      "Khorvaire",
+      "Lhazaar",
+      "Sharn",
+      "Talenta",
+      "Xen’drik"
+    ],
+    "npcs": [],
+    "topics": [
+      "adventure",
+      "campus-life",
+      "gm-tools",
+      "relationships",
+      "tables"
+    ]
+  },
+  "session": {
+    "readAloud": [],
+    "rules": [],
+    "tables": [
+      {
+        "id": "session-table-1",
+        "label": "Table 1",
+        "excerpt": "Ability Score Mod Save Str 11 +0 +0 Dex 15 +2 +4 Con 12 +1 +1"
+      },
+      {
+        "id": "session-table-2",
+        "label": "Table 2",
+        "excerpt": "Ability Score Mod Save Int 11 +0 +0 Wis 10 +0 +2 Cha 14 +2 +2"
+      },
+      {
+        "id": "session-table-3",
+        "label": "Table 3",
+        "excerpt": "Ability Score Mod Save Str 10 +0 +0 Dex 18 +4 +7 Con 15 +2 +5"
+      },
+      {
+        "id": "session-table-4",
+        "label": "Table 4",
+        "excerpt": "Ability Score Mod Save Int 12 +1 +1 Wis 14 +2 +5 Cha 17 +3 +3"
+      },
+      {
+        "id": "session-table-5",
+        "label": "Table 5",
+        "excerpt": "Ability Score Mod Save Str 20 +5 +9 Dex 13 +1 +1 Con 16 +3 +7"
+      },
+      {
+        "id": "session-table-6",
+        "label": "Table 6",
+        "excerpt": "Ability Score Mod Save Int 10 +0 +0 Wis 12 +1 +5 Cha 14 +2 +2"
+      },
+      {
+        "id": "session-table-7",
+        "label": "Table 7",
+        "excerpt": "Ability Score Mod Save Str 16 +3 +5 Dex 12 +1 +1 Con 13 +1 +1"
+      },
+      {
+        "id": "session-table-8",
+        "label": "Table 8",
+        "excerpt": "Ability Score Mod Save Int 10 +0 +0 Wis 11 +0 +0 Cha 8 -1 -1"
+      },
+      {
+        "id": "session-table-9",
+        "label": "Table 9",
+        "excerpt": "Ability Score Mod Save Str 14 +2 +2 Dex 17 +3 +3 Con 15 +2 +2"
+      },
+      {
+        "id": "session-table-10",
+        "label": "Table 10",
+        "excerpt": "Ability Score Mod Save Int 18 +4 +7 Wis 16 +3 +6 Cha 17 +3 +6"
+      },
+      {
+        "id": "session-table-11",
+        "label": "Table 11",
+        "excerpt": "Ability Score Mod Save Str 15 +2 +2 Dex 19 +4 +4 Con 16 +3 +3"
+      },
+      {
+        "id": "session-table-12",
+        "label": "Table 12",
+        "excerpt": "Ability Score Mod Save Int 21 +5 +9 Wis 18 +4 +8 Cha 17 +3 +7"
+      }
+    ],
+    "statBlocks": [],
+    "maps": [],
+    "quickLinks": [
+      {
+        "depth": 2,
+        "id": "InquisitiveCharacters",
+        "text": "Inquisitive Characters",
+        "type": "scene"
+      },
+      {
+        "depth": 3,
+        "id": "InquisitiveAgenciesofSharn",
+        "text": "Inquisitive Agencies of Sharn",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "AgencyLocation",
+        "text": "Agency Location",
+        "type": "location"
+      },
+      {
+        "depth": 4,
+        "id": "GuildAffiliation",
+        "text": "Guild Affiliation",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "OtherDetails",
+        "text": "Other Details",
+        "type": "reference"
+      },
+      {
+        "depth": 2,
+        "id": "SharnInquisitivesConflicts",
+        "text": "Sharn Inquisitives Conflicts",
+        "type": "scene"
+      },
+      {
+        "depth": 3,
+        "id": "TheBoromarClan",
+        "text": "The Boromar Clan",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "GoalsoftheBoromarClan",
+        "text": "Goals of the Boromar Clan",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "ABoromarClanArc",
+        "text": "A Boromar Clan Arc",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "BoromarOperatives",
+        "text": "Boromar Operatives",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "BoromarSmuggler",
+        "text": "Boromar Smuggler",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "BoromarUnderboss",
+        "text": "Boromar Underboss",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "Daask",
+        "text": "Daask",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "GoalsofDaask",
+        "text": "Goals of Daask",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "ADaaskArc",
+        "text": "A Daask Arc",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "DaaskEnforcers",
+        "text": "Daask Enforcers",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "DaaskBruiser",
+        "text": "Daask Bruiser",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "DaaskRaider",
+        "text": "Daask Raider",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "TheDreamingDark",
+        "text": "The Dreaming Dark",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "GoalsoftheDreamingDark",
+        "text": "Goals of the Dreaming Dark",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "ADreamingDarkArc",
+        "text": "A Dreaming Dark Arc",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "DreamingDarkAgents",
+        "text": "Dreaming Dark Agents",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "DreamingDarkInfiltrator",
+        "text": "Dreaming Dark Infiltrator",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "DreamingDarkMindkiller",
+        "text": "Dreaming Dark Mindkiller",
+        "type": "reference"
+      },
+      {
+        "depth": 2,
+        "id": "SharnNeighborhoods",
+        "text": "Sharn Neighborhoods",
+        "type": "scene"
+      },
+      {
+        "depth": 3,
+        "id": "UpperCentral",
+        "text": "Upper Central",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "MiddleCentral",
+        "text": "Middle Central",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "GlobeInformationAgency",
+        "text": "Globe Information Agency",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "LowerCentral",
+        "text": "Lower Central",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "CityoftheDead",
+        "text": "City of the Dead",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "Cliffside",
+        "text": "Cliffside",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "TheCogs",
+        "text": "The Cogs",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "UpperDura",
+        "text": "Upper Dura",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "MiddleDura",
+        "text": "Middle Dura",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "InformationAcquisition",
+        "text": "Information Acquisition",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "LowerDura",
+        "text": "Lower Dura",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "UpperMenthis",
+        "text": "Upper Menthis",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "MiddleMenthis",
+        "text": "Middle Menthis",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "ThurannedVelderansInvestigativeServices",
+        "text": "Thuranne d’Velderan’s Investigative Services",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "LowerMenthis",
+        "text": "Lower Menthis",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "UpperNorthedge",
+        "text": "Upper Northedge",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "MiddleNorthedge",
+        "text": "Middle Northedge",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "LowerNorthedge",
+        "text": "Lower Northedge",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "Skyway",
+        "text": "Skyway",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "UpperTavicksLanding",
+        "text": "Upper Tavick’s Landing",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "MiddleTavicksLanding",
+        "text": "Middle Tavick’s Landing",
+        "type": "reference"
+      },
+      {
+        "depth": 4,
+        "id": "KarrAashtasInvestigations",
+        "text": "Karr’Aashta’s Investigations",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "LowerTavicksLanding",
+        "text": "Lower Tavick’s Landing",
+        "type": "reference"
+      },
+      {
+        "depth": 3,
+        "id": "InquisitiveAdventure",
+        "text": "Inquisitive Adventure",
+        "type": "reference"
+      },
+      {
+        "depth": 2,
+        "id": "TheEnemyofMyEnemy",
+        "text": "The Enemy of My Enemy",
+        "type": "scene"
+      },
+      {
+        "depth": 3,
+        "id": "Encounters",
+        "text": "Encounters",
+        "type": "encounter"
+      }
+    ]
+  },
+  "anomalyFlags": [
+    {
+      "type": "reader-address",
+      "passage": "Run a Sharn inquisitives campaign if you want to emulate the film noir adventures of detectives like Philip Marlowe, Sam Spade, Mike Hammer, and Dick Tracy in a fantastical environment.",
+      "location": "Sharn Inquisitives",
+      "anchor": "Chapter4SharnInquisitives",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "If you decide to run this kind of campaign, it’s a good idea to discuss with your players how serious you intend the game to be.",
+      "location": "Sharn Inquisitives",
+      "anchor": "Chapter4SharnInquisitives",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "Talk with your players early and often about the tone you’re aiming for, as well as what they want from the campaign.",
+      "location": "Sharn Inquisitives",
+      "anchor": "Chapter4SharnInquisitives",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "You can use the group patron rules in Eberron: Rising from the Last War or Tasha’s Cauldron of Everything to give characters the benefits of this patronage.",
+      "location": "Inquisitive Characters",
+      "anchor": "InquisitiveCharacters",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "You can select the conflicts in a Sharn inquisitives campaign from the abundant criminal enterprises that dominate the seamy underworld of the City of Towers.",
+      "location": "Sharn Inquisitives Conflicts",
+      "anchor": "SharnInquisitivesConflicts",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "You can replace one or more of these threats with other groups from Eberron: Rising from the Last War—such as the Tyrants, House Tarkanan, the Aurum, or the Sharn Watch—or ones of your own devising.",
+      "location": "Sharn Inquisitives Conflicts",
+      "anchor": "SharnInquisitivesConflicts",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "If the characters’ inquisitive agency aligns with a dragonmarked house whose operations include inquisitive work (House Tharashk’s Finders Guild or House Medani’s Warning Guild), you also can incorporate conflicts with rival houses, as described in chapter 5.",
+      "location": "Sharn Inquisitives Conflicts",
+      "anchor": "SharnInquisitivesConflicts",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "As described in Eberron: Rising from the Last War, the reason for Daask’s existence depends on the path you choose for the Daughters of Sora Kell—whether they seek peace and stability for their young nation of mistrusted monsters, desire to end humanity’s dominance over Khorvaire and let monsters r…",
+      "location": "Goals of Daask",
+      "anchor": "GoalsofDaask",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "(The discussion of the Dreaming Dark in Eberron: Rising from the Last War includes suggestions for incorporating dreams into your game.",
+      "location": "A Dreaming Dark Arc",
+      "anchor": "ADreamingDarkArc",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    },
+    {
+      "type": "reader-address",
+      "passage": "Hook: The Gold Dragon Inn might be a favored hangout of the inquisitive characters, if you want to begin the adventure with the action of the fire.",
+      "location": "The Enemy of My Enemy",
+      "anchor": "TheEnemyofMyEnemy",
+      "confidence": 0.55,
+      "reason": "The sentence directly addresses the reader; review against nearby narrative voice."
+    }
+  ],
+  "contentHtml": "<div class=\"efota-title\">\n    <div class=\"efota-title-text\">\n        <p><span>Chapter</span> <span>04</span></p>\n        <h1 class=\"compendium-hr with-metadata\" id=\"Chapter4SharnInquisitives\">Sharn Inquisitives</h1>\n    </div>\n    <p><span>Chapter</span> <span>04</span></p>\n</div>\n\n<aside class=\"efota--genre-box\" id=\"AdventureIntro\">\n<p><strong>Adventure Genre:</strong> Film Noir</p>\n<p><strong>Pop Culture:</strong> Philip Marlowe, Sam Spade, Mike Hammer, Dick Tracy</p>\n</aside>\n<figure class=\"compendium-art compendium-art-center Misc--Dropshadow\" id=\"imgSharnInquisitivesOpenerIllo\">\n<span class=\"artist-credit\">Kuno</span>\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/efota/Jae5SyNcfFGjapTb/04-001.Battle-Smith-inquisitive-on-the-hunt.jpg\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/efota/Jae5SyNcfFGjapTb/04-001.Battle-Smith-inquisitive-on-the-hunt.jpg\" class=\"ddb-lightbox-inner\" style=\"width: 750px;\" alt=\"A Battle Smith inquisitive trails his quarry through the streets and towers of Sharn.\" loading=\"lazy\" decoding=\"async\"></a>\n<figcaption>A Battle Smith inquisitive trails his quarry <br>through the streets and towers of Sharn</figcaption>\n</figure>\n\n<p class=\"efota-dropcap\">The inquisitives of Sharn are a distinctive breed of adventurers: part private investigator, part police detective, and part spy. To them, adventure means investigating crimes and making sure the criminals get their due. Inquisitives probe murders, find missing people, stop blackmailers, and break up smuggling rings. And they don’t necessarily limit their investigations to such mundane problems. They might unmask a rakshasa posing as a city councilor, find a possessed ancient mask that forced a professor to commit grisly murders, or dispel the magic keeping a noble scion in comatose slumber.</p>\n<p>Run a Sharn inquisitives campaign if you want to emulate the film noir adventures of detectives like Philip Marlowe, Sam Spade, Mike Hammer, and Dick Tracy in a fantastical environment. If you decide to run this kind of campaign, it’s a good idea to discuss with your players how serious you intend the game to be. There’s a fine line between playing an archetype and parodying it; the “hard-boiled detective” noir archetype has been parodied so often that a campaign based on it can easily lean on the comedic side. Talk with your players early and often about the tone you’re aiming for, as well as what they want from the campaign.</p>\n\n\n<h2 class=\"compendium-hr heading-anchor\" id=\"InquisitiveCharacters\">Inquisitive Characters</h2>\n<p>A Sharn inquisitives campaign revolves around the idea of the characters as investigators who might work for an inquisitive agency at the start of the campaign but might run their own in time. In any case, the inquisitive agency functions as a patron to the adventuring party, becoming a source of both missions and rewards. You can use the group patron rules in <a href=\"https://www.dndbeyond.com/sources/dnd/erftlw\"><em>Eberron: Rising from the Last War</em></a> or <a href=\"https://www.dndbeyond.com/sources/dnd/tcoe\"><em>Tasha’s Cauldron of Everything</em></a> to give characters the benefits of this patronage.</p>\n<p>The Inquisitive background in <a href=\"/chapters/character-options/\">chapter 2</a> is a good option for characters in this campaign, along with backgrounds from the <a href=\"https://www.dndbeyond.com/sources/dnd/phb-2024\"><em>Player’s Handbook</em></a> such as Charlatan, Criminal, Guard, and Wayfarer.</p>\n\n\n<h3 class=\"compendium-hr heading-anchor\" id=\"InquisitiveAgenciesofSharn\">Inquisitive Agencies of Sharn</h3>\n<p>Inquisitive agencies run the gamut from a handful of private investigators working together to networks of detectives supported by dragonmarked houses. If the characters want to establish their own inquisitive agency, they should consider two key factors: where to locate the agency, and whether to associate with an established guild.</p>\n<figure class=\"compendium-art compendium-art-center\" id=\"imginInquisitivesKeepingWatch\">\n<span class=\"artist-credit\">Kuno</span>\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/efota/Jae5SyNcfFGjapTb/04-002.Inquisitives-in-Sharn-keeping-watch.png\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/efota/Jae5SyNcfFGjapTb/04-002.Inquisitives-in-Sharn-keeping-watch.png\" class=\"ddb-lightbox-inner compendium-center-banner-img\" style=\"width: 850px;\" alt=\"Inquisitives in Sharn keep constant watch over criminal activity in the city, no matter where it occurs.\" loading=\"lazy\" decoding=\"async\"></a>\n<figcaption>Inquisitives in Sharn keep constant watch over criminal activity in the city, no matter where it occurs</figcaption>\n</figure>\n\n\n<h4 class=\"compendium-hr heading-anchor\" id=\"AgencyLocation\">Agency Location</h4>\n<p>Depending on what levels of the City of Towers an inquisitive agency focuses on, its members might get involved in very different sorts of investigations. Lower Sharn means poor clients and lawless streets. Middle Sharn means merchant rivalries and better pay. Upper Sharn means uncovering the secrets hidden behind the veneer of respectability. See the “<a href=\"#SharnNeighborhoods\">Sharn Neighborhoods</a>” section later in this chapter for more details about the quarters where characters might establish their headquarters.</p>\n<aside class=\"text--rules-sidebar efota--rules-sidebar\" id=\"FindersGuildWarning\">\n<p>Finders Guild and Warning Guild</p>\n<p>Four Tharashk inquisitives with the Mark of Finding each lead a Finders Guild agency in a different part of the city. The dragonmarked heads of these agencies generally work on only the most important or difficult cases, but their staffs are known as the best inquisitives in the business. These agencies are described in the “<a href=\"#SharnNeighborhoods\">Sharn Neighborhoods</a>” section.</p>\n<p>The Warning Guild keeps a lower profile in Sharn than Tharashk’s Finders Guild. Only one notable agency readily accepts walk-in clients: the Watchful Eye, located in Redstone (in <a href=\"#UpperDura\">Upper Dura</a>). This agency’s principal is Brina d’Medani, a Khoravar who settled in Sharn after running afoul of the Emerald Claw on a mission in Karrnath. Other members of the Warning Guild rely primarily on wealthy clients referred to them directly by House Medani.</p>\n</aside>\n\n\n<h4 class=\"compendium-hr heading-anchor\" id=\"GuildAffiliation\">Guild Affiliation</h4>\n<p>Whether or not any of the characters possess dragonmarks, their agency can choose to affiliate with either House Tharashk’s Finders Guild or House Medani’s Warning Guild. The choice can influence the kinds of cases the characters take and the attitude the Sharn Watch takes toward their activities.</p>\n<p>A dragonmarked house’s seal of approval, whether it comes from House Tharashk’s Finders Guild or House Medani’s Warning Guild, promises a certain standard of quality and professional ethics. However, that guarantee comes at a price: most guild-sponsored inquisitives charge at least 2 GP per day, plus expenses—and the use of magic can increase that cost significantly.</p>\n<p>The inquisitives best at finding lost people and things belong to the Finders Guild of House Tharashk. Finders Guild agencies often end up as rivals to the Sharn Watch and can rarely count on the Watch for support.</p>\n<p>Inquisitives of House Medani’s Warning Guild detect and disrupt the theft of goods and information from their clients. They often partner with law enforcement agencies across Khorvaire, deploying training in keen observation and logical deduction. Though the Sharn Watch calls on these agencies to consult in difficult cases, members of the Watch tend to find Medani mind games infuriating and their idealism naive. Medani inquisitives also serve as bodyguards and sentries, focusing on protection against imminent threats.</p>\n<p>The characters’ agency need not affiliate with either guild; going independent is always an option. For the many people who can’t afford the fees of the guild-sponsored agencies, independent inquisitives offer a cheaper alternative.</p>\n\n\n<h4 class=\"compendium-hr heading-anchor\" id=\"OtherDetails\">Other Details</h4>\n<p>Players can use the information about inquisitive agencies in <a href=\"https://www.dndbeyond.com/sources/dnd/erftlw\"><em>Eberron: Rising from the Last War</em></a> to flesh out more details about their agency, including allies, enemies, contacts, roles for each character in the agency, type of work, a signature case, and clientele.</p>\n\n\n<h2 class=\"compendium-hr heading-anchor\" id=\"SharnInquisitivesConflicts\">Sharn Inquisitives Conflicts</h2>\n<p>You can select the conflicts in a Sharn inquisitives campaign from the abundant criminal enterprises that dominate the seamy underworld of the City of Towers. While inquisitives deal with countless petty thugs and lone criminals, sooner or later their investigations will lead them to cross paths with the masterminds of crime in Sharn.</p>\n<p>As described in <a href=\"https://www.dndbeyond.com/sources/dnd/erftlw\"><em>Eberron: Rising from the Last War</em></a>, four criminal gangs are responsible for much of the illegal and shady activity in the City of Towers. This section focuses on two of them: <a href=\"#TheBoromarClan\">The Boromar Clan</a> and <a href=\"#Daask\">Daask</a>. In addition, the sinister forces of <a href=\"#TheDreamingDark\">the Dreaming Dark</a> have infiltrated many places of power within the city.</p>\n<p>You can replace one or more of these threats with other groups from <a href=\"https://www.dndbeyond.com/sources/dnd/erftlw\"><em>Eberron: Rising from the Last War</em></a>—such as the Tyrants, House Tarkanan, the Aurum, or the Sharn Watch—or ones of your own devising. If the characters’ inquisitive agency aligns with a dragonmarked house whose operations include inquisitive work (House Tharashk’s Finders Guild or House Medani’s Warning Guild), you also can incorporate conflicts with rival houses, as described in <a href=\"/chapters/dragonmarks/\">chapter 5</a>.</p>\n<p>This section outlines the three conflicts suggested above, the goals of the villainous groups involved, and possible plot arcs tied to them.</p>\n\n\n<h3 class=\"compendium-hr heading-anchor\" id=\"TheBoromarClan\">The Boromar Clan</h3>\n<p>The Boromar Clan is the most powerful criminal organization in Sharn, with a reach that includes the city council, the Sharn Watch, House Jorasco, the elite social circles of <a href=\"#Skyway\">Skyway</a>, the shipping trade, and a wide array of illegal activity to boot—particularly extortion, gambling, smuggling, and thievery. The clan began as a family of halfling immigrants from the Talenta Plains, and its headquarters and key holdings lie in the Little Plains district of <a href=\"#MiddleMenthis\">Middle Menthis</a>, where many such migrants dwell.</p>\n<figure class=\"compendium-art compendium-art-center\" id=\"imgCriminalsOfSharn\">\n<span class=\"artist-credit\">Jordan Kerbow</span>\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/efota/Jae5SyNcfFGjapTb/04-003.Criminals-of-Sharn.png\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/efota/Jae5SyNcfFGjapTb/04-003.Criminals-of-Sharn.png\" class=\"ddb-lightbox-inner compendium-center-banner-img\" style=\"width: 850px;\" alt=\"The criminals of Sharn come in different shapes, in different sizes, and from different planes of existence.\" loading=\"lazy\" decoding=\"async\"></a>\n<figcaption>The criminals of Sharn come in different shapes, in different <br>sizes, and from different planes of existence</figcaption>\n</figure>\n\n\n<h4 class=\"compendium-hr heading-anchor\" id=\"GoalsoftheBoromarClan\">Goals of the Boromar Clan</h4>\n<p>For generations, the goals of the Boromar Clan have been simple: to maintain an iron grip on shady and illegal activities in Sharn. The Boromars extend their influence into places of power and bribe officials of the Sharn Watch, all to maximize profits and power. Short-term goals come and go in service of these overarching objectives—blackmailing a councilor here, purchasing a shipping company there. But with the rise of <a href=\"#Daask\">Daask</a>, the Boromars have the new and urgent goal of eliminating their upstart rival once and for all.</p>\n<p>The fierce enmity between the Boromar Clan and Daask creates interesting options for inquisitive characters who stand (at least nominally) on the side of the law against both criminal organizations. Will they accept help from the Boromars against the much more obviously dangerous Daask? Or might they disregard Daask operations clearly meant to undermine the Boromars? The inquisitives might even find a way to ensure the conflict between the two criminal groups weakens them both, making Sharn safer in the process.</p>\n\n\n<h4 class=\"compendium-hr heading-anchor\" id=\"ABoromarClanArc\">A Boromar Clan Arc</h4>\n<p>The conflict between inquisitives and <a href=\"#TheBoromarClan\">The Boromar Clan</a> might follow this broad outline.</p>\n<p><strong><em>Levels 1–4.</em></strong> The characters investigate petty crimes—pickpocketing, burglary, blackmail, and such—and help bring several Boromar Clan members to justice. The inquisitives find the Sharn Watch unhelpful in dealing with these criminals, though, and some legitimate businesses and law-abiding citizens start shunning or insulting the characters, angry at their interference with the “hometown heroes” of the Boromar Clan.</p>\n<p><strong><em>Levels 5–10.</em></strong> Ostensibly trying to mend the poor relationship between the Sharn Watch and the inquisitives, a Watch officer recruits the characters to bring a <a href=\"#Daask\">Daask</a> gang to justice. The Watch helps, and the characters catch several Daask criminals. However, the characters’ Watch allies don’t seem concerned about whether any Daask members are hurt or killed in the final confrontation. Indeed, it turns out that the Boromar Clan arranged the operation to remove a dangerous group of rivals.</p>\n<p><strong><em>Levels 11–16.</em></strong> Boromar leaders try to recruit the characters to their side, offering exorbitant fees and extravagant gifts as payment for simple jobs. If bribery doesn’t work, the gang tries to coerce the characters into helping them, using friends, family members, or contacts as leverage. Along the way, the characters learn that a trusted NPC ally is firmly in the pocket of the Boromar Clan.</p>\n<p><strong><em>Levels 17–20.</em></strong> Assuming the characters haven’t joined the Boromars, the clan leadership tries to eliminate them. The Boromars can’t muster a physical threat to challenge characters of this level, so they wield their political power instead. Under pressure from Boromar leaders, the city council declares the adventurers a threat to Sharn’s safety and security. Officials revoke their inquisitive agency’s operations permit and ask the characters to leave Sharn.</p>\n\n\n<h4 class=\"compendium-hr heading-anchor\" id=\"BoromarOperatives\">Boromar Operatives</h4>\n<p><a href=\"#TheBoromarClan\">The Boromar Clan</a> began as a single family of halflings. Though its influence has expanded widely, its key operatives are still family members. Boromar operatives prefer deception and bribery over outright violence, though they defend their interests when necessary. Besides those described here, other Boromar operatives include bandits, commoners, spies, toughs, and warriors (see the <a class=\"sourcebook\" href=\"https://www.dndbeyond.com/sources/dnd/mm-2024\">Monster Manual</a>).</p>\n<p><strong><em>Boromar Smuggler.</em></strong> Smugglers employed by the Boromar Clan (mostly halflings) are notoriously hard to catch. These speedy criminals traffic everything from narcotics to illegal arcane weaponry across Sharn.</p>\n\n<div class=\"stat-block\">\n<h4 class=\"compendium-hr with-metadata heading-anchor\" id=\"BoromarSmuggler\">Boromar Smuggler </h4>\n<p><em>Small Humanoid (Halfling), Neutral Evil</em></p>\n<p><strong>AC</strong> 13 <strong>Initiative</strong> +4 (14)</p>\n<p><strong>HP</strong> 27 (6d6 + 6)</p>\n<p><strong>Speed</strong> 40 ft.</p>\n<div class=\"stats\">\n<table class=\"physical abilities-saves\" id=\"session-table-1\">\n<thead>\n<tr>\n<th>Ability</th>\n<th>Score</th>\n<th>Mod</th>\n<th>Save</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<th>Str</th>\n<td>11</td>\n<td>+0</td>\n<td>+0</td>\n</tr>\n<tr>\n<th>Dex</th>\n<td>15</td>\n<td>+2</td>\n<td>+4</td>\n</tr>\n<tr>\n<th>Con</th>\n<td>12</td>\n<td>+1</td>\n<td>+1</td>\n</tr>\n</tbody>\n</table>\n<table class=\"mental abilities-saves\" id=\"session-table-2\">\n<thead>\n<tr>\n<th>Ability</th>\n<th>Score</th>\n<th>Mod</th>\n<th>Save</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<th>Int</th>\n<td>11</td>\n<td>+0</td>\n<td>+0</td>\n</tr>\n<tr>\n<th>Wis</th>\n<td>10</td>\n<td>+0</td>\n<td>+2</td>\n</tr>\n<tr>\n<th>Cha</th>\n<td>14</td>\n<td>+2</td>\n<td>+2</td>\n</tr>\n</tbody>\n</table>\n</div>\n<p><strong>Skills</strong> <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/14-tooltip\">Perception</a> +2, <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/4-tooltip\">Sleight of Hand</a> +6, <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/5-tooltip\">Stealth</a> +6</p>\n<p><strong>Gear</strong> Leather Armor, Pistol, Shortsword</p>\n<p><strong>Senses</strong> Passive Perception 12</p>\n<p><strong>Languages</strong> Common, Halfling, Thieves’ Cant</p>\n<p><strong>CR</strong> 1/2 (XP 100; PB +2)</p>\n<p class=\"monster-header\">Traits</p>\n<p><strong><em>Hustle.</em></strong> The smuggler can move through the space of any creature that is of a larger size, but it can’t stop there.</p>\n<p class=\"monster-header\">Actions</p>\n<p><strong><em>Shortsword.</em></strong><em> Melee Attack Roll:</em> +4, reach 5 ft. <em> Hit:</em> 5 (1d6 + 2) Piercing damage plus 2 (1d4) Poison damage.</p>\n<p><strong><em>Pistol.</em></strong><em> Ranged Attack Roll:</em> +4, range 30/90 ft. <em> Hit:</em> 7 (1d10 + 2) Piercing damage.</p>\n</div>\n\n<p><strong><em>Boromar Underboss.</em></strong> Underbosses supervise larger clan operations, such as gambling halls and warehouses of smuggled goods awaiting transport. Accustomed to the criminal lifestyle, these hardy individuals (mostly halflings) dismiss and dispose of threats with calculated ease.</p>\n\n<div class=\"stat-block\">\n<h4 class=\"compendium-hr with-metadata heading-anchor\" id=\"BoromarUnderboss\">Boromar Underboss </h4>\n<p><em>Small Humanoid (Halfling), Lawful Evil</em></p>\n<p><strong>AC</strong> 16 <strong>Initiative</strong> +7 (17)</p>\n<p><strong>HP</strong> 104 (19d6 + 38)</p>\n<p><strong>Speed</strong> 30 ft.</p>\n<div class=\"stats\">\n<table class=\"physical abilities-saves\" id=\"session-table-3\">\n<thead>\n<tr>\n<th>Ability</th>\n<th>Score</th>\n<th>Mod</th>\n<th>Save</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<th>Str</th>\n<td>10</td>\n<td>+0</td>\n<td>+0</td>\n</tr>\n<tr>\n<th>Dex</th>\n<td>18</td>\n<td>+4</td>\n<td>+7</td>\n</tr>\n<tr>\n<th>Con</th>\n<td>15</td>\n<td>+2</td>\n<td>+5</td>\n</tr>\n</tbody>\n</table>\n<table class=\"mental abilities-saves\" id=\"session-table-4\">\n<thead>\n<tr>\n<th>Ability</th>\n<th>Score</th>\n<th>Mod</th>\n<th>Save</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<th>Int</th>\n<td>12</td>\n<td>+1</td>\n<td>+1</td>\n</tr>\n<tr>\n<th>Wis</th>\n<td>14</td>\n<td>+2</td>\n<td>+5</td>\n</tr>\n<tr>\n<th>Cha</th>\n<td>17</td>\n<td>+3</td>\n<td>+3</td>\n</tr>\n</tbody>\n</table>\n</div>\n<p><strong>Skills</strong> <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/12-tooltip\">Insight</a> +5, <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/14-tooltip\">Perception</a> +8, <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/4-tooltip\">Sleight of Hand</a> +10</p>\n<p><strong>Resistances</strong> Poison</p>\n<p><strong>Gear</strong> Studded Leather Armor</p>\n<p><strong>Senses</strong> Passive Perception 18</p>\n<p><strong>Languages</strong> Common, Halfling, Thieves’ Cant</p>\n<p><strong>CR</strong> 8 (XP 3,900; PB +3)</p>\n<p class=\"monster-header\">Traits</p>\n<p><strong><em>Hustle.</em></strong> The underboss can move through the space of any creature that is of a larger size, but it can’t stop there.</p>\n<p class=\"monster-header\">Actions</p>\n<p><strong><em>Multiattack.</em></strong> The underboss makes three attacks, using <a class=\"tooltip-hover condition-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#PoisonedCondition\" data-tooltip-href=\"/conditions/11-tooltip\">Poisoned</a> Blade or Arcane Firearm in any combination.</p>\n<p><strong><em><a class=\"tooltip-hover condition-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#PoisonedCondition\" data-tooltip-href=\"/conditions/11-tooltip\">Poisoned</a> Blade.</em></strong><em> Melee Attack Roll:</em> +7, reach 5 ft. <em> Hit:</em> 13 (2d8 + 4) Slashing damage plus 7 (2d6) Poison damage, and the target has the <a class=\"tooltip-hover condition-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#PoisonedCondition\" data-tooltip-href=\"/conditions/11-tooltip\">Poisoned</a> condition until the start of the underboss’s next turn. If the target is already <a class=\"tooltip-hover condition-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#PoisonedCondition\" data-tooltip-href=\"/conditions/11-tooltip\">Poisoned</a>, it instead takes an extra 7 (2d6) Poison damage.</p>\n<p><strong><em>Arcane Firearm.</em></strong><em> Ranged Attack Roll:</em> +7, range 30/90 ft. <em> Hit:</em> 26 (4d10 + 4) Force damage.</p>\n<p class=\"monster-header\">Reactions</p>\n<p><strong><em>Uncanny Dodge.</em></strong><em> Trigger:</em> The underboss is hit by an attack roll. <em> Response:</em> The underboss halves the damage (round down) it takes from that attack.</p>\n</div>\n\n<h3 class=\"compendium-hr heading-anchor\" id=\"Daask\">Daask</h3>\n<p>Daask is a violent gang of muggers, extortionists, looters, cultists, and drug dealers supported by such monsters as harpies, medusas, minotaurs, ogres, and trolls. It seems like a simple criminal gang engaged in a battle for territory and power against <a href=\"#TheBoromarClan\">the Boromar Clan</a> and the forces of law and order—but the truth is more complicated. In fact, the members of Daask take their orders from Sora Katra, one of the three hags (the Daughters of Sora Kell) who rule the nation of Droaam. Daask’s operations in Sharn are only a small part of a much larger scheme.</p>\n\n\n<h4 class=\"compendium-hr heading-anchor\" id=\"GoalsofDaask\">Goals of Daask</h4>\n<p>The goals of <a href=\"#Daask\">Daask</a>, like those of the Daughters of Sora Kell, are shrouded in mystery. As described in <a href=\"https://www.dndbeyond.com/sources/dnd/erftlw\"><em>Eberron: Rising from the Last War</em></a>, the reason for Daask’s existence depends on the path you choose for the Daughters of Sora Kell—whether they seek peace and stability for their young nation of mistrusted monsters, desire to end humanity’s dominance over Khorvaire and let monsters rule, or merely follow the visions of Sora Teraza wherever they lead. Regardless of Daask’s larger purpose, however, one immediate goal remains: to eliminate <a href=\"#TheBoromarClan\">the Boromar Clan</a>, or at least break its hold on Sharn’s criminal underworld. Its methods range from street violence—mugging, armed robbery, and even pillaging—to extortion and trade in drugs.</p>\n\n<h4 class=\"compendium-hr heading-anchor\" id=\"ADaaskArc\">A Daask Arc</h4>\n<p>The conflict between inquisitives and <a href=\"#Daask\">Daask</a> might follow this broad outline.</p>\n<p><strong><em>Levels 1–4.</em></strong> The characters investigate crimes perpetrated by Daask against businesses they eventually discover are affiliated with <a href=\"#TheBoromarClan\">the Boromar Clan</a>. The Sharn Watch might hire the characters to help bring a Daask gang to justice, but the inquisitives eventually learn that the Boromar Clan seeks to use the Watch and the characters to strike back at Daask.</p>\n<p><strong><em>Levels 5–10.</em></strong> What seems like a routine case of a wealthy noble disappearing into a drug den while looking for thrills leads the characters to dig into Daask’s trade in dragon’s blood, a mysterious and dangerous new drug. The investigation drives the characters into conflict with increasingly powerful monsters affiliated with the gang.</p>\n<p><strong><em>Levels 11–16.</em></strong> Daask operatives kidnap a prominent figure in Sharn, but the freed “victim” turns out to be a doppelganger. The characters are hired to retrieve the real victim, who is undergoing a ritual that will eventually transform them into a hag.</p>\n<p><strong><em>Levels 17–20.</em></strong> While Daask stirs up riots in <a href=\"#TheCogs\">the Cogs</a> and Malleon’s Gate, the characters discover that the gang has also planted arcane explosives across the city. The characters must find the explosives before Sharn is thrown into utter chaos.</p>\n\n\n\n<h4 class=\"compendium-hr heading-anchor\" id=\"DaaskEnforcers\">Daask Enforcers</h4>\n<p><a href=\"#Daask\">Daask</a>’s agents in Sharn include changelings, goblins, humans, and shifters recruited in the city, as well as monsters that have come to Sharn from Droaam: gnolls, harpies, medusas, minotaurs, ogres, trolls, and an oni leader named Cavallah. Droaam’s gnolls are untainted by the demonic influence of Yeenoghu; many such enforcers use the stat blocks presented here.</p>\n<p><strong><em>Daask Bruiser.</em></strong> Intimidating and powerful, bruisers lead Daask operations when more violent and decisive shows of force are needed. These enforcers relish the brutality of their work.</p>\n\n<div class=\"stat-block\">\n<h4 class=\"compendium-hr with-metadata heading-anchor\" id=\"DaaskBruiser\">Daask Bruiser </h4>\n<p><em>Medium Humanoid (Gnoll), Neutral Evil</em></p>\n<p><strong>AC</strong> 17 <strong>Initiative</strong> +5 (15)</p>\n<p><strong>HP</strong> 150 (20d8 + 60)</p>\n<p><strong>Speed</strong> 30 ft.</p>\n<div class=\"stats\">\n<table class=\"physical abilities-saves\" id=\"session-table-5\">\n<thead>\n<tr>\n<th>Ability</th>\n<th>Score</th>\n<th>Mod</th>\n<th>Save</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<th>Str</th>\n<td>20</td>\n<td>+5</td>\n<td>+9</td>\n</tr>\n<tr>\n<th>Dex</th>\n<td>13</td>\n<td>+1</td>\n<td>+1</td>\n</tr>\n<tr>\n<th>Con</th>\n<td>16</td>\n<td>+3</td>\n<td>+7</td>\n</tr>\n</tbody>\n</table>\n<table class=\"mental abilities-saves\" id=\"session-table-6\">\n<thead>\n<tr>\n<th>Ability</th>\n<th>Score</th>\n<th>Mod</th>\n<th>Save</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<th>Int</th>\n<td>10</td>\n<td>+0</td>\n<td>+0</td>\n</tr>\n<tr>\n<th>Wis</th>\n<td>12</td>\n<td>+1</td>\n<td>+5</td>\n</tr>\n<tr>\n<th>Cha</th>\n<td>14</td>\n<td>+2</td>\n<td>+2</td>\n</tr>\n</tbody>\n</table>\n</div>\n<p><strong>Skills</strong> <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/2-tooltip\">Athletics</a> +9, <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/17-tooltip\">Intimidation</a> +6, <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/14-tooltip\">Perception</a> +5</p>\n<p><strong>Senses</strong> <a class=\"tooltip-hover sense-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#Darkvision\" data-tooltip-href=\"/senses/2-tooltip\">Darkvision</a> 60 ft.; Passive Perception 15</p>\n<p><strong>Languages</strong> Common, Gnoll</p>\n<p><strong>CR</strong> 9 (XP 5,000; PB +4)</p>\n<p class=\"monster-header\">Traits</p>\n<p><strong><em>Blood Frenzy.</em></strong> The bruiser has Advantage on attack rolls against any creature that doesn’t have all its Hit Points.</p>\n<p class=\"monster-header\">Actions</p>\n<p><strong><em>Multiattack.</em></strong> The bruiser makes three Pummel attacks and uses Glare.</p>\n<p><strong><em>Pummel.</em></strong><em> Melee Attack Roll:</em> +9, reach 5 ft. <em> Hit:</em> 12 (2d6 + 5) Bludgeoning damage.</p>\n<p><strong><em>Glare.</em></strong><em> Wisdom Saving Throw:</em> DC 14, one creature the bruiser can see within 30 feet. <em> Failure:</em> The target has the <a class=\"tooltip-hover condition-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#FrightenedCondition\" data-tooltip-href=\"/conditions/5-tooltip\">Frightened</a> condition until the start of the bruiser’s next turn.</p>\n<p class=\"monster-header\">Reactions</p>\n<p><strong><em>Smackback.</em></strong><em> Trigger:</em> The bruiser takes damage from a creature within 5 feet. <em> Response:</em> The bruiser makes one Pummel attack, targeting the triggering creature.</p>\n</div>\n\n<p><strong><em>Daask Raider.</em></strong> Raiders use guerrilla tactics to ambush warehouses and beat down opponents. These skilled fistfighters work in tandem to claim goods and territory for Daask.</p>\n\n<div class=\"stat-block\">\n<h4 class=\"compendium-hr with-metadata heading-anchor\" id=\"DaaskRaider\">Daask Raider </h4>\n<p><em>Medium Humanoid (Gnoll), Neutral Evil</em></p>\n<p><strong>AC</strong> 15 <strong>Initiative</strong> +1 (11)</p>\n<p><strong>HP</strong> 33 (6d8 + 6)</p>\n<p><strong>Speed</strong> 30 ft.</p>\n<div class=\"stats\">\n<table class=\"physical abilities-saves\" id=\"session-table-7\">\n<thead>\n<tr>\n<th>Ability</th>\n<th>Score</th>\n<th>Mod</th>\n<th>Save</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<th>Str</th>\n<td>16</td>\n<td>+3</td>\n<td>+5</td>\n</tr>\n<tr>\n<th>Dex</th>\n<td>12</td>\n<td>+1</td>\n<td>+1</td>\n</tr>\n<tr>\n<th>Con</th>\n<td>13</td>\n<td>+1</td>\n<td>+1</td>\n</tr>\n</tbody>\n</table>\n<table class=\"mental abilities-saves\" id=\"session-table-8\">\n<thead>\n<tr>\n<th>Ability</th>\n<th>Score</th>\n<th>Mod</th>\n<th>Save</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<th>Int</th>\n<td>10</td>\n<td>+0</td>\n<td>+0</td>\n</tr>\n<tr>\n<th>Wis</th>\n<td>11</td>\n<td>+0</td>\n<td>+0</td>\n</tr>\n<tr>\n<th>Cha</th>\n<td>8</td>\n<td>-1</td>\n<td>-1</td>\n</tr>\n</tbody>\n</table>\n</div>\n<p><strong>Skills</strong> <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/2-tooltip\">Athletics</a> +5, <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/14-tooltip\">Perception</a> +2</p>\n<p><strong>Senses</strong> <a class=\"tooltip-hover sense-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#Darkvision\" data-tooltip-href=\"/senses/2-tooltip\">Darkvision</a> 60 ft.; Passive Perception 12</p>\n<p><strong>Languages</strong> Common, Gnoll</p>\n<p><strong>CR</strong> 1 (XP 200; PB +2)</p>\n<p class=\"monster-header\">Traits</p>\n<p><strong><em>Pack Tactics.</em></strong> The raider has Advantage on an attack roll against a creature if at least one of the raider’s allies is within 5 feet of the creature and the ally doesn’t have the <a class=\"tooltip-hover condition-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#IncapacitatedCondition\" data-tooltip-href=\"/conditions/7-tooltip\">Incapacitated</a> condition.</p>\n<p class=\"monster-header\">Actions</p>\n<p><strong><em>Pummel.</em></strong><em> Melee Attack Roll:</em> +5, reach 5 ft. <em> Hit:</em> 5 (1d4 + 3) Bludgeoning damage.</p>\n<p class=\"monster-header\">Reactions</p>\n<p><strong><em>Smackback.</em></strong><em> Trigger:</em> The raider takes damage from a creature within 5 feet. <em> Response:</em> The raider makes one Pummel attack, targeting the triggering creature.</p>\n</div>\n\n<h3 class=\"compendium-hr heading-anchor\" id=\"TheDreamingDark\">The Dreaming Dark</h3>\n<p>The sinister and mysterious Dreaming Dark—a metaphysical force trying to prolong the current age of despair and violence—seeks to extend its reach toward Khorvaire. Over a century ago, <a href=\"#TheDreamingDark\">the Dreaming Dark</a> compromised House Deneith’s enclave in <a href=\"#UpperTavicksLanding\">Upper Tavick’s Landing</a>. Although the enclave seems normal to outsiders, and even to many in House Deneith, it is now a stronghold of shadows. Under the tutelage of the Dreaming Dark, the Sharn Deneith have become masters of intrigue and subtlety. They carefully conceal their psionic power from outsiders while using it to gather information from the wealthy citizens they ostensibly guard.</p>\n<p>While the enclave serves the Dreaming Dark, most of its members have no idea they are in league with the Inspired. Over a century of indoctrination, the Inspired dominator Tirashana has taught the Sharn Deneith to see themselves as superior because of their dragonmarks and raised above the other dragonmarked houses by their psionic abilities. Even members of the house who work directly with the Inspired believe that the Inspired consider them equal partners, but in fact the Inspired view them merely as useful pawns. Now quori spirits have possessed fifteen members of the house.</p>\n<p>In addition to the leaders of House Deneith in Sharn, the Dreaming Dark has agents strategically planted throughout the City of Towers. They include one member of the Sharn Council (Bestan ir’Tonn, who also has close ties to <a href=\"#TheBoromarClan\">the Boromar Clan</a>) and a leader in the Sharn Watch (Warden Maira ir’Talan of the Blackened Book). The Dreaming Dark also commands the allegiance of the Riedran ambassadors in Sharn.</p>\n\n\n<h4 class=\"compendium-hr heading-anchor\" id=\"GoalsoftheDreamingDark\">Goals of the Dreaming Dark</h4>\n<p>Building from the description in <a href=\"https://www.dndbeyond.com/sources/dnd/erftlw\"><em>Eberron: Rising from the Last War</em></a>, <a href=\"#TheDreamingDark\">the Dreaming Dark</a> has three objectives in the City of Towers:</p>\n<ul>\n<li> To cause chaos and strife by undermining what little faith in law enforcement exists in Sharn—turning the forces of law and order against one another, fueling the feuds between criminal organizations, and spreading fear among the populace.</li>\n<li> To promote their chosen champions, which in Sharn means the subverted and possessed agents of House Deneith.</li>\n<li> To undermine the kalashtar throughout the city—especially in the Overlook district of <a href=\"#UpperDura\">Upper Dura</a> and its Path of Light temple.</li>\n</ul>\n\n\n<h4 class=\"compendium-hr heading-anchor\" id=\"ADreamingDarkArc\">A Dreaming Dark Arc</h4>\n<p><a href=\"#TheDreamingDark\">The Dreaming Dark</a> poses a significant threat, which might not manifest fully until the characters can handle the danger. The conflict could play out according to this outline.</p>\n<p><strong><em>Levels 1–4.</em></strong> Early in their adventures, the inquisitives have vivid dreams that reveal key details about cases they’re working on—easily interpreted as subconscious insights bringing overlooked information to light. (The discussion of the Dreaming Dark in <a href=\"https://www.dndbeyond.com/sources/dnd/erftlw\"><em>Eberron: Rising from the Last War</em></a> includes suggestions for incorporating dreams into your game.)</p>\n<p><strong><em>Levels 5–10.</em></strong> Investigating a series of grisly crimes, the characters are aided by a <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/5976758-sentinel-marshal\" data-tooltip-href=\"/monsters/5976758-tooltip\">Sentinel Marshal</a> of House Deneith (see stat block in <a href=\"/chapters/dragonmarks/\">chapter 5</a>). When captured, the criminal insists that recurring dreams led to the crimes. The Sentinel Marshal dismisses this claim. If the inquisitives investigate further, they find themselves drawn into a nightmare scenario involving a quori. In the course of that adventure, they glean clues that the Sentinel Marshal played a more sinister part in events than previously suspected.</p>\n<p><strong><em>Levels 11–16.</em></strong> The characters experience increasingly frequent nightmares, individually and as a group. Meanwhile, the Sentinel Marshals and other members of House Deneith interfere with their investigations.</p>\n<p><strong><em>Levels 17–20.</em></strong> The inquisitives uncover the corruption at the heart of the House Deneith enclave in Sharn, which reaches all the way to its lord, Sadran d’Deneith—a human man possessed by a powerful quori spirit. Their investigations lead to confrontations with Deneith leaders in the waking world, but eventually the inquisitives must fight the quori in the dream world of Dal Quor.</p>\n\n\n<h4 class=\"compendium-hr heading-anchor\" id=\"DreamingDarkAgents\">Dreaming Dark Agents</h4>\n<p>Anyone can be seduced into the service of <a href=\"#TheDreamingDark\">the Dreaming Dark</a>, and a normal person possessed by a quori (see the quori stat blocks in <a href=\"https://www.dndbeyond.com/sources/dnd/erftlw\"><em>Eberron: Rising from the Last War</em></a>) uses their normal stat block. The two agents presented here are Inspired agents of the Dark who wield terrifying psionic power.</p>\n<p><strong><em>Dreaming Dark Infiltrator.</em></strong> <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/5976748-dreaming-dark-infiltrator\" data-tooltip-href=\"/monsters/5976748-tooltip\">Dreaming Dark infiltrators</a> are spies sent to gather intelligence. They plant psychic seeds in their minds of their foes that enhance the infiltrators’ combat prowess against those enemies.</p>\n\n\n<div class=\"stat-block\">\n<h4 class=\"compendium-hr with-metadata heading-anchor\" id=\"DreamingDarkInfiltrator\">Dreaming Dark Infiltrator </h4>\n<p><em>Medium or Small Humanoid, Lawful Evil</em></p>\n<p><strong>AC</strong> 15 <strong>Initiative</strong> +3 (13)</p>\n<p><strong>HP</strong> 104 (16d8 + 32)</p>\n<p><strong>Speed</strong> 30 ft.</p>\n<div class=\"stats\">\n<table class=\"physical abilities-saves\" id=\"session-table-9\">\n<thead>\n<tr>\n<th>Ability</th>\n<th>Score</th>\n<th>Mod</th>\n<th>Save</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<th>Str</th>\n<td>14</td>\n<td>+2</td>\n<td>+2</td>\n</tr>\n<tr>\n<th>Dex</th>\n<td>17</td>\n<td>+3</td>\n<td>+3</td>\n</tr>\n<tr>\n<th>Con</th>\n<td>15</td>\n<td>+2</td>\n<td>+2</td>\n</tr>\n</tbody>\n</table>\n<table class=\"mental abilities-saves\" id=\"session-table-10\">\n<thead>\n<tr>\n<th>Ability</th>\n<th>Score</th>\n<th>Mod</th>\n<th>Save</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<th>Int</th>\n<td>18</td>\n<td>+4</td>\n<td>+7</td>\n</tr>\n<tr>\n<th>Wis</th>\n<td>16</td>\n<td>+3</td>\n<td>+6</td>\n</tr>\n<tr>\n<th>Cha</th>\n<td>17</td>\n<td>+3</td>\n<td>+6</td>\n</tr>\n</tbody>\n</table>\n</div>\n<p><strong>Skills</strong> <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/16-tooltip\">Deception</a> +6, <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/12-tooltip\">Insight</a> +6, <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/5-tooltip\">Stealth</a> +6</p>\n<p><strong>Resistances</strong> Psychic</p>\n<p><strong>Gear</strong> Chain Shirt</p>\n<p><strong>Senses</strong> <a class=\"tooltip-hover sense-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#Truesight\" data-tooltip-href=\"/senses/4-tooltip\">Truesight</a> 30 ft.; Passive Perception 13</p>\n<p><strong>Languages</strong> Common, Quori; telepathy 120 ft.</p>\n<p><strong>CR</strong> 7 (XP 2,900; PB +3)</p>\n<p class=\"monster-header\">Actions</p>\n<p><strong><em>Multiattack.</em></strong> The infiltrator makes three Mind Blade attacks.</p>\n<p><strong><em>Mind Blade.</em></strong><em> Melee or Ranged Attack Roll:</em> +7, reach 5 ft. or range 30 ft. <em> Hit:</em> 14 (3d6 + 4) Psychic damage.</p>\n<p><strong><em>Spellcasting.</em></strong> The infiltrator casts one of the following spells, requiring no Material components and using Intelligence as the spellcasting ability (spell save DC 15):</p>\n<p><strong>3/Day:</strong> <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2619099-detect-thoughts\" data-tooltip-href=\"/spells/2619099-tooltip\">Detect Thoughts</a></p>\n<p><strong>1/Day:</strong> <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2619129-synaptic-static\" data-tooltip-href=\"/spells/2619129-tooltip\">Synaptic Static</a></p>\n<p class=\"monster-header\">Bonus Actions</p>\n<p><strong><em>Mind Curse.</em></strong><em> Wisdom Saving Throw:</em> DC 15, one creature hit by the infiltrator’s Mind Blade attack this turn. <em> Failure:</em> The target takes 14 (4d6) Psychic damage and is cursed. While cursed in this way, it has Disadvantage on attack rolls against the infiltrator, and the infiltrator always knows its location while it and the infiltrator are on the same plane of existence. A cursed creature repeats the save whenever it finishes a Short or Long Rest, ending the effect on itself on a success. <em> Success:</em> Half damage only.</p>\n</div>\n\n\n<p><strong><em>Dreaming Dark Mindkiller.</em></strong> Mindkillers are the assassins of the Dreaming Dark, sent to terrify their foes before striking to kill. Mindkillers force foes to attack their own allies, causing physical and emotional devastation to grow the power of the Dreaming Dark.</p>\n\n<div class=\"stat-block\">\n<h4 class=\"compendium-hr with-metadata heading-anchor\" id=\"DreamingDarkMindkiller\">Dreaming Dark Mindkiller </h4>\n<p><em>Medium or Small Humanoid, Lawful Evil</em></p>\n<p><strong>AC</strong> 19 <strong>Initiative</strong> +4 (14)</p>\n<p><strong>HP</strong> 180 (24d8 + 72)</p>\n<p><strong>Speed</strong> 30 ft.</p>\n<div class=\"stats\">\n<table class=\"physical abilities-saves\" id=\"session-table-11\">\n<thead>\n<tr>\n<th>Ability</th>\n<th>Score</th>\n<th>Mod</th>\n<th>Save</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<th>Str</th>\n<td>15</td>\n<td>+2</td>\n<td>+2</td>\n</tr>\n<tr>\n<th>Dex</th>\n<td>19</td>\n<td>+4</td>\n<td>+4</td>\n</tr>\n<tr>\n<th>Con</th>\n<td>16</td>\n<td>+3</td>\n<td>+3</td>\n</tr>\n</tbody>\n</table>\n<table class=\"mental abilities-saves\" id=\"session-table-12\">\n<thead>\n<tr>\n<th>Ability</th>\n<th>Score</th>\n<th>Mod</th>\n<th>Save</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<th>Int</th>\n<td>21</td>\n<td>+5</td>\n<td>+9</td>\n</tr>\n<tr>\n<th>Wis</th>\n<td>18</td>\n<td>+4</td>\n<td>+8</td>\n</tr>\n<tr>\n<th>Cha</th>\n<td>17</td>\n<td>+3</td>\n<td>+7</td>\n</tr>\n</tbody>\n</table>\n</div>\n<p><strong>Skills</strong> <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/16-tooltip\">Deception</a> +7, <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/12-tooltip\">Insight</a> +8, <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/14-tooltip\">Perception</a> +8, <a class=\"tooltip-hover skill-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills\" data-tooltip-href=\"/skills/5-tooltip\">Stealth</a> +8</p>\n<p><strong>Resistances</strong> Psychic</p>\n<p><strong>Immunities</strong> <a class=\"tooltip-hover condition-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#CharmedCondition\" data-tooltip-href=\"/conditions/2-tooltip\">Charmed</a>, <a class=\"tooltip-hover condition-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#FrightenedCondition\" data-tooltip-href=\"/conditions/5-tooltip\">Frightened</a></p>\n<p><strong>Senses</strong> <a class=\"tooltip-hover sense-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#Truesight\" data-tooltip-href=\"/senses/4-tooltip\">Truesight</a> 30 ft.; Passive Perception 18</p>\n<p><strong>Languages</strong> Common, Quori; telepathy 120 ft.</p>\n<p><strong>CR</strong> 11 (XP 7,200; PB +4)</p>\n<p class=\"monster-header\">Actions</p>\n<p><strong><em>Multiattack.</em></strong> The mindkiller makes two Nightmare Whisper attacks.</p>\n<p><strong><em>Nightmare Whisper.</em></strong><em> Melee or Ranged Attack Roll:</em> +9, reach 5 ft. or range 30 ft. <em> Hit:</em> 27 (5d8 + 5) Psychic damage, and the target has the <a class=\"tooltip-hover condition-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#FrightenedCondition\" data-tooltip-href=\"/conditions/5-tooltip\">Frightened</a> condition until the start of the mindkiller’s next turn. If the target is already <a class=\"tooltip-hover condition-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#FrightenedCondition\" data-tooltip-href=\"/conditions/5-tooltip\">Frightened</a>, it instead takes an extra 10 (3d6) Psychic damage.</p>\n<p><strong><em>Primal Fear (1/Day).</em></strong><em> Wisdom Saving Throw:</em> DC 17, each creature in a 30-foot-radius Sphere centered on a point the mindkiller can see within 120 feet. <em> Failure:</em> 35 (10d6) Psychic damage, and the target has the <a class=\"tooltip-hover condition-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#FrightenedCondition\" data-tooltip-href=\"/conditions/5-tooltip\">Frightened</a> condition until the start of the mindkiller’s next turn. While <a class=\"tooltip-hover condition-tooltip\" href=\"https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#FrightenedCondition\" data-tooltip-href=\"/conditions/5-tooltip\">Frightened</a> in this way, the target can do only one of the following on each of its turns: move, take an action, or take a Bonus Action. <em> Success:</em> Half damage only.</p>\n<p class=\"monster-header\">Bonus Actions</p>\n<p><strong><em>Slayer’s Puppet (1/Day).</em></strong> The mindkiller casts <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2619148-dominate-person\" data-tooltip-href=\"/spells/2619148-tooltip\">Dominate Person</a>, requiring no spell components and using Intelligence as the spellcasting ability (spell save DC 17).</p>\n</div>\n\n\n<h2 class=\"compendium-hr heading-anchor\" id=\"SharnNeighborhoods\">Sharn Neighborhoods</h2>\n<p>Sharn is divided into geographical quarters—Central Plateau, Dura, Menthis Plateau, Northedge, and Tavick’s Landing—and each quarter has three levels. The combination of quarter and level defines a ward: <a href=\"#UpperDura\">Upper Dura</a>, <a href=\"#MiddleCentral\">Middle Central</a>, <a href=\"#LowerNorthedge\">Lower Northedge</a>, and so on. Each ward comprises several districts or neighborhoods, each with its own distinctive flavor. A few areas lie outside Sharn’s main geographical quarters, including <a href=\"#Skyway\">Skyway</a>, <a href=\"#Cliffside\">Cliffside</a>, <a href=\"#TheCogs\">the Cogs</a>, and the <a href=\"#CityoftheDead\">City of the Dead</a>. (See <a href=\"https://www.dndbeyond.com/sources/dnd/erftlw\"><em>Eberron: Rising from the Last War</em></a> for more details.)</p>\n<p>Every neighborhood has its own flavor of crime. This section offers suggestions for mysteries, intrigue, and adventure across Sharn’s wards. It also includes brief descriptions of inquisitive agencies connected to House Tharashk’s Finders Guild.</p>\n<figure class=\"compendium-art compendium-art-center\" id=\"imgCityOfTowers\">\n<span class=\"artist-credit\">Kuno</span>\n<a class=\"ddb-lightbox-outer compendium-image-center\" href=\"https://media.dndbeyond.com/compendium-images/efota/Jae5SyNcfFGjapTb/04-004.City-of-Towers.png\" data-lightbox=\"1\" data-title=\"\"><img src=\"https://media.dndbeyond.com/compendium-images/efota/Jae5SyNcfFGjapTb/04-004.City-of-Towers.png\" class=\"ddb-lightbox-inner compendium-center-banner-img\" style=\"width: 850px;\" alt=\"The City of Towers.\" loading=\"lazy\" decoding=\"async\"></a>\n<figcaption>Something is always happening in the shadows of the City of Towers</figcaption>\n</figure>\n\n\n<h3 class=\"compendium-hr heading-anchor\" id=\"UpperCentral\">Upper Central</h3>\n<p>Upper Central is defined by wealth and prestige and heavily patrolled by both the Sharn Watch and private security agents, so crime there leans more toward elaborate heists than back-alley muggings. Lucrative targets such as the Kundarak Bank of Sharn (with its supposedly impenetrable storage facility called the Vaults) and Aurora Gallery (a magic item auction house) remain far beyond the reach of ordinary bank robbers and safecrackers, but they draw the attention of brilliant schemers who concoct elaborate plots, often with help from the inside. When something goes missing, whether from House Kundarak or from any of the ward’s mansions and luxury shops, the victims call on the very best inquisitives to retrieve the stolen goods.</p>\n<p>One opportunity for less renowned inquisitives is the chance to bring Sharn’s elite to justice for a type of immoral behavior that remains fully legal: plundering the poor. Residents of the lower wards have little hope of securing redress for wrongs done by exploitative nobles, corner-cutting businesses, and government bureaucracies—unless persistent and skillful inquisitives provide them with leverage.</p>\n\n\n<h3 class=\"compendium-hr heading-anchor\" id=\"MiddleCentral\">Middle Central</h3>\n<p>International intrigue is the most common form of criminal activity in Middle Central, which includes Ambassador Towers (with its embassies and consulates from across the world), the headquarters of the King’s Citadel, and the primary enclaves of the dragonmarked houses. Spies and other shady characters remain alert for loose lips, unguarded communications, and opportunities to blackmail diplomats and dragonmarked heirs. The victims of these crimes sometimes hire less well-known inquisitives, who can make their problems go away without attracting attention.</p>\n<p>Though Middle Central doesn’t enjoy the wealth of the upper ward, it has its share of lucrative targets for elaborate heists, including the Brelish Museum of Fine Art (in Ambassador Towers) and the well-furnished temples in Sovereign Towers. Dragon Towers is the home of Thora Tavin and the headquarters of her criminal gang known as House Tarkanan.</p>\n\n\n<h4 class=\"compendium-hr heading-anchor\" id=\"GlobeInformationAgency\">Globe Information Agency</h4>\n<p>Kava Velderan, principal investigator at the Globe Information Agency, prides herself on her ability to find anyone, anywhere. A human dragonmarked heir of House Tharashk, Kava eschews the “d’ ” prefix she’s entitled to use before her surname, as she values her clan more than house traditions. Her agency is located in the Dragon Towers district.</p>\n\n\n<h3 class=\"compendium-hr heading-anchor\" id=\"LowerCentral\">Lower Central</h3>\n<p>Lower Central seems to exist in blissful ignorance of the power struggles raging above it, and it’s a largely peaceful place. One exception is a street gang called the Broken Mirror, active in the residential district of Vallia Towers. The members of this gang often target people with violent attacks meant to disfigure their faces.</p>\n<p>Lower Central attracts nonconformists, artists, and radicals. Most of these folk hold nonviolent ideals that contribute to the ward’s peacefulness, but at least one cult devoted to a radiant idol (described in <a href=\"https://www.dndbeyond.com/sources/dnd/erftlw\"><em>Eberron: Rising from the Last War</em></a>) meets in the inn district called Boldrei’s Hearth. The radiant idol at the heart of this cult seduces its followers into acts of robbery, kidnapping, and even ritual murder to prove their loyalty.</p>\n\n\n<h3 class=\"compendium-hr heading-anchor\" id=\"CityoftheDead\">City of the Dead</h3>\n<p>The necropolis in the cliffs north of Sharn, called the City of the Dead, feels peaceful because most of its residents are dead. But some of the dead are restless, and some of the living have an unholy fascination with the dead. Grave robbing is an issue here but rarely amounts to more than adolescent pranks done on a dare. More serious issues arise when necromancers create Undead servants, when restless spirits curse intruders, or when Gath—the Lich-Priest of the Keeper—conducts evil rites that introduce plague into Sharn.</p>\n\n\n<h3 class=\"compendium-hr heading-anchor\" id=\"Cliffside\">Cliffside</h3>\n<p>Despite the Sharn Watch’s presence in Cliffside, this rough-and-tumble dockside district remains one of the city’s most crime-riddled areas. While legitimate businesses of all stripes serve the needs of transient sailors, less legitimate groups and individuals seek to profit off those sailors by theft. Kidnapping is common here as well; some ship’s captains willingly ransom their crew members, while other captains regularly ransom sailors that no one else wants in exchange for a term of service.</p>\n\n\n<h3 class=\"compendium-hr heading-anchor\" id=\"TheCogs\">The Cogs</h3>\n<p>The Cogs includes the industrial districts of Ashblack and Blackbones and the tenements of Khyber’s Gate. It lies just above the city’s lawless expanse of sewers and the ancient ruins of Old Sharn. Most residents of Sharn, however, make little distinction between the various realms that lie deep below the city and just call it all “the Cogs.” The Sharn Watch maintains a presence in water purification plants in the sewers as well as elsewhere in the Cogs, but street gangs run rampant nevertheless—sometimes wreaking havoc, sometimes maintaining their own semblance of order and harsh law. The Quiet Folk, a group of thieving goblins, operates in the sewers below Tavick’s Landing, while the Red Jackals, a more violent gang of shifters and orcs, fiercely defends its territory below Menthis Plateau. <a href=\"#Daask\">Daask</a> also keeps its headquarters in Khyber’s Gate.</p>\n<p>In the depths of the Cogs, inquisitive work can blend seamlessly into dungeon-delving adventure. While investigating strange occurrences among the refugees from Cyre in High Walls (in <a href=\"#LowerTavicksLanding\">Lower Tavick’s Landing</a>), characters might find clues that draw them down to the Citadel of the Closed Circle in Khyber’s Gate, where a mind flayer explores the relics left by an ancient group of wizards devoted to the study of the daelkyr. Or inquisitives investigating the corruption of the Cathedral of the Cleansing Flame in Sovereign Towers (in <a href=\"#MiddleCentral\">Middle Central</a>) might discover the archierophant’s ties to a rakshasa dwelling in Khyber’s Gate.</p>\n\n\n<h3 class=\"compendium-hr heading-anchor\" id=\"UpperDura\">Upper Dura</h3>\n<p>Upper Dura, though quite different from the seedy and poverty-stricken wards below it, retains some of the rough edges of those neighborhoods. Adventurers bound for Xen’drik expeditions congregate in Upper Dura, and many businesses cater to their particular needs. A large cohort of the Sharn Watch patrols the Daggerwatch district, and the Citadel of Light (a temple to Dol Arrah) remains a beacon of hope in the city. Upper Dura is also the home of Sharn’s largest kalashtar population (in the Overlook district), making it useful to inquisitives working against <a href=\"#TheDreamingDark\">the Dreaming Dark</a>.</p>\n<p>A street gang called the Brokenbridge Brawlers has become a nuisance in Upper Dura. Made up of Brelish veterans who frequent the Gold &amp; White tavern in Daggerwatch, these ruffians harass, rob, and sometimes assault Cyrans and former soldiers from other nations.</p>\n\n\n<h3 class=\"compendium-hr heading-anchor\" id=\"MiddleDura\">Middle Dura</h3>\n<p>Middle Dura might be safer than the districts below it, but that’s not saying much. A scent of danger lingers in the air of this ward. The Bazaar, Sharn’s largest commercial district, has the highest concentration of illegal activity too—pickpockets, bullies, con artists, and even illicit services and trades (many controlled by <a href=\"#TheBoromarClan\">the Boromar Clan</a>). A street gang called the Little Fingers, made up mostly of impoverished children but led by halflings with ties to the Boromars, picks pockets in and around the Bazaar. Pawnshops in the Bazaar are also known to fence stolen goods. The Underlook district, with its dingy inns and restaurants, makes an excellent place to hire inquisitives, including members of House Tharashk’s Information Acquisition agency and many unaffiliated investigators.</p>\n\n\n<h4 class=\"compendium-hr heading-anchor\" id=\"InformationAcquisition\">Information Acquisition</h4>\n<p>Kalaash’arrna, a cunning orc man with the Mark of Finding, runs Information Acquisition, an inquisitive agency affiliated with the Finders Guild, in the district of Underlook. Information Acquisition (sometimes abbreviated to “InAc”) specializes in shadowing people, unearthing evidence of illegal or immoral behavior, and learning secrets that others would prefer to keep hidden.</p>\n\n\n<h3 class=\"compendium-hr heading-anchor\" id=\"LowerDura\">Lower Dura</h3>\n<p>Once the heart of Sharn, Lower Dura has decayed as the rest of the city has risen higher into the sky. Now it is a dark and dangerous place, where <a href=\"#Daask\">Daask</a> and <a href=\"#TheBoromarClan\">the Boromar Clan</a> clash regularly, a gang of bugbears runs a protection racket, and street violence remains an everyday occurrence. House Tarkanan and the Tyrants have holdings in Callestan and other districts of Lower Dura. Smugglers hide their goods in the warehouses of Precarious and the Stores, and the district of Fallen is a haunted ruin right in the midst of the city.</p>\n\n\n<h3 class=\"compendium-hr heading-anchor\" id=\"UpperMenthis\">Upper Menthis</h3>\n<p>Upper Menthis is strongly flavored by the presence of Morgrave University (see <a href=\"/chapters/friends-and-foes/\">chapter 6</a>). Academics, sages, scribes, and students come to the school from across Khorvaire and settle in the ward’s residential districts, Ivy Towers or (if they made their fortune in Xen’drik) Platinate. Given the nature of Morgrave University, when precious artifacts go missing from the college’s museums or storage, it’s hard to say whether to blame art thieves or unscrupulous faculty members. Six rival antiquities dealers operate in a single tower in the Seventh Tower district, and at least one of them is suspected of hiring burglars to steal goods from rivals.</p>\n\n\n<h3 class=\"compendium-hr heading-anchor\" id=\"MiddleMenthis\">Middle Menthis</h3>\n<p>Middle Menthis, the most diverse ward in Sharn, boasts a vibrant mix of immigrant cultures from across Khorvaire. The halfling community of Little Plains is the birthplace and headquarters of <a href=\"#TheBoromarClan\">the Boromar Clan</a>, which most district residents hold in high esteem as protectors and “hometown heroes.” The Cyran refugees of Smoky Towers have a reputation for activism and protest; the Sharn Watch keeps a close eye on them.</p>\n<p>A gang of changeling pickpockets called the Five Faces operates primarily in Middle Menthis, preying indiscriminately on orcs in Cassan Bridge, halflings in Little Plains, Cyrans in Smoky Towers, Lhazaar immigrants in Warden Towers, and Morgrave students commuting from cheap residences in <a href=\"#LowerMenthis\">Lower Menthis</a> to their classes high above.</p>\n\n\n<h4 class=\"compendium-hr heading-anchor\" id=\"ThurannedVelderansInvestigativeServices\">Thuranne d’Velderan’s Investigative Services</h4>\n<p>Thuranne d’Velderan, a human investigator, operates an inquisitive agency in the Warden Towers district as part of her house’s Finders Guild. Her greatest asset is an extensive network of contacts within the Watch garrison that keeps order throughout the entire Menthis Plateau. Thuranne specializes in criminal investigation and frequently consults for the Watch to repay the many favors her contacts have done for her. Other members of House Tharashk don’t like her, as she prefers running her own business to taking on jobs for them.</p>\n\n\n<h3 class=\"compendium-hr heading-anchor\" id=\"LowerMenthis\">Lower Menthis</h3>\n<p>Many Sharn folk love the inexpensive entertainment available in Lower Menthis. The ward’s streets stay crowded night and day, its buildings huddle close together, and its lurid offerings nurture criminal activity. The alleys of Torchfire are notoriously dangerous, especially for intoxicated revelers.</p>\n<p>The Burning Ring, an illegal operation that puts on gladiatorial combats at shifting locations throughout Lower Menthis (most often in the Firelight district), has ties to <a href=\"#Daask\">Daask</a>. But betting on the Burning Ring’s fights is big business for many of Sharn’s major criminal organizations, and fight rigging is rampant. Gangs also commonly use fights as a cover for assassinations.</p>\n\n\n<h3 class=\"compendium-hr heading-anchor\" id=\"UpperNorthedge\">Upper Northedge</h3>\n<p>Upper Northedge is a quiet, largely residential ward with little overt crime. Some of Sharn’s wealthiest citizens call it home; many of them have dedicated their lives to increasing their personal power at any cost. Inquisitives might unearth the skeletons in the closets of such individuals—the corpses of those trampled on the road to riches. Or inquisitives might take lucrative but mind-numbing jobs following unfaithful spouses, reining in or bailing out spendthrift heirs, and dealing with similar problems of the rich.</p>\n\n\n<h3 class=\"compendium-hr heading-anchor\" id=\"MiddleNorthedge\">Middle Northedge</h3>\n<p>A peaceful residential ward inhabited by hardworking folk, Middle Northedge boasts clean and quiet streets—it hides its crime behind the closed doors of well-to-do homes. The seemingly respectable citizens of this comfortable ward might include a factory overseer who embezzles funds from an employer in <a href=\"#TheCogs\">the Cogs</a>; a serial killer who targets actors in <a href=\"#LowerMenthis\">Lower Menthis</a> during sprees out on the town; and a cultist of the Dragon Below who worships the daelkyr Belashyrra, serves a hidden beholder, and hides a tattooed eye under a hat.</p>\n\n\n<h3 class=\"compendium-hr heading-anchor\" id=\"LowerNorthedge\">Lower Northedge</h3>\n<p>Lower Northedge is home to the hardworking laborers of Sharn—generally decent folk who believe in an honest day’s work and can afford to stay out of <a href=\"#LowerDura\">Lower Dura</a>. Crime is less rampant here than in other lower wards, and residents look out for each other. That close-knit sense of community can make it hard for inquisitives to learn anything in Lower Northedge. It sometimes also fosters insular cults dedicated to the Dragon Below or a radiant idol (described in <a href=\"https://www.dndbeyond.com/sources/dnd/erftlw\"><em>Eberron: Rising from the Last War</em></a>).</p>\n\n\n<h3 class=\"compendium-hr heading-anchor\" id=\"Skyway\">Skyway</h3>\n<p>The residents of Skyway are the ludicrously wealthy and privileged: aristocrats whose feet literally never touch the ground and who believe that no crime could ever trouble them in their lofty estates. Indeed, though such luxurious homes can tempt thieves, burglaries remain rare—but are all the more notable when they do occur. What’s more, those complacent aristocrats might not realize their neighbors include some of the most powerful criminal masterminds in Sharn, who used their ill-gotten wealth to purchase estates seized from foreign owners during the Last War. The Tain Gala, held every month in the ir’Tain family mansion, always provides a hotbed of intrigue.</p>\n\n\n<h3 class=\"compendium-hr heading-anchor\" id=\"UpperTavicksLanding\">Upper Tavick’s Landing</h3>\n<p>With its restrictive laws and aristocratic pride, Upper Tavick’s Landing is openly hostile not just to street crime but to any display of violence, loud noise, and even rudeness—not to mention poverty and dirt. And yet, some of the most insidious evil lurks behind the facade of nobility in this ward. House Deneith has a fortified enclave in the Copper Arch district, where elite soldiers hone the psionic abilities they learn from their quori masters in <a href=\"#TheDreamingDark\">the Dreaming Dark</a>. A family of Karrnathi vampires inhabits an ancient manor in the opulent Ocean View district, serving the Order of the Emerald Claw as well as their own sanguine appetites. And members of the Aurum here pursue wealth at all costs.</p>\n\n\n<h3 class=\"compendium-hr heading-anchor\" id=\"MiddleTavicksLanding\">Middle Tavick’s Landing</h3>\n<p>A crossroads for travelers, traders, and explorers, Middle Tavick’s Landing also hosts smugglers, fugitives, and exiles. The rowdy adventurers of the Deathsgate Guild start fights on the streets, criminal organizations control betting on the sporting events in Cornerstone, and followers of the Blood of Vol among Graywall’s Karrnathi families aid and abet spies of the Emerald Claw.</p>\n\n\n<h4 class=\"compendium-hr heading-anchor\" id=\"KarrAashtasInvestigations\">Karr’Aashta’s Investigations</h4>\n<p>Karr’Aashta, a human investigator affiliated with the Finders Guild, runs a small agency in the Deathsgate district whose inquisitives can find out just about anything a client wants to know. Karr’Aashta takes on cases that other Finders Guild inquisitives won’t touch; he specializes in jobs involving <a href=\"#TheCogs\">the Cogs</a> far below the towers of Sharn. This willingness to venture into the depths of the earth might reflect Karr’Aashta’s affiliation with the Cults of the Dragon Below.</p>\n\n\n<h3 class=\"compendium-hr heading-anchor\" id=\"LowerTavicksLanding\">Lower Tavick’s Landing</h3>\n<p>Anyone who comes to Sharn by land enters through Lower Tavick’s Landing—and most travel on to the upper wards as quickly as possible. This rough ward caters to workers from <a href=\"#TheCogs\">the Cogs</a>, teamsters, and other tough folk. The Cogsgate district holds warehouses owned by <a href=\"#TheBoromarClan\">the Boromar Clan</a> and used for smuggling and other illicit activity. The Dragoneyes district, home to a large population of changelings, is the base of operations for the Tyrants. And the High Walls district, used to intern suspicious travelers and foreigners during the Last War, now houses many Cyran refugees. Among the refugees, some have turned to the nihilistic worship of the Dragon Below or radiant idols. Others plot how and where they might reestablish their fallen nation. All the while, a street gang called the Mourners—ostensibly vigilantes who protect their fellow Cyrans from harassment—engage in their own fair share of bullying and extortion.</p>\n\n\n<h3 class=\"compendium-hr heading-anchor\" id=\"InquisitiveAdventure\">Inquisitive Adventure</h3>\n<p>This section presents a sample adventure in the same format as those in the <a href=\"https://www.dndbeyond.com/sources/dnd/dmg-2024\"><em>Dungeon Master’s Guide</em></a>—except that it features the opening situation as a sensational extract from a broadsheet.</p>\n\n\n<h2 class=\"compendium-hr with-metadata heading-anchor\" id=\"TheEnemyofMyEnemy\">The Enemy of My Enemy</h2>\n<p><em>An adventure for Level 4 characters</em></p>\n<aside class=\"newspaper-box\" id=\"EnemyOfMyEnemyQuote\">\n<p><span>THE</span><span>SHARN INQUISITIVE</span></p>\n<p>Gold Dragon Burns!</p>\n<p><strong>THE PEACEFUL GOLD DRAGON INN NESTLED IN THE LOWER TOWERS OF TERMINUS IS ABLAZE, AND VICIOUS MARAUDERS ARE ATTACKING PATRONS FLEAING THE BURNING BUILDING!</strong></p>\n<p>Will the Sharn Watch investigate this vicious assault not just upon our city, but upon the dragonmarked houses themselves? Or will they continue to ignore the crime running rampant in our lower wards? Or, as too often seems to happen these days, will some disreputable inquisitives, working for a private agency, accomplish more than the Watch does in a month, raising the question once again of why our tax money is being spent on such an ineffectual organization?</p>\n</aside>\n<p><strong>Hook:</strong> The Gold Dragon Inn might be a favored hangout of the inquisitive characters, if you want to begin the adventure with the action of the fire. Alternatively, you can start with the halfling innkeeper, Irida d’Ghallanda (Small, Lawful Evil <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/5195217-spy\" data-tooltip-href=\"/monsters/5195217-tooltip\">Spy</a>) hiring the characters to investigate the situation.</p>\n\n\n<h3 class=\"compendium-hr heading-anchor\" id=\"Encounters\">Encounters</h3>\n<p>The adventure consists of these encounters.</p>\n<p><strong><em>Fire Inside.</em></strong> <a href=\"#Daask\">Daask</a> acquired two <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/5195071-hell-hound\" data-tooltip-href=\"/monsters/5195071-tooltip\">Hell Hounds</a> and got them inside the inn to start the fire and terrorize the folks inside. If the characters concentrate on fighting the monsters, the other people inside the inn can extinguish the flames.</p>\n<p><strong><em>Panic Outside.</em></strong> Outside the burning inn, eight <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/5976747-daask-raider\" data-tooltip-href=\"/monsters/5976747-tooltip\">Daask Raiders</a> (gnolls whose stat blocks appear in this chapter) are attacking terrified people fleeing from the fire as well as those trying to help put it out. Each gnoll tries to flee when Bloodied.</p>\n<p><strong><em>No Great Mystery.</em></strong> Identifying the gnolls as agents of Daask isn’t difficult—it’s the conclusion most people jump to when they see gnolls involved in violence, and a number of clues back up that assumption:</p>\n<ul class=\"list--hidden\">\n<li><strong>Interrogating the Gnolls.</strong> If any of the gnolls are captured alive (or questioned via <a class=\"tooltip-hover spell-tooltip\" href=\"https://www.dndbeyond.com/spells/2619068-speak-with-dead\" data-tooltip-href=\"/spells/2619068-tooltip\">Speak with Dead</a>), they freely admit their involvement with Daask and growl slogans about throwing off the yoke of “the manged”—a term they use to describe furless Humanoids.</li>\n<li><strong>Boromar Witness.</strong> A halfling named Gressie Gorben (<a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/5976743-boromar-smuggler\" data-tooltip-href=\"/monsters/5976743-tooltip\">Boromar Smuggler</a>; this stat block appears in this chapter)—was attacked by a gnoll that called her a “filthy Boromar.” Gressie denies any ties to <a href=\"#TheBoromarClan\">the Boromar Clan</a>, but she admits to knowing that Daask and the Boromar Clan are involved in a long-running feud.</li>\n<li><strong>Freight Inquiries.</strong> Inquiring with freight companies in <a href=\"#LowerTavicksLanding\">Lower Tavick’s Landing</a> reveals that a pair of gnolls brought a massive iron crate, large enough to hold the hell hounds, into the city from Graywall in Droaam the day before the incident. The gnolls’ papers gave their residence as a tenement in Malleon’s Gate, a district where Daask is very active.</li>\n</ul>\n<p><strong><em>Boromar Connection.</em></strong> In addition to Gressie Gorben’s testimony, several clues point to a connection between the Gold Dragon Inn and the Boromar Clan:</p>\n<ul class=\"list--hidden\">\n<li><strong>Irida d’Ghallanda.</strong> The innkeeper, who hired the characters to investigate the attack, denies any involvement with the Boromar Clan. However, widespread rumors claim that she is a frequent guest of Bestan ir’Tonn, Upper Tavick Landing’s representative on the Sharn Council—who is a known ally of the Boromar Clan.</li>\n<li><strong>Business Records.</strong> Prying deeper into the inn’s business reveals that it receives many deliveries from a warehouse in the nearby district of Cogsgate—a warehouse owned by the Boromar Clan.</li>\n<li><strong>Contraband.</strong> A careful search of the inn (without Irida’s knowledge) reveals that it offers contraband items to its guests, including Aundairian wine and discreet deliveries of the dreamlily drug.</li>\n</ul>\n<p><strong><em>Watch Involvement.</em></strong> The Sharn Watch seems unusually eager to cooperate with the inquisitives, as long as the characters’ attention is focused on Daask and not on any connection between the inn and the Boromar Clan. If they ask about Boromar ties, their Watch contacts urge them to focus on Daask.</p>\n<p><strong><em>Daask Hideout.</em></strong> The characters’ inquiries about Daask lead them to a hideout where some gang members await their next instructions. They include an <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/4904825-ogre\" data-tooltip-href=\"/monsters/4904825-tooltip\">Ogre</a>, two <a class=\"tooltip-hover monster-tooltip\" href=\"https://www.dndbeyond.com/monsters/5195069-harpy\" data-tooltip-href=\"/monsters/5195069-tooltip\">Harpies</a>, and four <strong>Daask Raiders</strong> (they include any survivors from the inn incident). Use the eastern half of the surface level portion of the Dungeon Hideout map in the <a href=\"https://www.dndbeyond.com/sources/dnd/dmg-2024\"><em>Dungeon Master’s Guide</em></a> for this hideout.</p>\n<p><strong><em>Reward.</em></strong> If the characters bring these Daask members to justice for their crimes, Irida d’Ghallanda pays them 500 GP (total) and politely requests that they end their investigation.</p>"
+}
